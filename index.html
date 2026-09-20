@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Les recettes d'Annie</title>
+<link rel="stylesheet" href="css/style.css?v=1">
+</head>
+<body>
+
+<script>
+window.onerror = function(msg, url, line) {
+  document.body.insertAdjacentHTML('afterbegin', '<p style="background:red;color:white">JS ERREUR: ' + msg + ' (ligne ' + line + ')</p>');
+};
+</script>
+
+<div id="modalAgenda" class="modal-overlay" style="display:none">
+  <div class="modal-box">
+    <h3 id="modalTitreRecette"></h3>
+    <label for="modalDateInput">Choisir une date :</label><br>
+    <input type="date" id="modalDateInput">
+    <div class="modal-actions">
+      <button id="modalAnnuler">Annuler</button>
+      <button id="modalConfirmer">Ajouter</button>
+    </div>
+  </div>
+</div>
+
+<div id="modalEpicerie" class="modal-overlay" style="display:none">
+  <div class="modal-box">
+    <h3 id="modalEpicerieTitre"></h3>
+    <div id="modalEpicerieListe"></div>
+    <div class="modal-actions">
+      <button id="modalEpicerieAnnuler">Annuler</button>
+      <button id="modalEpicerieConfirmer">Ajouter</button>
+    </div>
+  </div>
+</div>
+
+<button id="btn-fin" onclick="allerALaFin()" title="Aller à la fin">⬇️</button>
+
+<header>
+  <h1>📚 Les recettes d'Annie</h1>
+</header>
+
+<nav>
+  <button onclick="window.scrollTo({top:0, behavior:'smooth'})" style="position:fixed;bottom:20px;right:20px;z-index:1000;background:#333;color:white;border:none;border-radius:50%;width:56px;height:56px;font-size:24px;box-shadow:0 2px 8px rgba(0,0,0,0.4);">↑</button>
+  <button id="btnLivres">📚 Livres</button>
+  <button id="btnRecettes">🍽️ Recettes</button>
+  <button id="btnFavoris">⭐ Favoris</button>
+  <button id="btnIngredients">🥕 Ingrédients</button>
+  <button id="btnAgenda">📅 Agenda</button>
+  <button id="btnEpicerie">🛒 Épicerie</button>
+</nav>
+
+<main>
+  <section id="pageLivres"></section>
+
+  <section id="pageRecettes" style="display:none">
+    <input id="search" placeholder="Rechercher une recette ou un ingrédient...">
+    <div id="results"></div>
+  </section>
+
+  <section id="pageFavoris" style="display:none"></section>
+  <section id="pageIngredients" style="display:none"></section>
+  <section id="pageAgenda" style="display:none"></section>
+  <section id="pageEpicerie" style="display:none"></section>
+</main>
+
+<script src="js/config.js?v=1"></script>
+<script src="js/app.js?v=1"></script>
+
+</body>
+</html>
