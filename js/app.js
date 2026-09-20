@@ -18,12 +18,14 @@ function afficherAvertissement(message) {
 // Nouvelles photos : écrire dans le champ image "livres/<dossier>/images/<nom>.jpg".
 function urlImage(img) {
   if (!img) return "";
+  if (img.startsWith("livres/")) return PHOTOS_BASE + img;
   if (/^https?:\/\//.test(img) || img.startsWith("livres/")) return img;
   return IMAGES_BASE + (img.includes("/") ? img : "app-complete/" + img);
 }
 
 function urlCouverture(couv) {
   if (!couv) return "";
+  if (couv.startsWith("livres/")) return PHOTOS_BASE + couv;
   if (/^https?:\/\//.test(couv) || couv.startsWith("livres/")) return couv;
   return IMAGES_BASE + couv;
 }
