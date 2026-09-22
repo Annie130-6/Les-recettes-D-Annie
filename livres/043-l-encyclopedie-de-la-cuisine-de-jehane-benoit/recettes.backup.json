@@ -730,7 +730,7 @@
     "livreId": 43,
     "titre": "Mayonnaise à l'ail",
     "page": 73,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "Ail",
     "image": null,
     "favori": false,
@@ -1097,19 +1097,7 @@
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
-    "statut": "Indexé",
-    "note": 0,
-    "ingredients": [
-      "250 mL (1 tasse) de mayonnaise",
-      "250 mL (1 tasse) de crème aigre",
-      "125 mL (½ tasse) de persil frais",
-      "1 paquet de ciboulette",
-      "45 mL (3 c. à soupe) d'aneth frais",
-      "6 anchois"
-    ],
-    "preparation": [
-      "Au mélangeur, réduire en purée la mayonnaise, la crème aigre, le persil, la ciboulette, l'aneth et les anchois. On obtient alors une belle sauce verte au goût exquis."
-    ]
+    "statut": "À indexer"
   },
   {
     "id": 8883,
@@ -2253,20 +2241,7 @@
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
-    "statut": "Indexé",
-    "note": 0,
-    "ingredients": [
-      "50 mL (¼ tasse) de vin rouge",
-      "15 mL (1 c. à soupe) d'oignons verts hachés finement",
-      "15 mL (1 c. à soupe) de graisse de rôti ou 125 mL (½ tasse) de consommé",
-      "125 mL (½ tasse) de beurre",
-      "30 mL (2 c. à soupe) de persil haché finement",
-      "sel et poivre"
-    ],
-    "preparation": [
-      "Dans une casserole, mettre le vin, l'oignon vert et la graisse de rôti (partie gélatineuse qui reste dans le fond de la lèchefrite après la cuisson d'un rôti). Faire bouillir jusqu'à ce qu'il ne reste plus que 25 mL (1½ c. à soupe) de liquide. Laisser refroidir.",
-      "Défaire le beurre en crème et l'ajouter, une cuillerée à la fois, au vin. Bien battre après chaque addition. Ajouter le persil. Saler et poivrer."
-    ]
+    "statut": "À indexer"
   },
   {
     "id": 8987,
@@ -2303,14 +2278,7 @@
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
-    "statut": "Indexé",
-    "note": 0,
-    "ingredients": [
-      "beurre au vin (remplacer le vin rouge par du vin blanc sec)"
-    ],
-    "preparation": [
-      "Pour préparer le beurre Bercy, remplacer le vin rouge du Beurre au vin par du vin blanc sec. Servir avec du poulet ou du veau, ou utiliser pour donner plus de velouté aux sauces blanches."
-    ]
+    "statut": "À indexer"
   },
   {
     "id": 8989,
@@ -2321,23 +2289,7 @@
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
-    "statut": "Indexé",
-    "note": 0,
-    "ingredients": [
-      "1 gousse d'ail, coupée en deux",
-      "125 mL (½ tasse) de beurre",
-      "5 mL (1 c. à thé) d'oignons verts hachés finement",
-      "5 mL (1 c. à thé) de basilic",
-      "2 mL (½ c. à thé) de marjolaine",
-      "5 mL (1 c. à thé) de jus de citron",
-      "2 mL (½ c. à thé) de sel fumé",
-      "5 mL (1 c. à thé) de paprika"
-    ],
-    "preparation": [
-      "Frotter l'intérieur d'un bol avec l'ail. Défaire le beurre en crème dans ce bol.",
-      "Ajouter l'oignon vert, le basilic, la marjolaine, le jus de citron, le sel fumé et le paprika. Brasser jusqu'à ce que le mélange soit crémeux et homogène.",
-      "Badigeonner de ce beurre savoureux les biftecks ou les poissons cuits sur le gril ou au barbecue."
-    ]
+    "statut": "À indexer"
   },
   {
     "id": 8990,
@@ -2348,21 +2300,7 @@
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
-    "statut": "Indexé",
-    "note": 0,
-    "ingredients": [
-      "50 mL (¼ tasse) de vinaigre de cidre ou de jus de citron",
-      "50 mL (¼ tasse) de vin blanc sec",
-      "15 mL (1 c. à soupe) d'oignons verts hachés finement",
-      "1 mL (¼ c. à thé) de sel",
-      "1 pincée de poivre",
-      "375 g (12 oz) de beurre très froid, coupé en cubes"
-    ],
-    "preparation": [
-      "Dans une petite casserole, mettre le vinaigre, le vin blanc, les oignons verts, le sel et le poivre. Faire bouillir sans couvrir jusqu'à ce qu'il ne reste plus que 25 mL (1½ c. à soupe) de liquide. Passer au tamis en pressant bien sur les oignons verts. Remettre le liquide dans la casserole et faire chauffer.",
-      "Retirer la casserole du feu et commencer à ajouter le beurre. Aussitôt que le beurre fond et devient crémeux, ajouter un autre cube de beurre. Placer la casserole à feu très doux, ajouter un cube de beurre à la fois, en battant sans arrêt avec un fouet métallique. Attendre que le beurre soit fondu avant d'en ajouter un autre. Éviter de trop chauffer et de faire bouillir, cela ferait tourner la sauce. Servir dès que la mousse devient couleur ivoire.",
-      "Ce beurre se sert habituellement avec du brochet bouilli. Mais il est tout aussi savoureux servi avec des asperges, du brocoli, du chou-fleur et même des œufs pochés."
-    ]
+    "statut": "À indexer"
   },
   {
     "id": 8991,
@@ -2373,20 +2311,7 @@
     "ingredientPrincipal": "Estragon",
     "image": null,
     "favori": false,
-    "statut": "Indexé",
-    "note": 0,
-    "ingredients": [
-      "125 mL (½ tasse) de beurre",
-      "15 mL (1 c. à soupe) de jus de citron",
-      "30 mL (2 c. à soupe) d'estragon frais ou 15 mL (1 c. à soupe) d'estragon séché",
-      "30 mL (2 c. à soupe) de persil haché finement",
-      "sel et poivre"
-    ],
-    "preparation": [
-      "Défaire le beurre en crème. Ajouter le jus de citron, quelques gouttes à la fois, en brassant vigoureusement après chaque addition.",
-      "Incorporer l'estragon et le persil. Mélanger jusqu'à ce qu'on ne les distingue presque plus. Saler et poivrer au goût.",
-      "Servir avec de la viande ou du poisson grillé ou bouilli, ou utiliser pour donner plus de goût et de velouté aux soupes et aux sauces."
-    ]
+    "statut": "À indexer"
   },
   {
     "id": 8992,
@@ -2430,18 +2355,7 @@
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
-    "statut": "Indexé",
-    "note": 0,
-    "ingredients": [
-      "50 mL (¼ tasse) de beurre",
-      "15 mL (1 c. à soupe) de moutarde de Dijon",
-      "sel et poivre",
-      "ciboulette ou persil, haché finement"
-    ],
-    "preparation": [
-      "Défaire le beurre en crème et y ajouter la moutarde. Bien mélanger.",
-      "Saler et poivrer. Incorporer la ciboulette. On peut en mettre quelques noisettes sur du foie de veau, sur un poisson grillé ou sur un bifteck. Ce beurre peut aussi servir à donner plus de velouté aux sauces."
-    ]
+    "statut": "À indexer"
   },
   {
     "id": 8996,
@@ -2452,19 +2366,7 @@
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
-    "statut": "Indexé",
-    "note": 0,
-    "ingredients": [
-      "beurre (quantité au goût, à clarifier)",
-      "45 mL (3 c. à soupe) de persil haché finement",
-      "60 mL (4 c. à soupe) de jus de citron",
-      "sel et poivre"
-    ],
-    "preparation": [
-      "Pour préparer du beurre noir, il faut d'abord clarifier le beurre de la manière qui suit : couper le beurre en morceaux et les mettre dans une casserole à feu moyen. Dès qu'il est fondu, écumer. Verser délicatement la partie jaune clair du beurre (beurre clarifié) dans un poêlon. Enlever le résidu laiteux qui reste dans le fond de la casserole.",
-      "Faire chauffer le beurre clarifié à feu moyen jusqu'à ce qu'il soit de couleur noisette foncée. Retirer aussitôt du feu. Remettre dans la casserole.",
-      "Dans le poêlon, ajouter le persil, le jus de citron, le sel et le poivre. Faire bouillir à feu vif, jusqu'à ce qu'il ne reste plus que 15 mL (1 c. à soupe) de jus de citron. Ajouter au beurre noir. Servir avec du poisson bouilli, de la cervelle, des légumes, etc."
-    ]
+    "statut": "À indexer"
   },
   {
     "id": 8997,
@@ -2475,14 +2377,7 @@
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
-    "statut": "Indexé",
-    "note": 0,
-    "ingredients": [
-      "beurre (même méthode que le beurre noir)"
-    ],
-    "preparation": [
-      "Procéder de la même manière que pour le beurre noir, sans toutefois laisser le beurre clarifié devenir aussi foncé."
-    ]
+    "statut": "À indexer"
   },
   {
     "id": 8998,
@@ -2493,19 +2388,7 @@
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
-    "statut": "Indexé",
-    "note": 0,
-    "ingredients": [
-      "125 mL (½ tasse) de beurre",
-      "30 mL (2 c. à soupe) d'oignons verts hachés finement",
-      "2 gousses d'ail, hachées finement",
-      "30 mL (2 c. à soupe) de persil haché finement",
-      "sel et poivre"
-    ],
-    "preparation": [
-      "Défaire le beurre en crème. Ajouter les oignons verts et l'ail. Bien écraser jusqu'à ce qu'on ne les distingue presque plus.",
-      "Incorporer le persil, le sel et le poivre. Continuer à mélanger jusqu'à ce que le beurre soit légèrement vert. Ce beurre est tout simplement délicieux servi avec de la viande, du poisson grillé, des champignons, des moules, des huîtres chaudes et évidemment avec des escargots."
-    ]
+    "statut": "À indexer"
   },
   {
     "id": 8999,
@@ -2659,21 +2542,7 @@
     "ingredientPrincipal": "Tomates",
     "image": null,
     "favori": false,
-    "statut": "Indexé",
-    "note": 0,
-    "ingredients": [
-      "375 mL (1½ tasse) de jus de tomate",
-      "1 mL (¼ c. à thé) de moutarde en poudre",
-      "20 mL (4 c. à thé) de sauce Worcestershire",
-      "1 feuille de laurier",
-      "125 mL (½ tasse) de vinaigre de malt",
-      "5 mL (1 c. à thé) de sucre",
-      "2 gousses d'ail, hachées finement",
-      "45 mL (3 c. à soupe) d'huile végétale"
-    ],
-    "preparation": [
-      "Mettre tous les ingrédients dans un bol. Bien mélanger. Verser dans un pot de verre. Fermer hermétiquement. Réfrigérer pendant 1 heure avant de servir."
-    ]
+    "statut": "À indexer"
   },
   {
     "id": 9015,
@@ -6766,7 +6635,7 @@
     "livreId": 43,
     "titre": "Vinaigrette au citron",
     "page": 70,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "Citron",
     "image": null,
     "favori": false,
@@ -6980,27 +6849,11 @@
     "livreId": 43,
     "titre": "Mayonnaise au citron",
     "page": 74,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "Citron",
     "image": null,
     "favori": false,
-    "statut": "Indexé",
-    "note": 0,
-    "ingredients": [
-      "2 jaunes d'œufs",
-      "5 mL (1 c. à thé) de sel",
-      "5 mL (1 c. à thé) de sucre",
-      "1 mL (¼ c. à thé) de paprika",
-      "5 mL (1 c. à thé) de moutarde en poudre",
-      "1 pincée de poivre",
-      "60 mL (4 c. à soupe) de jus de citron",
-      "425 mL (1¾ tasse) d'huile végétale"
-    ],
-    "preparation": [
-      "Dans un bol, mettre les jaunes d'œufs, le sel, le sucre, le paprika, la moutarde, le poivre et 30 mL (2 c. à soupe) du jus de citron. Bien battre.",
-      "Ajouter 250 mL (1 tasse) d'huile, 15 mL (1 c. à soupe) à la fois, en battant après chaque addition.",
-      "Incorporer 15 mL (1 c. à soupe) du jus de citron et verser le reste de l'huile par petites quantités. Ajouter, en battant, la dernière cuillerée de jus de citron."
-    ]
+    "statut": "À indexer"
   },
   {
     "id": 9376,
@@ -7090,20 +6943,7 @@
     "ingredientPrincipal": "Citron",
     "image": null,
     "favori": false,
-    "statut": "Indexé",
-    "note": 0,
-    "ingredients": [
-      "1 gousse d'ail, hachée finement",
-      "2 mL (½ c. à thé) de sel",
-      "50 mL (¼ tasse) d'huile végétale",
-      "125 mL (½ tasse) de jus de citron",
-      "1 oignon vert, haché finement",
-      "1 mL (¼ c. à thé) de poivre",
-      "1 mL (¼ c. à thé) de thym"
-    ],
-    "preparation": [
-      "Mélanger tous les ingrédients. Bien brasser. Verser dans un pot de verre. Fermer hermétiquement. Réfrigérer pendant 24 heures avant de servir."
-    ]
+    "statut": "À indexer"
   },
   {
     "id": 9383,
@@ -7794,24 +7634,11 @@
     "livreId": 43,
     "titre": "Mayonnaise aux concombres",
     "page": 75,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "Concombres",
     "image": null,
     "favori": false,
-    "statut": "Indexé",
-    "note": 0,
-    "ingredients": [
-      "1 gros concombre ou deux petits",
-      "30 mL (2 c. à soupe) d'oignons verts hachés finement",
-      "1 mL (¼ c. à thé) d'aneth séché",
-      "15 mL (1 c. à soupe) de moutarde",
-      "15 mL (1 c. à soupe) de jus de citron",
-      "250 mL (1 tasse) de mayonnaise"
-    ],
-    "preparation": [
-      "Peler le concombre, l'épépiner et le râper.",
-      "Ajouter le reste des ingrédients. Bien mélanger et réfrigérer jusqu'au moment de servir. Cette mayonnaise est parfaite pour accompagner le poisson."
-    ]
+    "statut": "À indexer"
   },
   {
     "id": 9439,
@@ -9976,7 +9803,7 @@
     "livreId": 43,
     "titre": "Mayonnaise aux fines herbes",
     "page": 74,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
@@ -9998,7 +9825,7 @@
     "livreId": 43,
     "titre": "Vinaigrette aux fines herbes",
     "page": 70,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
@@ -10669,7 +10496,7 @@
     "livreId": 43,
     "titre": "Mayonnaise crémeuse au raifort pour fruits",
     "page": 74,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "Raifort",
     "image": null,
     "favori": false,
@@ -10691,7 +10518,7 @@
     "livreId": 43,
     "titre": "Vinaigrette pour salade de fruits",
     "page": 600,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
@@ -14992,7 +14819,7 @@
     "livreId": 43,
     "titre": "Mayonnaise crémeuse au raifort",
     "page": 74,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "Raifort",
     "image": null,
     "favori": false,
@@ -15311,7 +15138,7 @@
     "livreId": 43,
     "titre": "Vinaigrette au roquefort",
     "page": 70,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "Roquefort",
     "image": null,
     "favori": false,
@@ -15707,7 +15534,7 @@
     "livreId": 43,
     "titre": "Mayonnaise verte",
     "page": 73,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
@@ -15861,7 +15688,7 @@
     "livreId": 43,
     "titre": "Vinaigrette anglaise",
     "page": 69,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
@@ -15872,7 +15699,7 @@
     "livreId": 43,
     "titre": "Vinaigrette à l'huile végétale",
     "page": 70,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
@@ -15883,7 +15710,7 @@
     "livreId": 43,
     "titre": "Vinaigrette à la crème",
     "page": 72,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
@@ -15894,7 +15721,7 @@
     "livreId": 43,
     "titre": "Vinaigrette chiffonade",
     "page": 70,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
@@ -15905,7 +15732,7 @@
     "livreId": 43,
     "titre": "Vinaigrette chutney",
     "page": 70,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
@@ -15916,7 +15743,7 @@
     "livreId": 43,
     "titre": "Vinaigrette de Dijon",
     "page": 69,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
@@ -15927,7 +15754,7 @@
     "livreId": 43,
     "titre": "Vinaigrette française",
     "page": 69,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
@@ -15938,7 +15765,7 @@
     "livreId": 43,
     "titre": "Vinaigrette rosée",
     "page": 72,
-    "categorie": "Vinaigrette",
+    "categorie": "Sauces",
     "ingredientPrincipal": "-",
     "image": null,
     "favori": false,
@@ -16905,468 +16732,5 @@
     "image": null,
     "favori": false,
     "statut": "À indexer"
-  },
-  {
-    "id": 30180,
-    "livreId": 43,
-    "titre": "Sauce Ravigote",
-    "page": 63,
-    "categorie": "Sauces",
-    "ingredientPrincipal": "-",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "50 à 60 mL (3 à 4 c. à soupe) d'huile végétale",
-      "15 mL (1 c. à soupe) de vin",
-      "15 mL (1 c. à soupe) de vinaigre de cidre",
-      "poivre",
-      "1 oignon vert, haché finement",
-      "5 mL (1 c. à thé) de câpres",
-      "30 mL (2 c. à soupe) de persil frais",
-      "30 mL (2 c. à soupe) de ciboulette fraîche",
-      "2 mL (½ c. à thé) de cerfeuil",
-      "estragon frais"
-    ],
-    "preparation": [
-      "Mélanger l'huile et le vin. Saler et poivrer au goût. Ajouter l'oignon vert et les câpres. Hacher le persil, la ciboulette et le cerfeuil (ou le mélange que vous préférez). Incorporer à la sauce. Servir.",
-      "On peut préparer cette sauce à l'avance et il n'est pas nécessaire de la réfrigérer."
-    ]
-  },
-  {
-    "id": 30181,
-    "livreId": 43,
-    "titre": "Sauce suisse piquante",
-    "page": 63,
-    "categorie": "Sauces",
-    "ingredientPrincipal": "-",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "75 mL (⅓ tasse) de crème aigre",
-      "75 mL (⅓ tasse) de vinaigrette de votre choix",
-      "45 mL (3 c. à soupe) de chutney"
-    ],
-    "preparation": [
-      "Mélanger la crème aigre avec la vinaigrette et le chutney. Servir."
-    ]
-  },
-  {
-    "id": 30182,
-    "livreId": 43,
-    "titre": "Sauce aux tomates",
-    "page": 63,
-    "categorie": "Sauces",
-    "ingredientPrincipal": "Tomates",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "3 tranches de bacon, coupées en petits morceaux",
-      "1 oignon, haché finement",
-      "15 mL (1 c. à soupe) de farine",
-      "4 grosses tomates fraîches non pelées",
-      "15 mL (1 c. à soupe) de persil haché finement",
-      "2 mL (½ c. à thé) de thym",
-      "2 mL (½ c. à thé) de sel",
-      "poivre au goût",
-      "1 pincée de muscade",
-      "125 mL (½ tasse) de pâte de tomates",
-      "1 mL (¼ c. à thé) de sucre"
-    ],
-    "preparation": [
-      "Faire cuire le bacon jusqu'à ce qu'il soit doré. Ajouter l'oignon et le faire revenir jusqu'à ce qu'il soit légèrement doré. Ajouter la farine et bien mélanger.",
-      "Couper les tomates en petits morceaux et les ajouter au bacon. Incorporer le persil, le thym, le sel, le poivre et la muscade. Remuer jusqu'à ce que le mélange soit lisse.",
-      "Ajouter la pâte de tomates et le sucre. Faire cuire à feu doux de 15 à 25 minutes ou jusqu'à ce que la sauce soit crémeuse. Passer la sauce au tamis pour en enlever les pépins. Servir."
-    ]
-  },
-  {
-    "id": 30183,
-    "livreId": 43,
-    "titre": "Sauce cocktail",
-    "page": 64,
-    "categorie": "Sauces",
-    "ingredientPrincipal": "-",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "125 mL (½ tasse) de ketchup",
-      "30 mL (2 c. à soupe) de jus de citron",
-      "15 mL (1 c. à soupe) de raifort égoutté",
-      "2 mL (½ c. à thé) de moutarde en poudre",
-      "15 mL (1 c. à soupe) de jus d'oignon",
-      "1 mL (¼ c. à thé) de graines de céleri",
-      "50 mL (¼ tasse) de jus de tomate"
-    ],
-    "preparation": [
-      "Mélanger tous les ingrédients. Réfrigérer pendant 1 ou 2 heures. Servir."
-    ]
-  },
-  {
-    "id": 30184,
-    "livreId": 43,
-    "titre": "Sauce barbecue",
-    "page": 64,
-    "categorie": "Sauces",
-    "ingredientPrincipal": "-",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "4 à 6 portions : 125 mL (½ tasse) de beurre",
-      "4 à 6 portions : 250 mL (1 tasse) de vinaigre de cidre",
-      "4 à 6 portions : 5 mL (1 c. à thé) de sel",
-      "4 à 6 portions : 2 mL (½ c. à thé) de paprika",
-      "4 à 6 portions : 1 mL (¼ c. à thé) de thym",
-      "4 à 6 portions : 50 à 125 mL (¼ à ½ tasse) d'eau",
-      "10 portions : 250 g (½ lb) de beurre",
-      "10 portions : 500 mL (2 tasses) de vinaigre de cidre",
-      "10 portions : 30 g (1 oz) de sel",
-      "10 portions : 15 g (½ oz) de paprika",
-      "10 portions : 10 mL (2 c. à thé) de thym",
-      "10 portions : 500 mL (2 tasses) d'eau"
-    ],
-    "preparation": [
-      "Cette sauce accompagne le poulet grillé. Il faut compter 2 ou 3 poulets pour 4 à 6 personnes, et 5 poulets pour dix personnes (soit une moitié de poulet par personne).",
-      "Mettre tous les ingrédients dans une casserole. Porter à ébullition et laisser mijoter à feu doux pendant 5 minutes.",
-      "Arroser les poulets de cette sauce pendant qu'ils grillent, chaque fois qu'ils sont retournés. Toujours arroser de sauce chaude."
-    ]
-  },
-  {
-    "id": 30185,
-    "livreId": 43,
-    "titre": "Sauce barbecue pour le poulet",
-    "page": 64,
-    "categorie": "Sauces",
-    "ingredientPrincipal": "Poulet",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "30 mL (2 c. à soupe) de gras de poulet ou autre gras de viande",
-      "30 mL (2 c. à soupe) de farine",
-      "250 mL (1 tasse) d'eau ou de consommé",
-      "15 mL (1 c. à soupe) de concentré de bœuf",
-      "5 mL (1 c. à thé) de sauce de soja",
-      "1 pincée de piment de la Jamaïque",
-      "sel, poivre et cayenne, au goût"
-    ],
-    "preparation": [
-      "Faire cuire le gras jusqu'à ce qu'il soit de couleur noisette. Y ajouter la farine et brasser, à feu doux, jusqu'à ce qu'elle soit dorée. Retirer du feu.",
-      "Incorporer le consommé, le concentré de bœuf et la sauce de soja. Remettre sur le feu et cuire, en brassant sans arrêt, jusqu'à ce que la sauce soit lisse et crémeuse.",
-      "Ajouter le piment de la Jamaïque, le sel, le poivre et le cayenne. Laisser mijoter pendant quelques secondes."
-    ]
-  },
-  {
-    "id": 30186,
-    "livreId": 43,
-    "titre": "Moutarde finlandaise",
-    "page": 66,
-    "categorie": "Sauces",
-    "ingredientPrincipal": "-",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "60 mL (4 c. à soupe) de moutarde en poudre",
-      "45 mL (3 c. à soupe) de sucre",
-      "2 mL (½ c. à thé) de sel",
-      "15 mL (1 c. à soupe) de vinaigre de cidre ou de malt",
-      "60 mL (4 c. à soupe) d'eau bouillante"
-    ],
-    "preparation": [
-      "Dans une petite casserole, mélanger la moutarde, le sucre et le sel. Mettre le vinaigre dans l'eau bouillante et ajouter au mélange de la moutarde. Bien mêler. Remuer lentement au bain-marie jusqu'à ce que le mélange ait la consistance d'une pâte lisse, ne pas battre. Lorsque le mélange est lisse et légèrement épais, retirer du feu. La moutarde sera plutôt liquide, elle épaissira en refroidissant.",
-      "Verser dans des petits pots, couvrir et laisser reposer pendant quelques jours avant d'utiliser. Cette moutarde n'a pas besoin d'être réfrigérée. Servir avec du pain de jambon."
-    ]
-  },
-  {
-    "id": 30187,
-    "livreId": 43,
-    "titre": "Beurre à l'ail",
-    "page": 67,
-    "categorie": "Sauces",
-    "ingredientPrincipal": "Ail",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "4 gousses d'ail non pelées",
-      "1 L (4 tasses) d'eau bouillante",
-      "125 mL (½ tasse) de beurre",
-      "sel et poivre"
-    ],
-    "preparation": [
-      "Mettre les gousses d'ail dans l'eau bouillante. Porter à ébullition. Les égoutter, les peler et les passer à l'eau froide. Répéter cette opération avec les gousses d'ail pelées.",
-      "Hacher et réduire l'ail en purée. Ajouter le beurre et bien broyer. Saler et poivrer au goût. Servir avec du poisson grillé ou bouilli, des côtelettes d'agneau, des pommes de terre bouillies ou encore du pain grillé. Utiliser pour donner plus de goût aux soupes et aux sauces."
-    ]
-  },
-  {
-    "id": 30188,
-    "livreId": 43,
-    "titre": "Mayonnaise au mélangeur",
-    "page": 73,
-    "categorie": "Vinaigrette",
-    "ingredientPrincipal": "-",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "1 œuf entier ou 2 jaunes d'œufs",
-      "2 mL (½ c. à thé) de sel",
-      "1 mL (¼ c. à thé) de poivre",
-      "2 mL (½ c. à thé) de moutarde en poudre ou 5 mL (1 c. à thé) de moutarde",
-      "30 mL (2 c. à soupe) de vinaigre de cidre ou de jus de citron",
-      "250 mL (1 tasse) d'huile végétale"
-    ],
-    "preparation": [
-      "Dans le récipient du mélangeur, mettre l'œuf, le sel, le poivre, la moutarde, le vinaigre et 50 mL (¼ tasse) d'huile. Couvrir et actionner l'appareil à vitesse maximum pendant 1 seconde. Sans arrêter l'appareil, soulever le couvercle et ajouter petit à petit le reste de l'huile. Battre jusqu'à ce que la mayonnaise soit ferme et crémeuse."
-    ]
-  },
-  {
-    "id": 30189,
-    "livreId": 43,
-    "titre": "Mayonnaise rosée",
-    "page": 73,
-    "categorie": "Vinaigrette",
-    "ingredientPrincipal": "Tomate",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "250 mL (1 tasse) de mayonnaise",
-      "1 tomate fraîche, pelée et coupée en quatre",
-      "15 mL (1 c. à soupe) de sauce chili",
-      "1 petite gousse d'ail",
-      "3 brins de persil frais"
-    ],
-    "preparation": [
-      "Ajouter à la mayonnaise la tomate, la sauce chili, l'ail et le persil. Battre au mélangeur pendant 1 minute. Cette mayonnaise est tout simplement délicieuse."
-    ]
-  },
-  {
-    "id": 30190,
-    "livreId": 43,
-    "titre": "Mayonnaise à l'huile d'olive",
-    "page": 73,
-    "categorie": "Vinaigrette",
-    "ingredientPrincipal": "-",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "2 jaunes d'œufs",
-      "5 mL (1 c. à thé) de sel",
-      "1 mL (¼ c. à thé) de poivre",
-      "5 mL (1 c. à thé) de moutarde en poudre",
-      "15 mL (1 c. à soupe) de vinaigre",
-      "250 mL (1 tasse) d'huile d'olive",
-      "15 mL (1 c. à soupe) d'eau bouillante"
-    ],
-    "preparation": [
-      "Dans un bol, mettre les jaunes d'œufs, le sel, le poivre, la moutarde et le vinaigre. Remuer pendant quelques secondes pour mélanger. Couvrir et laisser reposer pendant 20 minutes.",
-      "Ajouter l'huile, en battant vigoureusement, jusqu'à ce que la préparation épaississe. Les premiers 60 à 75 mL (4 à 5 c. à soupe) doivent être versés en filet, car si l'huile est ajoutée trop vite, on risque de faire tourner la mayonnaise.",
-      "Incorporer l'eau bouillante. Garder la mayonnaise dans un endroit frais. Ne pas réfrigérer."
-    ]
-  },
-  {
-    "id": 30191,
-    "livreId": 43,
-    "titre": "Mayonnaise au raifort",
-    "page": 74,
-    "categorie": "Vinaigrette",
-    "ingredientPrincipal": "Raifort",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "30 à 60 mL (2 à 4 c. à soupe) de raifort",
-      "250 mL (1 tasse) de mayonnaise"
-    ],
-    "preparation": [
-      "Ajouter le raifort à la mayonnaise. Bien mélanger."
-    ]
-  },
-  {
-    "id": 30192,
-    "livreId": 43,
-    "titre": "Mayonnaise cuite sans huile",
-    "page": 71,
-    "categorie": "Vinaigrette",
-    "ingredientPrincipal": "-",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "50 mL (¼ tasse) de beurre",
-      "50 mL (¼ tasse) de sucre",
-      "60 mL (4 c. à soupe) de farine",
-      "2 mL (½ c. à thé) de moutarde en poudre",
-      "5 mL (1 c. à thé) de sel",
-      "2 œufs entiers, battus",
-      "300 mL (1¼ tasse) de lait ou de crème aigre",
-      "125 à 175 mL (½ à ¾ tasse) de vinaigre de cidre"
-    ],
-    "preparation": [
-      "Dans la partie supérieure d'un bain-marie, faire fondre le beurre et y ajouter le sucre, la farine, la moutarde, le sel, les œufs et le lait.",
-      "Cuire au-dessus d'une eau frémissante jusqu'à ce que le mélange épaississe et devienne crémeux. Ajouter lentement le vinaigre de cidre et remuer jusqu'à ce que la préparation redevienne onctueuse. Conserver au réfrigérateur dans un pot."
-    ]
-  },
-  {
-    "id": 30193,
-    "livreId": 43,
-    "titre": "Mayonnaise Mille-Îles",
-    "page": 71,
-    "categorie": "Vinaigrette",
-    "ingredientPrincipal": "-",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "5 mL (1 c. à thé) de moutarde en poudre",
-      "2 mL (½ c. à thé) de paprika",
-      "1 œuf dur, haché",
-      "125 mL (½ tasse) de céleri",
-      "4 oignons verts, hachés finement",
-      "4 cornichons",
-      "olives farcies",
-      "30 mL (2 c. à soupe) de cornichons sucrés hachés finement",
-      "15 mL (1 c. à soupe) de persil haché",
-      "15 mL (1 c. à soupe) d'oignon râpé",
-      "60 mL (4 c. à soupe) de pâte de tomates",
-      "250 mL (1 tasse) de mayonnaise"
-    ],
-    "preparation": [
-      "Incorporer tous les ingrédients à la mayonnaise."
-    ]
-  },
-  {
-    "id": 30194,
-    "livreId": 43,
-    "titre": "Mayonnaise andalouse",
-    "page": 71,
-    "categorie": "Vinaigrette",
-    "ingredientPrincipal": "-",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "250 mL (1 tasse) de mayonnaise",
-      "60 mL (4 c. à soupe) de pâte de tomates",
-      "2 poivrons coupés en julienne"
-    ],
-    "preparation": [
-      "Ajouter à la mayonnaise la pâte de tomates et les poivrons coupés en julienne."
-    ]
-  },
-  {
-    "id": 30195,
-    "livreId": 43,
-    "titre": "Mayonnaise russe à l'européenne",
-    "page": 71,
-    "categorie": "Vinaigrette",
-    "ingredientPrincipal": "-",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "30 mL (2 c. à soupe) de sucre",
-      "60 mL (4 c. à soupe) d'eau",
-      "2 mL (½ c. à thé) de sel",
-      "2 mL (½ c. à thé) de paprika",
-      "7 mL (1½ c. à thé) de graines de céleri",
-      "jus d'un citron",
-      "60 mL (4 c. à soupe) de vinaigre",
-      "45 mL (3 c. à soupe) de pâte de tomates",
-      "50 mL (¼ tasse) d'oignon râpé",
-      "250 mL (1 tasse) d'huile végétale"
-    ],
-    "preparation": [
-      "Faire chauffer le sucre et l'eau jusqu'à ce que le mélange ait la consistance d'un sirop assez épais. Laisser refroidir.",
-      "Mélanger le reste des ingrédients. Incorporer le sirop froid et battre pendant 3 minutes."
-    ]
-  },
-  {
-    "id": 30196,
-    "livreId": 43,
-    "titre": "Mayonnaise russe à l'américaine",
-    "page": 71,
-    "categorie": "Vinaigrette",
-    "ingredientPrincipal": "-",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "125 mL (½ tasse) de sauce chili",
-      "250 mL (1 tasse) de mayonnaise"
-    ],
-    "preparation": [
-      "Ajouter la sauce chili à la mayonnaise."
-    ]
-  },
-  {
-    "id": 30197,
-    "livreId": 43,
-    "titre": "Mayonnaise à la gélatine",
-    "page": 71,
-    "categorie": "Vinaigrette",
-    "ingredientPrincipal": "-",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "15 mL (1 c. à soupe) de gélatine sans saveur",
-      "30 mL (2 c. à soupe) d'eau froide",
-      "500 mL (2 tasses) de mayonnaise"
-    ],
-    "preparation": [
-      "(Pour les chauds-froids)",
-      "Dissoudre la gélatine dans l'eau froide pendant 5 minutes. Ajouter de l'eau chaude jusqu'à ce que la gélatine soit fondue.",
-      "Verser la gélatine sur la mayonnaise en remuant vigoureusement. Napper les légumes, la viande ou le poisson de cette mayonnaise. Si désiré, mélanger des légumes, du poisson ou de la viande à la mayonnaise et verser dans des petits moules huilés. Réfrigérer jusqu'à ce que la préparation prenne."
-    ]
-  },
-  {
-    "id": 30198,
-    "livreId": 43,
-    "titre": "Sauce à la menthe",
-    "page": 76,
-    "categorie": "Sauces",
-    "ingredientPrincipal": "Menthe",
-    "image": null,
-    "favori": false,
-    "note": 0,
-    "statut": "Indexé",
-    "ingredients": [
-      "45 mL (3 c. à soupe) de vinaigre de cidre",
-      "150 mL (⅔ tasse) d'eau",
-      "125 à 175 mL (½ à ¾ tasse) de feuilles de menthe, hachées finement, ou 50 mL (¼ tasse) de menthe séchée",
-      "15 mL (1 c. à soupe) de jus de citron (facultatif)",
-      "15 à 30 mL (1 à 2 c. à soupe) de sucre",
-      "1 mL (¼ c. à thé) de sel"
-    ],
-    "preparation": [
-      "Dans une casserole, mettre le vinaigre, 75 mL (⅓ tasse) d'eau et 30 mL (2 c. à soupe) de menthe. Laisser mijoter pendant 5 minutes. Passer au tamis fin. Réserver le liquide.",
-      "Ajouter au liquide réservé le reste de l'eau et de la menthe, le jus de citron, le sucre et le sel. Faire chauffer jusqu'à ce que la préparation commence à bouillonner. Verser dans un pot, couvrir et réfrigérer. Au moment de servir, réchauffer sans laisser bouillir. Cette sauce peut également se servir froide.",
-      "Elle se conserve plusieurs semaines au réfrigérateur."
-    ]
   }
 ]
