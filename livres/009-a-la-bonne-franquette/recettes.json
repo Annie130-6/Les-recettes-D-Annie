@@ -76,7 +76,27 @@
   ]
 },
 
-{"id": 1886, "livreId": 9, "titre": "Teurgoule normande de mon enfance", "page": 26, "categorie": "Dessert", "ingredientPrincipal": "Riz", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1886, "livreId": 9, "titre": "Teurgoule normande de mon enfance", "page": 26, "categorie": "Dessert", "ingredientPrincipal": "Riz", "image": "livres/009-a-la-bonne-franquette/images/teurgoule.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "180 g (6 oz) de riz rond*",
+  "150 g (5 oz) de sucre à glacer",
+  "10 mL (2 c. à thé) de cannelle moulue",
+  "1 pincée de sel",
+  "2 L (8 tasses) de lait",
+  "* Vous trouverez ce riz en épicerie fine. Il est souvent utilisé dans les desserts."
+],
+"preparation": [
+  "Préchauffer le four à 150 °C (300 °F).",
+  "Déposer le riz dans une terrine en terre cuite d'une capacité de 3 L (12 tasses).",
+  "Dans un bol, fouetter ensemble le sucre à glacer, la cannelle et le sel, puis les ajouter au riz.",
+  "Verser délicatement le lait dans la terrine afin que le riz reste bien au fond.",
+  "Cuire au four à découvert pendant 2 heures. Réduire la température du four à 110 °C (225 °F) et poursuivre la cuisson encore 2 heures. Éteindre le four et y laisser reposer la terrine toute la nuit. Servir encore tiède, au déjeuner, pour faire plaisir aux petits estomacs affamés."
+]
+},
+
 {"id": 1887, "livreId": 9, "titre": "Chaudrée de fruits de mer", "page": 32, "categorie": "Soupe", "ingredientPrincipal": "Fruits de mer", 
   "image": "livres/009-a-la-bonne-franquette/images/chaudree-de-fruit-de-mer.jpeg",
   "favori": false,
@@ -107,7 +127,33 @@
   ]
 },
 
-{"id": 1888, "livreId": 9, "titre": "Petits farcis à l'agneau et au tournesol", "page": 34, "categorie": "Légume", "ingredientPrincipal": "Aubergine", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1888, "livreId": 9, "titre": "Petits farcis à l'agneau et au tournesol", "page": 34, "categorie": "Légume", "ingredientPrincipal": "Aubergine", "image": "livres/009-a-la-bonne-franquette/images/petits-farcis-a-l-agneau.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 aubergine",
+  "2 courgettes",
+  "2 tomates",
+  "500 mL (2 tasses) d'agneau haché ou autre viande hachée, au choix",
+  "125 mL (½ tasse) de graines de tournesol",
+  "250 mL (1 tasse) de fromage cheddar fort, râpé",
+  "4 gousses d'ail, hachées",
+  "30 mL (2 c. à soupe) d'herbes de Provence",
+  "1 œuf",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Couper l'aubergine et les courgettes en deux dans le sens de la longueur. Prélever le capuchon des tomates.",
+  "À l'aide d'une cuillère, vider les légumes de leur chair, en prenant soin de ne pas briser leur peau.",
+  "Au robot culinaire, hacher la chair des légumes, puis la transférer dans un grand bol.",
+  "Ajouter le reste des ingrédients, sauf les légumes évidés, et mélanger pour obtenir une farce homogène. Saler et poivrer au goût.",
+  "Disposer les légumes évidés sur une grande plaque à pâtisserie, puis les farcir généreusement.",
+  "Cuire au four de 40 à 45 minutes."
+]
+},
+
 {"id": 1889, "livreId": 9, "titre": "Beignets croustillants aux pétoncles et au maïs", "page": 36, "categorie": "Entrée", "ingredientPrincipal": "Pétoncle", 
   "image": "livres/009-a-la-bonne-franquette/images/beignets-croustillants.jpeg",
   "favori": false,
@@ -138,10 +184,110 @@
   ]
 },
 
-{"id": 1890, "livreId": 9, "titre": "Moules au saumon fumé", "page": 38, "categorie": "Poisson", "ingredientPrincipal": "Moules", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1891, "livreId": 9, "titre": "Poulet au citron", "page": 40, "categorie": "Volaille", "ingredientPrincipal": "Poulet", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1892, "livreId": 9, "titre": "Ragoût d'agneau aux petits légumes et à la menthe", "page": 42, "categorie": "Viande", "ingredientPrincipal": "Agneau", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1893, "livreId": 9, "titre": "Omble et quinoa au citron", "page": 44, "categorie": "Poisson", "ingredientPrincipal": "Omble", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1890, "livreId": 9, "titre": "Moules au saumon fumé", "page": 38, "categorie": "Poisson", "ingredientPrincipal": "Moules", "image": "livres/009-a-la-bonne-franquette/images/moules-au-saumon-fume.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 oignon, haché finement",
+  "60 mL (¼ tasse) de fumet de poisson, maison de préférence",
+  "250 mL (1 tasse) de vin blanc",
+  "1 kg (2 lb) de moules",
+  "30 mL (2 c. à soupe) de beurre",
+  "500 mL (2 tasses) de crème à cuisson 35 % M.G.",
+  "250 mL (1 tasse) de saumon fumé, haché finement"
+],
+"preparation": [
+  "Déposer la moitié de l'oignon, le fumet et 125 mL (½ tasse) de vin dans une grande marmite et porter à ébullition. Ajouter les moules et laisser cuire jusqu'à ce qu'elles soient entièrement ouvertes, en remuant de temps en temps.",
+  "Retirer les moules de la marmite. Passer le jus de cuisson au tamis et en réserver 250 mL (1 tasse).",
+  "Faire dorer le reste de l'oignon dans le beurre. Ajouter le jus de cuisson des moules réservé et le reste du vin. Laisser réduire à feu doux environ 15 minutes.",
+  "Ajouter la crème et le saumon fumé. Cuire à feu doux 15 minutes.",
+  "Verser la sauce sur les moules et servir."
+]
+},
+
+{"id": 1891, "livreId": 9, "titre": "Poulet au citron", "page": 40, "categorie": "Volaille", "ingredientPrincipal": "Poulet", "image": "livres/009-a-la-bonne-franquette/images/poulet-au-citron.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "2 gousses d'ail, émincées",
+  "½ oignon rouge, émincé",
+  "30 mL (2 c. à soupe) d'huile d'olive",
+  "Le jus de 3 citrons",
+  "15 mL (1 c. à soupe) d'origan frais ou séché",
+  "5 mL (1 c. à thé) de sel",
+  "5 mL (1 c. à thé) de poivre noir frais moulu",
+  "6 hauts de cuisses de poulet désossées",
+  "2 grosses pommes de terre, coupées en quartiers"
+],
+"preparation": [
+  "Dans un grand bol, faire une marinade avec l'ail, l'oignon, l'huile, le jus de citron, l'origan, le sel et le poivre. Déposer le poulet et bien l'enrober de marinade. Réfrigérer au moins 4 heures ou, encore mieux, toute une nuit.",
+  "Préchauffer le four à 160 °C (325 °F).",
+  "Transférer les cuisses de poulet et la marinade dans une casserole.",
+  "Ajouter les pommes de terre, couvrir et cuire au four pendant 1 heure ou jusqu'à ce que le poulet et les pommes de terre soient bien cuits.",
+  "Retirer le couvercle et terminer la cuisson sous le gril du four pour faire dorer les cuisses, en les retournant pour bien les griller des deux côtés."
+]
+},
+
+{"id": 1892, "livreId": 9, "titre": "Ragoût d'agneau aux petits légumes et à la menthe", "page": 42, "categorie": "Viande", "ingredientPrincipal": "Agneau", "image": "image": "livres/009-a-la-bonne-franquette/images/ragout-d-agneau-aux-petits-legumes.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1,5 kg (3 lb) de cubes d'agneau",
+  "125 mL (4 oz) de sirop de menthe",
+  "80 mL (⅓ tasse) d'huile d'olive",
+  "750 mL (3 tasses) de champignons blancs, coupés en quartiers",
+  "500 mL (2 tasses) d'oignons, hachés",
+  "30 mL (2 c. à soupe) de farine",
+  "500 mL (2 tasses) de bouillon de légumes",
+  "1 bouquet garni*",
+  "1 poireau, émincé",
+  "2 tomates, coupées en petits cubes",
+  "750 mL (3 tasses) de petits pois",
+  "Sel et poivre noir frais moulu, au goût",
+  "* Vous pouvez utiliser un petit sachet de bouquet garni du commerce, mais une version maison est tellement meilleure ! Réunissez simplement une feuille de laurier, des tiges de persil frais et des branches de thym ou de romarin, puis attachez-les avec de la ficelle."
+],
+"preparation": [
+  "Dans un grand bol, faire mariner les cubes d'agneau à couvert dans le sirop de menthe pendant 2 heures au réfrigérateur.",
+  "Bien égoutter les cubes d'agneau. Dans une cocotte, les faire revenir dans 60 mL (¼ tasse) d'huile chaude jusqu'à coloration.",
+  "Dans un poêlon, faire revenir les champignons et les oignons dans le reste de l'huile. Verser sur l'agneau dans la cocotte. Saupoudrer le tout de farine et, à feu doux, cuire de 3 à 4 minutes.",
+  "Mouiller avec le bouillon de légumes et ajouter le bouquet garni. Saler et poivrer. Faire mijoter pendant 45 minutes.",
+  "Ajouter le poireau, les tomates et les petits pois, et laisser mijoter encore 15 minutes. Rectifier l'assaisonnement, servir… et déguster !"
+]
+},
+
+{"id": 1893, "livreId": 9, "titre": "Omble et quinoa au citron", "page": 44, "categorie": "Poisson", "ingredientPrincipal": "Omble", "image": "livres/009-a-la-bonne-franquette/images/omble-et-quinoa.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "125 mL (½ tasse) d'eau",
+  "60 mL (¼ tasse) de quinoa",
+  "45 mL (3 c. à soupe) de jus de pamplemousse",
+  "20 mL (4 c. à thé) de sucre muscovado",
+  "1 tranche de lard fumé, en petits dés",
+  "1 citron",
+  "30 mL (2 c. à soupe) d'huile d'olive vierge extra",
+  "1 sac de roquette",
+  "4 pavés d'omble de Gaspé d'environ 60 g (2 oz) chacun",
+  "Sel de Guérande et poivre noir frais moulu, au goût",
+  "1 pamplemousse rose, en suprêmes"
+],
+"preparation": [
+  "Dans une casserole, porter l'eau à ébullition et y verser le quinoa. Réduire à feu doux, couvrir et cuire environ 16 minutes, à petits bouillons, jusqu'à l'évaporation du liquide. Une fois le quinoa cuit, l'étaler dans un plat.",
+  "Dans un bol, combiner le jus de pamplemousse et le sucre muscovado.",
+  "Dans un poêlon, cuire les dés de lard, puis les transférer sur du papier essuie-tout. Réserver. Dégraisser le poêlon en réservant 5 mL (1 c. à thé) du gras.",
+  "Retirer le zeste d'un tiers du citron. Presser le citron pour en extraire tout le jus.",
+  "Saler et poivrer le quinoa. Incorporer le jus et le zeste de citron, puis 15 mL (1 c. à soupe) d'huile d'olive. Ajouter les dés de lard et la roquette. Réserver.",
+  "Dans le poêlon ayant servi à cuire le lard, ajouter 15 mL (1 c. à soupe) d'huile d'olive au gras réservé. À feu moyen, cuire l'omble d'un côté 1 minute. Ajouter le mélange de jus de pamplemousse et de sucre, puis faire réduire de 1 à 2 minutes, selon l'épaisseur du poisson.",
+  "Dans des assiettes de service, répartir le mélange de quinoa.",
+  "Au dernier moment, retourner l'omble et ajouter les suprêmes de pamplemousse pour les chauffer légèrement dans le jus réduit.",
+  "Déposer le poisson, avec les suprêmes et le jus, sur le quinoa et servir."
+]
+},
+
 {"id": 1894, "livreId": 9, "titre": "Morue du Grand Fleuve et son foie au lait", "page": 46, "categorie": "Poisson", "ingredientPrincipal": "Morue", 
   "image": "livres/009-a-la-bonne-franquette/images/morue-du-grand-fleuve.jpeg",
   "favori": false,
