@@ -331,16 +331,236 @@
   ]
 },
 
-{"id": 1896, "livreId": 9, "titre": "Potage minute à la citrouille de ma grand-mère", "page": 54, "categorie": "Soupe", "ingredientPrincipal": "Citrouille", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1896, "livreId": 9, "titre": "Potage minute à la citrouille de ma grand-mère", "page": 54, "categorie": "Soupe", "ingredientPrincipal": "Citrouille", "image": "livres/009-a-la-bonne-franquette/images/veloute-de-citrouille.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "750 g (1 ½ lb) de citrouille, pelée, épépinée et coupée en morceaux",
+  "310 mL (1 ¼ tasse) d'oignons, hachés",
+  "80 mL (⅓ tasse) d'huile d'olive",
+  "2 mL (½ c. à thé) de cardamome",
+  "1,5 L (6 tasses) de fond de volaille ou bouillon de poulet",
+  "500 mL (2 tasses) de pommes de terre, coupées",
+  "125 mL (½ tasse) de crème 35 % M.G.",
+  "60 mL (¼ tasse) de jus de citron",
+  "12 belles branches de thym frais",
+  "24 crevettes moyennes, décortiquées et déveinées",
+  "Sel et poivre noir frais moulu, au goût"
+],
+"preparation": [
+  "Dans une grande casserole, faire suer la citrouille et les oignons dans 60 mL (¼ tasse) d'huile d'olive. Ajouter la cardamome.",
+  "Mouiller avec le fond de volaille et assaisonner.",
+  "Ajouter les pommes de terre, du sel et du poivre. Cuire environ 20 minutes ou jusqu'à ce que les légumes soient tendres.",
+  "Au mélangeur électrique, réduire le tout en purée. Passer au chinois ou au tamis fin pour obtenir une texture bien lisse.",
+  "Incorporer la crème et le jus de citron. Si nécessaire, remettre sur le feu pour réchauffer, mais ne pas laisser bouillir. Rectifier l'assaisonnement et réserver au chaud.",
+  "Effeuiller les branches de thym en conservant quelques brins à l'extrémité de chacune. Enfiler 2 crevettes par brochette. Dans un poêlon, chauffer le reste de l'huile d'olive et y poêler les brochettes jusqu'à ce que les crevettes soient roses et cuites.",
+  "Servir le velouté bien chaud, en décorant chaque bol d'une brochette."
+]
+},
+
 {"id": 1897, "livreId": 9, "titre": "Velouté de citrouille à la cardamome et sa brochette de crevettes", "page": 56, "categorie": "Soupe", "ingredientPrincipal": "Citrouille", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1898, "livreId": 9, "titre": "Le pain de viande de Jehane", "page": 58, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1899, "livreId": 9, "titre": "Mac & Cheese au lard et à l'huile de truffe", "page": 60, "categorie": "Pâtes", "ingredientPrincipal": "Fromage", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1900, "livreId": 9, "titre": "Sauté de poulet minute", "page": 62, "categorie": "Volaille", "ingredientPrincipal": "Poulet", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1901, "livreId": 9, "titre": "Ragoût de boulettes de Dame Monique", "page": 64, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1902, "livreId": 9, "titre": "Risotto au barolo", "page": 66, "categorie": "Riz", "ingredientPrincipal": "Vin", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1903, "livreId": 9, "titre": "Tarte à l'orange", "page": 68, "categorie": "Dessert", "ingredientPrincipal": "Orange", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1904, "livreId": 9, "titre": "Terrine de yogourt à la vanille", "page": 70, "categorie": "Dessert", "ingredientPrincipal": "Yogourt", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1905, "livreId": 9, "titre": "Chutney de tomate aux agrumes", "page": 72, "categorie": "Condiment", "ingredientPrincipal": "Tomate", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1898, "livreId": 9, "titre": "Le pain de viande de Jehane", "page": 58, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "livres/009-a-la-bonne-franquette/images/le-pain-de-viande-de-jeanne.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "Le pain de viande :",
+  "250 mL (1 tasse) de lait",
+  "180 mL (¾ tasse) de chapelure",
+  "2 œufs, battus",
+  "750 g (1 ½ lb) de bœuf haché mi-maigre",
+  "125 mL (½ tasse) d'oignon, haché",
+  "5 mL (1 c. à thé) de sel",
+  "1 mL (¼ c. à thé) de poivre noir frais moulu",
+  "10 tranches de bacon",
+  "La laque :",
+  "45 mL (3 c. à soupe) de cassonade",
+  "60 mL (¼ tasse) de ketchup",
+  "1 mL (¼ c. à thé) de muscade",
+  "5 mL (1 c. à thé) de moutarde en poudre"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Dans un bol, combiner le lait avec la chapelure et laisser tremper 15 minutes.",
+  "Ajouter tous les autres ingrédients du pain de viande, sauf le bacon, et bien mélanger.",
+  "Tapisser un moule à pain de tranches de bacon en laissant dépasser les tranches de chaque côté.",
+  "Verser le mélange de bœuf dans le moule et replier les tranches de bacon sur le dessus.",
+  "Démouler le pain de viande en le retournant dans une assiette. Le remettre dans le moule, couture de bacon vers le bas.",
+  "La laque : dans un bol, combiner les ingrédients de la laque. Verser sur le pain de viande et cuire au four 1 heure.",
+  "Servir avec une purée de pommes de terre au beurre, des haricots verts et, si désiré, un jus de viande."
+]
+},
+
+{"id": 1899, "livreId": 9, "titre": "Mac & Cheese au lard et à l'huile de truffe", "page": 60, "categorie": "Pâtes", "ingredientPrincipal": "Fromage", "image": "livres/009-a-la-bonne-franquette/images/mac-cheese-au-lard.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "10 tranches épaisses de bacon, coupées en dés",
+  "250 mL (1 tasse) de champignons blancs, coupés en dés",
+  "60 mL (¼ tasse) d'oignons verts, ciselés finement",
+  "560 mL (2 ¼ tasses) de macaronis cuits, encore chauds (250 mL / 1 tasse non cuits)",
+  "80 mL (⅓ tasse) de fromage à tartiner (de style Cheez Whiz)",
+  "125 mL (½ tasse) de fromage cheddar jaune, râpé finement",
+  "30 mL (2 c. à soupe) d'huile de truffe",
+  "Poivre noir frais moulu et fleur de sel"
+],
+"preparation": [
+  "Dans une poêle bien chaude, à feu moyen-vif, cuire les dés de bacon environ 3 minutes.",
+  "Ajouter les champignons et les oignons verts, puis poursuivre la cuisson quelques minutes, le temps que les champignons soient cuits.",
+  "Ajouter les macaronis cuits et les fromages, mélanger pour bien incorporer et faire fondre les fromages. Poivrer au goût.",
+  "Verser le tout dans un grand bol de service, assaisonner d'huile de truffe et d'un peu de fleur de sel. Servir aussitôt."
+]
+},
+
+{"id": 1900, "livreId": 9, "titre": "Sauté de poulet minute", "page": 62, "categorie": "Volaille", "ingredientPrincipal": "Poulet", "image": "livres/009-a-la-bonne-franquette/images/saute-de-poulet-minute.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "15 mL (1 c. à soupe) d'huile d'olive",
+  "1 quartier d'oignon moyen, haché",
+  "1 poitrine de poulet, sans la peau, coupée en cubes",
+  "1 poignée de champignons au choix, émincés",
+  "Thym frais, haché",
+  "60 mL (¼ tasse) de vin blanc ou bouillon de poulet",
+  "60 mL (¼ tasse) de crème 15 % M.G. ou 35 % M.G., au choix",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Dans une poêle, chauffer l'huile et y faire revenir l'oignon.",
+  "Ajouter le poulet et le faire sauter jusqu'à belle coloration.",
+  "Ajouter les champignons et les faire sauter.",
+  "Ajouter du thym, saler et poivrer.",
+  "Déglacer avec le vin blanc ou le bouillon et laisser réduire quelques minutes.",
+  "Ajouter la crème et laisser réduire encore, jusqu'à l'obtention d'une belle sauce onctueuse et homogène.",
+  "Servir ce sauté sur du riz ou des pâtes, ou avec des légumes."
+]
+},
+
+{"id": 1901, "livreId": 9, "titre": "Ragoût de boulettes de Dame Monique", "page": 64, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "livres/009-a-la-bonne-franquette/images/ragout-de-boulettes.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "750 g (1 ½ lb) de porc frais haché",
+  "4 tranches de bacon fumé",
+  "2 tranches de pain, coupées en dés",
+  "125 mL (½ tasse) de lait",
+  "1 petit oignon, émincé",
+  "1 mL (¼ c. à thé) de cannelle moulue",
+  "1 mL (¼ c. à thé) de clou de girofle moulu",
+  "45 mL (3 c. à soupe) d'huile de canola",
+  "750 mL (3 tasses) de bouillon de bœuf",
+  "15 mL (1 c. à soupe) de sel et poivre noir frais moulu, ou au goût"
+],
+"preparation": [
+  "Passer le porc et le bacon au hache-viande, à trois reprises. Réserver.",
+  "Dans un bol, faire tremper le pain dans le lait.",
+  "Dans un autre bol, combiner la viande, l'oignon, la cannelle, le clou de girofle et le pain trempé. Saler et poivrer. Former de petites boulettes.",
+  "Dans une grande casserole, faire dorer les boulettes dans l'huile.",
+  "Arroser de bouillon de bœuf, couvrir et faire mijoter à feu doux 30 minutes. Retirer le couvercle et laisser réduire la sauce jusqu'à l'obtention d'une belle consistance (épaissir avec de la fécule ou de la farine diluée dans un peu d'eau, au besoin).",
+  "Servir accompagné de belles petites pommes de terre rattes, de panais et de petits oignons marinés, si désiré."
+]
+},
+
+{"id": 1902, "livreId": 9, "titre": "Risotto au barolo", "page": 66, "categorie": "Riz", "ingredientPrincipal": "Vin", "image": "livres/009-a-la-bonne-franquette/images/risotto-au-barolo.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "30 mL (2 c. à soupe) d'huile d'olive",
+  "2 échalotes françaises, ciselées",
+  "300 g (10 oz) de riz italien arborio",
+  "500 mL (2 tasses) de barolo ou autre vin rouge sec au choix",
+  "1 L (4 tasses) de bouillon de poulet",
+  "15 mL (1 c. à soupe) de beurre non salé",
+  "125 mL (½ tasse) de parmesan frais, râpé",
+  "5 mL (1 c. à thé) de zeste de citron, râpé",
+  "2 pincées de sel",
+  "2 tours de moulin à poivre"
+],
+"preparation": [
+  "Dans une casserole à fond épais, chauffer l'huile d'olive et y faire suer les échalotes sans coloration environ 2 minutes.",
+  "Ajouter le riz et cuire sans coloration 2 minutes.",
+  "Ajouter le vin et poursuivre la cuisson en remuant, jusqu'à ce que le liquide ait complètement réduit.",
+  "Quand le vin a réduit, ajouter le bouillon de poulet par petites quantités et attendre que le bouillon réduise complètement avant d'en ajouter d'autre. Le riz est prêt quand il est encore un peu al dente.",
+  "Hors du feu, ajouter ensuite le beurre, le parmesan et le zeste de citron. Assaisonner et servir."
+]
+},
+
+{"id": 1903, "livreId": 9, "titre": "Tarte à l'orange", "page": 68, "categorie": "Dessert", "ingredientPrincipal": "Orange", "image": "livres/009-a-la-bonne-franquette/images/tarte-a-l-orange.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "2 belles oranges ou 8 clémentines",
+  "2 œufs, battus",
+  "310 mL (1 ¼ tasse) de sucre fin",
+  "90 mL (6 c. à soupe) de beurre non salé, fondu",
+  "1 abaisse de pâte brisée de 23 cm (9 po), maison ou du commerce"
+],
+"preparation": [
+  "Préchauffer le four à 200 °C (400 °F).",
+  "Presser les oranges et réserver le jus.",
+  "Au robot culinaire, hacher le reste des oranges (pulpe et pelure).",
+  "Transférer le tout dans un bol. Incorporer le jus réservé, les œufs, le sucre et le beurre, et bien mélanger.",
+  "Tapisser une assiette à tarte avec la pâte brisée et en piquer le fond avec une fourchette.",
+  "Verser la préparation à l'orange sur la pâte.",
+  "Cuire au four 20 minutes.",
+  "Démouler et laisser reposer quelques heures sur une grille avant de servir. Si désiré, accompagner d'une boule de crème glacée* et d'un bon verre de cidre de glace.",
+  "* Je vous recommande la crème glacée au sucre d'érable Coaticook, un délice avec cette tarte !"
+]
+},
+
+{"id": 1904, "livreId": 9, "titre": "Terrine de yogourt à la vanille", "page": 70, "categorie": "Dessert", "ingredientPrincipal": "Yogourt", "image": "livres/009-a-la-bonne-franquette/images/Tterrine-de-yogourt-a-la-vanille.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "2 gousses de vanille",
+  "625 mL (2 ½ tasses) de lait 2 %",
+  "410 mL (1 ⅔ tasse) de crème 35 % M.G.",
+  "250 g (1 ¼ tasse) de sucre",
+  "14 feuilles de gélatine (ou 28 g de gélatine en poudre)",
+  "1 contenant (1 kg) de yogourt nature"
+],
+"preparation": [
+  "À la pointe du couteau, couper les gousses de vanille en deux sur la longueur et gratter l'intérieur afin de recueillir toutes les graines. Dans une casserole, réunir les demi-gousses de vanille avec leurs graines, le lait, la crème et le sucre. Chauffer et amener à frémissement.",
+  "Dans un bol d'eau froide, mettre à tremper les feuilles de gélatine jusqu'à ce qu'elles ramollissent.",
+  "Lorsque la gélatine est molle et que le lait est bien chaud, retirer les gousses de vanille. Essorer les feuilles de gélatine et les déposer dans le lait. Brasser pour faire dissoudre la gélatine et s'assurer qu'il ne reste aucun morceau. Laisser reposer le temps que le lait soit tiède.",
+  "Dans un grand bol, verser le yogourt. Ajouter le mélange de lait tiède.",
+  "Verser dans des terrines, des verrines ou des ramequins et réfrigérer au moins 4 heures.",
+  "Servir au petit-déjeuner avec des fraises légèrement sucrées ou d'autres fruits frais. Pour une saveur imbattable, parsemer de zeste d'orange et de poivre noir frais moulu.",
+  "Note : dans un contenant hermétique, cette terrine se conserve facilement pendant 10 jours au réfrigérateur."
+]
+},
+
+{"id": 1905, "livreId": 9, "titre": "Chutney de tomate aux agrumes", "page": 72, "categorie": "Condiment", "ingredientPrincipal": "Tomate", "image": "livres/009-a-la-bonne-franquette/images/chutney-de-tomate.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 kg (2 lb) de tomates bien mûres",
+  "1 sachet d'épices à marinade du commerce",
+  "1 petit oignon, haché",
+  "1 gousse d'ail, hachée",
+  "1 poivron rouge, épépiné et haché",
+  "2 mL (½ c. à thé) de piment de la Jamaïque moulu",
+  "1 mL (¼ c. à thé) de sel",
+  "200 g (7 oz) de sucre",
+  "250 mL (1 tasse) de vinaigre blanc",
+  "510 g (18 oz) de marmelade d'agrumes maison ou du commerce"
+],
+"preparation": [
+  "Dans une grande casserole, porter 1 L (4 tasses) d'eau à ébullition. À la pointe du couteau, faire une légère incision en forme de X à la base de chaque tomate, puis les plonger dans l'eau bouillante quelques minutes. Retirer les tomates de l'eau, puis les transférer dans un grand bol d'eau glacée pour interrompre la cuisson. Égoutter.",
+  "Peler les tomates et retirer les pédoncules. Hacher la chair grossièrement et réserver.",
+  "Dans une casserole de grandeur moyenne, réunir tous les ingrédients, sauf la marmelade. Faire mijoter à feu moyen-doux environ 1 heure ou jusqu'à consistance de ketchup.",
+  "Incorporer la marmelade sans faire recuire. Laisser refroidir."
+]
+},
+
 {"id": 1906, "livreId": 9, "titre": "Pizza déjeuner au canard fumé et au gratin de cheddar fort", "page": 78, "categorie": "Déjeuner", "ingredientPrincipal": "Canard", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1907, "livreId": 9, "titre": "Gaufres au zeste d'orange des enfants", "page": 80, "categorie": "Déjeuner", "ingredientPrincipal": "Orange", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1908, "livreId": 9, "titre": "Burgers de saucisse italienne", "page": 82, "categorie": "Viande", "ingredientPrincipal": "Saucisse", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
