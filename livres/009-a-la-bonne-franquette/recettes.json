@@ -1,5 +1,32 @@
 [
-{"id": 1883, "livreId": 9, "titre": "Crème d'oignons caramélisés à la bière blonde", "page": 20, "categorie": "Soupe", "ingredientPrincipal": "Oignon", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1883, "livreId": 9, "titre": "Crème d'oignons caramélisés à la bière blonde", "page": 20, "categorie": "Soupe", "ingredientPrincipal": "Oignon", 
+  "image": "livres/009-a-la-bonne-franquette/images/creme-d-oignon.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "45 mL (3 c. à soupe) de beurre salé",
+    "8 oignons moyens, émincés",
+    "1 gousse d'ail, émincée",
+    "60 mL (¼ tasse) de miel de trèfle",
+    "1 bière blonde",
+    "1,5 L (6 tasses) de fond de volaille",
+    "800 g (1 ¾ lb) de pommes de terre, pelées et émincées (variété Gold Rush, par exemple)",
+    "2 branches de thym",
+    "1 feuille de laurier",
+    "125 mL (½ tasse) de crème 35 % M.G.",
+    "Sel et poivre noir frais moulu"
+  ],
+  "preparation": [
+    "Dans une casserole à fond épais, faire chauffer le beurre à feu moyen. Ajouter les oignons et l'ail, puis faire caraméliser.",
+    "Incorporer le miel et laisser caraméliser encore quelques minutes. Saler et poivrer.",
+    "Déglacer avec la bière, en raclant bien le fond de la casserole.",
+    "Ajouter le fond de volaille, les pommes de terre, le thym et le laurier. Faire mijoter jusqu'à ce que les pommes de terre soient bien cuites.",
+    "Retirer les herbes et passer le tout au mélangeur.",
+    "Reverser la soupe dans la casserole, ajouter la crème et chauffer sans laisser bouillir. Rectifier l'assaisonnement et servir bien chaud."
+  ]
+},
+
 {"id": 1884, "livreId": 9, "titre": "Carpaccio de bœuf à l'aïoli", "page": 22, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1885, "livreId": 9, "titre": "Mignon de porc aux pommes", "page": 24, "categorie": "Viande", "ingredientPrincipal": "Porc", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1886, "livreId": 9, "titre": "Teurgoule normande de mon enfance", "page": 26, "categorie": "Dessert", "ingredientPrincipal": "Riz", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
