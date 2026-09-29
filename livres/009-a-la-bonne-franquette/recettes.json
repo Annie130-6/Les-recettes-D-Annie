@@ -27,18 +27,164 @@
   ]
 },
 
-{"id": 1884, "livreId": 9, "titre": "Carpaccio de bœuf à l'aïoli", "page": 22, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1885, "livreId": 9, "titre": "Mignon de porc aux pommes", "page": 24, "categorie": "Viande", "ingredientPrincipal": "Porc", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1884, "livreId": 9, "titre": "Carpaccio de bœuf à l'aïoli", "page": 22, "categorie": "Viande", "ingredientPrincipal": "Bœuf",
+  "image": "livres/009-a-la-bonne-franquette/images/carpaccio-de-boeuf.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "15 mL (1 c. à soupe) de poivre noir frais moulu",
+    "5 mL (1 c. à thé) de fleur de sel",
+    "5 mL (1 c. à thé) de paprika fumé",
+    "500 g (1 lb) de filet mignon de bœuf, paré",
+    "1 œuf",
+    "15 mL (1 c. à soupe) de moutarde de Dijon",
+    "15 mL (1 c. à soupe) de jus de citron",
+    "2 gousses d'ail, pressées",
+    "80 mL (⅓ tasse) de petits cornichons sucrés, hachés",
+    "250 mL (1 tasse) d'huile de canola ou d'huile végétale",
+    "Copeaux de parmesan, au goût"
+  ],
+  "preparation": [
+    "Combiner le poivre, le sel et le paprika fumé dans un bol. Bien enrober le filet mignon de ce mélange, le couvrir de pellicule plastique, l'enrouler et le mettre au congélateur de 20 à 25 minutes.",
+    "Préparer l'aïoli au robot culinaire en combinant l'œuf, la moutarde de Dijon, le jus de citron et l'ail. Ajouter les cornichons. En pulsant sans arrêt, incorporer l'huile en filet.",
+    "Couper le filet mignon en tranches fines et les disposer dans une grande assiette de service. Verser l'aïoli sur le tout, puis garnir de copeaux de parmesan, d'un filet d'huile et d'une pincée de fleur de sel. Servir aussitôt."
+  ]
+},
+
+{"id": 1885, "livreId": 9, "titre": "Mignon de porc aux pommes", "page": 24, "categorie": "Viande", "ingredientPrincipal": "Porc", 
+  "image": "livres/009-a-la-bonne-franquette/images/mignon-de-porc.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 sachet de sauce au poivre du commerce",
+    "1 filet de porc",
+    "15 mL (1 c. à soupe) de beurre",
+    "30 mL (2 c. à soupe) de vin blanc (facultatif)",
+    "125 mL (½ tasse) de crème 35 % M.G.",
+    "1 pomme, tranchée",
+    "30 g (1 oz) de fromage Cru du clocher ou cheddar fort, au choix"
+  ],
+  "preparation": [
+    "Préparer la sauce au poivre selon le mode d'emploi sur l'emballage et réserver au chaud.",
+    "Couper le filet de porc en tranches de 1 cm (½ po) d'épaisseur.",
+    "Dans une poêle à feu moyen, faire fondre le beurre et y faire sauter les tranches de porc 3 minutes ou jusqu'à coloration dorée.",
+    "Déglacer avec le vin blanc, si désiré (ou si la viande a collé à la poêle).",
+    "Ajouter 375 mL (1 ½ tasse) de la sauce au poivre, la crème et les tranches de pomme, puis laisser mijoter 2 minutes.",
+    "Râper le fromage ou le couper en cubes, l'ajouter à la sauce et le laisser fondre. Servir aussitôt."
+  ]
+},
+
 {"id": 1886, "livreId": 9, "titre": "Teurgoule normande de mon enfance", "page": 26, "categorie": "Dessert", "ingredientPrincipal": "Riz", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1887, "livreId": 9, "titre": "Chaudrée de fruits de mer", "page": 32, "categorie": "Soupe", "ingredientPrincipal": "Fruits de mer", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1887, "livreId": 9, "titre": "Chaudrée de fruits de mer", "page": 32, "categorie": "Soupe", "ingredientPrincipal": "Fruits de mer", 
+  "image": "livres/009-a-la-bonne-franquette/images/chaudree-de-fruit-de-mer.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "500 mL (2 tasses) de pommes de terre, pelées et coupées en cubes",
+    "60 mL (¼ tasse) de beurre salé",
+    "1 gros oignon espagnol, émincé",
+    "125 mL (½ tasse) de farine tout usage",
+    "1 L (4 tasses) de lait 2 %",
+    "500 g (1 lb) de chair de homard cuite",
+    "500 g (1 lb) de pétoncles crus",
+    "250 mL (1 tasse) de poivrons doux de couleurs mélangées, en brunoise (petits dés)",
+    "15 mL (1 c. à soupe) de thym séché",
+    "Fleur d'ail (facultatif)",
+    "Sel et poivre noir frais moulu"
+  ],
+  "preparation": [
+    "Dans une grande casserole d'eau bouillante salée, cuire les cubes de pomme de terre en s'assurant de leur conserver une certaine fermeté.",
+    "Entre-temps, dans une grande marmite, faire fondre le beurre à feu moyen-doux. Y faire suer l'oignon 5 minutes ou jusqu'à transparence, en évitant de le faire colorer.",
+    "Saupoudrer de farine et cuire encore 2 minutes sans la laisser se colorer.",
+    "Réduire le feu à doux et, en fouettant, incorporer le lait graduellement, pour éviter les grumeaux. Cuire jusqu'à ce que le mélange épaississe légèrement.",
+    "Égoutter les pommes de terre cuites et les ajouter au mélange de lait.",
+    "Augmenter le feu et réchauffer en remuant constamment, jusqu'à ce que la soupe soit bien chaude.",
+    "Retirer du feu, ajouter la chair de homard, les pétoncles, les poivrons et le thym. Saler et poivrer au goût. Ajouter la fleur d'ail, si désiré.",
+    "Avant de servir, laisser reposer quelques minutes, le temps que les pétoncles cuisent à peine dans la soupe. On peut servir cette chaudrée telle quelle ou garnie de croûtons, saupoudrés ou non de fromage râpé au choix."
+  ]
+},
+
 {"id": 1888, "livreId": 9, "titre": "Petits farcis à l'agneau et au tournesol", "page": 34, "categorie": "Légume", "ingredientPrincipal": "Aubergine", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1889, "livreId": 9, "titre": "Beignets croustillants aux pétoncles et au maïs", "page": 36, "categorie": "Entrée", "ingredientPrincipal": "Pétoncle", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1889, "livreId": 9, "titre": "Beignets croustillants aux pétoncles et au maïs", "page": 36, "categorie": "Entrée", "ingredientPrincipal": "Pétoncle", 
+  "image": "livres/009-a-la-bonne-franquette/images/beignets-croustillants.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "2 épis de maïs",
+    "125 mL (½ tasse) de farine tout usage",
+    "125 mL (½ tasse) de semoule de maïs fine (polenta fine n° 400)",
+    "5 mL (1 c. à thé) de sel fin",
+    "10 mL (2 c. à thé) de levure chimique (poudre à pâte)",
+    "2 œufs battus",
+    "125 mL (½ tasse) de bière",
+    "2 mL (½ c. à thé) de sambal oelek",
+    "500 g (1 lb) de gros pétoncles (10/20), coupés en quatre",
+    "4 oignons verts, ciselés finement",
+    "Huile pour la friture"
+  ],
+  "preparation": [
+    "Cuire les épis de maïs à l'eau bouillante salée pendant 5 minutes. Égoutter et passer sous l'eau froide 5 minutes pour interrompre la cuisson. Égrener les épis de maïs et réserver.",
+    "Dans un bol, mélanger la farine, la semoule de maïs, le sel et la levure chimique.",
+    "Dans un autre bol, mélanger les œufs, la bière et le sambal oelek.",
+    "Former un puits au centre des ingrédients secs, puis y verser le mélange d'œufs et de bière, en l'incorporant doucement à la main.",
+    "Ajouter les pétoncles, les oignons verts et les grains de maïs. Mélanger doucement pour rendre la préparation homogène (il est normal que la pâte soit liquide).",
+    "Avec les mains, former des beignets, environ 30 mL (2 c. à soupe) à la fois, en s'assurant qu'il y ait des pétoncles dans chaque bouchée.",
+    "Chauffer de l'huile à 180 °C (350 °F) dans une friteuse. Quand l'huile est chaude, y déposer quelques beignets avec précaution. Frire environ 2 minutes ou jusqu'à ce que les beignets soient bien dorés. Retirer et bien égoutter sur du papier essuie-tout. Répéter l'opération jusqu'à ce que tous les beignets soient cuits.",
+    "Servir aussitôt avec une sauce et de la bière."
+  ]
+},
+
 {"id": 1890, "livreId": 9, "titre": "Moules au saumon fumé", "page": 38, "categorie": "Poisson", "ingredientPrincipal": "Moules", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1891, "livreId": 9, "titre": "Poulet au citron", "page": 40, "categorie": "Volaille", "ingredientPrincipal": "Poulet", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1892, "livreId": 9, "titre": "Ragoût d'agneau aux petits légumes et à la menthe", "page": 42, "categorie": "Viande", "ingredientPrincipal": "Agneau", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1893, "livreId": 9, "titre": "Omble et quinoa au citron", "page": 44, "categorie": "Poisson", "ingredientPrincipal": "Omble", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1894, "livreId": 9, "titre": "Morue du Grand Fleuve et son foie au lait", "page": 46, "categorie": "Poisson", "ingredientPrincipal": "Morue", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1895, "livreId": 9, "titre": "Confit d'oignon Saint-Régis", "page": 48, "categorie": "Condiment", "ingredientPrincipal": "Oignon", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1894, "livreId": 9, "titre": "Morue du Grand Fleuve et son foie au lait", "page": 46, "categorie": "Poisson", "ingredientPrincipal": "Morue", 
+  "image": "livres/009-a-la-bonne-franquette/images/morue-du-grand-fleuve.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 filet de morue (ou morue entière), bien lavé et asséché (prévoir 250 g / ½ lb par personne)",
+    "1 foie de morue frais*",
+    "3 ou 4 oignons verts avec la tige, coupés en rondelles",
+    "30 mL (2 c. à soupe) d'herbes salées du Bas-du-fleuve",
+    "Poivre noir frais moulu, au goût",
+    "30 mL (2 c. à soupe) de beurre",
+    "250 mL (1 tasse) de lait",
+    "* Pour le foie, mieux vaut avoir la chance de vivre en Gaspésie ou d'être aimé par votre poissonnier…"
+  ],
+  "preparation": [
+    "Préchauffer le four à 180 °C (350 °F).",
+    "Dans un plat allant au four, déposer une grande feuille de papier d'aluminium, en s'assurant de créer des bords. Placer la morue au milieu, puis le foie par-dessus. Recouvrir d'herbes salées et d'oignons verts. Assaisonner de quelques tours de moulin à poivre. Déposer le beurre sur le dessus et verser le lait.",
+    "Refermer le papier d'aluminium et sceller en papillote. Cuire au four de 10 à 20 minutes, selon la grosseur du filet. Bien surveiller pour ne pas trop cuire le poisson. Il doit seulement devenir blanc et se séparer facilement en lamelles, sinon il perdra sa délicatesse et son goût d'amande délectable.",
+    "Servir avec des petites pommes de terre nouvelles et des carottes du jardin juste lavées, si désiré."
+  ]
+},
+
+{"id": 1895, "livreId": 9, "titre": "Confit d'oignon Saint-Régis", "page": 48, "categorie": "Condiment", "ingredientPrincipal": "Oignon", 
+  "image": "livres/009-a-la-bonne-franquette/images/confit-d-oignons.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "375 mL (1 ½ tasse) d'oignon espagnol, en fines lamelles",
+    "60 mL (¼ tasse) de canneberges séchées ou fraîches, ou airelles fraîches",
+    "75 mL (5 c. à soupe) de sucre",
+    "30 mL (2 c. à soupe) de vinaigre blanc",
+    "60 mL (¼ tasse) de vin rouge"
+  ],
+  "preparation": [
+    "Dans une casserole en fonte, réunir tous les ingrédients.",
+    "Porter à ébullition, réduire le feu et laisser mijoter environ 30 minutes.",
+    "Laisser refroidir et mettre au réfrigérateur.",
+    "Servir sur des pâtés, avec des fromages ou des charcuteries."
+  ]
+},
+
 {"id": 1896, "livreId": 9, "titre": "Potage minute à la citrouille de ma grand-mère", "page": 54, "categorie": "Soupe", "ingredientPrincipal": "Citrouille", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1897, "livreId": 9, "titre": "Velouté de citrouille à la cardamome et sa brochette de crevettes", "page": 56, "categorie": "Soupe", "ingredientPrincipal": "Citrouille", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1898, "livreId": 9, "titre": "Le pain de viande de Jehane", "page": 58, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
