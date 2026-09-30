@@ -561,83 +561,2080 @@
 ]
 },
 
-{"id": 1906, "livreId": 9, "titre": "Pizza déjeuner au canard fumé et au gratin de cheddar fort", "page": 78, "categorie": "Déjeuner", "ingredientPrincipal": "Canard", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1907, "livreId": 9, "titre": "Gaufres au zeste d'orange des enfants", "page": 80, "categorie": "Déjeuner", "ingredientPrincipal": "Orange", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1908, "livreId": 9, "titre": "Burgers de saucisse italienne", "page": 82, "categorie": "Viande", "ingredientPrincipal": "Saucisse", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1909, "livreId": 9, "titre": "Salade tiède de foies de volaille aux pommes et moutarde à l'ancienne", "page": 84, "categorie": "Salade", "ingredientPrincipal": "Foie de volaille", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1910, "livreId": 9, "titre": "Boulettes de saumon, sauce tomate et basilic", "page": 90, "categorie": "Poisson", "ingredientPrincipal": "Saumon", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1911, "livreId": 9, "titre": "Ma recette de bines", "page": 92, "categorie": "Légumineuse", "ingredientPrincipal": "Haricots", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1912, "livreId": 9, "titre": "Mon Mac'n Cheese au canard confit et tomme de brebis", "page": 94, "categorie": "Pâtes", "ingredientPrincipal": "Canard", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1913, "livreId": 9, "titre": "Rôti de longe de porc et maïs en crème", "page": 96, "categorie": "Viande", "ingredientPrincipal": "Porc", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1914, "livreId": 9, "titre": "Contre-filet de wapiti aux pommes caramélisées et cidre de glace", "page": 98, "categorie": "Viande", "ingredientPrincipal": "Wapiti", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1915, "livreId": 9, "titre": "Câpres de marguerites", "page": 100, "categorie": "Condiment", "ingredientPrincipal": "Marguerite", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1916, "livreId": 9, "titre": "Croustillant de légumes marinés au Galarneau", "page": 106, "categorie": "Entrée", "ingredientPrincipal": "Légumes", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1917, "livreId": 9, "titre": "Gratin de courgettes farcies au porc", "page": 108, "categorie": "Viande", "ingredientPrincipal": "Courgette", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1918, "livreId": 9, "titre": "Cari de poulet à la noix de coco", "page": 110, "categorie": "Volaille", "ingredientPrincipal": "Poulet", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1919, "livreId": 9, "titre": "Boulettes d'agneau au poivron et au basilic", "page": 112, "categorie": "Viande", "ingredientPrincipal": "Agneau", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1920, "livreId": 9, "titre": "Beurre de pomme, vanille et cidre de glace", "page": 114, "categorie": "Condiment", "ingredientPrincipal": "Pomme", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1921, "livreId": 9, "titre": "Short ribs de bœuf, style bistro", "page": 120, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1922, "livreId": 9, "titre": "Poulet farci aux asperges et au fromage oka, crème de pesto", "page": 122, "categorie": "Volaille", "ingredientPrincipal": "Poulet", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1923, "livreId": 9, "titre": "Salade d'hiver", "page": 124, "categorie": "Salade", "ingredientPrincipal": "Légumes", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1924, "livreId": 9, "titre": "Tartines aux œufs pochés, saumon fumé et beurre de truffe", "page": 130, "categorie": "Déjeuner", "ingredientPrincipal": "Œuf", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1925, "livreId": 9, "titre": "Soupe de panais à la clémentine", "page": 132, "categorie": "Soupe", "ingredientPrincipal": "Panais", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1926, "livreId": 9, "titre": "Raviolis de langoustine frits", "page": 134, "categorie": "Pâtes", "ingredientPrincipal": "Langoustine", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1927, "livreId": 9, "titre": "Potage de légumes grand-mère", "page": 136, "categorie": "Soupe", "ingredientPrincipal": "Légumes", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1928, "livreId": 9, "titre": "Salade de sardines, façon tapas", "page": 138, "categorie": "Salade", "ingredientPrincipal": "Sardine", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1929, "livreId": 9, "titre": "Lapin à la napolitaine", "page": 140, "categorie": "Viande", "ingredientPrincipal": "Lapin", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1930, "livreId": 9, "titre": "Rillettes de crabe des neiges, mayonnaise à l'huile d'olive et au piri-piri", "page": 142, "categorie": "Entrée", "ingredientPrincipal": "Crabe", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1931, "livreId": 9, "titre": "Escalope de bœuf panée, sauce chipotle et purée de pommes de terre", "page": 144, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1932, "livreId": 9, "titre": "Filets de bœuf à la japonaise", "page": 146, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1933, "livreId": 9, "titre": "Mon jarret de bœuf 12 heures", "page": 148, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1934, "livreId": 9, "titre": "Poivrons farcis à la mozzarella et au saucisson façon Mamie Angèle", "page": 150, "categorie": "Légume", "ingredientPrincipal": "Poivron", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1935, "livreId": 9, "titre": "Boles de picoulat", "page": 152, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1936, "livreId": 9, "titre": "Tortellinis au féta et aux pêches", "page": 154, "categorie": "Pâtes", "ingredientPrincipal": "Féta", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1937, "livreId": 9, "titre": "Bouilli de la récolte", "page": 156, "categorie": "Viande", "ingredientPrincipal": "Légumes", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1938, "livreId": 9, "titre": "Gnocchis à la ricotta, sauce à la fontina", "page": 158, "categorie": "Pâtes", "ingredientPrincipal": "Ricotta", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1939, "livreId": 9, "titre": "Salade de fraises et son crémeux de yogourt au chocolat blanc", "page": 160, "categorie": "Dessert", "ingredientPrincipal": "Fraise", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1940, "livreId": 9, "titre": "Bublanina ou Bubbly cake", "page": 162, "categorie": "Dessert", "ingredientPrincipal": "Farine", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1941, "livreId": 9, "titre": "Gâteau aux carottes de Mme Carette", "page": 164, "categorie": "Dessert", "ingredientPrincipal": "Carotte", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1942, "livreId": 9, "titre": "Sucettes au chocolat au lait et au thé chai", "page": 166, "categorie": "Dessert", "ingredientPrincipal": "Chocolat", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1943, "livreId": 9, "titre": "Cretons de grand-maman Aurore", "page": 168, "categorie": "Déjeuner", "ingredientPrincipal": "Porc", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1944, "livreId": 9, "titre": "Médaillons de veau et leur sauce au gingembre", "page": 174, "categorie": "Viande", "ingredientPrincipal": "Veau", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1945, "livreId": 9, "titre": "Pavé de saumon à la vapeur de pesto, poêlée de champignons et d'épinards à la crème de parmesan", "page": 176, "categorie": "Poisson", "ingredientPrincipal": "Saumon", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1946, "livreId": 9, "titre": "Salade de saumon fumé à la méditerranéenne", "page": 178, "categorie": "Salade", "ingredientPrincipal": "Saumon", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1947, "livreId": 9, "titre": "Pâté éternel", "page": 180, "categorie": "Viande", "ingredientPrincipal": "Orignal", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1948, "livreId": 9, "titre": "Cassoulet ardéchois", "page": 182, "categorie": "Légumineuse", "ingredientPrincipal": "Haricots", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1949, "livreId": 9, "titre": "Carré d'agneau au bleu et au porto sur le barbecue", "page": 184, "categorie": "Viande", "ingredientPrincipal": "Agneau", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1950, "livreId": 9, "titre": "Fettucines soleil aux crevettes", "page": 186, "categorie": "Pâtes", "ingredientPrincipal": "Crevette", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1951, "livreId": 9, "titre": "Gâteau à la rhubarbe et à l'érable", "page": 188, "categorie": "Dessert", "ingredientPrincipal": "Rhubarbe", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1952, "livreId": 9, "titre": "Sucre à la crème style cabane", "page": 190, "categorie": "Dessert", "ingredientPrincipal": "Érable", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1953, "livreId": 9, "titre": "Smoothie de fruits à la menthe", "page": 192, "categorie": "Boisson", "ingredientPrincipal": "Fruits", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1954, "livreId": 9, "titre": "Avocat et rémoulade de céleri-rave", "page": 194, "categorie": "Entrée", "ingredientPrincipal": "Avocat", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1906, "livreId": 9, "titre": "Pizza déjeuner au canard fumé et au gratin de cheddar fort", "page": 78, "categorie": "Déjeuner", "ingredientPrincipal": "Canard", "image": "livres/009-a-la-bonne-franquette/images/pizza-dejeuner.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "30 mL (2 c. à soupe) de beurre salé pour les œufs",
+  "6 gros œufs",
+  "5 mL (1 c. à thé) de pesto",
+  "1 sachet de sauce hollandaise de style Knorr",
+  "125 mL (½ tasse) de beurre salé pour la sauce",
+  "250 mL (1 tasse) de lait",
+  "1 pâte à pizza à croûte mince du commerce",
+  "180 g (6 oz) de cheddar fort, râpé",
+  "100 g (3 ½ oz) de magret de canard (ou d'oie) fumé, tranché finement",
+  "½ oignon rouge, émincé",
+  "½ poivron rouge, émincé",
+  "Fruits frais, en garniture"
+],
+"preparation": [
+  "Dans une poêle, faire fondre 30 mL (2 c. à soupe) de beurre. Combiner les œufs et le pesto, verser le tout dans la poêle et cuire pour obtenir des œufs brouillés encore moelleux. Réserver.",
+  "Préparer la sauce hollandaise selon le mode d'emploi sur l'emballage, mais en utilisant 125 mL (½ tasse) de beurre et 250 mL (1 tasse) de lait.",
+  "Préchauffer le four à 200 °C (400 °F).",
+  "Déposer la pâte à pizza sur une plaque allant au four. Y étaler la sauce hollandaise et y disposer les œufs brouillés.",
+  "Parsemer de fromage. Disposer harmonieusement les tranches de canard fumé et les légumes sur le dessus.",
+  "Cuire au four environ 12 minutes ou jusqu'à ce que le fromage soit légèrement coloré.",
+  "Servir chaque portion de pizza garnie d'une montagne de fruits frais."
+]
+},
+
+{"id": 1907, "livreId": 9, "titre": "Gaufres au zeste d'orange des enfants", "page": 80, "categorie": "Déjeuner", "ingredientPrincipal": "Orange", "image": "livres/009-a-la-bonne-franquette/images/gauffre-au-zeste-d-orange.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "250 mL (1 tasse) de farine blanche",
+  "250 mL (1 tasse) de farine de blé entier",
+  "90 mL (6 c. à soupe) de cassonade ou de sucre d'érable",
+  "2 mL (½ c. à thé) de coriandre moulue",
+  "2 gros œufs, jaunes et blancs séparés",
+  "180 mL (¾ tasse) de beurre fondu",
+  "Le zeste râpé de 1 orange",
+  "375 mL (1 ½ tasse) de lait",
+  "Huile végétale pour le gaufrier",
+  "Garnitures au choix :",
+  "Sirop d'érable",
+  "Beurre d'arachide",
+  "Fromage râpé"
+],
+"preparation": [
+  "Dans un grand bol, combiner les deux farines, la cassonade et la coriandre.",
+  "Ajouter les jaunes d'œufs, le beurre fondu, le zeste d'orange et le lait, puis battre jusqu'à consistance onctueuse. Réserver.",
+  "À l'aide d'un batteur à main, battre les blancs d'œufs jusqu'à la formation de pics fermes. Incorporer au premier mélange.",
+  "Faire chauffer le gaufrier et le badigeonner d'huile.",
+  "Remplir de mélange à gaufres et fermer le couvercle. Cuire environ 2 minutes ou jusqu'à ce qu'il n'y ait plus de vapeur et que les gaufres soient dorées.",
+  "Répéter l'opération avec le reste du mélange à gaufres.",
+  "Servir avec la garniture désirée."
+]
+},
+
+{"id": 1908, "livreId": 9, "titre": "Burgers de saucisse italienne", "page": 82, "categorie": "Sandwich", "ingredientPrincipal": "Saucisse", "image": "livres/009-a-la-bonne-franquette/images/burger-de-saucisse.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1,25 kg (2 ½ lb) de saucisses italiennes épicées",
+  "500 g (1 lb) de bœuf haché",
+  "60 mL (¼ tasse) de chapelure",
+  "60 mL (¼ tasse) de parmesan râpé",
+  "60 mL (¼ tasse) d'huile d'olive",
+  "12 pains à hamburger ou ciabattas",
+  "½ pomme de laitue",
+  "12 tranches de fromage provolone",
+  "12 fines tranches d'oignon",
+  "Moutarde de Dijon"
+],
+"preparation": [
+  "Préchauffer le four à 190 °C (375 °F).",
+  "À l'aide d'un couteau, retirer la chair à saucisse des boyaux et la verser dans un grand bol.",
+  "Ajouter le bœuf haché, la chapelure et le parmesan, en mélangeant bien.",
+  "Façonner le mélange en boulettes de 150 g (5 oz) chacune.",
+  "Dans une grande poêle, chauffer l'huile d'olive à feu moyen et y cuire les boulettes jusqu'à l'obtention d'une belle coloration. Éviter de surcharger la poêle, car plutôt que de griller, les boulettes bouilliraient dans le gras de cuisson. Procéder en plusieurs étapes, si nécessaire.",
+  "Cuire au four de 12 à 15 minutes, la température interne des boulettes devant atteindre 75 °C (160 °F).",
+  "Faire griller les pains à hamburger ou les beurrer et les poêler légèrement. Garnir chaque pain d'une boulette, de laitue, de provolone, d'oignon et de moutarde de Dijon… puis savourer !"
+]
+},
+
+{"id": 1909, "livreId": 9, "titre": "Salade tiède de foies de volaille aux pommes et moutarde à l'ancienne", "page": 84, "categorie": "Salade", "ingredientPrincipal": "Foie de volaille", "image": "livres/009-a-la-bonne-franquette/images/salade-tiede-de-foies-de-volaille.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "6 tranches de bacon",
+  "500 g (1 lb) de foies de volaille du Québec",
+  "1 oignon moyen, haché",
+  "2 gousses d'ail, hachées",
+  "60 mL (¼ tasse) de vinaigre de cidre",
+  "160 mL (⅔ tasse) d'eau",
+  "15 mL (1 c. à soupe) de moutarde de Meaux",
+  "1 pomme rouge en fines lamelles",
+  "1 L (4 tasses) de jeunes feuilles d'épinards",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Couper le bacon de façon à obtenir de petits lardons.",
+  "Parer les foies en retirant les nerfs (ou demander à votre boucher de le faire). Au besoin, couper les gros lobes en deux pour obtenir des morceaux d'égale grosseur.",
+  "Dans une poêle, faire dorer les lardons. Les retirer de la poêle et les réserver au chaud.",
+  "Dans le gras de cuisson, déposer les foies de volaille et les cuire sans les remuer.",
+  "Lorsque les foies sont bien dorés, ajouter l'oignon et l'ail. Saler et mélanger pour la première fois.",
+  "Dès que les oignons sont translucides et commencent à caraméliser, déglacer avec le vinaigre de cidre et faire réduire à sec.",
+  "Incorporer l'eau et la moutarde, puis cuire jusqu'à consistance crémeuse.",
+  "Ajouter les lamelles de pomme et poivrer de quelques tours du moulin.",
+  "Verser le tout dans deux ou quatre assiettes, sur un lit d'épinards. Garnir des lardons chauds. Servir aussitôt, accompagné d'un bon vin blanc frais."
+]
+},
+
+{"id": 1910, "livreId": 9, "titre": "Boulettes de saumon, sauce tomate et basilic", "page": 90, "categorie": "Poisson", "ingredientPrincipal": "Saumon", "image": "livres/009-a-la-bonne-franquette/images/boulettes-de-saumon.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "5 à 7 pommes de terre, pelées et coupées en dés",
+  "½ oignon, émincé",
+  "7 mL (1 ½ c. à thé) de poivre noir frais moulu",
+  "10 mL (2 c. à thé) de sel",
+  "1 boîte (227 g) de saumon sans peau ni arêtes, avec le liquide",
+  "250 mL (1 tasse) de jus de tomate",
+  "2 mL (½ c. à thé) de sucre",
+  "4 à 5 feuilles de basilic frais, émincées"
+],
+"preparation": [
+  "Dans une grande casserole d'eau froide, combiner les pommes de terre, l'oignon, 5 mL (1 c. à thé) de poivre et la même quantité de sel. Porter à ébullition et cuire jusqu'à ce que les pommes de terre soient tendres.",
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Égoutter les pommes de terre et l'oignon, puis les remettre dans la casserole. Ajouter le saumon avec son liquide. Piler jusqu'à l'obtention d'une purée homogène. Façonner le mélange en boulettes et les disposer sur une plaque de cuisson beurrée. Cuire au four environ 15 minutes ou jusqu'à ce que les boulettes soient légèrement dorées.",
+  "Entre-temps, préparer la sauce. Dans une casserole, combiner le reste des ingrédients. Porter à ébullition, réduire à feu doux et laisser mijoter de 2 à 5 minutes.",
+  "Servir les boulettes avec la sauce et accompagner d'une salade verte à la crème, si désiré."
+]
+},
+
+{"id": 1911, "livreId": 9, "titre": "Ma recette de bines", "page": 92, "categorie": "Légumineuse", "ingredientPrincipal": "Haricots", "image": "livres/009-a-la-bonne-franquette/images/ma-recette-de-bines.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "3 L (12 tasses) de fèves blanches",
+  "250 mL (1 tasse) de mélasse",
+  "1 boîte (540 mL) de sirop d'érable",
+  "2 oignons hachés",
+  "3 boîtes (284 mL chacune) de soupe aux tomates",
+  "250 g (½ lb) de lard salé",
+  "Eau"
+],
+"preparation": [
+  "Dans un grand bol d'eau non salée, faire tremper les fèves blanches 12 heures ou toute une nuit.",
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Égoutter les fèves blanches et les transférer dans une marmite allant au four.",
+  "Ajouter les autres ingrédients et bien mélanger.",
+  "Ajouter suffisamment d'eau pour recouvrir les fèves et sceller la marmite avec du papier d'aluminium.",
+  "Cuire au four 4 heures."
+]
+},
+
+{"id": 1912, "livreId": 9, "titre": "Mon Mac'n Cheese au canard confit et tomme de brebis", "page": 94, "categorie": "Pâtes", "ingredientPrincipal": "Canard", "image": "livres/009-a-la-bonne-franquette/images/mon-mac-n-cheese-au-canard.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 mL (2 tasses) de macaronis",
+  "45 mL (3 c. à soupe) de beurre",
+  "30 mL (2 c. à soupe) de farine",
+  "500 mL (2 tasses) de crème 10 % M.G.",
+  "500 mL (2 tasses) de fromage tomme de brebis*, râpé finement",
+  "500 mL (2 tasses) de confit de canard effiloché*",
+  "Chapelure",
+  "Sel et poivre noir fraîchement moulu",
+  "* Pour ajouter à vos pâtes une touche de Charlevoix, utilisez la tomme de la Maison d'affinage Maurice Dufour et le confit de La Ferme basque de Charlevoix."
+],
+"preparation": [
+  "Dans une grande casserole d'eau bouillante salée, cuire les pâtes de 8 à 10 minutes ou jusqu'à ce qu'elles soient al dente. Bien égoutter et réserver.",
+  "Dans la même casserole, faire fondre 30 mL (2 c. à soupe) de beurre à feu moyen. Ajouter la farine, en fouettant sans arrêt 1 minute pour éviter les grumeaux. Incorporer la crème graduellement et chauffer, en fouettant sans arrêt, environ 4 minutes ou jusqu'à ce que la sauce ait suffisamment épaissi pour napper le dos d'une cuillère.",
+  "Retirer la casserole du feu. Ajouter le fromage et fouetter jusqu'à ce qu'il ait complètement fondu et que la sauce soit lisse. Saler et poivrer. À l'aide d'une spatule, ajouter le confit de canard délicatement.",
+  "Remettre les pâtes réservées dans la casserole et mélanger pour bien les enrober de sauce. Verser dans des ramequins. Saupoudrer de chapelure et ajouter le reste du beurre en dés. Mettre sous le gril du four jusqu'à ce que la chapelure forme une légère croûte gratinée. Servir aussitôt."
+]
+},
+
+{"id": 1913, "livreId": 9, "titre": "Rôti de longe de porc et maïs en crème", "page": 96, "categorie": "Viande", "ingredientPrincipal": "Porc", "image": "livres/009-a-la-bonne-franquette/images/roti-de-longe-de-porc-et-mais.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "125 mL (½ tasse) de beurre",
+  "1 longe de porc de 750 g (1 ½ lb)",
+  "8 branches de thym",
+  "1 bulbe d'ail, gousses séparées mais non épluchées",
+  "4 ou 5 épis de maïs*",
+  "2 oignons moyens, émincés",
+  "1 L (4 tasses) de lait",
+  "1 piment chipotle (vendu en conserve)",
+  "Sel de mer et poivre noir frais moulu",
+  "* La garniture de maïs en crème peut se transformer selon les goûts de chacun : on pourrait y ajouter du parmesan râpé, une herbe fraîche comme le basilic ou même du saucisson en petits dés."
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Dans une cocotte, faire fondre le tiers du beurre et saisir le porc sur toutes ses faces afin qu'il soit bien rôti.",
+  "Glisser 4 branches de thym et les gousses d'ail sous le porc.",
+  "Assaisonner de sel de mer et déposer le reste du thym sur le dessus. Cuire au four préchauffé 35 minutes.",
+  "Retirer le porc du four et le laisser reposer de 10 à 15 minutes à couvert avant de le trancher.",
+  "Entre-temps, égrener les épis de maïs à l'aide d'un couteau.",
+  "Dans une casserole, faire fondre le reste du beurre et y faire suer les oignons 4 minutes, sans coloration.",
+  "Ajouter le maïs et le faire suer 10 minutes en remuant à quelques reprises. Si le mélange devient trop sec, ajouter un peu de beurre.",
+  "Verser juste assez de lait pour couvrir le maïs cuit et laisser réduire de moitié.",
+  "Ajouter le chipotle, saler et continuer d'incorporer le lait jusqu'à ce que le maïs soit cuit, environ 40 minutes, en remuant régulièrement.",
+  "Trancher le porc et déposer les tranches dans des assiettes creuses. Garnir de maïs en crème et poivrer."
+]
+},
+
+{"id": 1914, "livreId": 9, "titre": "Contre-filet de wapiti aux pommes caramélisées et cidre de glace", "page": 98, "categorie": "Viande", "ingredientPrincipal": "Wapiti", "image": "livres/009-a-la-bonne-franquette/images/contre-filet-de wapiti.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "60 mL (¼ tasse) de beurre",
+  "4 biftecks de contre-filet de wapiti de 150 g (5 oz) chacun",
+  "1 échalote française, ciselée",
+  "2 pommes, pelées et coupées en morceaux",
+  "125 mL (½ tasse) de sucre",
+  "160 mL (⅔ tasse) de cidre de glace*",
+  "500 mL (2 tasses) de demi-glace ou fond de veau",
+  "Sel et poivre noir fraîchement moulu, au goût",
+  "* Le chef vous recommande le cidre de glace de la Cidrerie verger Joe Giguère."
+],
+"preparation": [
+  "Dans un poêlon, faire fondre le beurre et y saisir les biftecks à feu vif. Retirer et réserver.",
+  "Réduire à feu doux, ajouter l'échalote au poêlon et faire suer jusqu'à ce qu'elle soit translucide. Ajouter les pommes et le sucre, puis laisser caraméliser.",
+  "Déglacer avec le cidre de glace et, à feu moyen-vif, faire réduire de moitié. Mouiller avec la demi-glace et laisser cuire jusqu'à l'obtention d'une sauce lisse et crémeuse. Saler et poivrer.",
+  "Déposer les biftecks dans la sauce et cuire jusqu'à la cuisson voulue. Servir accompagnés de légumes et de pommes de terre au choix."
+]
+},
+
+{"id": 1915, "livreId": 9, "titre": "Câpres de marguerites", "page": 100, "categorie": "Condiment", "ingredientPrincipal": "Marguerite", "image": "livres/009-a-la-bonne-franquette/images/capres-de-marguerites.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "250 g (½ lb) de boutons de marguerites",
+  "180 mL (¾ tasse) de vinaigre de cidre",
+  "60 mL (¼ tasse) de vin blanc",
+  "1 feuille de laurier",
+  "1 branche de thym frais"
+],
+"preparation": [
+  "Par une belle journée ensoleillée de printemps, récolter les boutons de marguerites (c'est-à-dire les fleurs juste avant leur éclosion).",
+  "De retour à la maison, bien nettoyer les boutons sous l'eau froide.",
+  "Dans une grande casserole d'eau bouillante salée, blanchir les boutons de marguerites 1 minute, puis les plonger dans un bol d'eau glacée pour interrompre la cuisson.",
+  "Égoutter les boutons et les disposer dans un ou des contenants hermétiques, de type pot Mason ou autre.",
+  "Dans la casserole, combiner le reste des ingrédients et porter à ébullition. Verser le tout sur les boutons. Sceller le ou les contenants et laisser mariner au moins 24 heures au réfrigérateur. Les câpres se conservent jusqu'à 9 mois au réfrigérateur.",
+  "Note : ces délicieux boutons sont parfaits pour agrémenter salades, tartares ou poisson fumé."
+]
+},
+
+{"id": 1916, "livreId": 9, "titre": "Croustillant de légumes marinés au Galarneau", "page": 106, "categorie": "Entrée", "ingredientPrincipal": "Légumes", "image": "livres/009-a-la-bonne-franquette/images/croustillant-de-legumes-marines.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "150 mL (10 c. à soupe) d'huile d'olive",
+  "750 mL (3 tasses) de poivrons rouges et verts, coupés en lanières",
+  "375 mL (1 ½ tasse) de courgettes, coupées en cubes",
+  "375 mL (1 ½ tasse) d'oignons, émincés",
+  "500 mL (2 tasses) de champignons, émincés",
+  "125 mL (½ tasse) de tomates séchées, émincées",
+  "2 gousses d'ail, dégermées et hachées",
+  "60 mL (¼ tasse) de vinaigre balsamique",
+  "4 feuilles de pâte phyllo, décongelées",
+  "120 g (4 oz) de fromage Galarneau, tranché finement (ou votre fromage québécois préféré)",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Dans une poêle antiadhésive ou un wok à feu vif, chauffer 30 mL (2 c. à soupe) d'huile d'olive pour qu'elle soit très chaude.",
+  "Ajouter les légumes et l'ail, saler et poivrer, puis faire sauter en remuant souvent jusqu'à ce que les légumes soient attendris.",
+  "Déglacer avec le vinaigre balsamique et laisser réduire pour que le liquide s'évapore.",
+  "Égoutter le tout dans une passoire et laisser refroidir.",
+  "Préchauffer le four à 150 °C (300 °F).",
+  "Tapisser une plaque à pâtisserie de papier parchemin.",
+  "Badigeonner une feuille de phyllo d'huile d'olive et la déposer sur la plaque.",
+  "Procéder de la même façon avec les autres feuilles de phyllo, en les superposant sur la plaque. S'assurer de réserver un peu d'huile pour la fin. (La pâte phyllo ayant tendance à se dessécher, il faut travailler vite ou recouvrir les feuilles non huilées d'un linge humide.)",
+  "Déposer la préparation de légumes sur la pâte en laissant vide le tiers supérieur, recouvrir des tranches de fromage Galarneau et former un rouleau assez serré.",
+  "Badigeonner le rouleau d'huile d'olive et cuire au four environ 15 minutes ou jusqu'à coloration dorée.",
+  "Découper le rouleau avec un couteau à pain et servir."
+]
+},
+
+{"id": 1917, "livreId": 9, "titre": "Gratin de courgettes farcies au porc", "page": 108, "categorie": "Viande", "ingredientPrincipal": "Courgette", "image": "livres/009-a-la-bonne-franquette/images/gratin-de-courgettes.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "3 courgettes moyennes",
+  "2 tomates",
+  "1 kg (2 lb) de porc haché",
+  "2 oignons moyens, hachés finement",
+  "4 gousses d'ail, hachées finement",
+  "½ bouquet de persil frais, haché",
+  "Herbes fraîches au goût (de préférence basilic, coriandre, ciboulette, thym)",
+  "125 mL (½ tasse) de vin blanc",
+  "10 mL (2 c. à thé) de sel fin",
+  "2 mL (½ c. à thé) de poivre noir frais moulu",
+  "200 g (7 oz) de fromage Mi-Carême de l'Île-aux-Grues, tranché"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Couper les courgettes en deux sur la longueur et, à l'aide d'une cuillère, les évider en prenant soin de ne pas briser la peau. Réserver la chair dans un grand bol.",
+  "Placer les demi-courgettes dans un plat rectangulaire allant au four, du genre plat à lasagne.",
+  "Trancher les tomates en deux, retirer les pépins et couper la chair en dés.",
+  "Ajouter les tomates en dés, le porc, les oignons, l'ail, le persil, les herbes fraîches, le vin blanc, le sel et le poivre à la chair de courgettes réservée. Bien mélanger.",
+  "Diviser cette farce en six portions et la façonner en forme de saucisses. En déposer une dans chaque demi-courgette.",
+  "Cuire au four environ 1 heure.",
+  "Environ 5 minutes avant la fin de la cuisson, couvrir de tranches de Mi-Carême et faire gratiner sous le gril du four."
+]
+},
+
+{"id": 1918, "livreId": 9, "titre": "Cari de poulet à la noix de coco", "page": 110, "categorie": "Volaille", "ingredientPrincipal": "Poulet", "image": "livres/009-a-la-bonne-franquette/images/cari-de-poulet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "6 poitrines de poulet de grain",
+  "1 boîte (398 mL / 14 oz) de lait de coco",
+  "1 pomme, pelée et coupée en dés",
+  "5 cm (2 po) de racine de gingembre frais, râpée",
+  "4 gousses d'ail, hachées",
+  "45 mL (3 c. à soupe) de cari de Madras*",
+  "15 mL (1 c. à soupe) de sel",
+  "Quelques pincées de poivre noir frais moulu",
+  "30 mL (2 c. à soupe) de fécule de maïs",
+  "Eau",
+  "3 oignons verts, hachés",
+  "* Le cari de Madras est l'un des plus intenses de la cuisine indienne. Il est possible d'y substituer un cari plus doux, au goût."
+],
+"preparation": [
+  "Couper le poulet en gros cubes et déposer les cubes dans une cocotte.",
+  "Ajouter le lait de coco, les dés de pomme, le gingembre, l'ail, le cari, le sel et le poivre. Mélanger pour bien enrober le poulet.",
+  "Si désiré, réfrigérer de 1 à 2 heures afin que les saveurs se marient.",
+  "Préchauffer le four à 190 °C (375 °F).",
+  "Sur la cuisinière, à feu vif, porter le mélange de poulet à ébullition.",
+  "Couvrir et déposer la cocotte dans le four. Cuire de 1 heure 15 minutes à 1 heure 30 minutes.",
+  "Diluer la fécule de maïs dans un peu d'eau. Retirer la cocotte du four, verser le mélange de fécule et remuer délicatement pour lier la sauce.",
+  "Servir garni d'oignons verts hachés.",
+  "Accompagnements : ce cari sera délicieux avec un riz nature, garni de crème sure et de chutney de mangue ou de confiture d'abricots."
+]
+},
+
+{"id": 1919, "livreId": 9, "titre": "Boulettes d'agneau au poivron et au basilic", "page": 112, "categorie": "Viande", "ingredientPrincipal": "Agneau", "image": "livres/009-a-la-bonne-franquette/images/boulettes-d-agneau-au-poivron.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 poivron rouge",
+  "1 oignon jaune",
+  "1 gousse d'ail",
+  "80 mL (⅓ tasse) d'huile d'olive vierge extra",
+  "500 g (1 lb) d'agneau haché",
+  "1 petit bouquet de basilic frais, haché",
+  "60 mL (¼ tasse) de farine",
+  "310 mL (1 ¼ tasse) de vin blanc",
+  "560 mL (2 ¼ tasses) de fond de veau ou concentré de bœuf dilué",
+  "Sel et poivre noir frais moulu, au goût"
+],
+"preparation": [
+  "Préchauffer le four à 220 °C (425 °F).",
+  "À l'aide d'un couteau ou au robot culinaire, hacher très finement le poivron, la moitié de l'oignon et l'ail.",
+  "Dans un poêlon, chauffer 30 mL (2 c. à soupe) d'huile d'olive et y faire suer les légumes hachés. Transférer dans un bol, puis ajouter l'agneau et la moitié du basilic. Assaisonner et bien mélanger jusqu'à consistance homogène.",
+  "Déposer la farine dans une assiette à tarte et la faire colorer au four. Réserver.",
+  "Façonner le mélange d'agneau en boulettes uniformes, puis les disposer sur une plaque de cuisson légèrement huilée. Cuire au four 12 minutes.",
+  "Entre-temps, ciseler l'autre moitié de l'oignon. Dans une casserole, à feu doux, le faire suer dans le reste de l'huile. Saupoudrer de la farine grillée et bien mélanger. Déglacer au vin blanc et, à feu doux, laisser réduire de moitié. Mouiller avec le fond de veau.",
+  "Retirer les boulettes du four et les transférer dans la casserole. Porter à ébullition et cuire à couvert 20 minutes.",
+  "Au moment de servir, incorporer le reste du basilic haché et rectifier l'assaisonnement."
+]
+},
+
+{"id": 1920, "livreId": 9, "titre": "Beurre de pomme, vanille et cidre de glace", "page": 114, "categorie": "Condiment", "ingredientPrincipal": "Pomme", "image": "livres/009-a-la-bonne-franquette/images/beurre-de-pomme.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 gousse de vanille Bourbon",
+  "10 à 12 pommes, pelées, épépinées et coupées en morceaux",
+  "180 mL (¾ tasse) de cassonade",
+  "80 mL (⅓ tasse) de cidre de glace",
+  "310 mL (1 ¼ tasse) de beurre non salé, en morceaux"
+],
+"preparation": [
+  "Couper la gousse de vanille en deux dans le sens de la longueur.",
+  "Dans une casserole, combiner les moitiés de gousse, les morceaux de pommes, la cassonade et le cidre de glace.",
+  "Cuire à feu moyen en brassant régulièrement environ 15 minutes ou jusqu'à ce que les pommes soient cuites. Attention de ne pas faire brûler.",
+  "Retirer les demi-gousses de vanille. À la pointe du couteau, gratter l'intérieur pour en retirer les graines.",
+  "Dans le bol du mélangeur, combiner le mélange de pommes et les graines de vanille et mélanger jusqu'à l'obtention d'une fine purée.",
+  "Ajouter le beurre et mélanger de nouveau jusqu'à consistance homogène, de 5 à 7 minutes.",
+  "Verser dans des contenants et réfrigérer jusqu'au moment de servir. Ce beurre se conservera au réfrigérateur de 3 à 5 semaines."
+]
+},
+
+{"id": 1921, "livreId": 9, "titre": "Short ribs de bœuf, style bistro", "page": 120, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "livres/009-a-la-bonne-franquette/images/short-ribs-de-boeuf.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "2 kg (4 lb) de bouts de côtes de bœuf*",
+  "1 bouteille (750 mL) de vin rouge",
+  "500 mL (2 tasses) de demi-glace de bœuf (sauce brune maison ou du commerce)",
+  "125 mL (½ tasse) de beurre",
+  "500 mL (2 tasses) de mirepoix (carottes, céleri et oignons en dés)",
+  "4 feuilles de laurier",
+  "1 grosse tomate, en dés",
+  "Persil frais, haché",
+  "Eau pour couvrir la viande, si nécessaire",
+  "Sel et poivre noir frais moulu",
+  "* Demandez à votre boucher de les parer et de les couper dans le sens des os."
+],
+"preparation": [
+  "La veille, dans un plat profond et étroit, déposer le bœuf (chair vers le bas) et couvrir de vin rouge.",
+  "Recouvrir le plat de pellicule plastique et laisser macérer au réfrigérateur un bon 12 heures.",
+  "Préchauffer le four à 85 °C (180 °F).",
+  "Si on utilise un produit du commerce, préparer la demi-glace en suivant les directives sur l'emballage.",
+  "Entre-temps, retirer le bœuf du plat et le transférer dans une cocotte avec couvercle. Réserver le vin.",
+  "Dans une casserole, faire fondre le beurre, ajouter la mirepoix et cuire à feu moyen jusqu'à ce que les légumes soient tendres.",
+  "Ajouter le vin réservé, la demi-glace et les feuilles de laurier. Porter à ébullition et laisser réduire du tiers.",
+  "Verser le tout sur le bœuf (ajouter de l'eau si nécessaire pour recouvrir le bœuf), couvrir et cuire au four de 5 à 6 heures, en vérifiant au bout de 4 heures. Quand la viande veut se détacher de l'os, c'est signe qu'il reste 1 heure de cuisson.",
+  "Sortir la cocotte du four et laisser reposer le bœuf 20 minutes dans son jus.",
+  "Délicatement, transférer les côtes de bœuf dans des assiettes de service.",
+  "Dégraisser le jus de cuisson pour ne conserver que la sauce onctueuse. Rectifier l'assaisonnement.",
+  "Verser la sauce sur la viande, puis garnir de dés de tomate et de persil. Servir accompagné d'une bonne purée de pommes de terre, si désiré."
+]
+},
+
+{"id": 1922, "livreId": 9, "titre": "Poulet farci aux asperges et au fromage oka, crème de pesto", "page": 122, "categorie": "Volaille", "ingredientPrincipal": "Poulet", "image": "livres/009-a-la-bonne-franquette/images/poulet-farci-aux-asperges.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "12 asperges",
+  "4 poitrines de poulet sans peau ni os",
+  "4 tranches épaisses de fromage oka",
+  "5 ou 6 feuilles de basilic frais",
+  "500 mL (2 tasses) de crème à cuisson 35 % M.G.",
+  "45 mL (3 c. à soupe) de pesto de basilic",
+  "4 tranches de prosciutto",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Dans une casserole d'eau bouillante salée, blanchir les asperges de 3 à 4 minutes. Égoutter et réserver.",
+  "Dans le sens de la longueur, pratiquer délicatement une incision dans les poitrines de poulet, et les ouvrir en portefeuille.",
+  "Dans la cavité de chaque poitrine, déposer 1 tranche de fromage oka et 3 asperges.",
+  "Hacher finement le basilic et le répartir sur les asperges. Saler et poivrer l'intérieur au goût.",
+  "Refermer chaque poitrine sur les ingrédients afin de former des ballotines. Il faut éviter que le fromage s'échappe durant la cuisson.",
+  "Envelopper chaque poitrine dans de la pellicule plastique, très serré, pour bien sceller et conserver toute la saveur.",
+  "Déposer les ballotines dans un plat allant au four. Verser de l'eau autour, de façon à couvrir les ballotines aux trois quarts.",
+  "Cuire au four de 20 à 25 minutes.",
+  "Entre-temps, verser la crème dans une casserole. Ajouter le pesto et faire mijoter à feu très doux 15 minutes. Saler et poivrer au goût.",
+  "Sortir les ballotines du four et retirer la pellicule plastique. Enrouler chaque poitrine dans une tranche de prosciutto et couper en tranches d'environ 2,5 cm (1 po) d'épaisseur.",
+  "Napper de crème de pesto et servir."
+]
+},
+
+{"id": 1923, "livreId": 9, "titre": "Salade d'hiver", "page": 124, "categorie": "Salade", "ingredientPrincipal": "Légumes", "image": "livres/009-a-la-bonne-franquette/images/salade-d-hiver.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "2 L (8 tasses) de concombres, pelés et coupés en dés, avec graines*",
+  "1 L (4 tasses) de tomates vertes, coupées en dés",
+  "1 L (4 tasses) d'oignons, émincés finement",
+  "1 chou moyen, émincé finement",
+  "6 carottes moyennes, râpées",
+  "250 mL (1 tasse) de sel fin",
+  "1 L (4 tasses) de sucre blanc",
+  "45 mL (3 c. à soupe) de moutarde sèche",
+  "2 mL (½ c. à thé) de curcuma",
+  "250 mL (1 tasse) de farine blanche",
+  "750 mL (3 tasses) de vinaigre",
+  "* Bien laver tous les légumes à l'eau froide et bien les essuyer avant de les couper."
+],
+"preparation": [
+  "Dans un grand bol, déposer les concombres, les tomates, les oignons, le chou et les carottes. Couvrir d'eau, ajouter le sel fin, mélanger et laisser reposer 1 heure.",
+  "Entre-temps, stériliser les pots à marinades. Dans une grande marmite, les recouvrir d'eau et laisser bouillir à gros bouillons 15 minutes. Ajouter les couvercles dans l'eau bouillante 5 minutes avant la fin.",
+  "Dans une grande casserole, verser le sucre, la moutarde sèche, le curcuma, la farine et le vinaigre. Bien mélanger.",
+  "Égoutter les légumes et les verser dans la casserole. Remuer et cuire à feu moyen environ 15 minutes ou jusqu'à épaississement du liquide. Remuer sans arrêt durant la cuisson.",
+  "Verser les marinades chaudes dans les pots stérilisés et sceller. Laisser refroidir à la température ambiante.",
+  "Note : cette salade d'hiver se conservera facilement plus d'un an dans un endroit frais. À déguster avec vos viandes, gibiers, charcuteries et terrines."
+]
+},
+
+{"id": 1924, "livreId": 9, "titre": "Tartines aux œufs pochés, saumon fumé et beurre de truffe", "page": 130, "categorie": "Déjeuner", "ingredientPrincipal": "Œuf", "image": "livres/009-a-la-bonne-franquette/images/tartines-aux-oeufs-poches.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "250 mL (1 tasse) de crème 35 % M.G.",
+  "180 mL (¾ tasse) de beurre non salé, en cubes",
+  "20 mL (4 c. à thé) de beurre non salé pour le pain",
+  "2 mL (½ c. à thé) d'huile de truffe",
+  "Vinaigre blanc",
+  "8 œufs",
+  "4 tranches de miche de campagne de 2,5 cm (1 po) d'épaisseur",
+  "4 tranches de saumon fumé",
+  "20 mL (4 c. à thé) de caviar de mulet d'Espagne",
+  "Ciboulette, hachée",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Dans une casserole, porter la crème à ébullition. En fouettant, incorporer 180 mL (¾ tasse) de beurre en cubes.",
+  "Une fois le beurre fondu, ajouter l'huile de truffe, saler, poivrer et émulsionner le tout au mélangeur.",
+  "Poursuivre la cuisson sur la cuisinière à feu très doux, en s'assurant de ne pas laisser bouillir.",
+  "Porter une casserole d'eau salée et légèrement vinaigrée juste sous le point d'ébullition, c'est-à-dire que l'eau doit être frémissante mais sans bouillonner.",
+  "Y pocher les œufs 3 minutes. Retirer les œufs de l'eau et les plonger dans un bol d'eau glacée. (Au moment de servir, remettre les œufs dans de l'eau chaude salée et les réchauffer 1 minute.)",
+  "Faire griller les tranches de pain de campagne d'un côté seulement et tartiner de beurre le côté grillé.",
+  "Garnir chaque tranche de pain de 1 tranche de saumon fumé et de 2 œufs pochés. Napper de beurre de truffe.",
+  "Décorer chaque portion de 5 mL (1 c. à thé) de caviar et de ciboulette, puis saler et poivrer. Servir aussitôt."
+]
+},
+
+{"id": 1925, "livreId": 9, "titre": "Soupe de panais à la clémentine", "page": 132, "categorie": "Soupe", "ingredientPrincipal": "Panais", "image": "livres/009-a-la-bonne-franquette/images/soupe-de-panais-a-la-clementine.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "15 mL (1 c. à soupe) d'huile d'olive",
+  "250 mL (1 tasse) de pommes de terre, pelées et coupées en cubes",
+  "500 mL (2 tasses) de panais, tranchés en rondelles",
+  "250 mL (1 tasse) de céleri-rave, pelé et coupé en morceaux",
+  "500 mL (2 tasses) de carottes, tranchées en rondelles",
+  "250 mL (1 tasse) de blancs de poireaux, émincés",
+  "1 clémentine ou quartier d'orange",
+  "1,75 L (7 tasses) de fond de volaille ou bouillon de poulet",
+  "4 branches d'estragon frais",
+  "250 mL (1 tasse) de crème 35 % M.G.",
+  "30 mL (2 c. à soupe) de miel",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Dans une grande casserole, chauffer l'huile. Ajouter les légumes et cuire jusqu'à légère coloration.",
+  "Incorporer la clémentine, le fond de volaille et l'estragon.",
+  "Faire mijoter à feu moyen-vif 30 minutes, jusqu'à ce que les pommes de terre soient cuites.",
+  "Passer au mélangeur pour en faire une purée, puis au chinois ou au tamis pour obtenir une texture onctueuse.",
+  "Ajouter la crème et le miel, remettre sur le feu et réchauffer doucement, en évitant de faire bouillir. Saler et poivrer au goût.",
+  "Servir garni de yogourt aromatisé ou de quartiers de clémentine en conserve, si désiré."
+]
+},
+
+{"id": 1926, "livreId": 9, "titre": "Raviolis de langoustine frits", "page": 134, "categorie": "Pâtes", "ingredientPrincipal": "Langoustine", "image": "livres/009-a-la-bonne-franquette/images/raviolis-de-langoustine-frits.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "Huile pour la friture",
+  "4 grosses queues de langoustines (ou 8 petites)",
+  "1 échalote française, ciselée",
+  "10 feuilles de coriandre, hachées (ou plus au goût)",
+  "1 petite pomme de terre à chair jaune, pelée et bouillie",
+  "24 feuilles de pâte à won-ton, décongelées",
+  "250 mL (1 tasse) de mayonnaise",
+  "5 mL (1 c. à thé) de pâte de piment fort (sambal oelek ou autre)",
+  "Sel et poivre noir frais moulu, au goût"
+],
+"preparation": [
+  "Préchauffer l'huile à 180 °C (350 °F) dans la friteuse. Hacher les langoustines.",
+  "Dans un grand bol, les mélanger avec l'échalote, la coriandre et la pomme de terre. Saler et poivrer au goût.",
+  "Étaler 12 feuilles de pâte à won-ton sur une surface de travail. Déposer une cuillerée du mélange de langoustines au centre. Mouiller le contour des pâtes avec un peu d'eau. Couvrir des autres feuilles de pâte et refermer le tout comme des raviolis.",
+  "Frire 2 minutes et transférer sur du papier essuie-tout.",
+  "Dans un bol, combiner la mayonnaise et la pâte de piment. Servir avec les raviolis bien chauds."
+]
+},
+
+{"id": 1927, "livreId": 9, "titre": "Potage de légumes grand-mère", "page": 136, "categorie": "Soupe", "ingredientPrincipal": "Légumes", "image": "livres/009-a-la-bonne-franquette/images/potage-de-legumes-grand-merr.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1,75 L (7 tasses) de plusieurs légumes au choix (panais, fenouil, céleri-rave, carotte, navet, poireaux, oignons, etc.)",
+  "500 mL (2 tasses) de tomates concassées en dés",
+  "4 gousses d'ail, hachées",
+  "1,5 L (6 tasses) de bouillon de poulet",
+  "1 feuille de laurier",
+  "1 branche de thym",
+  "30 mL (2 c. à soupe) de beurre",
+  "30 mL (2 c. à soupe) de moutarde à l'ancienne",
+  "30 mL (2 c. à soupe) de crème sure",
+  "Sel et poivre blanc, au goût"
+],
+"preparation": [
+  "Couper tous les légumes-racines en cubes. Émincer les poireaux et les oignons. Dans une casserole, réunir tous les ingrédients, sauf la moutarde et la crème sure, et cuire 1 heure.",
+  "Passer la préparation au mélangeur, puis dans un chinois ou un tamis afin d'obtenir une purée homogène. Rectifier l'assaisonnement et verser dans des bols.",
+  "Dans un petit bol, mélanger la moutarde et la crème sure. En garnir la soupe et servir."
+]
+},
+
+{"id": 1928, "livreId": 9, "titre": "Salade de sardines, façon tapas", "page": 138, "categorie": "Salade", "ingredientPrincipal": "Sardine", "image": "livres/009-a-la-bonne-franquette/images/salade-de-sardines.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 pain ciabatta",
+  "Huile d'olive",
+  "½ bulbe de fenouil et ses pluches (feuilles)",
+  "2 ou 3 radis moyens",
+  "2 poires asiatiques",
+  "1 boîte (106 g) de sardines à l'huile d'olive",
+  "30 g (1 oz) de caviar de Mujold",
+  "Le jus et le zeste de ½ citron",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Défaire la ciabatta à la main, en petits morceaux. Disposer les morceaux sur une plaque de cuisson, asperger d'huile, saler et poivrer.",
+  "Cuire au four jusqu'à ce que les croûtons soient bien dorés. Laisser refroidir.",
+  "À la mandoline de préférence, couper le bulbe de fenouil, les radis et les poires en tranches très fines.",
+  "Retirer les sardines de leur boîte et les transférer dans un grand bol.",
+  "Ajouter les légumes et les poires tranchés, le caviar, les pluches de fenouil, les croûtons, le jus et le zeste de citron. Saler et poivrer.",
+  "Mélanger délicatement de manière à ne pas abîmer les sardines. Dans les assiettes, disposer les portions en forme de petit sapin."
+]
+},
+
+{"id": 1929, "livreId": 9, "titre": "Lapin à la napolitaine", "page": 140, "categorie": "Viande", "ingredientPrincipal": "Lapin", "image": "livres/009-a-la-bonne-franquette/images/lapin-a-la-napolitaine.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 lapin de 1 kg (2 lb)",
+  "30 mL (2 c. à soupe) d'huile d'olive",
+  "2 échalotes françaises, hachées",
+  "5 gousses d'ail, hachées",
+  "125 mL (½ tasse) de vin blanc sec",
+  "2 boîtes (796 mL chacune) de tomates en dés",
+  "1 branche de thym, effeuillée",
+  "6 feuilles de sauge",
+  "250 mL (1 tasse) d'olives noires, dénoyautées",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Découper le lapin en huit morceaux.",
+  "Dans une cocotte, chauffer l'huile. Assaisonner le lapin et le saisir à feu vif de tous les côtés. Retirer la viande de la cocotte et réserver.",
+  "Dans la cocotte à feu moyen, faire revenir les échalotes et l'ail 2 minutes.",
+  "Mouiller avec le vin blanc, puis ajouter les tomates, les fines herbes, du sel et du poivre. Cuire 20 minutes à couvert.",
+  "Remettre le lapin dans la cocotte, ajouter les olives et poursuivre la cuisson à couvert 30 minutes à feu doux.",
+  "Découvrir et cuire encore 30 minutes. Il ne reste qu'à déguster..."
+]
+},
+
+{"id": 1930, "livreId": 9, "titre": "Rillettes de crabe des neiges, mayonnaise à l'huile d'olive et au piri-piri", "page": 142, "categorie": "Entrée", "ingredientPrincipal": "Crabe", "image": "livres/009-a-la-bonne-franquette/images/rillettes-de-crabe.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "Mayonnaise* :",
+  "1 jaune d'œuf",
+  "Moutarde de Dijon, au goût",
+  "Quelques gouttes de sauce piri-piri**",
+  "Sel de mer, au goût",
+  "180 mL (¾ tasse) d'huile d'olive vierge",
+  "Rillettes :",
+  "Le zeste de 1 citron bien lavé",
+  "45 mL (3 c. à soupe) de ciboulette, émincée",
+  "45 mL (3 c. à soupe) de persil frais, haché",
+  "500 g (1 lb) de chair de crabe des neiges",
+  "* Le secret pour réussir la mayonnaise est de s'assurer que tous les ingrédients utilisés sont à la température ambiante.",
+  "** La sauce piri-piri est une spécialité portugaise à base de piments forts. Elle peut être remplacée par de la sauce tabasco."
+],
+"preparation": [
+  "Mayonnaise : dans un bol, combiner tous les ingrédients de la mayonnaise, sauf l'huile.",
+  "À l'aide d'un pied mélangeur ou d'un fouet, monter la mayonnaise en ajoutant l'huile graduellement, en filet.",
+  "Rectifier l'assaisonnement.",
+  "Rillettes : à la mayonnaise, ajouter le zeste de citron et les fines herbes.",
+  "Très délicatement, y incorporer le crabe des neiges jusqu'à l'obtention d'une texture semblable à celle de rillettes.",
+  "Servir avec du pain ou des croûtons de pain de maïs portugais."
+]
+},
+
+{"id": 1931, "livreId": 9, "titre": "Escalope de bœuf panée, sauce chipotle et purée de pommes de terre", "page": 144, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "livres/009-a-la-bonne-franquette/images/escalope-de-boeuf-panee-sauce-chipotle.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "2 œufs",
+  "375 mL (1 ½ tasse) de chapelure",
+  "4 escalopes de bœuf",
+  "75 mL (5 c. à soupe) d'huile d'olive",
+  "3 piments chipotle (vendus en conserve)",
+  "125 mL (½ tasse) de mayonnaise",
+  "4 pommes de terre, pelées",
+  "80 mL (⅓ tasse) de crème 15 % M.G.",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Dans un bol, battre les œufs.",
+  "Dans une assiette, étaler la chapelure.",
+  "Saler et poivrer les escalopes, les passer dans les œufs battus, puis dans la chapelure.",
+  "Dans un poêlon, chauffer l'huile à feu vif. Y faire frire les escalopes de chaque côté jusqu'à la cuisson désirée.",
+  "Au mélangeur ou dans un mortier, broyer les piments chipotle.",
+  "Incorporer la mayonnaise en mélangeant bien.",
+  "Dans une grande casserole d'eau bouillante salée, cuire les pommes de terre environ 15 minutes ou jusqu'à tendreté.",
+  "Égoutter les pommes de terre et les remettre dans la casserole. Ajouter la crème, saler, poivrer et réduire en purée.",
+  "Dresser les escalopes et la purée de pommes de terre dans quatre assiettes. Servir la sauce chipotle en accompagnement, dans un petit bol. Buen provecho !"
+]
+},
+
+{"id": 1932, "livreId": 9, "titre": "Filets de bœuf à la japonaise", "page": 146, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "livres/009-a-la-bonne-franquette/images/filet-de-boeuf-a-la-japonaise.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "4 filets de bœuf de 225 g (8 oz) chacun",
+  "125 mL (½ tasse) d'huile de canola ou d'arachide pour la sauce",
+  "15 mL (1 c. à soupe) d'huile de canola ou d'arachide pour la cuisson des filets",
+  "15 mL (1 c. à soupe) de grains de poivre noir",
+  "3 ou 4 anis étoilés entiers",
+  "15 mL (1 c. à soupe) de graines de coriandre",
+  "1 mL (¼ c. à thé) de poivre de Sichuan",
+  "2 mL (½ c. à thé) de pâte de cari douce ou poudre de cari",
+  "15 mL (1 c. à soupe) de miel ou sirop d'érable",
+  "125 mL (½ tasse) de madère ou vin rouge",
+  "15 mL (1 c. à soupe) de vinaigre de riz",
+  "180 mL (¾ tasse) de fond de veau",
+  "30 mL (2 c. à soupe) de beurre",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Sortir la viande du réfrigérateur 15 minutes avant la cuisson et laisser à la température ambiante.",
+  "Entre-temps, dans un poêlon, chauffer 125 mL (½ tasse) d'huile, les grains de poivre, l'anis étoilé, la coriandre et le poivre de Sichuan environ 2 minutes, pour en libérer les parfums.",
+  "Incorporer le cari et le miel.",
+  "Déglacer avec le madère et réduire de moitié à feu moyen-vif.",
+  "Incorporer le vinaigre de riz et le fond de veau, puis laisser réduire jusqu'à consistance épaisse et sirupeuse.",
+  "Retirer du feu et passer au chinois ou au tamis fin. Incorporer le beurre en fouettant. Réserver.",
+  "Badigeonner les filets de bœuf avec le reste de l'huile, saler et poivrer.",
+  "Dans un autre poêlon à feu vif, saisir la viande de 3 à 4 minutes par côté ou jusqu'à la cuisson désirée.",
+  "Transférer les filets dans une assiette, couvrir de papier d'aluminium et laisser reposer 5 minutes.",
+  "Servir les filets nappés de sauce. Accompagner d'épinards et d'une purée de pommes de terre relevée d'un soupçon de wasabi, si désiré."
+]
+},
+
+{"id": 1933, "livreId": 9, "titre": "Mon jarret de bœuf 12 heures", "page": 148, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "livres/009-a-la-bonne-franquette/images/mon-jarret-de-boeuf.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 jarret de bœuf",
+  "45 mL (3 c. à soupe) de beurre ou huile",
+  "1 bouteille (750 mL) de vin rouge",
+  "2 L (8 tasses) de bouillon de bœuf",
+  "3 ou 4 feuilles de laurier",
+  "1 bulbe d'ail, coupé en deux",
+  "1 botte de thym",
+  "500 g (1 lb) de carottes nantaises",
+  "18 oignons perles rouges",
+  "500 g (1 lb) de topinambours",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Préchauffer le four à 150 °C (300 °F).",
+  "Bien saler et poivrer le jarret.",
+  "Dans un grand poêlon à feu vif, chauffer 30 mL (2 c. à soupe) de beurre ou d'huile et y saisir le jarret sur toutes les faces.",
+  "Transférer le jarret dans une grosse marmite et ajouter le vin, le bouillon, le laurier, l'ail et le thym.",
+  "Porter le tout à ébullition sur la cuisinière, puis déposer au four préchauffé et poursuivre la cuisson 12 heures.",
+  "Peler les carottes, les oignons et les topinambours. Couper les carottes et les topinambours en gros morceaux.",
+  "Dans un poêlon, faire chauffer le reste de beurre ou d'huile. Y faire colorer légèrement les légumes. Verser le tout dans la marmite 30 minutes avant la fin de la cuisson du jarret.",
+  "Retirer le jarret et les légumes de la marmite et réserver au chaud.",
+  "Sur la cuisinière à feu vif, faire réduire le bouillon de moitié. Passer au chinois ou au tamis.",
+  "Dans un grand plat de service, dresser le jarret entouré des légumes. Servir la sauce en accompagnement, dans un saucier."
+]
+},
+
+{"id": 1934, "livreId": 9, "titre": "Poivrons farcis à la mozzarella et au saucisson façon Mamie Angèle", "page": 150, "categorie": "Légume", "ingredientPrincipal": "Poivron", "image": "livres/009-a-la-bonne-franquette/images/poivrons-farcis-a-la-mozzarella.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "8 poivrons rouges",
+  "½ baguette de pain, coupée en gros cubes",
+  "500 mL (2 tasses) de lait tiède",
+  "3 œufs battus",
+  "200 g (7 oz) de saucisson sec, taillé en petits dés",
+  "1 boule de mozzarella fraîche (bocconcini), taillée en petits dés",
+  "125 g (4 oz) de parmesan frais, râpé",
+  "Poivre noir frais moulu, au goût",
+  "500 mL (2 tasses) de sauce tomate maison (c'est meilleur !) ou du commerce",
+  "Huile d'olive vierge extra"
+],
+"preparation": [
+  "Sur la grille du barbecue préchauffé à température élevée, faire griller les poivrons sur toutes leurs faces. Transférer dans un bol, recouvrir de pellicule plastique et laisser refroidir.",
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Dans un bol, combiner le pain et le lait tiède. Une fois le pain ramolli, ajouter les œufs, le saucisson, la mozzarella et le parmesan. Poivrer généreusement et bien mélanger afin d'obtenir une farce homogène. Réserver.",
+  "Peler les poivrons et pratiquer une incision de bas en haut pour pouvoir les épépiner et les « dérouler » de façon à former une bande. Les déposer à plat sur une surface de travail.",
+  "Diviser la farce en 8 portions égales et la répartir dans les poivrons. Rouler les poivrons comme des cannellonis.",
+  "Dans un plat allant au four légèrement huilé, déposer les poivrons farcis, couture vers le bas. Recouvrir de sauce tomate et cuire 30 minutes.",
+  "Dresser deux poivrons dans chaque assiette et les arroser d'un filet d'huile d'olive. Servir avec une salade de roquette et des croûtons de pain frottés d'ail, si désiré."
+]
+},
+
+{"id": 1935, "livreId": 9, "titre": "Boles de picoulat", "page": 152, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "livres/009-a-la-bonne-franquette/images/boles-de-picoulat.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "Boles :",
+  "1 belle tranche de pain de campagne sec ou 3 à 4 tranches de pain tranché, en cubes",
+  "125 mL (½ tasse) de lait tiède",
+  "1 kg (2 lb) de mélange de porc et de bœuf haché",
+  "4 œufs",
+  "1 échalote française, hachée",
+  "2 branches de persil, hachées",
+  "Sel et poivre noir frais moulu, au goût",
+  "Sauce et garniture :",
+  "90 g (3 oz) de cèpes séchés",
+  "125 g (¼ lb) d'olives vertes dénoyautées",
+  "3 gros oignons, émincés",
+  "6 à 8 gousses d'ail, hachées",
+  "30 mL (2 c. à soupe) d'huile d'olive",
+  "1 pincée de farine",
+  "5 belles tomates coupées en deux, pelées et épépinées",
+  "250 g (½ lb) de carottes coupées en bâtonnets"
+],
+"preparation": [
+  "Boles : dans un bol, faire tremper le pain dans le lait tiède quelques minutes, puis le transférer dans un grand saladier. Ajouter le mélange de viandes hachées, les œufs, l'échalote, le persil, du sel et du poivre.",
+  "Bien mélanger et pétrir de façon à obtenir une préparation homogène. Laisser reposer le temps de faire la sauce. (Si la préparation est trop molle pour être façonnée, la couvrir de pellicule plastique et laisser reposer au réfrigérateur jusqu'à ce qu'elle soit plus ferme.)",
+  "Sauce et garniture : dans un bol, faire tremper les cèpes dans 250 mL (1 tasse) d'eau tiède 15 minutes. Égoutter les champignons en réservant l'eau de trempage.",
+  "Dans une petite casserole d'eau bouillante, blanchir les olives 1 minute. Égoutter et réserver.",
+  "Dans une casserole, faire dorer les oignons et l'ail dans la moitié de l'huile. Saupoudrer de farine et cuire quelques instants. Ajouter les tomates, les cèpes réhydratés et les olives blanchies. Laisser mijoter.",
+  "Continuer la préparation des boles : avec les mains légèrement mouillées, façonner de petites boules de viande de la taille d'un abricot. Dans un poêlon, chauffer le reste de l'huile d'olive et y saisir les boles. Les mettre dans la sauce et mouiller avec l'eau de trempage réservée (la viande doit être recouverte de liquide ; il faut donc ajouter de l'eau, si nécessaire). Ajouter les carottes et laisser mijoter à feu doux environ 2 heures. Vérifier l'assaisonnement et servir avec de bonnes pâtes ou une purée de pommes de terre, si désiré."
+]
+},
+
+{"id": 1936, "livreId": 9, "titre": "Tortellinis au féta et aux pêches", "page": 154, "categorie": "Pâtes", "ingredientPrincipal": "Féta", "image": "livres/009-a-la-bonne-franquette/images/tortellinis-au-feta.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 sac (environ 200 g) de tortellinis au fromage",
+  "2 tomates, en dés",
+  "10 olives noires dénoyautées",
+  "50 g (1 ¾ oz) de fromage féta, en cubes",
+  "6 demi-pêches en conserve, égouttées*, en dés",
+  "Feuilles de basilic frais ciselées, au goût",
+  "Huile d'olive vierge extra, au goût",
+  "Sel et poivre noir frais moulu, au goût",
+  "* En saison, vous pouvez remplacer les pêches en conserve par des dés de mangue fraîche."
+],
+"preparation": [
+  "Dans une casserole d'eau bouillante salée, cuire les tortellinis en suivant les indications du fabricant.",
+  "Retirer les tortellinis de l'eau et les égoutter. Les faire tiédir à la température ambiante quelques minutes seulement.",
+  "Entre-temps, combiner le reste des ingrédients. (Attendre à la fin pour saler, si nécessaire, car le féta et les olives sont déjà très salés.)",
+  "Verser les tortellinis tièdes sur la salade et mélanger délicatement. Servir aussitôt."
+]
+},
+
+{"id": 1937, "livreId": 9, "titre": "Bouilli de la récolte", "page": 156, "categorie": "Viande", "ingredientPrincipal": "Légumes", "image": "livres/009-a-la-bonne-franquette/images/bouilli-de-la-recolte.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "45 mL (3 c. à soupe) d'huile végétale",
+  "1 rôti de palette d'environ 1 kg (2 lb)",
+  "160 mL (⅔ tasse) de vin blanc",
+  "200 g (7 oz) de lard salé fumé, en lardons",
+  "8 gousses d'ail",
+  "2 L (8 tasses) de bouillon de volaille ou eau",
+  "1 gros oignon, coupé en huit quartiers",
+  "1 petit chou, coupé en quatre",
+  "Pommes de terre nouvelles, au goût",
+  "Carottes fanes, au goût",
+  "Haricots verts et jaunes, au goût",
+  "8 branches de thym",
+  "Sel et poivre noir frais moulu, au goût"
+],
+"preparation": [
+  "Dans une casserole suffisamment grande pour contenir tous les ingrédients, chauffer l'huile végétale.",
+  "Saler et poivrer généreusement le rôti de palette et le saisir des deux côtés dans l'huile chaude. Lorsque la pièce de viande est bien colorée, la retirer et la réserver. Jeter le gras de cuisson.",
+  "Déglacer la casserole au vin blanc, puis y remettre le rôti.",
+  "Ajouter le lard salé et l'ail, puis mouiller avec le bouillon de volaille afin que les légumes soient bien recouverts (ajouter de l'eau si nécessaire). Laisser mijoter doucement à couvert pendant 2 heures 30 minutes.",
+  "Ajouter l'oignon, le chou et les pommes de terre, et cuire encore 30 minutes. Ajouter les carottes et poursuivre la cuisson pendant 10 minutes. Finalement, ajouter les haricots et les branches de thym, et poursuivre la cuisson 8 minutes. Rectifier l'assaisonnement du bouillon.",
+  "Servir accompagné de pain au levain, de beurre salé et de cornichons marinés."
+]
+},
+
+{"id": 1938, "livreId": 9, "titre": "Gnocchis à la ricotta, sauce à la fontina", "page": 158, "categorie": "Pâtes", "ingredientPrincipal": "Ricotta", "image": "livres/009-a-la-bonne-franquette/images/gnocchis-a-la-ricotta.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 g (16 oz) de ricotta maison ou du commerce (de type Tre Stelle)",
+  "125 mL (½ tasse) de parmesan frais, râpé",
+  "250 mL (1 tasse) de farine blanche tout usage",
+  "50 g (1 ¾ oz) de gros sel",
+  "500 mL (2 tasses) de crème 35 % M.G.",
+  "150 g (5 oz) de fromage fontina",
+  "Huile de truffe",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Dans un saladier, mélanger ensemble la ricotta, le parmesan râpé et la farine. Pétrir jusqu'à l'obtention d'une pâte homogène. Réserver.",
+  "Faire bouillir une grande casserole d'eau avec le gros sel.",
+  "Rouler la pâte sur un plan de travail fariné pour former des boudins d'environ 1 cm (½ po) de diamètre.",
+  "À l'aide d'un couteau, tailler les gnocchis tous les 1,5 cm (¾ po).",
+  "Plonger les gnocchis dans l'eau bouillante. Dès qu'ils remontent à la surface, les retirer de l'eau à l'aide d'une écumoire et réserver.",
+  "Dans une petite casserole, porter la crème à ébullition. Fermer le feu et ajouter la fontina, en fouettant pour bien mélanger.",
+  "Ajouter les gnocchis pour les réchauffer et les laisser s'imbiber de sauce. Saler et poivrer.",
+  "Quand les gnocchis sont chauds, les transférer dans des assiettes de service et les parsemer de quelques gouttes d'huile de truffe (pas trop, sinon l'arôme de la truffe pourrait dominer). Servir aussitôt."
+]
+},
+
+{"id": 1939, "livreId": 9, "titre": "Salade de fraises et son crémeux de yogourt au chocolat blanc", "page": 160, "categorie": "Dessert", "ingredientPrincipal": "Fraise", "image": "livres/009-a-la-bonne-franquette/images/salade-de-fraises-et-son-cremeux.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "160 mL (⅔ tasse) de crème 35 % M.G.",
+  "250 g (½ lb) de chocolat blanc en pastilles",
+  "250 mL (1 tasse) de yogourt type méditerranéen (10 %)",
+  "45 mL (3 c. à soupe) de jus de citron",
+  "75 mL (5 c. à soupe) de miel",
+  "60 mL (¼ tasse) d'huile d'olive",
+  "24 fraises du Québec",
+  "Pousses d'herbes au choix : coriandre, mélisse, thym citronné, basilic grec…"
+],
+"preparation": [
+  "Dans une casserole, porter la crème à ébullition. Déposer les pastilles de chocolat dans un bol. Retirer la crème du feu et la verser sur le chocolat. Laisser reposer 1 minute.",
+  "À l'aide d'un fouet, émulsionner la crème et le chocolat pour obtenir un mélange parfaitement lisse. Incorporer le yogourt et bien mélanger.",
+  "Couvrir de pellicule plastique et laisser figer au réfrigérateur au moins 8 heures.",
+  "Dans un cul-de-poule, fouetter ensemble le jus de citron, le miel et l'huile d'olive.",
+  "Couper les fraises en quatre et les arroser de quelques cuillerées de vinaigrette.",
+  "Répartir la salade de fraises dans huit verres, couvrir d'une bonne cuillerée de crémeux de yogourt et terminer par quelques pousses d'herbes fraîches."
+]
+},
+
+{"id": 1940, "livreId": 9, "titre": "Bublanina ou Bubbly cake", "page": 162, "categorie": "Dessert", "ingredientPrincipal": "Farine", "image": "livres/009-a-la-bonne-franquette/images/bublanina.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "2 œufs",
+  "160 mL (⅔ tasse) de sucre",
+  "160 mL (⅔ tasse) de crème sure (non allégée)",
+  "5 mL (1 c. à thé) de vanille",
+  "7 mL (1 ½ c. à thé) de zeste de citron, râpé",
+  "330 mL (1 ⅓ tasse) de farine tout usage",
+  "6 mL (1 ¼ c. à thé) de levure chimique (poudre à pâte)",
+  "750 mL (3 tasses) de fruits au choix (fraises, framboises, bleuets, mûres, etc.), frais ou surgelés",
+  "60 mL (¼ tasse) de sucre à glacer (pour décorer)"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Dans un bol, fouetter les œufs et le sucre jusqu'à ce que le mélange blanchisse.",
+  "Ajouter la crème sure, la vanille et le zeste de citron, en mélangeant bien.",
+  "Incorporer la farine et la poudre à pâte, en mélangeant encore.",
+  "Verser la pâte dans un moule à pain de 23 cm x 33 cm (9 po x 13 po) tapissé de papier parchemin.",
+  "Avec une spatule, étendre la pâte uniformément dans le moule, puis la parsemer de fruits.",
+  "Cuire au four de 35 à 40 minutes ou jusqu'à ce qu'un cure-dents inséré au centre en ressorte propre. Laisser refroidir à la température ambiante.",
+  "Pour servir, saupoudrer de sucre à glacer et couper en morceaux."
+]
+},
+
+{"id": 1941, "livreId": 9, "titre": "Gâteau aux carottes de Mme Carette", "page": 164, "categorie": "Dessert", "ingredientPrincipal": "Carotte", "image": "livres/009-a-la-bonne-franquette/images/gateau-aux-carottes.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 mL (2 tasses) de sucre blanc",
+  "4 œufs",
+  "330 mL (1 ⅓ tasse) d'huile au goût (une bonne huile d'olive, de préférence)",
+  "750 mL (3 tasses) de carottes râpées",
+  "250 mL (1 tasse) de noix de coco",
+  "250 mL (1 tasse) de noix de Grenoble ou pacanes",
+  "500 mL (2 tasses) + 10 mL (2 c. à thé) de farine tout usage",
+  "10 mL (2 c. à thé) de bicarbonate de soude",
+  "10 mL (2 c. à thé) de cannelle",
+  "125 mL (½ tasse) de beurre",
+  "500 mL (2 tasses) de sucre à glacer",
+  "125 g (4 oz) de fromage à la crème",
+  "5 mL (1 c. à thé) d'extrait de vanille"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Dans un grand bol, fouetter ensemble le sucre blanc et les œufs jusqu'à ce qu'ils blanchissent. Ajouter l'huile en filet et bien émulsionner.",
+  "Dans un autre bol, combiner les carottes, la noix de coco, les noix de Grenoble, 500 mL (2 tasses) de farine, le bicarbonate de soude et la cannelle. Ajouter au mélange d'œufs et mélanger à l'aide d'une spatule ou d'une cuillère de bois jusqu'à ce que la pâte soit homogène.",
+  "Beurrer un moule à gâteau plat et large (d'une capacité d'environ 3,5 L / 14 tasses) et le fariner avec 5 mL (1 c. à thé) de farine, puis y verser la pâte. À l'aide de la spatule, égaliser le dessus. Cuire au four de 30 à 40 minutes ou jusqu'à ce qu'un cure-dents inséré au centre en ressorte propre.",
+  "Sortir le gâteau du four et laisser refroidir complètement avant de le glacer.",
+  "Pour le glaçage, dans un grand bol, crémer ensemble le beurre et le sucre à glacer. Ajouter le fromage à la crème en mélangeant bien. Incorporer le reste de la farine et la vanille. Glacer le gâteau refroidi."
+]
+},
+
+{"id": 1942, "livreId": 9, "titre": "Sucettes au chocolat au lait et au thé chai", "page": 166, "categorie": "Dessert", "ingredientPrincipal": "Chocolat", "image": "livres/009-a-la-bonne-franquette/images/sucettes-au-chocolat.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "400 g (13 ½ oz) de chocolat au lait, haché",
+  "1 sachet de thé chai, marque au choix",
+  "Matériel :",
+  "1 pot Mason d'environ 1 L (4 tasses)",
+  "24 à 30 carrés de 8 cm (3 po) de feuille guitare*",
+  "12 à 15 bâtonnets de bois",
+  "* Vous trouverez la feuille guitare dans les cuisineries. Conçue spécialement pour travailler le chocolat, elle lui conserve sa brillance. Vous pouvez lui substituer du papier parchemin."
+],
+"preparation": [
+  "Déposer le chocolat dans le pot Mason.",
+  "Ouvrir le sachet de thé et verser son contenu sur le chocolat. Bien fermer le pot.",
+  "Déposer le pot dans une casserole de grandeur moyenne. Remplir la casserole d'eau à hauteur du chocolat.",
+  "À feu très, très doux, faire fondre le chocolat et infuser le thé de 2 à 3 heures. S'assurer que la casserole ne manque jamais d'eau.",
+  "Ouvrir le pot et goûter au chocolat pour juger si l'infusion de thé est assez intense. Sinon, continuer à infuser jusqu'à l'intensité désirée.",
+  "Passer le tout au tamis à l'aide d'une spatule de caoutchouc, pour retirer les grains de thé et d'épices. (Bien lécher la spatule avant de la laver !)",
+  "Déposer 15 mL (1 c. à soupe) de chocolat sur un carré de feuille guitare. Poser un deuxième carré de feuille guitare dessus et presser légèrement avec les doigts pour former un rond de chocolat.",
+  "Répéter l'opération avec le reste du chocolat.",
+  "Insérer délicatement un bâtonnet entre les carrés de feuille guitare en le faisant pénétrer dans le chocolat.",
+  "Répéter l'opération pour toutes les sucettes.",
+  "Laisser prendre 20 minutes au réfrigérateur.",
+  "Retirer doucement les carrés de feuille guitare et déguster !"
+]
+},
+
+{"id": 1943, "livreId": 9, "titre": "Cretons de grand-maman Aurore", "page": 168, "categorie": "Déjeuner", "ingredientPrincipal": "Porc", "image": "livres/009-a-la-bonne-franquette/images/cretons-de-grand-mere.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "15 mL (1 c. à soupe) de graines de fenouil",
+  "15 mL (1 c. à soupe) de graines de coriandre",
+  "1 bâton de cannelle, brisé en morceaux",
+  "15 mL (1 c. à soupe) de grains de poivre",
+  "3 clous de girofle",
+  "125 mL (½ tasse) de gras de canard",
+  "1 oignon blanc, ciselé",
+  "2 gousses d'ail, hachées",
+  "1 kg (2 lb) de porc haché",
+  "1 feuille de laurier",
+  "Sel, au goût"
+],
+"preparation": [
+  "Dans une petite poêle, combiner le fenouil, la coriandre, la cannelle et le poivre en grains. Cuire à feu doux environ 5 minutes. Transférer dans un moulin à café ou un mortier. Ajouter le clou de girofle et broyer les épices. Réserver.",
+  "Dans une casserole, faire fondre le gras de canard. À feu doux, y faire suer l'oignon et l'ail.",
+  "Ajouter le porc, le mélange d'épices, le laurier et du sel. Cuire à feu doux, en remuant régulièrement jusqu'à ce que la viande soit cuite.",
+  "Pour des cretons crémeux et faciles à tartiner, retirer le laurier et transférer le mélange chaud dans un mélangeur. Fouetter à basse vitesse jusqu'à ce que les cretons atteignent la température ambiante.",
+  "Verser dans des pots Mason et laisser refroidir."
+]
+},
+
+{"id": 1944, "livreId": 9, "titre": "Médaillons de veau et leur sauce au gingembre", "page": 174, "categorie": "Viande", "ingredientPrincipal": "Veau", "image": "livres/009-a-la-bonne-franquette/images/medaillon-de-veau.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "2 filets de veau de 300 g (10 oz) chacun",
+  "1 lime",
+  "60 mL (¼ tasse) de gingembre frais",
+  "45 mL (3 c. à soupe) d'huile d'arachide",
+  "60 mL (¼ tasse) d'échalotes françaises, hachées",
+  "125 mL (½ tasse) de vin blanc",
+  "375 mL (1 ½ tasse) de fond de veau",
+  "30 mL (2 c. à soupe) de beurre",
+  "1 L (4 tasses) d'épinards, lavés et équeutés",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Dégraisser et dénerver les filets de veau. Les découper en huit médaillons et réserver.",
+  "Peler la lime à vif. Avec un couteau bien tranchant, retirer les quartiers de chair (les suprêmes). Réserver.",
+  "Éplucher le gingembre et le couper en julienne.",
+  "Dans une casserole, faire chauffer 15 mL (1 c. à soupe) d'huile d'arachide. Y faire suer le gingembre et les échalotes 2 minutes.",
+  "Ajouter le vin blanc et faire réduire complètement.",
+  "Incorporer le fond de veau et laisser réduire de nouveau, de façon à obtenir 180 mL (¾ tasse) de sauce. Rectifier l'assaisonnement et réserver au chaud.",
+  "Dans un poêlon, faire fondre 15 mL (1 c. à soupe) chacun de beurre et d'huile. Y faire tomber les épinards tout en gardant les feuilles entières. Assaisonner, retirer du poêlon et réserver.",
+  "Ajouter 15 mL (1 c. à soupe) chacun de beurre et d'huile dans le poêlon. Y saisir et cuire les médaillons de veau de 3 à 4 minutes de chaque côté, on veut qu'ils soient cuits mais moelleux. Saler et poivrer en fin de cuisson.",
+  "Dresser les épinards au milieu de chaque assiette de service. Déposer deux médaillons dans chacune.",
+  "Garnir de suprêmes de lime et verser la sauce au gingembre autour. Servir avec un riz, si désiré."
+]
+},
+
+{"id": 1945, "livreId": 9, "titre": "Pavé de saumon à la vapeur de pesto, poêlée de champignons et d'épinards à la crème de parmesan", "page": 176, "categorie": "Poisson", "ingredientPrincipal": "Saumon", "image": "livres/009-a-la-bonne-franquette/images/pave-de-saumon-vapeur.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "4 pavés de saumon de 150 g (5 oz) chacun",
+  "20 mL (4 c. à thé) de pesto maison ou du commerce",
+  "20 mL (4 c. à thé) d'huile d'olive",
+  "1 barquette (200 g) de champignons de Paris, émincés",
+  "150 g (5 oz) de jeunes épinards, bio de préférence",
+  "200 mL (7 oz) de crème 35 % M.G.",
+  "50 g (1 ¾ oz) de fromage parmesan frais râpé",
+  "15 mL (1 c. à soupe) de noix de pin, grillées (facultatif)",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Faire bouillir de l'eau dans une grande casserole.",
+  "Saler et poivrer les pavés de saumon, puis étaler sur chacun 5 mL (1 c. à thé) de pesto.",
+  "Déposer le saumon dans une grande marguerite posée dans la casserole d'eau bouillante.",
+  "Couvrir et cuire à la vapeur environ 5 minutes, selon l'épaisseur du saumon et la cuisson désirée.",
+  "Entre-temps, dans un poêlon très chaud, ajouter l'huile d'olive et y faire dorer les champignons.",
+  "Incorporer les épinards en remuant bien et les faire tomber quelques secondes. Saler et poivrer.",
+  "Ajouter la crème, porter le tout à ébullition, incorporer le parmesan et cuire jusqu'à ce que le fromage soit fondu.",
+  "Diviser les légumes en sauce dans quatre assiettes bien chaudes et poser un pavé de saumon sur cette sauce. Garnir de noix de pin grillées, si désiré. Pour un repas copieux, servir avec des pommes de terre ou des pâtes."
+]
+},
+
+{"id": 1946, "livreId": 9, "titre": "Salade de saumon fumé à la méditerranéenne", "page": 178, "categorie": "Salade", "ingredientPrincipal": "Saumon", "image": "livres/009-a-la-bonne-franquette/images/salade-de-saumon.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "Vinaigrette :",
+  "Le jus de 1 citron",
+  "5 mL (1 c. à thé) de moutarde de Dijon",
+  "125 mL (½ tasse) d'huile d'olive vierge extra",
+  "Pincée de sel",
+  "Poivre noir frais moulu",
+  "Salade :",
+  "2 oranges",
+  "375 mL (1 ½ tasse) de jeune roquette",
+  "1 bulbe de fenouil, émincé finement",
+  "16 tranches de saumon fumé",
+  "80 mL (⅓ tasse) de copeaux de parmesan"
+],
+"preparation": [
+  "Vinaigrette : mélanger le jus de citron et la moutarde.",
+  "Au fouet, incorporer graduellement l'huile d'olive en filet. Ajouter le sel et quatre tours de moulin à poivre. Réserver.",
+  "Salade : éplucher les oranges à vif. Glisser un petit couteau entre les membranes pour retirer la chair d'orange (les suprêmes).",
+  "Dans un saladier, combiner les suprêmes d'orange, la roquette et le fenouil. Verser la vinaigrette et mélanger délicatement.",
+  "Tapisser quatre assiettes de saumon fumé. Garnir le centre de salade, parsemer de parmesan et donner quatre tours de moulin à poivre."
+]
+},
+
+{"id": 1947, "livreId": 9, "titre": "Pâté éternel", "page": 180, "categorie": "Viande", "ingredientPrincipal": "Orignal", "image": "livres/009-a-la-bonne-franquette/images/pave-de-saumon-vapeur.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "4 pavés de saumon de 150 g (5 oz) chacun",
+  "20 mL (4 c. à thé) de pesto maison ou du commerce",
+  "20 mL (4 c. à thé) d'huile d'olive",
+  "1 barquette (200 g) de champignons de Paris, émincés",
+  "150 g (5 oz) de jeunes épinards, bio de préférence",
+  "200 mL (7 oz) de crème 35 % M.G.",
+  "50 g (1 ¾ oz) de fromage parmesan frais râpé",
+  "15 mL (1 c. à soupe) de noix de pin, grillées (facultatif)",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Faire bouillir de l'eau dans une grande casserole.",
+  "Saler et poivrer les pavés de saumon, puis étaler sur chacun 5 mL (1 c. à thé) de pesto.",
+  "Déposer le saumon dans une grande marguerite posée dans la casserole d'eau bouillante.",
+  "Couvrir et cuire à la vapeur environ 5 minutes, selon l'épaisseur du saumon et la cuisson désirée.",
+  "Entre-temps, dans un poêlon très chaud, ajouter l'huile d'olive et y faire dorer les champignons.",
+  "Incorporer les épinards en remuant bien et les faire tomber quelques secondes. Saler et poivrer.",
+  "Ajouter la crème, porter le tout à ébullition, incorporer le parmesan et cuire jusqu'à ce que le fromage soit fondu.",
+  "Diviser les légumes en sauce dans quatre assiettes bien chaudes et poser un pavé de saumon sur cette sauce. Garnir de noix de pin grillées, si désiré. Pour un repas copieux, servir avec des pommes de terre ou des pâtes."
+]
+},
+
+{"id": 1948, "livreId": 9, "titre": "Cassoulet ardéchois", "page": 182, "categorie": "Légumineuse", "ingredientPrincipal": "Haricots", "image": "livres/009-a-la-bonne-franquette/images/cassoulet-ardechois.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "350 g (12 oz) de haricots tarbais (aussi appelés haricots blancs ou haricots cocos)",
+  "5 clous de girofle",
+  "2 gros oignons",
+  "2 branches de thym frais",
+  "2 carottes",
+  "1 morceau de 400 g (13 oz) de bacon avec la couenne",
+  "1 noisette de beurre",
+  "1 saucisson à l'ail de 400 g (13 oz)",
+  "125 mL (½ tasse) de vin blanc sec",
+  "60 mL (¼ tasse) de crème 35 % M.G.*",
+  "Sel",
+  "* Préparé la veille, ce cassoulet n'en sera que plus délicieux. Ajouter la crème juste avant de servir."
+],
+"preparation": [
+  "La veille, mettre les haricots à tremper dans un grand volume d'eau. Les laisser reposer 12 heures.",
+  "Égoutter les haricots, puis les transférer dans une grande casserole d'eau froide non salée.",
+  "Piquer les clous de girofle dans un oignon. Ajouter l'oignon dans la casserole avec 1 branche de thym, 1 carotte entière et la couenne du bacon.",
+  "Cuire à petits bouillons de 30 à 40 minutes.",
+  "Entre-temps, émincer le deuxième oignon et couper la deuxième carotte en fines rondelles.",
+  "Dans une autre grande casserole, faire fondre le beurre, puis ajouter l'oignon émincé, les rondelles de carotte et l'autre branche de thym. Faire suer à feu doux 15 minutes.",
+  "Couper en dés le bacon et le saucisson. Les ajouter aux légumes dans la casserole et cuire encore 5 minutes.",
+  "Verser le vin blanc et laisser réduire complètement, toujours à feu doux.",
+  "Lorsque les haricots sont presque cuits, mais encore légèrement croquants en bouche, les retirer à l'aide d'une écumoire et les égoutter. Réserver.",
+  "À feu vif, faire réduire l'eau de cuisson des haricots, avec les aromates (légumes et couenne de bacon), jusqu'à ce qu'il en reste environ 500 mL (2 tasses).",
+  "Jeter les aromates et incorporer l'eau de cuisson qui reste au mélange de saucisson.",
+  "Incorporer les haricots réservés et la crème*, puis chauffer à petits bouillons jusqu'à l'obtention d'un mélange crémeux.",
+  "Goûter et rectifier l'assaisonnement, si nécessaire (le saucisson à l'ail est déjà très salé)."
+]
+},
+
+{"id": 1949, "livreId": 9, "titre": "Carré d'agneau au bleu et au porto sur le barbecue", "page": 184, "categorie": "Viande", "ingredientPrincipal": "Agneau", "image": "livres/009-a-la-bonne-franquette/images/carre-dd-agneau-au-bleu.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "4 carrés d'agneau",
+  "Huile d'olive",
+  "Herbes fraîches (thym, romarin, basilic), au goût",
+  "80 g (2 ¾ oz) de fromage bleu",
+  "Sauce au porto :",
+  "250 mL (1 tasse) de porto",
+  "4 champignons, coupés en dés",
+  "1 petite carotte, coupée en dés",
+  "2 feuilles de laurier",
+  "1 branche de thym",
+  "4 gousses d'ail, hachées",
+  "500 mL (2 tasses) de fond de veau"
+],
+"preparation": [
+  "Déposer les carrés d'agneau dans un grand bol. Verser assez d'huile d'olive pour les recouvrir légèrement. Parsemer d'herbes fraîches au choix.",
+  "Laisser mariner 2 heures au réfrigérateur.",
+  "Sauce au porto : dans une petite casserole, mélanger tous les ingrédients de la sauce, sauf le fond de veau. Faire réduire de moitié à feu vif.",
+  "Ajouter le fond de veau et laisser réduire de moitié, ou jusqu'à la consistance désirée.",
+  "Passer au tamis et réserver au chaud.",
+  "Préchauffer le barbecue à feu moyen-vif.",
+  "Retirer les carrés d'agneau de la marinade et essuyer l'excédent. Les déposer sur le gril et les saisir 4 minutes de chaque côté (pour un meilleur goût, l'agneau devrait être servi rosé).",
+  "Transférer chaque carré dans une assiette de service et napper de sauce.",
+  "Dégourdir le fromage bleu 20 secondes au micro-ondes, le trancher en quatre et déposer une tranche sur chaque carré d'agneau. Servir avec des légumes au choix."
+]
+},
+
+{"id": 1950, "livreId": 9, "titre": "Fettucines soleil aux crevettes", "page": 186, "categorie": "Pâtes", "ingredientPrincipal": "Crevette", "image": "livres/009-a-la-bonne-franquette/images/fettucines-soleil-aux-crevettes.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "300 g (10 oz) de fettucines",
+  "45 mL (3 c. à soupe) d'huile d'olive",
+  "1 poivron rouge, coupé en dés",
+  "10 à 12 crevettes décortiquées (environ 200 g / 7 oz)",
+  "45 mL (3 c. à soupe) de sirop d'érable",
+  "10 mL (2 c. à thé) de gingembre frais, râpé finement",
+  "Le zeste et le jus de 1 citron",
+  "Sel et poivre noir frais moulu, au goût",
+  "Quelques brins de coriandre, pour la décoration"
+],
+"preparation": [
+  "Cuire les pâtes en suivant les indications du fabricant. Égoutter et réserver dans un bol avec un peu d'huile.",
+  "Dans un poêlon, faire revenir le poivron dans le reste de l'huile.",
+  "Ajouter les pâtes, les crevettes, le sirop d'érable, le gingembre, le zeste et le jus de citron. Saler et poivrer.",
+  "Servir le tout dès que les crevettes sont entièrement roses, décoré de quelques brins de coriandre."
+]
+},
+
+{"id": 1951, "livreId": 9, "titre": "Gâteau à la rhubarbe et à l'érable", "page": 188, "categorie": "Dessert", "ingredientPrincipal": "Rhubarbe", "image": "livres/009-a-la-bonne-franquette/images/gateau-a-la-rhubarbe.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "560 mL (2 ¼ tasses) de sucre d'érable",
+  "15 mL (1 c. à soupe) de bicarbonate de soude",
+  "500 mL (2 tasses) de farine tout usage",
+  "500 mL (2 tasses) de rhubarbe, coupée en dés",
+  "250 mL (1 tasse) de lait",
+  "2 œufs",
+  "2 mL (½ c. à thé) d'extrait de vanille",
+  "330 mL (1 ⅓ tasse) de beurre non salé, fondu",
+  "2 mL (½ c. à thé) de cannelle moulue",
+  "Beurre et farine, pour le moule"
+],
+"preparation": [
+  "Placer une grille au milieu du four et le préchauffer à 180 °C (350 °F).",
+  "Beurrer et fariner un moule à gâteau.",
+  "Dans un grand bol, mélanger 430 mL (1 ¾ tasse) de sucre d'érable, le bicarbonate de soude, la farine et la rhubarbe.",
+  "Incorporer le lait délicatement.",
+  "Ajouter les œufs, la vanille et le beurre fondu, puis les incorporer délicatement.",
+  "Verser le mélange dans le moule.",
+  "Combiner le reste de sucre d'érable et la cannelle. En saupoudrer sur la pâte.",
+  "Déposer le moule sur la grille au milieu du four préchauffé et cuire de 30 à 40 minutes ou jusqu'à ce qu'un cure-dents inséré au centre du gâteau en ressorte propre."
+]
+},
+
+{"id": 1952, "livreId": 9, "titre": "Sucre à la crème style cabane", "page": 190, "categorie": "Dessert", "ingredientPrincipal": "Érable", "image": "livres/009-a-la-bonne-franquette/images/sucre-a-la-creme.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 mL (2 tasses) de cassonade",
+  "250 mL (1 tasse) de sucre",
+  "1 boîte (370 mL) de lait évaporé Carnation",
+  "250 g (½ lb) de beurre",
+  "5 mL (1 c. à thé) d'extrait de vanille",
+  "250 mL (1 tasse) de sirop d'érable"
+],
+"preparation": [
+  "Combiner tous les ingrédients dans une grande marmite.",
+  "Cuire à feu doux 15 minutes.",
+  "À l'aide d'une spatule, étendre le mélange sur une plaque à biscuits et laisser refroidir au réfrigérateur ou à la température ambiante.",
+  "Couper en carrés et… bonne dégustation !"
+]
+},
+
+{"id": 1953, "livreId": 9, "titre": "Smoothie de fruits à la menthe", "page": 192, "categorie": "Boisson", "ingredientPrincipal": "Fruits", "image": "livres/009-a-la-bonne-franquette/images/smoothie-de-fruits.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "4 bananes",
+  "1 casseau de fraises (environ 250 g / 8 oz)",
+  "1 casseau de mûres (environ 125 g / 4 oz)",
+  "1 boîte (355 mL) de jus d'orange concentré congelé",
+  "1 petit contenant (175 g) de yogourt à la vanille ou nature",
+  "180 mL (¾ tasse) de jus de canneberge",
+  "15 mL (1 c. à soupe) de germe de blé",
+  "Quelques feuilles de menthe",
+  "4 ou 5 brochettes de bambou",
+  "4 ou 5 pailles"
+],
+"preparation": [
+  "Pour les mini-brochettes, couper une demi-banane en tranches et réserver quelques fraises et quelques mûres.",
+  "Déposer tous les ingrédients dans le mélangeur et mixer 1 minute à puissance maximale.",
+  "Verser dans les verres.",
+  "Enfiler les fruits réservés sur les brochettes de bambou et déposer une brochette sur chaque verre. Servir avec une paille."
+]
+},
+
+{"id": 1954, "livreId": 9, "titre": "Avocat et rémoulade de céleri-rave", "page": 194, "categorie": "Entrée", "ingredientPrincipal": "Avocat", "image": "livres/009-a-la-bonne-franquette/images/avocat-et-remoulade.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 avocat mûr",
+  "2 limes pressées",
+  "125 mL (½ tasse) de mayonnaise",
+  "60 mL (¼ tasse) de moutarde de Meaux",
+  "1 échalote française, coupée finement",
+  "125 mL (½ tasse) de céleri-rave, pelé et finement haché",
+  "125 mL (½ tasse) de coriandre fraîche, hachée",
+  "10 boutons de câpres, hachés",
+  "5 gouttes de sauce tabasco",
+  "1 boîte de crabe de grande qualité (environ 120 g), égoutté",
+  "1 pince de homard décortiquée (facultatif)"
+],
+"preparation": [
+  "Couper l'avocat en deux sur la longueur, puis extraire délicatement la chair avec une cuillère afin de la garder entière. Badigeonner de la moitié du jus de lime pour empêcher que la chair brunisse. Couvrir et réfrigérer.",
+  "Dans un bol, mélanger la mayonnaise, la moutarde et le reste du jus de lime. Ajouter l'échalote, le céleri-rave, la coriandre, les câpres et la sauce tabasco. Une fois le tout bien mélangé, incorporer le crabe.",
+  "Au moment de servir, couper un demi-avocat en deux, puis placer chaque section aux extrémités de l'assiette. À l'aide de deux cuillères à soupe, former deux petites quenelles de rémoulade. Déposer la première quenelle en diagonale sur un quartier d'avocat, puis l'autre dans l'assiette.",
+  "Si désiré, déposer la pince de homard en diagonale sur l'autre quartier d'avocat.",
+  "Couper l'autre moitié d'avocat en cubes et les disperser dans l'assiette en guise de décoration. Servir sans attendre."
+]
+},
+
 {"id": 1955, "livreId": 9, "titre": "Pintade rôtie aux champignons, sauce au vin rouge et purée de pommes de terre", "page": 196, "categorie": "Volaille", "ingredientPrincipal": "Pintade", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1956, "livreId": 9, "titre": "Pâtes fraîches au foie gras, aux chanterelles et à la Tomme des Demoiselles", "page": 198, "categorie": "Pâtes", "ingredientPrincipal": "Foie gras", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1957, "livreId": 9, "titre": "Maquereau au vin blanc en papillote", "page": 200, "categorie": "Poisson", "ingredientPrincipal": "Maquereau", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1958, "livreId": 9, "titre": "Gnocchi della Zia Lina", "page": 202, "categorie": "Pâtes", "ingredientPrincipal": "Gnocchi", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1959, "livreId": 9, "titre": "Salade composée au fromage frais", "page": 204, "categorie": "Salade", "ingredientPrincipal": "Fromage", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1960, "livreId": 9, "titre": "Crevettes tigrées sur brandade de morue", "page": 208, "categorie": "Poisson", "ingredientPrincipal": "Crevette", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1961, "livreId": 9, "titre": "Mousse de fromage de chèvre aux herbes", "page": 210, "categorie": "Fromage", "ingredientPrincipal": "Chèvre", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1962, "livreId": 9, "titre": "Doré barbecue à la fleur d'ail et au citron", "page": 210, "categorie": "Poisson", "ingredientPrincipal": "Doré", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1963, "livreId": 9, "titre": "Lapin à la moutarde à l'ancienne et pistaches", "page": 212, "categorie": "Viande", "ingredientPrincipal": "Lapin", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1964, "livreId": 9, "titre": "Poulet chasseur des Pyrénées", "page": 239, "categorie": "Volaille", "ingredientPrincipal": "Poulet", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1965, "livreId": 9, "titre": "Filet de porc mariné express", "page": 260, "categorie": "Viande", "ingredientPrincipal": "Porc", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1966, "livreId": 9, "titre": "Gâteau aux noix de mon enfance", "page": 262, "categorie": "Dessert", "ingredientPrincipal": "Noix", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1967, "livreId": 9, "titre": "Brownies de fin de soirée pour chocovores", "page": 264, "categorie": "Dessert", "ingredientPrincipal": "Chocolat", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1968, "livreId": 9, "titre": "Ceviche de tilapia", "page": 270, "categorie": "Poisson", "ingredientPrincipal": "Tilapia", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1969, "livreId": 9, "titre": "Salade de haricots verts au fromage de chèvre et amandes, vinaigrette à l'érable", "page": 272, "categorie": "Salade", "ingredientPrincipal": "Haricots", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1970, "livreId": 9, "titre": "Brise des Vignerons aux noix, chutney aux pommes, canneberges et cidre", "page": 274, "categorie": "Fromage", "ingredientPrincipal": "Noix", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1971, "livreId": 9, "titre": "Tomates farcies du paternel", "page": 276, "categorie": "Légume", "ingredientPrincipal": "Tomate", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1972, "livreId": 9, "titre": "Navarin de canard à l'érable", "page": 278, "categorie": "Volaille", "ingredientPrincipal": "Canard", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1973, "livreId": 9, "titre": "Ragoût de boulettes de sanglier", "page": 280, "categorie": "Viande", "ingredientPrincipal": "Sanglier", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1974, "livreId": 9, "titre": "Filet de porc en croûte de prosciutto glacé au Britannia, sauce aux poires caramélisées au cidre de glace", "page": 282, "categorie": "Viande", "ingredientPrincipal": "Porc", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1975, "livreId": 9, "titre": "Sauce gourmande au caramel", "page": 285, "categorie": "Condiment", "ingredientPrincipal": "Caramel", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1976, "livreId": 9, "titre": "Tête fromagée de Mémeille", "page": 286, "categorie": "Fromage", "ingredientPrincipal": "Porc", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1977, "livreId": 9, "titre": "Tarte à la tomate", "page": 293, "categorie": "Entrée", "ingredientPrincipal": "Tomate", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1978, "livreId": 9, "titre": "Confit de canard et sa salade au fromage de chèvre et aux canneberges", "page": 294, "categorie": "Volaille", "ingredientPrincipal": "Canard", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1979, "livreId": 9, "titre": "Poulet rôti aux légumes", "page": 297, "categorie": "Volaille", "ingredientPrincipal": "Poulet", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1980, "livreId": 9, "titre": "Escalope de foie gras de canard poêlée, compote de prunes et tuile balsamique", "page": 298, "categorie": "Volaille", "ingredientPrincipal": "Foie gras", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1981, "livreId": 9, "titre": "Grilled cheese au thon et au fromage Valbert", "page": 313, "categorie": "Sandwich", "ingredientPrincipal": "Thon", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1982, "livreId": 9, "titre": "Cassolette d'escargots au bleu", "page": 314, "categorie": "Entrée", "ingredientPrincipal": "Escargot", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1983, "livreId": 9, "titre": "Cretonnade de tofu", "page": 316, "categorie": "Déjeuner", "ingredientPrincipal": "Tofu", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1984, "livreId": 9, "titre": "Gâteau au yaourt de mamie Pachon", "page": 318, "categorie": "Dessert", "ingredientPrincipal": "Yaourt", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"}
+{"id": 1957, "livreId": 9, "titre": "Maquereau au vin blanc en papillote", "page": 200, "categorie": "Poisson", "ingredientPrincipal": "Maquereau", "image": "livres/009-a-la-bonne-franquette/images/maquereau-au-vin-blanc.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "4 maquereaux frais entiers, nettoyés et parés avec ou sans la tête",
+  "1 oignon, tranché finement",
+  "Fines herbes fraîches, au choix",
+  "Le jus de 1 citron",
+  "125 mL (½ tasse) de vin blanc sec",
+  "Huile d'olive",
+  "Sel et poivre noir frais moulu, au goût"
+],
+"preparation": [
+  "Préchauffer le four ou le barbecue à 180 °C (350 °F).",
+  "Déposer chaque maquereau sur une grande feuille de papier d'aluminium.",
+  "Insérer les tranches d'oignon et les fines herbes dans la cavité des maquereaux. Assaisonner.",
+  "Dans chaque papillote, verser du jus de citron, du vin blanc et un filet d'huile d'olive.",
+  "Bien replier les côtés afin de sceller la papillote. Déposer sur une plaque de cuisson ou sur la grille du barbecue et cuire 20 minutes.",
+  "Servir accompagné d'une salade et d'une marinade maison."
+]
+},
+
+{"id": 1958, "livreId": 9, "titre": "Gnocchi della Zia Lina", "page": 202, "categorie": "Pâtes", "ingredientPrincipal": "Gnocchi", "image": "livres/009-a-la-bonne-franquette/images/gnocchi-della-zia-lima.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 kg (2 lb) de pommes de terre, pelées et coupées en gros cubes",
+  "1 œuf",
+  "430 mL (1¾ tasse) de farine",
+  "60 mL (¼ tasse) de cèpes séchés",
+  "15 mL (1 c. à tab) de beurre",
+  "1 échalote française, hachée",
+  "430 mL (1¾ tasse) de sauce tomate maison ou du commerce",
+  "Fromage Parmigiano Reggiano râpé",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Dans une casserole d'eau salée, cuire les pommes de terre. Bien les égoutter dans une passoire.",
+  "Les réduire en purée avec un pilon à légumes.",
+  "Ajouter l'œuf et la farine, puis pétrir à la main jusqu'à l'obtention d'une pâte homogène. Séparer la pâte en quatre morceaux.",
+  "Sur une surface de travail légèrement farinée, rouler chaque morceau de pâte en un boudin d'environ 2,5 cm (1 po) de diamètre.",
+  "Couper chaque boudin en petits morceaux d'environ 3 cm (1¼ po) de longueur.",
+  "Rouler chaque gnocchi sur une fourchette pour y tracer des lignes (facultatif). Réserver.",
+  "Dans un bol d'eau chaude, réhydrater les cèpes de 10 à 15 minutes.",
+  "Dans une casserole, faire fondre le beurre et y faire sauter l'échalote. Ajouter les cèpes et la sauce tomate, saler et poivrer.",
+  "Laisser mijoter la sauce quelques minutes, le temps que les saveurs s'amalgament.",
+  "Entre-temps, dans une grande casserole d'eau bouillante salée, cuire les gnocchis jusqu'à ce qu'ils remontent à la surface, environ 2 minutes.",
+  "Verser la sauce aux cèpes dans un grand plat de service, ajouter les gnocchis et mélanger délicatement. Saupoudrer de parmesan."
+]
+},
+
+{"id": 1959, "livreId": 9, "titre": "Salade composée au fromage frais", "page": 204, "categorie": "Salade", "ingredientPrincipal": "Fromage", "image": "livres/009-a-la-bonne-franquette/images/salade-composee-au-fromage-frais.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 belle grosse tomate de type cœur de bœuf, coupée en demi-tranches (250 mL / 1 tasse)",
+  "1 concombre libanais, tranché",
+  "125 mL (½ tasse) de fromage frais au choix (ricotta, bocconcini, baladi)",
+  "125 mL (½ tasse) de champignons ou artichauts marinés, coupés en morceaux",
+  "45 mL (3 c. à tab) d'huile d'olive vierge extra",
+  "1 L (4 tasses) de verdures au choix (mesclun ou, mieux encore, pousses sauvages)",
+  "45 mL (3 c. à tab) d'oignons verts, émincés",
+  "30 mL (2 c. à tab) d'amandes rôties, concassées",
+  "30 mL (2 c. à tab) de fines herbes fraîches, ciselées (persil de mer, basilic, ciboulette, aneth, etc.)",
+  "Sel de mer et poivre noir frais moulu"
+],
+"preparation": [
+  "Étaler les demi-tranches de tomate sur le tour d'une belle grande assiette.",
+  "Recouvrir de tranches de concombre.",
+  "Couper ou émietter le fromage, au choix, et le déposer sur le concombre.",
+  "À l'aide d'une cuillère, parsemer le tout des champignons ou artichauts marinés.",
+  "Arroser d'huile d'olive et assaisonner.",
+  "Déchiqueter, laver et essorer les verdures. Arroser d'huile d'olive, saler, poivrer et déposer au centre de l'assiette.",
+  "Parsemer les verdures d'oignons verts, d'amandes concassées et de fines herbes.",
+  "Servir avec un bon pain et du vin blanc bien frais."
+]
+},
+
+{"id": 1960, "livreId": 9, "titre": "Crevettes tigrées sur brandade de morue", "page": 208, "categorie": "Poisson", "ingredientPrincipal": "Crevette", "image": "livres/009-a-la-bonne-franquette/images/crevettes-tigrees-sur-brandade.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "Brandade et crevettes :",
+  "1 L (4 tasses) de lait",
+  "1 tête d'ail, du Québec, de préférence",
+  "300 g (10 oz) de pommes de terre à chair jaune, pelées",
+  "300 g (10 oz) de morue fraîche",
+  "125 mL (½ tasse) de fromage mascarpone",
+  "105 mL (7 c. à tab) d'huile d'olive vierge extra",
+  "8 crevettes tigrées de grosseur 8-12, décortiquées ou non",
+  "Sel de mer et piment d'Espelette",
+  "Garniture :",
+  "60 g (2 oz) de feuilles de roquette",
+  "15 mL (1 c. à tab) d'huile d'olive vierge extra",
+  "1 pincée de sel",
+  "Quelques gouttes de vinaigre balsamique réduit (pour réduire le vinaigre balsamique, le verser dans une casserole et chauffer à feu doux de 20 à 30 minutes ou jusqu'à consistance sirupeuse)"
+],
+"preparation": [
+  "Brandade et crevettes : Dans une casserole, combiner le lait avec la même quantité d'eau. Éplucher la tête d'ail en gardant les gousses entières et ajouter la moitié des gousses au mélange lait-eau. À feu moyen, pocher les pommes de terre dans le mélange.",
+  "À mi-cuisson des pommes de terre, ajouter la morue.",
+  "Lorsque c'est cuit, égoutter la préparation et la verser dans le bol d'un batteur électrique. Hacher le reste de l'ail et l'ajouter dans le bol, avec le fromage mascarpone et 75 mL (5 c. à tab) d'huile d'olive. Assaisonner de sel de mer et de piment d'Espelette. Réduire en purée et réserver.",
+  "Dans un poêlon, chauffer 30 mL (2 c. à tab) d'huile d'olive. Y saisir les crevettes tigrées environ 1 minute de chaque côté. Assaisonner de sel et de piment d'Espelette, puis réserver sur du papier essuie-tout.",
+  "Garniture : Dans un bol, combiner la roquette, l'huile d'olive et le sel. Réserver.",
+  "À l'aide d'un emporte-pièce, dresser la brandade dans 4 assiettes, à parts égales. Disposer 2 crevettes sur chaque portion. Garnir de feuilles de roquette assaisonnées et arroser légèrement de vinaigre balsamique réduit."
+]
+},
+
+{"id": 1961, "livreId": 9, "titre": "Mousse de fromage de chèvre aux herbes", "page": 210, "categorie": "Fromage", "ingredientPrincipal": "Chèvre", "image": "livres/009-a-la-bonne-franquette/images/mousse-de-fromage-de-chevre.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "150 g (5 oz) de fromage de chèvre frais",
+  "150 g (5 oz) de crème sure",
+  "160 mL (⅔ tasse) de crème fleurette ou crème à fouetter 35 % M.G.",
+  "1 sachet de gélatine neutre (7 g)",
+  "30 mL (2 c. à tab) de mélange de fines herbes fraîches (ciboulette, persil, thym), hachées",
+  "15 mL (1 c. à tab) de jus de citron",
+  "1 gousse d'ail, hachée",
+  "Sel et poivre noir frais moulu, au goût"
+],
+"preparation": [
+  "Dans un bol, fouetter ensemble le fromage de chèvre et la crème sure. Réserver.",
+  "Dans un autre bol, fouetter la crème fleurette et réserver.",
+  "Faire gonfler la gélatine dans un peu d'eau froide.",
+  "Dans une casserole, faire tiédir 30 mL (2 c. à tab) du mélange de fromage et y ajouter la gélatine. Laisser dissoudre complètement, en brassant si nécessaire. Incorporer rapidement au reste du fromage.",
+  "Ajouter les fines herbes, le jus de citron et la gousse d'ail. Saler et poivrer au goût.",
+  "À l'aide d'une spatule, incorporer délicatement la crème fouettée pour l'empêcher de tomber. Verser dans des verrines et réfrigérer au moins 4 heures avant de servir.",
+  "Note : On ne doit pas hésiter à servir cette mousse à l'apéro, en tartinade sur des croûtons. À l'aide d'une poche à pâtisserie, on peut aussi la dresser dans des assiettes et la servir accompagnée d'une salade et de tomates cerises."
+]
+},
+
+{"id": 1962, "livreId": 9, "titre": "Doré barbecue à la fleur d'ail et au citron", "page": 210, "categorie": "Poisson", "ingredientPrincipal": "Doré", "image": "livres/009-a-la-bonne-franquette/images/dore-barbecue-a-la-vapeur.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 doré d'environ 1 kg (2 lb), évidé et écaillé",
+  "15 mL (1 c. à tab) de fleur d'ail hachée dans l'huile (si vous utilisez de la fleur d'ail du commerce, faites-la égoutter préalablement pour obtenir une tartinade épaisse)",
+  "15 mL (1 c. à tab) d'huile d'olive",
+  "1 bouquet de fines herbes fraîches, au goût (basilic, estragon, menthe, etc.)",
+  "1 oignon rouge, émincé",
+  "1 citron, coupé en fines rondelles",
+  "Sel et poivre noir frais moulu, au goût"
+],
+"preparation": [
+  "Bien huiler la grille du barbecue et le préchauffer à puissance élevée.",
+  "Rincer l'intérieur du poisson à l'eau froide et l'assécher immédiatement avec du papier essuie-tout.",
+  "Badigeonner la cavité de fleur d'ail et d'huile d'olive. Assaisonner au goût. Réserver.",
+  "Dans un bol, mélanger les herbes fraîches entières, l'oignon et les rondelles de citron.",
+  "Garnir la cavité du poisson du mélange d'herbes, puis refermer à l'aide d'une brochette de bambou pour sceller les aromates à l'intérieur pendant la cuisson.",
+  "Griller le poisson sur le barbecue de 3 à 4 minutes, puis le retourner avec une spatule, en prenant soin de ne pas déchirer la peau. Cuire le poisson de ce côté, de 3 à 4 minutes.",
+  "Servir avec une salade de tomates et d'herbes arrosée d'un filet de jus de citron, si désiré."
+]
+},
+
+{"id": 1963, "livreId": 9, "titre": "Lapin à la moutarde à l'ancienne et pistaches", "page": 212, "categorie": "Viande", "ingredientPrincipal": "Lapin", "image": "livres/009-a-la-bonne-franquette/images/lapin-a-la-moutarde.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "30 mL (2 c. à tab) d'huile de canola",
+  "1 lapin d'environ 2 kg (4 lb), coupé en morceaux",
+  "2 échalotes françaises, émincées",
+  "125 mL (½ tasse) de moutarde à l'ancienne",
+  "5 mL (1 c. à thé) d'herbes de Provence",
+  "125 mL (½ tasse) de pistaches écalées non salées",
+  "250 mL (1 tasse) de bouillon de volaille",
+  "250 mL (1 tasse) de crème 35 % M.G.",
+  "Sel et poivre noir frais moulu, au goût"
+],
+"preparation": [
+  "Verser l'huile dans une cocotte, puis y saisir les morceaux de lapin de tous les côtés.",
+  "Ajouter les échalotes et les faire dorer légèrement. À l'aide d'une spatule, incorporer la moutarde et mélanger jusqu'à ce que la moutarde sèche (pour faire évaporer le vinaigre et rendre la sauce plus douce).",
+  "Ajouter les herbes de Provence et les pistaches, mouiller avec le bouillon de volaille, puis incorporer la crème. Assaisonner.",
+  "Couvrir la cocotte à demi et laisser mijoter à feu doux 35 minutes. Dans les 5 dernières minutes de cuisson, découvrir et augmenter le feu pour faire réduire la sauce.",
+  "Rectifier l'assaisonnement de la sauce et servir avec des linguines et des haricots verts, si désiré.",
+  "Note : Les personnes allergiques aux noix peuvent remplacer les pistaches par des champignons ou de l'estragon frais."
+]
+},
+
+{"id": 1964, "livreId": 9, "titre": "Poulet chasseur des Pyrénées", "page": 239, "categorie": "Volaille", "ingredientPrincipal": "Poulet", "image": "livres/009-a-la-bonne-franquette/images/poulet-chasseur.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "30 mL (2 c. à tab) d'huile d'olive vierge extra",
+  "1 poulet de 1,5 kg (3 lb), découpé en huit morceaux",
+  "30 mL (2 c. à tab) de beurre",
+  "1 oignon moyen, haché",
+  "4 échalotes françaises, épluchées",
+  "2 bulbes d'ail, gousses séparées mais non épluchées",
+  "3 branches de thym",
+  "4 pommes de terre Yukon Gold, pelées et coupées en cubes de 4 cm (1½ po)",
+  "60 mL (¼ tasse) de lardons",
+  "12 petits champignons de Paris ou pleurotes, nettoyés et parés",
+  "500 mL (2 tasses) de fond de volaille sans sel",
+  "Sel et poivre blanc moulu"
+],
+"preparation": [
+  "Placer une grille au centre du four et le préchauffer à 190 °C (375 °F).",
+  "À feu vif, chauffer l'huile dans une marmite munie d'un couvercle. Saler et poivrer les morceaux de poulet, les placer dans la marmite et les saisir jusqu'à ce qu'ils soient bien dorés, de 10 à 15 minutes. Réserver au chaud.",
+  "Dégraisser la marmite en y laissant 30 mL (2 c. à tab) de gras de cuisson. Réduire à feu moyen et ajouter le beurre, l'oignon, les échalotes, l'ail et le thym.",
+  "Cuire environ 3 minutes en remuant souvent, jusqu'à ce que les légumes se colorent légèrement.",
+  "Ajouter les pommes de terre et les lardons. Poursuivre la cuisson de 1 à 2 minutes pour faire rendre la graisse des lardons.",
+  "Couvrir et cuire encore 10 minutes en remuant aux 2 minutes.",
+  "Ajouter les champignons, saler et poivrer.",
+  "Remettre les morceaux de poulet dans la marmite.",
+  "Verser le fond de volaille, porter à ébullition et cuire au four à découvert de 20 à 25 minutes, jusqu'à ce que le poulet soit bien cuit.",
+  "Servir simplement avec un pain baguette bien croustillant.",
+  "Conseil gourmand : Les gousses d'ail confites glisseront de leur enveloppe à la moindre pression. Vous voudrez les tartiner sur votre pain avant de tremper le tout dans la sauce."
+]
+},
+
+{"id": 1965, "livreId": 9, "titre": "Filet de porc mariné express", "page": 260, "categorie": "Viande", "ingredientPrincipal": "Porc", "image": "livres/009-a-la-bonne-franquette/images/filet-de-porc-express.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 filet de porc",
+  "30 mL (2 c. à tab) de Bovril au bœuf",
+  "30 mL (2 c. à tab) de Bovril au poulet",
+  "30 mL (2 c. à tab) de vinaigrette Tomate confite et origan (de type Kraft)",
+  "15 mL (1 c. à tab) de moutarde de Dijon",
+  "15 mL (1 c. à tab) de mélange de fines herbes séchées",
+  "60 mL (¼ tasse) de vin blanc ou eau"
+],
+"preparation": [
+  "Parer le filet en retirant gras et nervures.",
+  "Mélanger le reste des ingrédients pour faire une marinade.",
+  "Déposer le porc dans la marinade et le retourner pour bien l'enrober.",
+  "Couvrir et laisser mariner au réfrigérateur de 30 minutes à 1 heure.",
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Cuire le filet de porc de 20 à 30 minutes ou jusqu'à la cuisson désirée (avec une sonde, vérifier la cuisson ainsi : 71 °C/160 °F pour une cuisson rosée et 82 °C/180 °F pour une viande bien cuite).",
+  "Note : Pour cuire le filet de porc sur le barbecue, le préchauffer à puissance maximum pour marquer la viande, puis réduire à puissance faible pour poursuivre la cuisson."
+]
+},
+
+{"id": 1966, "livreId": 9, "titre": "Gâteau aux noix de mon enfance", "page": 262, "categorie": "Dessert", "ingredientPrincipal": "Noix", "image": "livres/009-a-la-bonne-franquette/images/gateau-aux-noix.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 mL (2 tasses) de noix de Grenoble, moulues au robot (ou, au choix : amandes, pacanes ou un mélange des deux)",
+  "310 mL (1¼ tasse) de sucre",
+  "375 mL (1½ tasse) de beurre mou (160 g)",
+  "4 œufs",
+  "375 mL (1½ tasse) de farine blanche tout usage",
+  "1 sachet de levure sèche",
+  "30 mL (1 oz) de rhum (ou cognac, whisky, scotch, liqueur de noix, Baileys...)",
+  "Pincée de sel"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Mélanger les noix et la moitié du sucre.",
+  "Mélanger le beurre et le reste du sucre.",
+  "Combiner les mélanges de noix et de beurre, puis réserver.",
+  "Au fouet ou à la mixette, monter les œufs.",
+  "Saupoudrer la farine en pluie sur les œufs. Incorporer la levure sèche.",
+  "Ajouter l'alcool et le sel.",
+  "Incorporer le mélange d'œufs au mélange de noix.",
+  "Verser le tout dans un moule au choix, par exemple un moule rond de 23 cm (9 po), la pâte ne devant pas dépasser les deux tiers du moule.",
+  "Cuire au four préchauffé de 20 à 25 minutes, jusqu'à l'obtention d'une belle croûte dorée.",
+  "Servir chaud ou froid, avec de la crème fouettée, de la crème glacée ou une sauce au chocolat."
+]
+},
+
+{"id": 1967, "livreId": 9, "titre": "Brownies de fin de soirée pour chocovores", "page": 264, "categorie": "Dessert", "ingredientPrincipal": "Chocolat", "image": "livres/009-a-la-bonne-franquette/images/brownies-de-fin-de-soiree.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "250 mL (1 tasse) de beurre demi-sel",
+  "250 mL (1 tasse) de cacao en poudre de bonne qualité (le chef recommande la poudre de cacao extra brut rouge de Cacao Barry, si vous réussissez à en trouver)",
+  "430 mL (1¾ tasse) de sucre blanc",
+  "4 œufs entiers",
+  "10 mL (2 c. à thé) de vanille",
+  "330 mL (1⅓ tasse) de farine blanche",
+  "5 mL (1 c. à thé) de levure chimique (poudre à pâte)",
+  "2 mL (½ c. à thé) de sel"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Faire fondre le beurre dans une casserole ou au micro-ondes. Transférer dans un grand bol, ajouter le cacao et battre pour l'incorporer. Ajouter le sucre, les œufs et la vanille, puis bien incorporer de nouveau.",
+  "Ajouter le reste des ingrédients et brasser jusqu'à consistance homogène. Verser la pâte dans un moule beurré de 33 cm x 23 cm (13 po x 9 po).",
+  "Cuire au four de 20 à 25 minutes, puis sortir le moule et laisser à la température ambiante sur la cuisinière pour terminer la cuisson. Ainsi, les brownies resteront beaucoup plus moelleux.",
+  "Déguster avec une joyeuse bande de chocovores."
+]
+},
+
+{"id": 1968, "livreId": 9, "titre": "Ceviche de tilapia", "page": 270, "categorie": "Poisson", "ingredientPrincipal": "Tilapia", "image": "livres/009-a-la-bonne-franquette/images/ceviche-de-tilapia.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 g (1 lb) de filets de tilapia",
+  "60 mL (¼ tasse) de tomates cerises",
+  "¼ de botte de coriandre fraîche",
+  "3 échalotes françaises, hachées",
+  "1 botte d'oignons verts, ciselés",
+  "Le jus de 4 limes",
+  "Sel et poivre noir frais moulu, au goût"
+],
+"preparation": [
+  "Couper le tilapia en petits dés.",
+  "Couper les tomates cerises en quatre.",
+  "Effeuiller et hacher la coriandre.",
+  "Mélanger tous les ingrédients, puis laisser reposer 5 minutes avant de servir."
+]
+},
+
+{"id": 1969, "livreId": 9, "titre": "Salade de haricots verts au fromage de chèvre et amandes, vinaigrette à l'érable", "page": 272, "categorie": "Salade", "ingredientPrincipal": "Haricots", "image": "livres/009-a-la-bonne-franquette/images/salade-de-haricots-vert.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 g (1 lb) de haricots verts extra-fins",
+  "100 g (3½ oz) d'amandes effilées",
+  "30 mL (2 c. à tab) de sirop d'érable",
+  "45 mL (3 c. à tab) de vinaigre balsamique",
+  "125 mL (½ tasse) d'huile d'olive",
+  "1 échalote française, finement hachée",
+  "125 g (4 oz) de fromage de chèvre frais, en petits morceaux",
+  "Sel et poivre noir frais moulu, au goût"
+],
+"preparation": [
+  "Équeuter les haricots et les cuire dans l'eau bouillante salée de 3 à 4 minutes. Les transférer dans un bol d'eau glacée pour interrompre la cuisson, les retirer de l'eau et bien les égoutter.",
+  "Dans une poêle antiadhésive, torréfier les amandes. Réserver.",
+  "Faire une vinaigrette avec le sirop d'érable, le vinaigre balsamique et l'huile. Saler, poivrer et bien mélanger. Réserver.",
+  "À la main, séparer les haricots en deux sur la longueur et les déposer dans un saladier. Ajouter l'échalote et les amandes grillées, puis le fromage de chèvre.",
+  "Napper de vinaigrette au dernier moment, bien mélanger et servir."
+]
+},
+
+{"id": 1970, "livreId": 9, "titre": "Brise des Vignerons aux noix, chutney aux pommes, canneberges et cidre", "page": 274, "categorie": "Fromage", "ingredientPrincipal": "Noix", "image": "livres/009-a-la-bonne-franquette/images/brise-des-vignerons.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "Chutney :",
+  "2 pommes, épluchées et coupées en petits cubes",
+  "45 mL (1½ oz) de sirop d'érable",
+  "30 mL (1 oz) de cidre Cryo",
+  "60 g (2 oz) de canneberges séchées",
+  "Fromage :",
+  "150 g (5 oz) de farine tout usage",
+  "2 œufs battus",
+  "250 g (8 oz) de noix hachées au choix (amandes, pacanes, avelines, noix de Grenoble, etc.)",
+  "300 g (10 oz) de fromage La Brise des Vignerons (Fromagerie des Cantons), coupé en 6 morceaux",
+  "Huile pour la friture"
+],
+"preparation": [
+  "Chutney : Dans une casserole, réunir les pommes, le sirop d'érable, le cidre et les canneberges. Cuire à feu doux de 20 à 30 minutes ou jusqu'à ce qu'il ne reste plus de liquide. Réserver.",
+  "Fromage : Mettre la farine, les œufs et les noix dans trois bols différents. Passer les morceaux de fromage dans la farine (en les secouant pour enlever l'excédent), puis dans les œufs. Les passer dans la farine une deuxième fois et les replonger dans les œufs. Terminer en les passant dans le mélange de noix, en enrobant bien tout le tour. Réserver.",
+  "Préchauffer le four et chauffer l'huile de la friteuse à 180 °C (350 °F).",
+  "Plonger les morceaux de fromage dans la friteuse de 4 à 5 minutes jusqu'à ce qu'ils soient dorés. Retirer et bien égoutter.",
+  "Transférer sur une plaque de cuisson et finir la cuisson au four, de 4 à 5 minutes.",
+  "Servir avec le chutney tiède.",
+  "Note : Il est très important de passer le fromage deux fois dans la farine et les œufs afin de s'assurer que le fromage ne coule pas dans la friteuse. On peut servir le fromage frit avec la compote, le chutney ou la confiture de son choix."
+]
+},
+
+{"id": 1971, "livreId": 9, "titre": "Tomates farcies du paternel", "page": 276, "categorie": "Légume", "ingredientPrincipal": "Tomate", "image": "image": "livres/009-a-la-bonne-franquette/images/tomates-farcie-du-paternel.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "15 mL (1 c. à tab) de beurre",
+  "1 oignon moyen, haché",
+  "3 gousses d'ail, hachées",
+  "500 g (1 lb) de porc haché",
+  "1 branche de thym frais ou 5 mL (1 c. à thé) de thym séché",
+  "45 mL (3 c. à tab) de persil frais, haché",
+  "3 œufs, battus",
+  "4 grosses tomates bien rouges et fermes (ou 8 petites)",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Dans un grand poêlon, chauffer le beurre et y faire revenir l'oignon et l'ail à feu moyen de 3 à 4 minutes.",
+  "Ajouter le porc et, à l'aide d'une cuillère, défaire la viande pendant qu'elle cuit afin d'éliminer les gros morceaux.",
+  "Saler, poivrer, ajouter le thym et le persil, puis poursuivre la cuisson jusqu'à ce que la viande soit cuite et ait perdu sa couleur rosée.",
+  "Hors feu, ajouter les œufs et bien mélanger. Rectifier l'assaisonnement et réserver.",
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Couper les capuchons des tomates et les réserver.",
+  "À l'aide d'une cuillère, évider les tomates en prenant soin de ne pas briser la peau.",
+  "Verser la chair des tomates dans un plat allant au four. Déposer les tomates évidées sur la chair.",
+  "Farcir généreusement les tomates. Remettre les capuchons.",
+  "Cuire au four préchauffé 1 heure. Servir avec du riz ou des frites.",
+  "Note : Vous pouvez facilement doubler cette recette. Réchauffée et servie avec une salade, elle sera excellente en guise de lunch du lendemain."
+]
+},
+
+{"id": 1972, "livreId": 9, "titre": "Navarin de canard à l'érable", "page": 278, "categorie": "Volaille", "ingredientPrincipal": "Canard", "image": "livres/009-a-la-bonne-franquette/images/navarin-de-canard.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "12 morceaux de rutabaga (chou-navet à chair jaune), pelés et taillés en boule",
+  "12 morceaux de carotte, pelés et taillés en boule",
+  "2 beaux magrets de canard frais d'au moins 400 g (¾ lb) chacun",
+  "2 échalotes françaises, hachées",
+  "30 mL (2 c. à tab) de vin blanc",
+  "30 mL (2 c. à tab) de vinaigre d'érable (un bon vinaigre de cidre peut le remplacer)",
+  "30 mL (2 c. à tab) de sirop d'érable (ambré de préférence)",
+  "250 mL (1 tasse) de sauce demi-glace (sauce brune maison ou du commerce), chaude",
+  "125 mL (½ tasse) de pois verts, blanchis",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Dans une grande casserole d'eau bouillante salée, blanchir les légumes en boule environ 5 minutes. Réserver au frais.",
+  "Retirer la partie grasse sur le dessus des magrets de canard et couper leur chair en dés.",
+  "Dans une sauteuse, faire fondre le gras des magrets à feu doux. Retirer tout le gras fondu, sauf 30 mL (2 c. à tab), et réserver.",
+  "À feu vif et lorsque le gras de la sauteuse atteint son point de fumée, ajouter la moitié des dés de canard, assaisonner et saisir. Il s'agit de colorer l'extérieur tout en gardant l'intérieur le plus saignant possible. Réserver.",
+  "Répéter avec le reste des dés de canard et réserver aussi.",
+  "Dans le gras de cuisson, faire sauter les échalotes. Ajouter un peu de gras de canard réservé au besoin.",
+  "Déglacer avec le vin blanc, laisser réduire légèrement et réserver ce jus de cuisson.",
+  "Dans une casserole, combiner le vinaigre et le sirop d'érable, puis cuire jusqu'à l'obtention d'un caramel coloré.",
+  "Mouiller avec le jus de cuisson réservé et la demi-glace.",
+  "Ajouter les carottes et le rutabaga blanchis, puis laisser mijoter jusqu'à ce que les légumes soient tendres.",
+  "Ajouter le canard sauté et les pois verts. Laisser mijoter 2 minutes pour lier les saveurs et servir."
+]
+},
+
+{"id": 1973, "livreId": 9, "titre": "Ragoût de boulettes de sanglier", "page": 280, "categorie": "Viande", "ingredientPrincipal": "Sanglier", "image": "livres/009-a-la-bonne-franquette/images/ragout-de-boulettes-de-sanglier.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "180 mL (¾ tasse) de farine tout usage",
+  "1 kg (2 lb) de sanglier haché",
+  "1 oignon, ciselé",
+  "160 mL (⅔ tasse) de chapelure",
+  "2 œufs, légèrement battus",
+  "5 mL (1 c. à thé) de moutarde sèche",
+  "2 L (8 tasses) de fond de veau",
+  "2 mL (½ c. à thé) de cinq-épices",
+  "5 mL (1 c. à thé) de sel",
+  "2 mL (½ c. à thé) de poivre noir frais moulu"
+],
+"preparation": [
+  "Dans une poêle, à feu moyen, faire griller la farine jusqu'à ce qu'elle soit brune. Laisser refroidir.",
+  "Dans un bol, mélanger le sanglier, l'oignon, la chapelure, les œufs et la moutarde. Façonner en boulettes et réserver.",
+  "Dans une casserole, porter à ébullition 1,5 L (6 tasses) du fond de veau. Réserver.",
+  "Dans un bol, mélanger la farine grillée, le cinq-épices et le reste du fond de veau. Ajouter ce mélange dans la casserole, saler et poivrer. Faire mijoter 10 minutes.",
+  "Ajouter les boulettes et poursuivre la cuisson à feu doux 30 minutes. Rectifier l'assaisonnement au besoin. Servir avec des pommes de terre, si désiré."
+]
+},
+
+{"id": 1974, "livreId": 9, "titre": "Filet de porc en croûte de prosciutto glacé au Britannia, sauce aux poires caramélisées au cidre de glace", "page": 282, "categorie": "Viande", "ingredientPrincipal": "Porc", "image": "livres/009-a-la-bonne-franquette/images/filet-de-porc-en-croute.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "2 filets de porc",
+  "6 à 8 tranches de prosciutto",
+  "5 mL (1 c. à thé) d'huile",
+  "30 mL (2 c. à tab) de beurre",
+  "6 poires pelées, le cœur enlevé, coupées en petites tranches",
+  "1 échalote française, hachée",
+  "10 mL (2 c. à thé) de cidre de glace",
+  "300 mL (10 oz) de sauce demi-glace ou fond de veau",
+  "250 g (8 oz) de cheddar Britannia, en tranches",
+  "Sel et poivre noir frais moulu, au goût"
+],
+"preparation": [
+  "Enrouler les filets de porc dans les tranches de prosciutto.",
+  "Dans une poêle, chauffer l'huile et un peu du beurre. Y saisir les filets de tous les côtés à feu vif. Réserver.",
+  "Préparer la sauce en faisant revenir les poires et l'échalote dans le reste du beurre de 2 à 3 minutes. Ajouter le cidre de glace et laisser réduire. Mouiller avec la sauce demi-glace et assaisonner. Réserver au chaud.",
+  "Cuire les filets de porc à 240 °C (475 °F) de 5 à 8 minutes. Retirer du four et laisser reposer quelques minutes à découvert.",
+  "Couper les filets en tranches de 1 à 2 cm (½ à ¾ po) d'épaisseur.",
+  "Déposer une tranche de fromage sur chaque tranche de filet et faire fondre (glacer) au four quelques minutes.",
+  "Verser la sauce au fond d'assiettes individuelles et y déposer les tranches de filets de porc. Accompagner de petits légumes et d'une mousseline de pommes de terre Yukon Gold."
+]
+},
+
+{"id": 1975, "livreId": 9, "titre": "Sauce gourmande au caramel", "page": 285, "categorie": "Condiment", "ingredientPrincipal": "Caramel", "image": "livres/009-a-la-bonne-franquette/images/sauce-gourmande-au-caramel.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "250 mL (1 tasse) de cassonade (ou moitié sucre, moitié cassonade)",
+  "30 mL (2 c. à tab) de farine tout usage",
+  "250 mL (1 tasse) de lait 3,25 %",
+  "10 mL (2 c. à thé) d'extrait de vanille",
+  "2 jaunes d'œufs"
+],
+"preparation": [
+  "Faire bouillir de l'eau dans la partie inférieure d'un bain-marie.",
+  "Dans la partie supérieure, combiner la cassonade et la farine en mélangeant bien.",
+  "Ajouter le lait et l'extrait de vanille. Cuire environ 15 minutes en fouettant à quelques reprises.",
+  "Dans un bol, fouetter les jaunes d'œufs.",
+  "Prélever un peu du mélange de lait chaud et l'incorporer aux œufs pour les réchauffer. Reverser le tout dans le bain-marie.",
+  "Mélanger bien jusqu'à ce que le caramel ait épaissi.",
+  "Si désiré, refroidir au réfrigérateur, dans un contenant avec couvercle entrebâillé. Personnellement, je préfère cette sauce froide."
+]
+},
+
+{"id": 1976, "livreId": 9, "titre": "Tête fromagée de Mémeille", "page": 286, "categorie": "Fromage", "ingredientPrincipal": "Porc", "image": "livres/009-a-la-bonne-franquette/images/tete-fromage.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 kg (2 lb) de jarrets de porc (le chef recommande le porc naturel de la Porcherie Ardennes)",
+  "3 oignons, coupés grossièrement",
+  "4 carottes, coupées grossièrement",
+  "4 branches de céleri, coupées grossièrement",
+  "30 mL (2 c. à tab) de cinq-épices",
+  "½ tête d'ail",
+  "3 L (12 tasses) d'eau",
+  "30 mL (2 c. à tab) de sel (ou au goût)",
+  "30 mL (2 c. à tab) de poivre noir fraîchement moulu (ou au goût)"
+],
+"preparation": [
+  "Déposer les jarrets de porc dans une grande casserole. Ajouter les légumes, le cinq-épices et l'ail. Verser l'eau (il en faut suffisamment pour bien couvrir les ingrédients). Porter à ébullition. Couvrir et laisser mijoter à feu doux 2 heures 15 minutes ou jusqu'à ce que la viande se détache facilement de l'os.",
+  "Retirer les morceaux de jarrets du bouillon et réserver. Défaire la viande à la fourchette pour l'effilocher, mais attention, c'est très chaud. Passer le bouillon au tamis. Mélanger la viande au bouillon, saler et poivrer au goût, puis verser dans un moule à pain (on peut aussi utiliser des ramequins individuels ou un autre format de moule, au choix).",
+  "Réfrigérer au moins 5 heures ou jusqu'à ce que le tout soit bien pris en gelée. Il ne reste qu'à servir !"
+]
+},
+
+{"id": 1977, "livreId": 9, "titre": "Tarte à la tomate", "page": 293, "categorie": "Entrée", "ingredientPrincipal": "Tomate", "image": "livres/009-a-la-bonne-franquette/images/tarte-a-la-tomate.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 abaisse de pâte salée de 23 cm (9 po), maison ou du commerce",
+  "30 mL (2 c. à tab) de moutarde de Dijon",
+  "20 belles tomates du jardin bien mûres",
+  "2 sacs (380 g chacun) de fromage râpé de votre choix",
+  "Quelques branches de thym frais, haché finement",
+  "Quelques branches de romarin frais, haché finement",
+  "Gros sel de Guérande ou fleur de sel, poivre noir frais moulu"
+],
+"preparation": [
+  "Préchauffer le four à 190 °C (375 °F).",
+  "Tapisser le fond d'une assiette à tarte profonde avec l'abaisse de pâte salée.",
+  "Badigeonner uniformément de moutarde de Dijon.",
+  "Trancher les tomates et en disposer une couche sur la moutarde.",
+  "Saupoudrer d'une couche de fromage râpé. Assaisonner de thym et de romarin, saler et poivrer.",
+  "Répéter ces couches successives de tomates et de fromage, en assaisonnant chaque fois, jusqu'à hauteur de l'assiette à tarte.",
+  "Cuire au four préchauffé de 25 à 35 minutes.",
+  "Retirer la tarte du four et la laisser tiédir. Elle sera encore meilleure réchauffée le lendemain.",
+  "Servir en apéro ou pour accompagner viandes ou poissons."
+]
+},
+
+{"id": 1978, "livreId": 9, "titre": "Confit de canard et sa salade au fromage de chèvre et aux canneberges", "page": 294, "categorie": "Volaille", "ingredientPrincipal": "Canard", "image": "livres/009-a-la-bonne-franquette/images/canard-confit-et-sa-salade.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "6 cuisses de canard (de Barbarie ou mulard)",
+  "Gros sel",
+  "Gras de canard fondu ou lard",
+  "60 mL (¼ tasse) de moutarde de Dijon",
+  "60 mL (¼ tasse) de vinaigre de vin rouge",
+  "250 mL (1 tasse) d'huile végétale",
+  "2 L (8 tasses) de mesclun de laitues",
+  "180 g (6 oz) de fromage de chèvre frais, émietté",
+  "180 g (6 oz) de canneberges séchées",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Frotter les cuisses de canard de gros sel et laisser reposer toute la nuit au réfrigérateur.",
+  "Enlever l'excédent de sel. Placer les cuisses dans un faitout et couvrir de gras de canard fondu ou de lard.",
+  "Faire mijoter très doucement de 2 à 3 heures, jusqu'à ce que la chair se retire des extrémités, découvrant l'os d'environ 2,5 cm (1 po).",
+  "Préchauffer le four à 200 °C (400 °F).",
+  "Retirer délicatement les cuisses du gras. Transférer dans une poêle allant au four, la peau vers le haut.",
+  "Cuire au four préchauffé 7 minutes, tourner les cuisses peau vers le bas et cuire encore 7 minutes, jusqu'à ce que la peau soit dorée et croustillante.",
+  "Fouetter ensemble la moutarde et le vinaigre. Saler et poivrer au goût.",
+  "Ajouter l'huile en filet, en fouettant.",
+  "Touiller la salade avec suffisamment de vinaigrette pour napper légèrement les laitues.",
+  "Répartir la salade dans six bols. Parsemer de fromage de chèvre et de canneberges. Placer un confit sur chaque salade. Bon appétit !",
+  "Note : Si vous ne pensez pas servir les cuisses immédiatement, les retirer du gras et les transférer dans une grande casserole. Les recouvrir complètement de gras, les laisser refroidir et réfrigérer. Le confit peut être conservé de cette façon pendant quelques mois pour un souper gastronomique improvisé."
+]
+},
+
+{"id": 1979, "livreId": 9, "titre": "Poulet rôti aux légumes", "page": 297, "categorie": "Volaille", "ingredientPrincipal": "Poulet", "image": "livres/009-a-la-bonne-franquette/images/poulet-roti-aux-agrumes.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 poulet entier de 1 kg (2 lb), de préférence fermier",
+  "30 mL (2 c. à tab) d'herbes fraîches (thym, romarin et origan)",
+  "15 mL (1 c. à tab) d'ail, haché",
+  "5 mL (1 c. à thé) de chacun : sel et poivre noir frais moulu (ou plus au goût)",
+  "30 mL (2 c. à tab) d'huile d'olive vierge extra",
+  "2 branches de céleri",
+  "4 pommes de terre moyennes, pelées",
+  "4 carottes moyennes, pelées",
+  "1 oignon rouge, pelé",
+  "2 tomates moyennes"
+],
+"preparation": [
+  "Préchauffer le four à 190 °C (375 °F).",
+  "Bien rincer puis essuyer le poulet et le transférer dans un grand plat allant au four.",
+  "Dans un bol, combiner les herbes fraîches, l'ail, le sel et le poivre. Ajouter l'huile d'olive et bien mélanger.",
+  "Verser sur le poulet et cuire au four préchauffé 1 heure 15 minutes.",
+  "Entre-temps, couper les légumes en gros morceaux. Après 30 minutes de cuisson du poulet, ajouter les légumes au fond du plat.",
+  "Réduire la température du four à 180 °C (350 °F) et poursuivre la cuisson environ 45 minutes. Arroser aux 15 minutes.",
+  "Note : Le poulet est cuit quand sa température interne atteint 75 °C (160 °F) au thermomètre à viande. Si le poulet grille trop rapidement vers la fin, réduire la température du four ou couvrir le plat de papier d'aluminium."
+]
+},
+
+{"id": 1980, "livreId": 9, "titre": "Escalope de foie gras de canard poêlée, compote de prunes et tuile balsamique", "page": 298, "categorie": "Volaille", "ingredientPrincipal": "Foie gras", "image": "livres/009-a-la-bonne-franquette/images/escaloppe-de-foie-gras.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "300 g (10 oz) de prunes italiennes (ou quetsches), dénoyautées",
+  "60 mL (¼ tasse) de beurre",
+  "60 mL (¼ tasse) de sucre",
+  "¼ de bâton de cannelle",
+  "60 mL (¼ tasse) de vinaigre balsamique",
+  "80 mL (⅓ tasse) de farine",
+  "4 escalopes de foie gras de 90 g (3 oz) chacune",
+  "80 mL (⅓ tasse) de pousses de cresson",
+  "Fleur de sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Dans une casserole, combiner les prunes, 45 mL (3 c. à tab) de beurre, 45 mL (3 c. à tab) de sucre et la cannelle.",
+  "Cuire à feu doux jusqu'à l'obtention d'une compote, environ 10 minutes.",
+  "Goûter la compote pour s'assurer de l'équilibre entre le sucre et l'acide. Ajouter du sucre ou du vinaigre au besoin.",
+  "Laisser égoutter la compote en récupérant le jus de cuisson.",
+  "Dans la même casserole, faire réduire de moitié 30 mL (2 c. à tab) de vinaigre balsamique, puis ajouter le jus de cuisson de la compote et cuire quelques minutes, jusqu'à l'obtention d'un sirop.",
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Dans une petite casserole, combiner le reste du vinaigre balsamique et le reste du sucre, puis cuire à feu moyen-doux jusqu'à l'obtention d'un caramel, de 2 à 3 minutes.",
+  "Ajouter le reste du beurre, puis la farine. Laisser reposer cette pâte 30 minutes à la température ambiante.",
+  "Sur une plaque à pâtisserie tapissée de papier parchemin ou une toile de cuisson antiadhésive Silpat, former des tuiles en étalant une couche très mince de pâte de la forme désirée.",
+  "Cuire au four préchauffé environ 10 minutes ou jusqu'à l'obtention d'une belle couleur dorée.",
+  "Assaisonner les escalopes de foie gras.",
+  "Dans une poêle antiadhésive très chaude, saisir les escalopes 1 minute de chaque côté. Égoutter et éponger sur un linge ou un essuie-tout.",
+  "Dans quatre assiettes, verser un peu de compote de prunes tiède. Y déposer une escalope de foie gras. Décorer d'un filet de réduction de vinaigre balsamique. Saler et poivrer. Décorer avec les tuiles et les pousses de cresson."
+]
+},
+
+{"id": 1981, "livreId": 9, "titre": "Grilled cheese au thon et au fromage Valbert", "page": 313, "categorie": "Sandwich", "ingredientPrincipal": "Thon", "image": "livres/009-a-la-bonne-franquette/images/grilled-cheese-au-thon.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 boîte (170 g) de thon dans l'huile, bien égoutté",
+  "60 mL (¼ tasse) de céleri en petits dés",
+  "60 mL (¼ tasse) de fromage Valbert, râpé (ou cheddar fort)",
+  "1 oignon vert, haché finement",
+  "45 mL (3 c. à tab) de mayonnaise",
+  "1 mL (¼ c. à thé) de poudre de cari",
+  "30 mL (2 c. à tab) de persil plat, haché finement",
+  "4 tranches de bon pain de campagne",
+  "20 mL (4 c. à thé) de beurre",
+  "Sel et poivre noir frais moulu, au goût"
+],
+"preparation": [
+  "Dans un bol, combiner tous les ingrédients sauf le pain et le beurre.",
+  "Séparer le mélange en deux et en tartiner 2 tranches de pain. Recouvrir des autres tranches de pain, en sandwich.",
+  "Beurrer l'extérieur des sandwichs.",
+  "Dans une poêle bien chaude, faire dorer les sandwichs 1 minute de chaque côté.",
+  "Servir chaud, accompagné de croustilles, de crudités, d'olives, etc."
+]
+},
+
+{"id": 1982, "livreId": 9, "titre": "Cassolette d'escargots au bleu", "page": 314, "categorie": "Entrée", "ingredientPrincipal": "Escargot", "image": "livres/009-a-la-bonne-franquette/images/casolette-d-escargots-au-bleu.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "180 mL (¾ tasse) de vin blanc",
+  "200 g (7 oz) de fromage roquefort ou bleu danois",
+  "500 mL (2 tasses) de crème 35 % M.G.",
+  "2 boîtes d'escargots d'environ 125 g chacune",
+  "15 mL (1 c. à tab) de beurre",
+  "Persil frais haché (pour décorer)",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans une poêle, faire chauffer le vin blanc et y faire fondre le fromage.",
+  "Ajouter la crème, puis saler et poivrer. Laisser mijoter à feu moyen de 5 à 7 minutes.",
+  "Entre-temps, dans une autre poêle, faire sauter les escargots au beurre, puis les ajouter au mélange de fromage. Poursuivre la cuisson quelques minutes ou jusqu'à ce que la sauce ait légèrement épaissi.",
+  "Servir dans des cassolettes, décoré de persil haché.",
+  "Note : Si désiré, vous pouvez servir ces escargots dans de petits vol-au-vent du commerce, légèrement réchauffés au four. Si vous n'êtes pas friand de bleu, n'hésitez pas à lui substituer votre fromage préféré. Par exemple, un brie ou un camembert serait ici tout à fait délicieux."
+]
+},
+
+{"id": 1983, "livreId": 9, "titre": "Cretonnade de tofu", "page": 316, "categorie": "Déjeuner", "ingredientPrincipal": "Tofu", "image": "livres/009-a-la-bonne-franquette/images/cretonnade-de-tofu.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 bloc (454 g) de tofu",
+  "45 mL (3 c. à tab) de levure Torula",
+  "45 mL (3 c. à tab) de sauce tamari",
+  "½ gousse d'ail, hachée finement",
+  "20 mL (4 c. à thé) d'oignon rouge, haché finement",
+  "Sel et poivre noir frais moulu, au goût"
+],
+"preparation": [
+  "Éponger le tofu avec du papier essuie-tout.",
+  "L'écraser au pilon à légumes pour obtenir une texture fine.",
+  "Verser le tofu dans un bol, ajouter tous les autres ingrédients et mélanger.",
+  "Transférer dans un plat et bien tasser.",
+  "Couvrir ou sceller avec de la pellicule plastique et laisser reposer au réfrigérateur 12 heures.",
+  "Servir comme on le désire (cette cretonnade sera délicieuse sur du pain de seigle grillé, garnie de luzerne et de moutarde forte)."
+]
+},
+
+{"id": 1984, "livreId": 9, "titre": "Gâteau au yaourt de mamie Pachon", "page": 318, "categorie": "Dessert", "ingredientPrincipal": "Yaourt", "image": "livres/009-a-la-bonne-franquette/images/grilled-cheese-au-thon.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 boîte (170 g) de thon dans l'huile, bien égoutté",
+  "60 mL (¼ tasse) de céleri en petits dés",
+  "60 mL (¼ tasse) de fromage Valbert, râpé (ou cheddar fort)",
+  "1 oignon vert, haché finement",
+  "45 mL (3 c. à tab) de mayonnaise",
+  "1 mL (¼ c. à thé) de poudre de cari",
+  "30 mL (2 c. à tab) de persil plat, haché finement",
+  "4 tranches de bon pain de campagne",
+  "20 mL (4 c. à thé) de beurre",
+  "Sel et poivre noir frais moulu, au goût"
+],
+"preparation": [
+  "Dans un bol, combiner tous les ingrédients sauf le pain et le beurre.",
+  "Séparer le mélange en deux et en tartiner 2 tranches de pain. Recouvrir des autres tranches de pain, en sandwich.",
+  "Beurrer l'extérieur des sandwichs.",
+  "Dans une poêle bien chaude, faire dorer les sandwichs 1 minute de chaque côté.",
+  "Servir chaud, accompagné de croustilles, de crudités, d'olives, etc."
+]
+},
+
 ]
