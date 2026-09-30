@@ -2698,34 +2698,6 @@
   "Servir comme on le désire (cette cretonnade sera délicieuse sur du pain de seigle grillé, garnie de luzerne et de moutarde forte)."
 ]
 },
-
-{"id": 1984, "livreId": 9, "titre": "Grilled cheese au thon et au fromage Valbert", "page": 313, "categorie": "Sandwich", "ingredientPrincipal": "Thon", "image": "livres/009-a-la-bonne-franquette/images/grilled-cheese-au-thon.jpeg",
-"favori": false,
-"note": 0,
-"statut": "Indexé",
-"ingredients": [
-  "1 boîte (170 g) de thon dans l'huile, bien égoutté",
-  "60 mL (¼ tasse) de céleri en petits dés",
-  "60 mL (¼ tasse) de fromage Valbert, râpé (ou cheddar fort)",
-  "1 oignon vert, haché finement",
-  "45 mL (3 c. à tab) de mayonnaise",
-  "1 mL (¼ c. à thé) de poudre de cari",
-  "30 mL (2 c. à tab) de persil plat, haché finement",
-  "4 tranches de bon pain de campagne",
-  "20 mL (4 c. à thé) de beurre",
-  "Sel et poivre noir frais moulu, au goût"
-],
-"preparation": [
-  "Dans un bol, combiner tous les ingrédients sauf le pain et le beurre.",
-  "Séparer le mélange en deux et en tartiner 2 tranches de pain. Recouvrir des autres tranches de pain, en sandwich.",
-  "Beurrer l'extérieur des sandwichs.",
-  "Dans une poêle bien chaude, faire dorer les sandwichs 1 minute de chaque côté.",
-  "Servir chaud, accompagné de croustilles, de crudités, d'olives, etc."
-]
-},
-
-
-
   {
   "id": 434,
   "livreId": 9,
