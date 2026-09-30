@@ -2612,7 +2612,7 @@
 ]
 },
 
-{"id": 1984, "livreId": 9, "titre": "Grilled cheese au thon et au fromage Valbert", "page": 313, "categorie": "Sandwich", "ingredientPrincipal": "Yaourt", "image": "livres/009-a-la-bonne-franquette/images/grilled-cheese-au-thon.jpeg",
+{"id": 1984, "livreId": 9, "titre": "Grilled cheese au thon et au fromage Valbert", "page": 313, "categorie": "Sandwich", "ingredientPrincipal": "Thon", "image": "livres/009-a-la-bonne-franquette/images/grilled-cheese-au-thon.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
