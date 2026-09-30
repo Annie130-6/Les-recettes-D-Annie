@@ -149,7 +149,37 @@
   "Dans un grand bol, combiner tous les ingrédients de la salade. Façonner en quatre quenelles et en garnir les soupes. Si désiré, servir avec des croûtons de pain."
 ]
 },
-{"id": 6, "livreId": 1, "titre": "Salade d'asperges grillées, œuf poché, roquette et parmesan", "page": 26, "categorie": "Entrée", "ingredientPrincipal": "Asperge", "image": null, "favori": false, "statut": "Indexé"},
+{"id": 6, "livreId": 1, "titre": "Salade d'asperges grillées, œuf poché, roquette et parmesan", "page": 26, "categorie": "Entrée", "ingredientPrincipal": "Asperge","image": "livres/001-kitchen-galerie/images/Salade-d-asperge-grillees.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "40 asperges, le bout cassé",
+  "2 c. à café d'huile d'olive",
+  "1 litre (4 tasses) d'eau",
+  "1 c. à soupe de gros sel",
+  "4 œufs",
+  "2 c. à soupe de vinaigre blanc",
+  "60 mL (¼ tasse) de vinaigre balsamique",
+  "3 c. à soupe de sucre",
+  "8 oignons cipollinis, pelés",
+  "2 gousses d'ail, pelées",
+  "2 feuilles de laurier",
+  "2 branches de thym",
+  "60 mL (¼ tasse) d'huile de noix",
+  "1 barquette de roquette",
+  "100 g (1 tasse) de parmesan, en copeaux",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Préchauffer le gril ou le barbecue.",
+  "Dans un grand bol, enrober les asperges d'huile d'olive, saler et poivrer. Griller 1 minute de chaque côté à feu vif.",
+  "Dans une grande casserole, amener à ébullition l'eau et le gros sel. Préparer un bol d'eau glacée. Casser les 4 œufs dans 4 petits contenants. Verser le quart du vinaigre blanc sur chaque œuf. Remuer l'eau bouillante avec une cuillère pour créer un léger tourbillon et verser délicatement les œufs, un par un. Cuire 3 ½ minutes à feu moyen. Retirer les œufs avec une écumoire et les plonger dans l'eau glacée pour arrêter la cuisson.",
+  "Dans une casserole, amener à ébullition le vinaigre balsamique, le sucre, les cipollinis, l'ail, le laurier et le thym. Cuire 15 minutes à feu doux. Retirer les oignons et les réserver. À l'aide d'un tamis fin, passer et verser le liquide dans une autre casserole. À feu vif, réduire jusqu'à consistance sirupeuse. Tiédir à température ambiante.",
+  "Monter une vinaigrette en fouettant vigoureusement le sirop de balsamique tiède et l'huile de noix. Dans un grand bol, combiner la roquette, les asperges et les cipollinis, puis napper de vinaigrette et assaisonner.",
+  "Disposer la salade dans les assiettes et décorer de copeaux de parmesan."
+]
+ },
 {"id": 7, "livreId": 1, "titre": "Salade d'asperges et de pieuvre aux agrumes", "page": 28, "categorie": "Entrée", "ingredientPrincipal": "Asperge", "image": "livres/001-kitchen-galerie/images/Salade-d-asperge-et-de-pieuvre.jpeg",
 "favori": false,
 "note": 0,
@@ -205,7 +235,7 @@
   "Assaisonner, ajouter le basilic et servir."
 ]
 },
-{"id": 9, "livreId": 1, "titre": "Tartare de bœuf comme dans le temps de Chez Roger", "page": 35, "categorie": "Entrée", "ingredientPrincipal": "Bœuf", "image": "livres/001-kitchen-galerie/images/Tartare-de-boeuf-comme-dans-le-temps .jpeg",
+{"id": 9, "livreId": 1, "titre": "Tartare de bœuf comme dans le temps de Chez Roger", "page": 35, "categorie": "Entrée", "ingredientPrincipal": "Bœuf", "image": "livres/001-kitchen-galerie/images/Tartare-de-boeuf-comme-dans-le-temps.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
