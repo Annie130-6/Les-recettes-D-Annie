@@ -359,7 +359,34 @@
 ]
 },
 
-{"id": 1897, "livreId": 9, "titre": "Velouté de citrouille à la cardamome et sa brochette de crevettes", "page": 56, "categorie": "Soupe", "ingredientPrincipal": "Citrouille", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1897, "livreId": 9, "titre": "Velouté de citrouille à la cardamome et sa brochette de crevettes", "page": 56, "categorie": "Soupe", "ingredientPrincipal": "Citrouille", "image": "livres/009-a-la-bonne-franquette/images/veloute-de-citrouille.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "750 g (1½ lb) de citrouille, pelée, épépinée et coupée en morceaux",
+  "310 mL (1¼ tasse) d'oignons, hachés",
+  "80 mL (⅓ tasse) d'huile d'olive",
+  "2 mL (½ c. à thé) de cardamome",
+  "1,5 L (6 tasses) de fond de volaille ou bouillon de poulet",
+  "500 mL (2 tasses) de pommes de terre, coupées",
+  "125 mL (½ tasse) de crème 35 % M.G.",
+  "60 mL (¼ tasse) de jus de citron",
+  "12 belles branches de thym frais",
+  "24 crevettes moyennes, décortiquées et déveinées",
+  "Sel et poivre noir frais moulu, au goût"
+],
+"preparation": [
+  "Dans une grande casserole, faire suer la citrouille et les oignons dans 60 mL (¼ tasse) d'huile d'olive. Ajouter la cardamome.",
+  "Mouiller avec le fond de volaille et assaisonner.",
+  "Ajouter les pommes de terre, du sel et du poivre. Cuire environ 20 minutes ou jusqu'à ce que les légumes soient tendres.",
+  "Au mélangeur électrique, réduire le tout en purée. Passer au chinois ou au tamis fin pour obtenir une texture bien lisse.",
+  "Incorporer la crème et le jus de citron. Si nécessaire, remettre sur le feu pour réchauffer, mais ne pas laisser bouillir. Rectifier l'assaisonnement et réserver au chaud.",
+  "Effeuiller les branches de thym en conservant quelques brins à l'extrémité de chacune. Enfiler 2 crevettes par brochette. Dans un poêlon, chauffer le reste de l'huile d'olive et y poêler les brochettes jusqu'à ce que les crevettes soient roses et cuites.",
+  "Servir le velouté bien chaud, en décorant chaque bol d'une brochette."
+]
+},
+
 {"id": 1898, "livreId": 9, "titre": "Le pain de viande de Jehane", "page": 58, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "livres/009-a-la-bonne-franquette/images/le-pain-de-viande-de-jeanne.jpeg",
 "favori": false,
 "note": 0,
@@ -1902,8 +1929,68 @@
 ]
 },
 
-{"id": 1955, "livreId": 9, "titre": "Pintade rôtie aux champignons, sauce au vin rouge et purée de pommes de terre", "page": 196, "categorie": "Volaille", "ingredientPrincipal": "Pintade", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1956, "livreId": 9, "titre": "Pâtes fraîches au foie gras, aux chanterelles et à la Tomme des Demoiselles", "page": 198, "categorie": "Pâtes", "ingredientPrincipal": "Foie gras", "image": "IMG_1863.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1955, "livreId": 9, "titre": "Pintade rôtie aux champignons, sauce au vin rouge et purée de pommes de terre", "page": 196, "categorie": "Volaille", "ingredientPrincipal": "Pintade", "image": "livres/009-a-la-bonne-franquette/images/pintade-rotie-aux-champignons.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "source": null,
+  "ingredients": [
+    "5 grosses pommes de terre Yukon Gold (environ 750 g / 1½ lb)",
+    "250 mL (1 tasse) de champignons au choix (shiitakes, king enokis, chanterelles, pieds bleus)",
+    "30 mL (2 c. à tab) d'huile d'olive vierge extra",
+    "15 mL (1 c. à tab) de jus de citron",
+    "Quelques gouttes de sauce tabasco",
+    "1 pintade ou autre volaille au choix : jeune dindon, poulet...",
+    "60 mL (¼ tasse) de beurre",
+    "180 mL (¾ tasse) de crème 35 % M.G.",
+    "125 mL (½ tasse) de vin rouge ou xérès",
+    "Sel"
+  ],
+  "preparation": [
+    "Préchauffer le four à 230 °C (450 °F).",
+    "Laver les pommes de terre et les déposer sur une plaque à pâtisserie. Cuire au four environ 1 heure, en piquant pour vérifier la cuisson.",
+    "Pendant ce temps, couper les champignons en gros morceaux.",
+    "Dans un poêlon, chauffer l'huile à feu moyen-vif et cuire les champignons.",
+    "Les passer au robot jusqu'à l'obtention de fins morceaux. Relever de jus de citron, sauce tabasco et sel au goût.",
+    "Du bout des doigts, soulever la peau qui recouvre la poitrine de la pintade. Délicatement pour ne pas la percer, glisser la main sous la peau pour la détacher et former une poche.",
+    "Par petites quantités, glisser délicatement le mélange de champignons sous la peau.",
+    "Transférer la pintade dans une lèchefrite et la saupoudrer de sel.",
+    "Retirer les pommes de terre cuites du four, réduire la température à 180 °C (350 °F) et transférer la pintade dans le four. Cuire 25 minutes par 500 g (1 lb). Si la volaille est très grosse, par exemple un jeune dindon, il est préférable de la couvrir au début. Retirer alors le couvercle pour les 30 dernières minutes de cuisson.",
+    "Laisser refroidir les pommes de terre cuites 5 minutes à la température ambiante, afin qu'elles soient encore chaudes mais plus faciles à manipuler.",
+    "Dans une petite casserole, réchauffer le beurre et la crème à feu vif.",
+    "Couper les pommes de terre en deux et, à l'aide d'une cuillère, les vider de leur chair. Écraser celle-ci, idéalement à la moulinette.",
+    "Transférer la chair de pommes de terre dans un grand bol, ajouter la crème chaude et assaisonner de sauce tabasco et de sel, en mélangeant bien. Couvrir et réserver au chaud.",
+    "Retirer la pintade du four, la transférer dans un plat de service chaud et réserver à couvert.",
+    "Poser la lèchefrite sur la cuisinière et déglacer avec le vin rouge. À feu moyen-vif, faire réduire du tiers.",
+    "Servir la pintade avec la purée de pommes de terre et la sauce dans une saucière."
+  ]
+},
+{"id": 1956, "livreId": 9, "titre": "Pâtes fraîches au foie gras, aux chanterelles et à la Tomme des Demoiselles", "page": 198, "categorie": "Pâtes", "ingredientPrincipal": "Foie gras", "image": "livres/009-a-la-bonne-franquette/images/pate-fraiches-au-foie-gras.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 g (1 lb) de pâtes longues fraîches",
+  "500 mL (2 tasses) de chanterelles fraîches",
+  "15 mL (1 c. à tab) d'huile d'olive",
+  "200 g (7 oz) de foie gras",
+  "60 mL (¼ tasse) d'oignons verts, hachés finement",
+  "250 mL (1 tasse) de Tomme des Demoiselles (un fromage de type parmesan), râpée",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Dans une grande casserole d'eau bouillante salée, cuire les pâtes.",
+  "Entre-temps, nettoyer scrupuleusement les chanterelles.",
+  "Dans un poêlon, chauffer l'huile d'olive à feu élevé.",
+  "Y faire sauter les chanterelles jusqu'à ce qu'elles aient perdu leur eau et soient légèrement colorées. Les retirer du poêlon et réserver.",
+  "Égoutter les pâtes en conservant 125 mL (½ tasse) de l'eau de cuisson. Réserver séparément.",
+  "Couper le foie gras en cubes de 1 cm (½ po). Dans le poêlon qui a servi pour les chanterelles, saisir rapidement le foie gras à feu vif. Saler et poivrer au goût.",
+  "Dans un grand plat de service réchauffé, mélanger les pâtes et leur eau de cuisson, les oignons verts et 15 mL (1 c. à tab) du gras de foie gras fondu. Bien remuer.",
+  "Ajouter le foie gras, les chanterelles et 180 mL (¾ tasse) de Tomme râpée. Mélanger le tout et vérifier l'assaisonnement.",
+  "Servir dans des bols chauds, saupoudrer de Tomme et poivrer."
+]
+},
+
 {"id": 1957, "livreId": 9, "titre": "Maquereau au vin blanc en papillote", "page": 200, "categorie": "Poisson", "ingredientPrincipal": "Maquereau", "image": "livres/009-a-la-bonne-franquette/images/maquereau-au-vin-blanc.jpeg",
 "favori": false,
 "note": 0,
@@ -2635,6 +2722,500 @@
   "Dans une poêle bien chaude, faire dorer les sandwichs 1 minute de chaque côté.",
   "Servir chaud, accompagné de croustilles, de crudités, d'olives, etc."
 ]
-}
+},
+
+
+
+  {
+  "id": 434,
+  "livreId": 9,
+  "titre": "Pâtes à la jardinière de pétoncles",
+  "page": 203,
+  "categorie": "Pâtes",
+  "ingredientPrincipal": "Pétoncles",
+  "image": "livres/009-a-la-bonne-franquette/images/pates-a-la-jardiniere.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "source": null,
+  "ingredients": [
+    "500 g (1 lb) de fettucines ou autres pâtes au choix",
+    "1 petite carotte, pelée",
+    "2 tranches de navet",
+    "1 courgette",
+    "1 branche de céleri",
+    "1 poireau, bien nettoyé",
+    "15 mL (1 c. à tab) de beurre",
+    "15 mL (1 c. à tab) d'huile",
+    "500 g (1 lb) de pétoncles frais",
+    "15 mL (1 c. à tab) de farine",
+    "125 mL (½ tasse) de vin blanc",
+    "125 mL (½ tasse) de fumet de poisson",
+    "125 mL (½ tasse) de crème 35 % M.G.",
+    "Sel et poivre noir frais moulu",
+    "Herbes fraîches au choix (persil, ciboulette, etc.)"
+  ],
+  "preparation": [
+    "Dans une grande casserole d'eau bouillante salée, cuire les pâtes al dente.",
+    "Entre-temps, couper tous les légumes en julienne.",
+    "Dans un poêlon, chauffer le beurre et l'huile. Ajouter les pétoncles et les légumes en julienne, puis faire revenir 2 minutes.",
+    "Saupoudrer de farine, mélanger délicatement et cuire 1 minute.",
+    "Déglacer avec le vin blanc et le fumet de poisson et laisser réduire de 2 à 3 minutes.",
+    "Incorporer la crème. Assaisonner de sel, de poivre et d'herbes fraîches.",
+    "Égoutter les pâtes et les répartir dans quatre assiettes. Verser le mélange de pétoncles sur les pâtes et servir."
+  ]
+},
+{
+  "id": 435,
+  "livreId": 9,
+  "titre": "Pâtes au gratin de maman",
+  "page": 213,
+  "categorie": "Pâtes",
+  "ingredientPrincipal": "Bœuf haché",
+  "image": "livres/009-a-la-bonne-franquette/images/pate-au-gratin.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "source": null,
+  "ingredients": [
+    "125 mL (½ tasse) de pâtes sèches (macaronis, penne...) par personne",
+    "30 mL (2 c. à tab) de beurre salé",
+    "1 oignon blanc, haché",
+    "500 g (1 lb) de bœuf haché",
+    "2 branches de romarin frais ou 10 mL (2 c. à thé) de romarin séché",
+    "1 boîte (285 mL) de soupe aux tomates",
+    "45 mL (3 c. à tab) de Cheez Whiz",
+    "500 mL (2 tasses) de cheddar P'tit Québec râpé",
+    "Sel et poivre noir frais moulu"
+  ],
+  "preparation": [
+    "Dans une grande casserole d'eau bouillante salée, cuire les pâtes en suivant les indications du fabricant.",
+    "Entre-temps, dans une autre casserole, faire fondre le beurre et y faire suer l'oignon jusqu'à ce qu'il commence à colorer.",
+    "Ajouter le bœuf haché et le romarin. Saler et poivrer au goût. Cuire jusqu'à ce que la viande perde sa couleur rosée.",
+    "Ajouter la soupe aux tomates et le Cheez Whiz à la viande cuite.",
+    "À feu doux, laisser mijoter cette sauce jusqu'à ce que les pâtes soient prêtes.",
+    "Ajouter les pâtes cuites à la sauce en mélangeant bien. Transférer le tout dans un plat à gratin.",
+    "Parsemer les pâtes de fromage râpé. Faire gratiner sous le gril du four, environ 15 minutes ou jusqu'à ce que le fromage soit bien doré. Déguster !"
+  ]
+},
+{
+  "id": 436,
+  "livreId": 9,
+  "titre": "Suprême de poulet à l'érable et au cidre de glace",
+  "page": 217,
+  "categorie": "Volaille",
+  "ingredientPrincipal": "Poulet",
+  "image": "livres/009-a-la-bonne-franquette/images/supreme-de-poulet-a-l-erable.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "source": null,
+  "ingredients": [
+    "30 mL (2 c. à tab) de beurre salé",
+    "4 poitrines de poulet sans la peau",
+    "5 mL (1 c. à thé) d'épices à bifteck",
+    "80 mL (⅓ tasse) de cidre de glace",
+    "125 mL (½ tasse) de sirop d'érable",
+    "125 mL (½ tasse) de crème à cuisson 15 % M.G."
+  ],
+  "preparation": [
+    "Préchauffer le four à 150 °C (300 °F).",
+    "Dans une poêle allant au four, faire fondre le beurre et y saisir les poitrines de poulet de chaque côté jusqu'à coloration. Assaisonner d'épices à bifteck.",
+    "Cuire au four préchauffé 20 minutes.",
+    "Retirer le poulet de la poêle et le réserver au chaud.",
+    "Dégraisser le jus de cuisson dans la poêle, en conservant les sucs de cuisson collés au fond.",
+    "Déposer la poêle sur la cuisinière et, à feu moyen, y verser le cidre et le sirop d'érable. Laisser réduire de moitié.",
+    "Incorporer la crème en fouettant. Cuire 3 minutes (ajouter du cidre si la sauce est trop épaisse).",
+    "Servir les poitrines de poulet bien chaudes et nappées de sauce à l'érable."
+  ]
+},
+{
+  "id": 437,
+  "livreId": 9,
+  "titre": "Pierogi au cheddar fort et canard confit",
+  "page": 223,
+  "categorie": "Pâtes",
+  "ingredientPrincipal": "Canard confit",
+  "image": "livres/009-a-la-bonne-franquette/images/pierogi-au-cheddar-fort.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "source": null,
+  "ingredients": [
+    "Pâte (si vous manquez de temps, utilisez des pâtes à won-ton du commerce) :",
+    "500 g (16 oz) de farine",
+    "5 œufs",
+    "180 mL (¾ tasse) d'eau",
+    "Sel",
+    "Farce :",
+    "1 oignon moyen, haché finement",
+    "45 mL (3 c. à tab) de beurre",
+    "500 g (1 lb) de pommes de terre à chair jaune, pelées et coupées en dés",
+    "200 g (7 oz) de cheddar fort, râpé",
+    "200 g (7 oz) de canard confit (ou cuisse de poulet rôti), effiloché",
+    "Sel et poivre noir frais moulu, au goût",
+    "Pour servir :",
+    "Crème sure",
+    "Ciboulette ou oignons verts, hachés (facultatif)"
+  ],
+  "preparation": [
+    "Pâte : Dans un bol ou sur une surface de travail, mélanger la farine, 4 œufs battus et l'eau pour former une pâte. Incorporer quelques pincées de sel sans trop pétrir. Réserver.",
+    "Farce : Dans un poêlon, faire caraméliser l'oignon dans 15 mL (1 c. à tab) de beurre et réserver.",
+    "Dans une grande casserole d'eau salée, cuire les pommes de terre jusqu'à ce qu'elles soient tendres. Les réduire en purée et y ajouter le cheddar rapidement afin qu'il puisse fondre.",
+    "Ajouter l'oignon caramélisé et le canard confit. Saler et poivrer.",
+    "Sur une surface de travail légèrement farinée, étendre la pâte à l'aide d'un rouleau à pâtisserie. Avec un emporte-pièce, découper des cercles d'environ 10 cm (4 po) de diamètre. Badigeonner le contour de chacun du dernier œuf battu, puis déposer un peu de farce au centre. Plier les cercles en deux pour former de gros raviolis, en pressant avec les doigts ou une fourchette pour bien sceller la pâte.",
+    "Dans une grande casserole d'eau bouillante, blanchir les pierogi environ 2 minutes. Égoutter et éponger à l'aide de papier essuie-tout.",
+    "Dans une poêle antiadhésive, faire dorer les pierogi dans le reste du beurre jusqu'à ce qu'ils soient croustillants. Servir avec la crème sure nature ou relevée de ciboulette ou d'oignons verts hachés, si désiré.",
+    "Note : Pour vous gâter, ajoutez 200 g (7 oz) de terrine de foie gras à la recette !"
+  ]
+},
+{
+  "id": 438,
+  "livreId": 9,
+  "titre": "Biscuits à la mélasse",
+  "page": 227,
+  "categorie": "Biscuits",
+  "ingredientPrincipal": "Mélasse",
+  "image": "livres/009-a-la-bonne-franquette/images/biscuits-a-la-melasse.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "source": null,
+  "ingredients": [
+    "350 g (12 oz) de beurre salé, mou",
+    "80 mL (⅓ tasse) de cassonade",
+    "1 œuf entier",
+    "180 mL (¾ tasse) de mélasse",
+    "60 mL (¼ tasse) de lait sur (pour faire surir du lait, ajouter une touche de vinaigre blanc et laisser reposer de 10 à 15 minutes avant de l'incorporer à la recette)",
+    "500 mL (2 tasses) de farine",
+    "2 mL (½ c. à thé) de cannelle moulue",
+    "2 mL (½ c. à thé) de gingembre moulu",
+    "5 mL (1 c. à thé) de bicarbonate de soude",
+    "Grains de chocolat (facultatif)"
+  ],
+  "preparation": [
+    "Préchauffer le four à 180 °C (350 °F).",
+    "Dans un bol, fouetter le beurre en pommade. Ajouter la cassonade, l'œuf, la mélasse et le lait sur.",
+    "Incorporer le reste des ingrédients, en mélangeant bien.",
+    "Sur une plaque à biscuits graissée ou tapissée de papier parchemin, déposer une cuillerée de pâte pour chaque biscuit, en laissant assez d'espace entre chacun pour ne pas qu'ils se touchent en cuisant.",
+    "Cuire au four de 10 à 12 minutes, selon la taille des biscuits."
+  ]
+},
+{
+  "id": 439,
+  "livreId": 9,
+  "titre": "Foie de veau à l'espagnole d'Emilia",
+  "page": 220,
+  "categorie": "Abats",
+  "ingredientPrincipal": "Foie de veau",
+  "image": "livres/009-a-la-bonne-franquette/images/foie-de-veau.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "source": null,
+  "ingredients": [
+    "30 mL (2 c. à tab) de beurre",
+    "4 tranches de foie de veau de 1 cm (½ po) d'épaisseur",
+    "60 mL (¼ tasse) d'ail haché",
+    "60 mL (¼ tasse) de vinaigre balsamique de bonne qualité",
+    "30 mL (2 c. à tab) de porto ou vin rouge",
+    "60 mL (¼ tasse) de persil frais, haché",
+    "60 mL (¼ tasse) de chapelure",
+    "Pincée de poivre noir",
+    "Pincée de sel"
+  ],
+  "preparation": [
+    "Dans une casserole, faire fondre la moitié du beurre et y saisir le foie des deux côtés. Retirer le foie de la casserole et réserver.",
+    "Ajouter le reste du beurre dans la casserole et, à feu doux, y faire revenir l'ail sans coloration.",
+    "Augmenter l'intensité du feu et incorporer le vinaigre balsamique. Laisser réduire quelques secondes.",
+    "À feu doux, incorporer le porto et, si la sauce semble trop épaisse ou trop vinaigrée, ajouter jusqu'à 30 mL (2 c. à tab) d'eau. Saler et poivrer légèrement. Remettre le foie dans la casserole jusqu'à l'obtention de la cuisson désirée (moi, je le préfère rosé).",
+    "Parsemer de persil et transférer le foie dans des assiettes individuelles.",
+    "Ajouter la chapelure au jus de cuisson pour épaissir la sauce. Verser sur le foie. Servir de préférence avec une purée de pommes de terre, c'est divin !"
+  ]
+},
+{
+  "id": 440,
+  "livreId": 9,
+  "titre": "Bodding de Vivi",
+  "page": 224,
+  "categorie": "Desserts",
+  "ingredientPrincipal": "Pain rassis",
+  "image": "livres/009-a-la-bonne-franquette/images/bodding-de-vivi.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "source": null,
+  "ingredients": [
+    "250 mL (1 tasse) de raisins secs",
+    "60 mL (¼ tasse) de rhum agricole (exemple : Saint James)",
+    "875 mL (3½ tasses) de pain rassis en tout genre",
+    "500 mL (2 tasses) de café fort chaud ou lait chaud",
+    "2 œufs",
+    "60 mL (¼ tasse) de lait froid",
+    "45 mL (3 c. à tab) de cassonade",
+    "2 pommes, pelées",
+    "Le jus de ½ citron",
+    "30 mL (2 c. à tab) de beurre",
+    "60 mL (¼ tasse) de sirop d'érable ambré",
+    "Crème sure, pour la garniture"
+  ],
+  "preparation": [
+    "Faire macérer les raisins secs dans le rhum de 2 à 3 heures, jusqu'à ce qu'ils soient bien dodus.",
+    "Entre-temps, découper le pain rassis dans un bol. Verser le café ou le lait chaud dans le bol. Laisser tremper un bon 2 heures.",
+    "Égoutter le pain dans une passoire, sans exercer de pression. Réserver le pain dans un grand bol.",
+    "Placer une grille au milieu du four et le préchauffer à 180 °C (350 °F).",
+    "Battre les œufs avec le lait froid et la cassonade, puis verser ce mélange sur le pain.",
+    "Ajouter les raisins et mélanger au moins 1 minute à la cuillère de bois. Si le mélange est trop sec, ajouter un peu de lait.",
+    "Verser dans un moule à cake (ou un petit moule à pain) et cuire au centre du four préchauffé environ 1 heure, ou jusqu'à ce qu'un couteau inséré au centre en ressorte presque sec. Laisser refroidir.",
+    "Couper les pommes en dés, ou en faire des boules à l'aide d'une cuillère parisienne. Arroser de jus de citron pour éviter qu'elles brunissent.",
+    "Dans une poêle, chauffer le beurre jusqu'à ce qu'il devienne mousseux.",
+    "Ajouter le sirop d'érable et cuire de 1 à 2 minutes, jusqu'à l'obtention d'un caramel. Y jeter les pommes et poursuivre la cuisson 1 minute.",
+    "Verser le tout sur des tranches de bodding refroidi et servir avec un peu de crème sure."
+  ]
+},
+{
+  "id": 442,
+  "livreId": 9,
+  "titre": "Tartare de saumon de l'Atlantique à saveur d'érable",
+  "page": 252,
+  "categorie": "Poissons",
+  "ingredientPrincipal": "Saumon",
+  "image": "livres/009-a-la-bonne-franquette/images/tartare-de-saumon-a-l-erable.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "source": null,
+  "ingredients": [
+    "1 filet de saumon frais de l'Atlantique (250 g / ½ lb), sans la peau",
+    "1 échalote française, hachée finement",
+    "250 mL (1 tasse) d'huile de pépin de raisin ou huile de canola",
+    "30 mL (2 c. à tab) de vinaigre d'érable",
+    "Le jus de ½ citron",
+    "15 mL (1 c. à tab) de moutarde de Dijon",
+    "Persil, ciboulette, fleurs (pensées, capucines), pour la garniture",
+    "Fleur de sel et poivre noir frais moulu"
+  ],
+  "preparation": [
+    "Couper le filet de saumon en petits dés et verser ces dés dans un bol.",
+    "Ajouter l'échalote, une pincée de fleur de sel, deux tours de moulin à poivre et mélanger délicatement.",
+    "Dans un petit bol, fouetter ensemble le reste des ingrédients sauf la garniture. Verser sur le saumon.",
+    "Recouvrir de pellicule plastique et laisser macérer 1 heure au réfrigérateur.",
+    "Servir, au choix, en assiette, en verrine ou en coupe, avec ses garnitures préférées."
+  ]
+},
+{
+  "id": 443,
+  "livreId": 9,
+  "titre": "Œufs sur le plat aux tomates",
+  "page": 255,
+  "categorie": "Œufs",
+  "ingredientPrincipal": "Œufs",
+  "image": "livres/009-a-la-bonne-franquette/images/oeufs-sur-le-plat-aux-tomates.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "source": null,
+  "ingredients": [
+    "6 gousses d'ail",
+    "30 mL (2 c. à tab) d'huile d'olive",
+    "1 gros oignon, haché finement",
+    "4 belles tomates, coupées en gros dés",
+    "60 mL (¼ tasse) de persil frais, haché",
+    "8 gros œufs",
+    "4 tranches de pain de campagne",
+    "Sel et poivre noir frais moulu"
+  ],
+  "preparation": [
+    "Hacher 4 gousses d'ail. Dans une grande poêle, chauffer l'huile d'olive, ajouter l'oignon et l'ail haché. Faire suer à feu doux quelques minutes ou jusqu'à ce que l'oignon soit transparent, en évitant de colorer.",
+    "Ajouter les tomates, assaisonner le tout et laisser mijoter à feu doux 20 minutes.",
+    "Ajouter le persil, puis les œufs, un à la fois, en prenant soin de ne pas briser les jaunes.",
+    "Cuire à feu doux jusqu'à ce que les blancs soient cuits et les jaunes, encore liquides.",
+    "Pendant ce temps, faire griller les tranches de pain et les frotter avec les 2 gousses d'ail restantes.",
+    "Servir le mélange de tomates et d'œufs dans des plats à gratin individuels, toujours en prenant soin de ne pas briser les jaunes.",
+    "Accompagner de pain grillé et, pourquoi pas, d'une bonne salade verte."
+  ]
+},
+{
+  "id": 444,
+  "livreId": 9,
+  "titre": "Osso buco aux agrumes",
+  "page": 259,
+  "categorie": "Viande",
+  "ingredientPrincipal": "Jarret de veau",
+  "image": "livres/009-a-la-bonne-franquette/images/osso-buco-aux-agrumes.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "source": null,
+  "ingredients": [
+    "45 mL (3 c. à tab) de farine",
+    "6 tranches de jarret de veau de 4 cm (1½ po) d'épaisseur",
+    "15 mL (1 c. à tab) d'huile",
+    "15 mL (1 c. à tab) de beurre",
+    "1 oignon",
+    "250 mL (1 tasse) de vin blanc ou moitié vin-moitié jus d'orange",
+    "125 mL (½ tasse) de fond de veau",
+    "Branches de marjolaine",
+    "Le zeste de ¼ de citron, râpé",
+    "Le zeste de ¼ d'orange, râpé",
+    "2 gousses d'ail, hachées",
+    "Sel et poivre noir frais moulu, au goût"
+  ],
+  "preparation": [
+    "Préchauffer le four à 180 °C (350 °F).",
+    "Fariner les jarrets de veau. Dans une casserole, faire colorer les jarrets des deux côtés dans l'huile et le beurre. Retirer de la casserole et réserver.",
+    "Ajouter l'oignon dans la casserole et le faire blondir doucement. Y remettre la viande.",
+    "Mouiller avec le vin et, à feu vif, laisser réduire presque totalement.",
+    "Ajouter le fond de veau, saler et poivrer. Déposer les branches de marjolaine.",
+    "Couvrir et cuire au four pendant 2 heures. Environ 15 minutes avant la fin de la cuisson, retirer la viande. À l'aide d'un pied mélangeur, mixer la sauce pour la rendre homogène et onctueuse. Remettre la viande dans la casserole, puis ajouter les zestes et l'ail.",
+    "Remettre le tout au four et poursuivre la cuisson jusqu'à ce que la viande se détache facilement de l'os. Déguster avec un risotto au parmesan."
+  ]
+},
+{
+  "id": 445,
+  "livreId": 9,
+  "titre": "Petit sandwich de pétoncles et fraises",
+  "page": 256,
+  "categorie": "Fruits de mer",
+  "ingredientPrincipal": "Pétoncles",
+  "image": "livres/009-a-la-bonne-franquette/images/petit-sandwich-de-petoncles.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "source": null,
+  "ingredients": [
+    "125 mL (½ tasse) de gingembre frais, en fine julienne",
+    "125 mL (½ tasse) de sucre",
+    "Eau",
+    "45 mL (3 c. à tab) de beurre",
+    "1 oignon rouge, émincé",
+    "100 mL (3½ oz) de porto rouge",
+    "8 pétoncles (calibre 10-20)",
+    "200 g (7 oz) de fromage à la crème Philadelphia",
+    "15 mL (1 c. à tab) de poudre de cari",
+    "1 pain pumpernickel, en huit tranches d'environ 1 cm (½ po) d'épaisseur",
+    "4 belles fraises, coupées en deux",
+    "Sel et poivre noir frais moulu"
+  ],
+  "preparation": [
+    "Dans une casserole d'eau bouillante, blanchir la julienne de gingembre 2 minutes. Changer l'eau et blanchir de nouveau.",
+    "Combiner le gingembre, 60 mL (¼ tasse) de sucre et un peu d'eau. Cuire doucement 25 minutes, le temps de confire le gingembre. Laisser refroidir.",
+    "Dans un poêlon, faire fondre 15 mL (1 c. à tab) de beurre. Ajouter l'oignon rouge et faire suer quelques minutes.",
+    "Ajouter le reste du sucre et le porto. Cuire jusqu'à ce qu'il ne reste presque plus de jus.",
+    "Dans un autre poêlon, faire fondre le reste du beurre. Assaisonner les pétoncles et les faire sauter jusqu'à coloration dorée, environ 2 minutes de chaque côté. Réserver au chaud.",
+    "Dans un cul-de-poule, mélanger le fromage à la crème, le cari, un peu de sel et de poivre.",
+    "Faire griller les tranches de pumpernickel. Tartiner la moitié des tranches d'une généreuse couche de fromage au cari et refermer en sandwich avec les autres tranches.",
+    "Garnir le dessus de chaque sandwich d'une couche d'oignons au porto.",
+    "Déposer 2 pétoncles sur chaque sandwich. Surmonter chacun de 1 demi-fraise, puis fixer le tout à l'aide de cure-dents. Décorer de gingembre confit."
+  ]
+},
+{
+  "id": 446,
+  "livreId": 9,
+  "titre": "Filandreux (sous-marin), façon cantine gaspésienne",
+  "page": 301,
+  "categorie": "Sandwichs",
+  "ingredientPrincipal": "Pepperoni",
+  "image": "livres/009-a-la-bonne-franquette/images/filandreux-facon-cantine.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "source": null,
+  "ingredients": [
+    "¼ de poivron rouge, coupé en lanières",
+    "¼ de poivron vert, coupé en lanières",
+    "2 ou 3 champignons de Paris, hachés",
+    "¼ d'oignon jaune, ciselé",
+    "20 mL (4 c. à thé) de beurre",
+    "125 g (4 oz) de pepperoni, poulet ou bœuf à fondue",
+    "1 pain à sous-marin du commerce",
+    "Sauce à pizza du commerce, au goût",
+    "100 g (3½ oz) de fromage mozzarella, râpé"
+  ],
+  "preparation": [
+    "Préchauffer le four à 180 °C (350 °F).",
+    "Dans une poêle, saisir les légumes dans un peu de beurre, puis les réserver dans une assiette allant au four.",
+    "Dans la même poêle, faire sauter le pepperoni (dans le cas d'un sous-marin au poulet ou au bœuf à fondue, faire sauter la viande jusqu'à ce qu'elle soit bien cuite). Retirer et réserver.",
+    "Sur une plaque de cuisson, ramollir le pain à sous-marin au four. Tartiner l'intérieur du reste du beurre et déposer le pain ouvert dans la poêle, pour faire dorer l'intérieur.",
+    "Remettre le pain sur la plaque de cuisson. Napper de sauce à pizza au goût, puis garnir successivement de viande et de légumes sautés. Parsemer de mozzarella et cuire au four jusqu'à ce que le fromage soit fondu, sans coloration.",
+    "Servir de préférence avec des frites d'une cantine tout près de la maison, comme en Gaspésie..."
+  ]
+},
+{
+  "id": 447,
+  "livreId": 9,
+  "titre": "Popcorn à l'érable et à la fleur de sel",
+  "page": 307,
+  "categorie": "Collations",
+  "ingredientPrincipal": "Maïs à éclater",
+  "image": "livres/009-a-la-bonne-franquette/images/popcorn-a-l-erable.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "source": null,
+  "ingredients": [
+    "15 mL (1 c. à tab) d'huile de canola",
+    "125 mL (½ tasse) de maïs à éclater",
+    "250 mL (1 tasse) de sirop d'érable",
+    "60 mL (¼ tasse) de beurre",
+    "5 mL (1 c. à thé) de fleur de sel"
+  ],
+  "preparation": [
+    "Préchauffer le four à 180 °C (350 °F).",
+    "Dans une petite casserole avec couvercle, chauffer l'huile à feu vif. Ajouter le maïs et mélanger pour bien enrober d'huile chaque grain.",
+    "Couvrir et cuire en remuant la casserole sans cesse, jusqu'à ce qu'il n'y ait plus aucun son de maïs qui éclate.",
+    "Retirer les grains non éclatés de la casserole. Réserver.",
+    "Dans un poêlon à feu moyen-vif, faire réduire le sirop d'érable de moitié. S'il caramélise trop, réduire le feu.",
+    "Ajouter le beurre et remuer pour le faire fondre.",
+    "Verser le tout sur le maïs soufflé et mélanger délicatement pour bien enrober chaque grain.",
+    "Étaler le maïs soufflé sur une plaque à pâtisserie et cuire au four préchauffé de 10 à 12 minutes. Remuer aux 3 minutes.",
+    "Retirer le maïs bien sec et caramélisé du four, puis le saupoudrer de fleur de sel.",
+    "Laisser refroidir et savourer."
+  ]
+},
+{
+  "id": 448,
+  "livreId": 9,
+  "titre": "Beignets aux bananes",
+  "page": 303,
+  "categorie": "Desserts",
+  "ingredientPrincipal": "Banane",
+  "image": "livres/009-a-la-bonne-franquette/images/beignets-aux-babanes.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "source": null,
+  "ingredients": [
+    "1 banane bien mûre",
+    "375 mL (1½ tasse) de farine tout usage",
+    "10 mL (2 c. à thé) de levure chimique (poudre à pâte)",
+    "125 mL (½ tasse) de sucre",
+    "5 mL (1 c. à thé) de cannelle moulue",
+    "1 pincée de sel",
+    "430 mL (1¾ tasse) de lait 3,25 % M.G.",
+    "5 mL (1 c. à thé) de rhum brun ou extrait de rhum",
+    "1 noix de beurre salé"
+  ],
+  "preparation": [
+    "Écraser la banane à la fourchette. Réserver.",
+    "Dans un bol, réunir les ingrédients secs. Ajouter graduellement le lait et brasser avec une cuillère de bois jusqu'à l'obtention d'une pâte lisse.",
+    "Ajouter ensuite la banane et le rhum.",
+    "Chauffer un poêlon antiadhésif à feu moyen et y faire fondre la noix de beurre. Laisser tomber de généreuses cuillerées de pâte dans le poêlon et les aplatir à environ 1 cm (½ po) d'épaisseur. Laisser cuire jusqu'à ce que le dessous soit doré. Retourner et cuire jusqu'à ce que l'autre côté soit bien doré.",
+    "Servir chaud ou tiède, au déjeuner ou comme dessert."
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 ]
