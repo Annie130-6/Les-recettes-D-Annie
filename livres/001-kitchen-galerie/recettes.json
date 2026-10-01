@@ -2569,7 +2569,117 @@
   "Entre-temps, faire revenir les lardons dans un poêlon. Retirer les lardons en conservant le gras. Y faire suer l'oignon et l'ail. Incorporer le chou, en l'enrobant bien de gras. Remuer sans arrêt pendant 1 ou 2 minutes. Incorporer la crème et le thym, puis faire mijoter 15 minutes. Assaisonner. Retirer le thym et réincorporer les lardons.",
   "Couper la pintade en deux et servir avec l'embeurrée de chou."
 ]
+},
+  {
+"id": 448,
+"livreId": 1,
+"titre": "Fumet de poisson",
+"page": 234,
+"categorie": "Sauce",
+"ingredientPrincipal": "Poisson",
+"image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "1 kg (2 ¼ lb) d'arêtes de poisson blanc (style flétan), rincées",
+  "6 oignons espagnols, pelés et coupés grossièrement",
+  "5 branches de céleri, coupées grossièrement",
+  "2 blancs de poireau, coupés grossièrement",
+  "1 tête d'ail, pelée et coupée grossièrement",
+  "5 branches de thym",
+  "2 feuilles de laurier",
+  "5 grains de poivre noir",
+  "Eau"
+],
+"preparation": [
+  "Dans une grande casserole, combiner tous les ingrédients, en ajoutant suffisamment d'eau pour couvrir. Amener à ébullition, réduire le feu au minimum et laisser frémir pendant 6 heures. Passer au chinois étamine ou dans un tamis fin. Jeter les aromates et réserver le fumet au réfrigérateur ou au congélateur, selon vos besoins."
+]
+},
+{
+"id": 449,
+"livreId": 1,
+"titre": "Fond de volaille",
+"page": 234,
+"categorie": "Sauce",
+"ingredientPrincipal": "Volaille",
+"image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "1 kg (2 ¼ lb) d'os de volaille, rincés",
+  "6 oignons espagnols, pelés et coupés grossièrement",
+  "5 branches de céleri, coupées grossièrement",
+  "2 blancs de poireau, coupés grossièrement",
+  "1 tête d'ail, pelée et coupée grossièrement",
+  "5 branches de thym",
+  "2 feuilles de laurier",
+  "5 grains de poivre noir",
+  "Eau"
+],
+"preparation": [
+  "Dans une grande casserole, combiner tous les ingrédients, en ajoutant suffisamment d'eau pour couvrir. Amener à ébullition, réduire le feu au minimum et laisser frémir pendant 6 heures. Passer au chinois étamine ou dans un tamis fin. Jeter les aromates et réserver le fond au réfrigérateur ou au congélateur, selon vos besoins."
+]
+},
+{
+"id": 450,
+"livreId": 1,
+"titre": "Fond brun de veau",
+"page": 235,
+"categorie": "Sauce",
+"ingredientPrincipal": "Veau",
+"image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "5 kg (11 lb) d'os de veau",
+  "1 c. à soupe de pâte de tomate",
+  "6 oignons espagnols, pelés et coupés grossièrement",
+  "5 branches de céleri, coupées grossièrement",
+  "2 blancs de poireau, coupés grossièrement",
+  "1 tête d'ail, pelée et coupée grossièrement",
+  "5 branches de thym",
+  "2 feuilles de laurier",
+  "5 grains de poivre noir",
+  "Eau"
+],
+"preparation": [
+  "Préchauffer le four à 200 °C (400 °F). Y faire rôtir les os pendant 3 heures. Ajouter la pâte de tomate, bien mélanger et continuer la cuisson pendant 1 heure. Dans une grande casserole, combiner tous les ingrédients, en ajoutant suffisamment d'eau pour couvrir. Amener à ébullition, réduire le feu au minimum et laisser frémir pendant 12 heures. Passer au chinois étamine ou dans un tamis fin. Jeter les aromates et réserver le fond au réfrigérateur ou au congélateur, selon vos besoins.",
+  "Pour obtenir une demi-glace, laisser réduire le fond encore de moitié, environ 30 minutes.",
+  "Pour obtenir une glace, laisser réduire la demi-glace encore de moitié."
+]
+},
+{
+"id": 451,
+"livreId": 1,
+"titre": "Mayonnaise maison",
+"page": 235,
+"categorie": "Vinaigrette",
+"ingredientPrincipal": "Œufs",
+"image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "2 jaunes d'œufs",
+  "½ c. à café de moutarde de Dijon",
+  "500 mL (2 tasses) d'huile végétale",
+  "1 citron (jus)",
+  "2 gouttes de sauce Tabasco",
+  "1 c. à café de vinaigre de vin rouge",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans un bol, battre les jaunes d'œufs et la moutarde ensemble pendant 1 minute. Verser l'huile en fin filet en fouettant constamment. Toujours en fouettant, ajouter ensuite le jus de citron, la sauce Tabasco, le vinaigre de vin rouge, le sel et le poivre. Servir."
+]
 }
+
 
 
 
