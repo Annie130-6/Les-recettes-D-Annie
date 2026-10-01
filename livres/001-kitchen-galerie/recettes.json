@@ -1853,7 +1853,40 @@
 ]
 },
 
-{"id": 62, "livreId": 1, "titre": "Mousse de pétoncles, gelée au chardonnay, noisettes torréfiées", "page": 168, "categorie": "Plat", "ingredientPrincipal": "Morue", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
+{"id": 62, "livreId": 1, "titre": "Mousse de pétoncles, gelée au chardonnay, noisettes torréfiées", "page": 168, "categorie": "Plat", "ingredientPrincipal": "Morue", "image": "livres/001-kitchen-galerie/images/Mousse-de-petoncles-gelee-au-chardonnais.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "MOUSSE DE PÉTONCLES",
+  "500 mL (2 tasses) de crème 35 %",
+  "5 gousses d'ail",
+  "1 échalote",
+  "1 branche de thym",
+  "1 feuille de laurier",
+  "1 branche de romarin",
+  "16 gros pétoncles",
+  "4 grandes feuilles d'oseille, ciselées",
+  "Sel et poivre noir frais moulu",
+  "GELÉE AU CHARDONNAY",
+  "250 mL (1 tasse) de chardonnay",
+  "1 c. à café de sucre",
+  "2 feuilles de gélatine",
+  "250 mL (1 tasse) d'eau froide",
+  "Sel et poivre noir frais moulu",
+  "NOISETTES TORRÉFIÉES",
+  "130 g (1 tasse) de noisettes",
+  "1 c. à café de paprika fumé",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Mousse de pétoncles : Dans une très grande casserole, verser la crème, porter à ébullition et retirer du feu dès les premiers bouillons. Y faire infuser l'ail, l'échalote, le thym, le laurier et le romarin pendant 15 minutes. Assaisonner les pétoncles, puis les pocher dans la crème pendant 5 minutes à feu doux. Lorsqu'ils sont opaques à 80 %, transférer les pétoncles dans un robot culinaire. Passer la crème au tamis fin. Hacher les pétoncles au robot, en ajoutant la crème tamisée en fin filet pour obtenir une émulsion qui rendra la mousse légère. Laisser tiédir à température ambiante. Ajouter l'oseille. Rectifier l'assaisonnement.",
+  "Gelée de chardonnay : Faire bouillir le chardonnay, le sucre et une pincée de sel et de poivre. Faire tremper les feuilles de gélatine dans l'eau froide pendant 5 minutes. Égoutter et ajouter les feuilles au chardonnay hors feu pour les y dissoudre. Rectifier l'assaisonnement. Laisser tiédir.",
+  "Noisettes torréfiées : Préchauffer le four à 200 °C (400 °F). Déposer les noisettes sur une plaque de cuisson. Enfourner et faire torréfier pendant 10 minutes. Sortir les noisettes du four et les concasser à l'aide d'une poêle. Assaisonner de paprika fumé, de sel et de poivre.",
+  "Pour servir, dans des verrines, étager les trois préparations en alternant."
+]
+},
+
 {"id": 63, "livreId": 1, "titre": "Pétoncles n'chips", "page": 171, "categorie": "Plat", "ingredientPrincipal": "Pétoncle", "image": "livres/001-kitchen-galerie/images/Petoncles-n-chips.jpeg",
 "favori": false,
 "note": 0,
