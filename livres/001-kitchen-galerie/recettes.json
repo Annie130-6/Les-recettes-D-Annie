@@ -2154,20 +2154,301 @@
 ]
 },
 
-{"id": 73, "livreId": 1, "titre": "Cappuccino de porc au piment d'Espelette", "page": 196, "categorie": "Entrée", "ingredientPrincipal": "Porc", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
-{"id": 74, "livreId": 1, "titre": "Carré de porc croustillant aux fines herbes", "page": 199, "categorie": "Plat", "ingredientPrincipal": "Porc", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
-{"id": 75, "livreId": 1, "titre": "Flanc de porc confit", "page": 202, "categorie": "Plat", "ingredientPrincipal": "Porc", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
-{"id": 76, "livreId": 1, "titre": "Omble de l'Arctique mariné à l'asiatique", "page": 207, "categorie": "Entrée", "ingredientPrincipal": "Saumon et truite", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
+{"id": 73, "livreId": 1, "titre": "Croquettes  de porc au piment d'Espelette", "page": 199, "categorie": "Entrée", "ingredientPrincipal": "Porc", "image": "livres/001-kitchen-galerie/images/Croquettes-de-porc.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "300 g (⅔ tasse) de cubes de porc (épaule désossée)",
+  "2 litres (8 tasses) de fond de porc ou de veau (voir p. 235)",
+  "1 carotte, pelée et coupée en deux",
+  "1 oignon, pelé et coupé en deux",
+  "2 branches de céleri, coupées en deux",
+  "4 gousses d'ail",
+  "2 branches d'origan",
+  "1 branche de thym",
+  "1 échalote, ciselée",
+  "15 tiges de ciboulette, ciselées",
+  "1 branche d'origan, effeuillée et ciselée",
+  "1 c. à café de piment d'Espelette",
+  "½ c. à café de miel",
+  "250 g (2 tasses) de farine",
+  "6 œufs, battus",
+  "450 g (4 tasses) de chapelure",
+  "Huile végétale (pour la friteuse)"
+],
+"preparation": [
+  "Préchauffer le four à 190 °C (375 °F).",
+  "Dans une cocotte, mettre le porc, le fond de porc ou de veau, la carotte, l'oignon, le céleri, l'ail, l'origan et le thym. Cuire au four 4 heures à couvert. Retirer le porc, jeter les légumes et passer le jus de cuisson au tamis. Dans une casserole, réduire ce jus jusqu'à obtention d'une glace (voir la technique à la p. 235).",
+  "Entre-temps, mettre le porc dans un gros bol et effilocher la viande avec les mains. Ajouter l'échalote, la ciboulette, l'origan, le piment d'Espelette et le miel.",
+  "Quand le fond est assez réduit, l'incorporer au mélange de porc. Laisser reposer au réfrigérateur pendant 1 heure.",
+  "Préchauffer l'huile dans la friteuse à 190 °C (375 °F).",
+  "Façonner quatre boules de même dimension du mélange de porc. Dans trois assiettes, déposer respectivement la farine, les œufs battus et la chapelure. Passer les boules dans la farine, puis dans les œufs et la chapelure. Passer de nouveau dans les œufs et la chapelure seulement. Frire pendant 2 minutes."
+]
+},
+
+{"id": 74, "livreId": 1, "titre": "Carré de porcelet gaspor aux fines herbes", "page": 200, "categorie": "Plat", "ingredientPrincipal": "Porc",             "image": "livres/001-kitchen-galerie/images/Carre-de-porc-gaspor.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 carré entier de porcelet Gaspor, coupe française",
+  "8 gousses d'ail entières",
+  "1 botte de thym",
+  "1 botte de romarin",
+  "225 g (½ lb) de beurre",
+  "20 pommes de terre grelots, coupées en deux",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Préchauffer le four à 160 °C (325 °F).",
+  "Sur un plan de travail, déposer le carré. À la pointe du couteau, pratiquer de petites entailles dans la viande et y insérer les gousses d'ail. Recouvrir tout le carré de branches de fines herbes entières et, à l'aide d'une corde, ficeler les herbes en place. Transférer le carré dans un plat allant au four et badigeonner le dessus de beurre.",
+  "Disposer les grelots de pommes de terre partout autour. Cuire au four pendant 20 à 25 minutes.",
+  "Servir avec des haricots verts au beurre."
+]
+},
+
+{"id": 75, "livreId": 1, "titre": "Flanc de porc confit", "page": 202, "categorie": "Plat", "ingredientPrincipal": "Porc", "image": "livres/001-kitchen-galerie/images/Flanc-de-porc-confit.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "4 flancs de porc avec la peau de 250 g (½ lb) chacun",
+  "400 g (2 tasses) de sucre",
+  "400 g (2 tasses) de gros sel",
+  "4 gousses d'ail, pelées",
+  "4 branches d'estragon frais, effeuillées",
+  "2 litres (8 tasses) de gras de canard ou de porc, fondu"
+],
+"preparation": [
+  "Parer le flanc de porc s'il y a des résidus d'os ou de cartilage. Au robot culinaire, réduire en pâte le sucre, le gros sel, l'ail et l'estragon. Enrober le porc de ce mélange, mettre dans un plat et couvrir de pellicule plastique. Laisser reposer au réfrigérateur pendant 12 heures.",
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Au bout de 12 heures, laver rapidement le porc à l'eau froide et l'assécher avec du papier absorbant. Dans une cocotte, déposer le porc et le gras fondu, en s'assurant de bien recouvrir la viande. Couvrir et cuire au four pendant 3 ½ heures. Après cuisson, enlever le porc du gras, le déposer dans un grand plat, recouvrir d'un autre plat et poser un poids (par exemple une grosse conserve) sur le dessus pour presser la viande. Réfrigérer pendant 4 heures.",
+  "Préchauffer de nouveau le four à 200 °C (400 °F). Dans une poêle allant au four, saisir le porc côté peau dessous et enfourner pour 10 à 15 minutes.",
+  "Servir."
+]
+},
+
+{"id": 76, "livreId": 1, "titre": "Omble de l'Arctique mariné à l'asiatique", "page": 207, "categorie": "Entrée", "ingredientPrincipal": "Saumon et truite", "image": "livres/001-kitchen-galerie/images/Omble-de-l-artique-marine.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "OMBLE DE L'ARCTIQUE MARINÉ",
+  "250 mL (1 tasse) de sauce soya",
+  "250 mL (1 tasse) de jus d'orange",
+  "250 mL (1 tasse) de mirin",
+  "2,5 cm (1 po) de racine de gingembre frais, émincée",
+  "1 orange, tranchée",
+  "1 filet d'omble de l'Arctique de 800 g (1 ¾ lb), avec la peau",
+  "SALADE DE FÈVES DE SOYA",
+  "250 mL (1 tasse) de fèves de soya (edamame)",
+  "1 grosse carotte, en brunoise",
+  "1 poivron rouge, en brunoise",
+  "1 concombre, en brunoise",
+  "1 échalote, émincée",
+  "½ botte de ciboulette, ciselée",
+  "½ botte de basilic, ciselée",
+  "¼ botte de coriandre, ciselée",
+  "60 mL (¼ tasse) de sauce soya",
+  "2 c. à soupe de miel",
+  "2 c. à soupe de vinaigre de riz",
+  "1 c. à soupe d'huile de sésame rôti",
+  "1 c. à soupe de graines de sésame noir",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Omble de l'Arctique mariné : Dans un grand plat, mélanger tous les ingrédients sauf l'omble. Y plonger le poisson et couvrir. Faire mariner au réfrigérateur pendant 12 heures.",
+  "Salade de fèves de soya : Combiner les fèves, les légumes et les fines herbes. Faire une vinaigrette avec la sauce soya, le miel, le vinaigre de riz et l'huile. Verser sur la salade, parsemer de sésame noir et assaisonner. Mélanger délicatement et réserver.",
+  "Retirer le poisson de la marinade et bien égoutter. Couper en tranches de 5 mm (¼ po). Avec un chalumeau, griller le côté chair seulement. Si vous n'avez pas de chalumeau, mettre sous le gril du four de 30 secondes à 1 minute.",
+  "Servir sur la salade."
+]
+},
+
 {"id": 77, "livreId": 1, "titre": "Tataki de saumon de Gaspé", "page": 208, "categorie": "Entrée", "ingredientPrincipal": "Saumon et truite", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
-{"id": 78, "livreId": 1, "titre": "Gravlax du KG", "page": 211, "categorie": "Entrée", "ingredientPrincipal": "Saumon et truite", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
+{"id": 78, "livreId": 1, "titre": "Gravlax du KG", "page": 211, "categorie": "Entrée", "ingredientPrincipal": "Saumon et truite", "image": "livres/001-kitchen-galerie/images/Gravlax-du-kgb.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "GRAVLAX",
+  "200 g (1 tasse) de sucre",
+  "200 g (1 tasse) de gros sel",
+  "4 gousses d'ail, pelées",
+  "4 branches de thym",
+  "4 branches d'estragon frais",
+  "450 g (1 lb) de saumon",
+  "FONDUE DE POIREAU",
+  "2 blancs de poireau, lavés et émincés finement",
+  "1 c. à café de beurre",
+  "60 mL (¼ tasse) de vin blanc",
+  "60 mL (¼ tasse) de crème 35 %",
+  "Sel et poivre noir frais moulu",
+  "SAUCE AUX ŒUFS",
+  "1 c. à café de beurre",
+  "1 c. à café de farine tout usage",
+  "250 mL (1 tasse) de lait 2 %",
+  "1 gousse d'ail, hachée finement",
+  "1 œuf dur, haché",
+  "Sel et poivre noir frais moulu",
+  "4 tranches de pain blanc (style POM)",
+  "Huile végétale (pour la friteuse)"
+],
+"preparation": [
+  "Gravlax : Dans un robot culinaire, réduire en pâte le sucre, le gros sel, l'ail, le thym et l'estragon. Enrober le saumon de ce mélange et laisser reposer au réfrigérateur à découvert pendant 12 heures.",
+  "Fondue de poireau : Dans une casserole à feu doux, faire suer les poireaux avec le beurre pendant 15 minutes. Déglacer au vin blanc et, à feu moyen, réduire à sec. Ajouter la crème et réduire de moitié. Assaisonner.",
+  "Sauce aux œufs : Dans une casserole à feu doux, faire fondre le beurre, parsemer de farine et faire cuire en remuant pendant 1 ou 2 minutes, le temps d'obtenir un roux. Verser peu à peu le lait froid sur le roux chaud tout en fouettant. Ajouter l'ail et l'œuf, puis cuire 15 minutes. Assaisonner.",
+  "Préchauffer l'huile dans la friteuse à 180 °C (350 °F). Couper les croûtes du pain. Aplatir la mie à l'aide d'un rouleau à pâte. Frire pendant 1 minute.",
+  "Pour servir, déposer la fondue de poireaux sur la sauce aux œufs. Garnir de toast et de saumon."
+]
+},
+
 {"id": 79, "livreId": 1, "titre": "Truite du lac Chef (celle que j'aimerais pêcher)", "page": 212, "categorie": "Plat", "ingredientPrincipal": "Saumon et truite", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
-{"id": 80, "livreId": 1, "titre": "Koulibiac de saumon", "page": 215, "categorie": "Plat", "ingredientPrincipal": "Saumon et truite", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
-{"id": 81, "livreId": 1, "titre": "Soupe froide de tomates jaunes, salade de noix de pin", "page": 216, "categorie": "Entrée", "ingredientPrincipal": "Tomate", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
-{"id": 82, "livreId": 1, "titre": "Salade de tomates du potager Mont-Rouge", "page": 218, "categorie": "Entrée", "ingredientPrincipal": "Tomate", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
+{"id": 80, "livreId": 1, "titre": "Koulibiac de saumon", "page": 215, "categorie": "Plat", "ingredientPrincipal": "Saumon et truite", "image": "livres/001-kitchen-galerie/images/Koulibiac-de-saumon.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 sac (environ 140 g [4 ½ oz]) d'épinards, lavés et bien égouttés",
+  "1 c. à soupe de beurre",
+  "2 feuilles de pâte feuilletée du commerce, décongelée",
+  "1 filet de saumon d'environ 1,2 kg (2 ½ lb)",
+  "6 œufs durs, tranchés",
+  "2 jaunes d'œufs, battus",
+  "Sel et poivre noir frais moulu",
+  "DUXELLES DE CHAMPIGNONS",
+  "2 c. à soupe de beurre",
+  "2 barquettes de 225 g (8 oz) de champignons blancs, hachés",
+  "1 échalote, émincée",
+  "1 gousse d'ail, hachée",
+  "250 mL (1 tasse) de vin blanc",
+  "60 mL (¼ tasse) de chapelure"
+],
+"preparation": [
+  "Pour préparer la duxelles, faire chauffer à feu moyen-vif le beurre dans une grande poêle, puis faire colorer les champignons. Ajouter l'échalote et l'ail, puis cuire 30 secondes. Déglacer au vin blanc et réduire à sec. Incorporer la chapelure. Assaisonner et refroidir au réfrigérateur.",
+  "Dans un poêlon, faire tomber les épinards dans le beurre pendant 1 minute. Refroidir au réfrigérateur.",
+  "Préchauffer le four à 220 °C (425 °F).",
+  "À l'aide d'un rouleau à pâtisserie, abaisser chaque feuille de pâte feuilletée pour obtenir un grand rectangle (l'un légèrement plus grand que l'autre). Sur la plus grande des abaisses, étaler la duxelles, puis les épinards. Déposer le saumon sur le tout et assaisonner. Recouvrir de tranches d'œufs durs, puis de la seconde abaisse de pâte. Badigeonner de jaunes d'œufs le contour de l'abaisse du dessus et replier les bords de l'abaisse du dessous pour sceller. Badigeonner le dessus du koulibiac du reste des jaunes d'œufs pour bien faire dorer.",
+  "Cuire au four pendant 15 minutes. Réduire la température à 160 °C (325 °F) et poursuivre la cuisson pendant 30 minutes.",
+  "Servir avec un beurre blanc (voir la recette à la page 138), relevé de 2 c. à soupe de caviar de mujol."
+]
+},
+
+{"id": 81, "livreId": 1, "titre": "Soupe froide de tomates jaunes, salade de noix de pin", "page": 216, "categorie": "Entrée, Soupe", "ingredientPrincipal": "Tomate", "image": "livres/001-kitchen-galerie/images/Soupe-froide-de-tomate-jaunes.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "8 grosses tomates jaunes, émondées, épépinées et coupées en cubes",
+  "2 c. à soupe de vinaigre de champagne",
+  "125 mL (½ tasse) d'huile d'olive",
+  "3 c. à soupe de noix de pin, torréfiées au four (voir la technique à la p. 168)",
+  "12 tomates cerises rouges, coupées en quartiers",
+  "10 feuilles d'estragon frais, ciselées",
+  "1 c. à café d'huile de noix",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Dans un gros bol, mélanger les tomates jaunes et le vinaigre. Assaisonner et laisser reposer au réfrigérateur 1 heure. Ensuite, broyer les tomates à l'aide d'un pied-mélangeur. Incorporer l'huile doucement, en fin filet, en continuant de tourner au pied-mélangeur pour créer une émulsion. Verser dans des bols à soupe.",
+  "Dans un autre bol, mélanger les noix de pin torréfiées, les tomates cerises, l'estragon et l'huile de noix. Assaisonner et servir sur la soupe froide."
+]
+},
+
+{"id": 82, "livreId": 1, "titre": "Salade de tomates du potager Mont-Rouge", "page": 218, "categorie": "Entrée", "ingredientPrincipal": "Tomate", "image": "livres/001-kitchen-galerie/images/Salade-de-tomates-du-potager.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "Tomates de variétés différentes du potager Mont-Rouge",
+  "60 mL (¼ tasse) d'huile d'olive extra-vierge",
+  "2 c. à soupe de vinaigre balsamique (préférablement 25 ans)",
+  "½ botte de ciboulette, ciselée",
+  "2 échalotes, ciselées",
+  "½ botte de basilic, ciselée",
+  "Fleur de sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Trancher ou couper les tomates en quartiers.",
+  "Dans un bol, combiner l'huile, le vinaigre, les fines herbes, le sel et le poivre pour faire une vinaigrette.",
+  "Disposer joliment les tomates dans une grande assiette de service. Napper de vinaigrette et servir."
+]
+},
+
 {"id": 83, "livreId": 1, "titre": "Tomates confites, poireaux à la vinaigrette", "page": 221, "categorie": "Accompagnement", "ingredientPrincipal": "Tomate", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
 {"id": 84, "livreId": 1, "titre": "Tomates grillées à la feta, concombre, oignons et radis", "page": 222, "categorie": "Entrée", "ingredientPrincipal": "Tomate", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
 {"id": 85, "livreId": 1, "titre": "Velouté de perdrix de Mont-Laurier, caramel de cidre", "page": 227, "categorie": "Entrée", "ingredientPrincipal": "Volaille", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
-{"id": 86, "livreId": 1, "titre": "Canard au sirop d'érable et foie gras", "page": 229, "categorie": "Plat", "ingredientPrincipal": "Volaille", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
-{"id": 87, "livreId": 1, "titre": "Poulet comme chez Georges Blanc", "page": 230, "categorie": "Plat", "ingredientPrincipal": "Volaille", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
-{"id": 88, "livreId": 1, "titre": "Pintade farcie à l'embourrée de chou", "page": 233, "categorie": "Plat", "ingredientPrincipal": "Volaille", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"}
+{"id": 86, "livreId": 1, "titre": "Terrine de volaille braisée aux pistaches", "page": 229, "categorie": "Entrée", "ingredientPrincipal": "Volaille", "image": "livres/001-kitchen-galerie/images/Terrine-de-volaille-braisee.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "300 g (⅔ lb) de suprêmes de volaille sans la peau",
+  "1 échalote, pelée et émincée",
+  "1 blanc de poireau, émincé",
+  "1 gousse d'ail, pelée",
+  "125 mL (½ tasse) de muscatel",
+  "1 litre (4 tasses) de fond de volaille (voir p. 234)",
+  "3 branches d'estragon frais, effeuillées et hachées",
+  "1 c. à café de moutarde à l'ancienne",
+  "1 c. à café de miel",
+  "30 g (¼ tasse) de pistaches, torréfiées (voir technique p. 168)"
+],
+"preparation": [
+  "Préchauffer le four à 200 °C (400 °F).",
+  "Dans une cocotte, combiner les suprêmes, l'échalote, le poireau, l'ail, le muscatel et le fond de volaille. Couvrir et cuire au four pendant 2 ½ heures.",
+  "Retirer la volaille et les légumes du jus de braisage. Réserver. Passer le jus au chinois ou au tamis fin, remettre dans la casserole et réduire à feu moyen pendant 30 minutes ou jusqu'à ce qu'il reste 250 mL (1 tasse) de liquide.",
+  "Dans un bol, mélanger la volaille et les légumes réservés, la moutarde, le miel, l'estragon, les pistaches et le jus de cuisson réduit. Mélanger jusqu'à l'obtention d'un mélange homogène. Verser dans une terrine et bien presser le mélange. Laisser reposer 24 heures au réfrigérateur."
 ]
+},
+
+{"id": 87, "livreId": 1, "titre": "Poulet comme chez Georges Blanc", "page": 230, "categorie": "Plat", "ingredientPrincipal": "Volaille", "image": "livres/001-kitchen-galerie/images/Poulet-comme-chez georges.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 poulet",
+  "2 c. à soupe de beurre",
+  "1 oignon, haché",
+  "1 barquette de 225 g (8 oz) de champignons blancs, tranchés",
+  "2 branches de thym",
+  "1 feuille de laurier",
+  "10 grains de poivre noir entiers",
+  "250 mL (1 tasse) de vin blanc",
+  "1 litre (4 tasses) de crème 35 %",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Préchauffer le four à 220 °C (425 °F).",
+  "Retirer les cuisses du poulet et réserver. Déposer le reste du poulet dans un plat et cuire au four de 5 à 10 minutes ou jusqu'à coloration. Réduire le four à 160 °C (325 °F) et cuire encore 20 minutes. Réserver au chaud.",
+  "Dans une casserole à feu moyen, faire revenir les cuisses dans le beurre chaud. Ajouter l'oignon, les champignons et les aromates. Cuire 3 minutes. Déglacer au vin blanc et, à feu vif, réduire de moitié. Mouiller de crème et, à feu doux cette fois, faire pocher le poulet pendant 20 à 25 minutes.",
+  "Retirer les cuisses, puis passer la sauce au chinois (ou au tamis fin) en jetant les légumes.",
+  "Désosser les poitrines et les réchauffer dans la sauce en même temps que les cuisses.",
+  "Servir avec un riz pilaf pour l'expérience totale à la Georges Blanc."
+]
+},
+
+{"id": 88, "livreId": 1, "titre": "Pintade farcie à l'embourrée de chou", "page": 233, "categorie": "Plat", "ingredientPrincipal": "Volaille", "image": "livres/001-kitchen-galerie/images/Pintarde-rotie.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 pintade",
+  "2 c. à soupe de beurre",
+  "Sel et poivre noir frais moulu",
+  "EMBEURRÉE DE CHOU",
+  "225 g (½ lb) de lard fumé, en lardons",
+  "1 gros oignon, émincé",
+  "1 gousse d'ail, hachée",
+  "1 chou frisé, émincé",
+  "500 mL (2 tasses) de crème 35 %",
+  "2 branches de thym",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Préchauffer le four à 230 °C (450 °F).",
+  "Déposer la pintade dans un plat, la beurrer généreusement, saler et poivrer. Faire colorer au four pendant 10 minutes. Réduire le four à 160 °C (325 °F) et cuire encore pendant 45 minutes.",
+  "Entre-temps, faire revenir les lardons dans un poêlon. Retirer les lardons en conservant le gras. Y faire suer l'oignon et l'ail. Incorporer le chou, en l'enrobant bien de gras. Remuer sans arrêt pendant 1 ou 2 minutes. Incorporer la crème et le thym, puis faire mijoter 15 minutes. Assaisonner. Retirer le thym et réincorporer les lardons.",
+  "Couper la pintade en deux et servir avec l'embeurrée de chou."
+]
+},
+
