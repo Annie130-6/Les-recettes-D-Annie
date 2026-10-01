@@ -1853,7 +1853,7 @@
 ]
 },
 
-{"id": 62, "livreId": 1, "titre": "Mousse de pétoncles, gelée au chardonnay, noisettes torréfiées", "page": 168, "categorie": "Plat", "ingredientPrincipal": "Morue", "image": "livres/001-kitchen-galerie/images/Mousse-de-petoncles-gelee-au-chardonnais.jpeg",
+{"id": 62, "livreId": 1, "titre": "Mousse de pétoncles, gelée au chardonnay, noisettes torréfiées", "page": 168, "categorie": "Poisson", "ingredientPrincipal": "Pétoncle", "image": "livres/001-kitchen-galerie/images/Mousse-de-petoncles-gelee-au-chardonnais.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
