@@ -2303,7 +2303,34 @@
 ]
 },
 
-{"id": 79, "livreId": 1, "titre": "Truite du lac Chef (celle que j'aimerais pêcher)", "page": 212, "categorie": "Plat", "ingredientPrincipal": "Saumon et truite", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
+{"id": 79, "livreId": 1, "titre": "Truite du lac Chef (celle que j'aimerais pêcher)", "page": 212, "categorie": "Plat", "ingredientPrincipal": "Saumon et truite", "image": "livres/001-kitchen-galerie/images/Truite-du-lac-du-cerf.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "4 truites de 450 g (1 lb) chacune, lavées, écaillées et vidées",
+  "60 mL (¼ tasse) d'huile d'olive",
+  "1 tête d'ail, rôtie*",
+  "2 pommes de terre moyennes à chair jaune, pelées, coupées en dés et blanchies",
+  "2 feuilles d'oseille, émincées",
+  "1 oignon vert, émincé",
+  "Le jus de 2 citrons verts",
+  "1 botte d'asperges",
+  "250 mL (1 tasse) de crème sure",
+  "1 c. à café de sambal œlek (sauce aux piments forts)",
+  "ÉQUIPEMENT",
+  "1 feu de camp"
+],
+"preparation": [
+  "Partir le feu de camp et faire chauffer la grille.",
+  "Badigeonner les truites avec beaucoup d'huile. Dans un bol, mélanger l'ail rôti, les pommes de terre, l'oseille, l'oignon vert et le jus de citron vert. Assaisonner et farcir le poisson du mélange. Envelopper le poisson en papillotes individuelles, d'abord dans du papier parchemin, puis dans du papier d'aluminium. Bien sceller.",
+  "Assaisonner les asperges et arroser avec le reste de l'huile. Mettre dans une papillote. Bien sceller.",
+  "Cuire le poisson et les asperges, sur la grille, 7 minutes de chaque côté.",
+  "Dans un bol, mélanger la crème sure, le sambal œlek et le jus de cuisson des poissons. Servir à la bonne franquette.",
+  "* Technique pour griller l'ail au feu de camp : Envelopper la tête d'ail de papier d'aluminium, verser un peu d'huile d'olive sur le dessus et sceller. Déposer dans les braises (blanches de préférence) et faire cuire 20 minutes."
+]
+},
+
 {"id": 80, "livreId": 1, "titre": "Koulibiac de saumon", "page": 215, "categorie": "Plat", "ingredientPrincipal": "Saumon et truite", "image": "livres/001-kitchen-galerie/images/Koulibiac-de-saumon.jpeg",
 "favori": false,
 "note": 0,
@@ -2374,9 +2401,101 @@
 ]
 },
 
-{"id": 83, "livreId": 1, "titre": "Tomates confites, poireaux à la vinaigrette", "page": 221, "categorie": "Accompagnement", "ingredientPrincipal": "Tomate", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
-{"id": 84, "livreId": 1, "titre": "Tomates grillées à la feta, concombre, oignons et radis", "page": 222, "categorie": "Entrée", "ingredientPrincipal": "Tomate", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
-{"id": 85, "livreId": 1, "titre": "Velouté de perdrix de Mont-Laurier, caramel de cidre", "page": 227, "categorie": "Entrée", "ingredientPrincipal": "Volaille", "image": "kitchen-galerie.jpg", "favori": false, "statut": "Indexé"},
+{"id": 83, "livreId": 1, "titre": "Tomates confites, poireaux à la vinaigrette", "page": 221, "categorie": "Accompagnement", "ingredientPrincipal": "Tomate", "image": "livres/001-kitchen-galerie/images/Tomates-confites-poireaux.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "TOMATES CONFITES",
+  "12 tomates italiennes, émondées et coupées en deux sur la longueur",
+  "3 gousses d'ail, hachées",
+  "60 mL (¼ tasse) d'huile d'olive",
+  "12 branches de thym",
+  "Sel et poivre noir frais moulu",
+  "Sucre, au goût",
+  "CRÈME SURE À LA CORIANDRE",
+  "10 branches de coriandre, émincées",
+  "2 c. à soupe d'huile végétale",
+  "125 mL (½ tasse) de crème sure",
+  "Le jus de ½ citron vert",
+  "Sel et poivre noir frais moulu",
+  "POIREAUX À LA VINAIGRETTE",
+  "4 mini-poireaux, coupés en deux sur la longueur",
+  "2 c. à café de vinaigre de vin blanc",
+  "½ c. à café de miel",
+  "Toute l'huile de cuisson des tomates",
+  "20 feuilles de mâche",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Préchauffer le four à 135 °C (275 °F).",
+  "Sur une plaque de cuisson recouverte de papier parchemin, disposer les tomates, côté coupé vers le bas. Assaisonner chaque tomate d'ail, d'huile d'olive, de thym, de sel, de poivre et de sucre. Cuire au four pendant 5 heures.",
+  "Dans un bol, broyer la coriandre et l'huile végétale au pied-mélangeur. Incorporer la crème sure avec le pied-mélangeur et finir avec le jus de citron vert. Assaisonner.",
+  "Dans une casserole d'eau bouillante salée, blanchir les poireaux pendant 30 secondes. Dans un bol, fouetter le vinaigre de vin blanc, le miel et l'huile de cuisson des tomates pour obtenir une vinaigrette. Ajouter les poireaux, couvrir et laisser mariner 3 heures. Mélanger avec les feuilles de mâche à la dernière minute. Assaisonner.",
+  "Servir."
+]
+},
+
+{"id": 84, "livreId": 1, "titre": "Tomates grillées à la feta, concombre, oignons et radis", "page": 222, "categorie": "Entrée", "ingredientPrincipal": "Tomate", "image": "livres/001-kitchen-galerie/images/Tomates-grillees-a-la-feta.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "12 tomates italiennes, coupées en deux",
+  "3 c. à soupe d'huile d'olive + 1 filet pour le service",
+  "180 mL (¾ tasse) de yogourt nature",
+  "½ botte de menthe, hachée",
+  "Le jus de 1 citron",
+  "2 concombres libanais, en brunoise",
+  "½ oignon rouge, en brunoise",
+  "4 radis, tranchés finement à la mandoline",
+  "150 g (5 oz) de fromage feta",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Préchauffer le gril du barbecue à feu moyen.",
+  "Passer les demi-tomates dans un peu d'huile d'olive et faire griller sur le barbecue, côté chair vers le bas, jusqu'à ce qu'elles soient joliment marquées.",
+  "Entre-temps, dans un bol, fouetter ensemble le yogourt, la menthe et le jus de citron. Assaisonner.",
+  "Retirer les tomates et les mélanger aux autres légumes dans un bol (ou superposer les ingrédients dans une assiette, c'est comme on veut).",
+  "Ajouter le fromage feta en morceaux. Napper de vinaigrette et arroser d'un filet d'huile d'olive.",
+  "Servir avec beaucoup de pain et du bon vin."
+]
+},
+
+{"id": 85, "livreId": 1, "titre": "Velouté de perdrix de Mont-Laurier, caramel de cidre", "page": 227, "categorie": "Entrée", "ingredientPrincipal": "Volaille", "image": "livres/001-kitchen-galerie/images/Veloute-de-perdrix.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "4 cuisses de perdrix (ou autre volaille au choix)",
+  "2 grosses carottes, pelées et émincées",
+  "1 branche de céleri, filaments retirés et émincée",
+  "1 échalote, émincée",
+  "3 gousses d'ail, pelées",
+  "1 feuille de laurier",
+  "2 branches de thym",
+  "1 branche de sauge fraîche",
+  "3 litres (12 tasses) d'eau",
+  "2 panais, pelés et coupés en dés",
+  "1 blanc de poireau, émincé",
+  "2 carottes jaunes, pelées et coupées en dés",
+  "1 pomme de terre, pelée et coupée en dés",
+  "3 mini-rabioles (navets blancs), pelées et coupées en dés",
+  "250 mL (1 tasse) de crème 35 %",
+  "Sel et poivre noir frais moulu",
+  "CARAMEL DE CIDRE",
+  "1 bouteille (341 mL) de cidre",
+  "2 c. à soupe de sucre"
+],
+"preparation": [
+  "Préchauffer le four à 200 °C (400 °F).",
+  "Dans une cocotte (ou une grande casserole pouvant aller au four), déposer les cuisses de perdrix, les carottes, le céleri, l'échalote, l'ail, le laurier, le thym, la sauge et l'eau. Amener à ébullition. Couvrir et cuire au four pendant 2 ½ heures.",
+  "Retirer les cuisses, enlever la peau, désosser la chair et effilocher. Réserver. Passer le jus de cuisson au chinois ou au tamis fin. Remettre dans la casserole et, à feu vif, faire réduire à 1 litre (4 tasses). Ajouter les légumes. Cuire 15 minutes à feu moyen. Incorporer la crème et assaisonner.",
+  "Dans une casserole, faire bouillir le cidre et le sucre. Cuire 15 minutes jusqu'à consistance de caramel.",
+  "Verser le velouté dans des assiettes creuses. Garnir de viande de perdrix effilochée et décorer de caramel."
+]
+},
+
 {"id": 86, "livreId": 1, "titre": "Terrine de volaille braisée aux pistaches", "page": 229, "categorie": "Entrée", "ingredientPrincipal": "Volaille", "image": "livres/001-kitchen-galerie/images/Terrine-de-volaille-braisee.jpeg",
 "favori": false,
 "note": 0,
