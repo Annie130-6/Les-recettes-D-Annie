@@ -1,1 +1,453 @@
-[]
+[
+{
+"id": 30200,
+"livreId": 21,
+"titre": "Bouillon de poulet maison",
+"page": 2,
+"categorie": "Bouillons",
+"ingredientPrincipal": "Poulet",
+"image": "livres/021-the-martha-stewart-living-cookbook/images/Bouillon-de-poulet-maison.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "2 poireaux, parties blanches et vert pâle, coupés en trois, bien lavés (voir page 25)",
+  "5 mL (1 c. à thé) de grains de poivre noir entiers",
+  "6 brins d'aneth frais ou 10 mL (2 c. à thé) d'aneth séché",
+  "6 brins de persil plat frais",
+  "2 feuilles de laurier séchées",
+  "2 carottes, coupées en trois",
+  "2 branches de céleri, coupées en trois",
+  "1 poulet de 1,8 kg (4 lb), coupé en 6 morceaux",
+  "700 g (1 ½ lb) d'ailes de poulet",
+  "700 g (1 ½ lb) de dos de poulet",
+  "2 boîtes de 1,4 L (48 oz / 3 quarts) de bouillon de poulet à faible teneur en sodium, dégraissé"
+],
+"preparation": [
+  "Mettre dans une grande marmite les poireaux, les grains de poivre, l'aneth, le persil, les feuilles de laurier, les carottes, le céleri, le poulet entier, les ailes et les dos. Ajouter le bouillon de poulet et 1,5 L (6 tasses) d'eau froide, couvrir et porter à ébullition. Réduire à un très léger frémissement et cuire à découvert environ 45 minutes. Le liquide doit juste faire des bulles à la surface. Une pellicule se formera à la surface; l'écumer avec une cuillère à égoutter et la jeter, en répétant au besoin. Après environ 45 minutes, retirer le poulet entier de la marmite et le mettre de côté jusqu'à ce qu'il soit assez refroidi pour être manipulé.",
+  "Détacher la chair des os du poulet, la mettre de côté et remettre les os dans la marmite. Transférer la chair au réfrigérateur pour un autre usage; si vous prévoyez l'utiliser pour une soupe poulet et nouilles, l'effilocher avant de la réfrigérer.",
+  "Continuer à laisser mijoter le bouillon à feu le plus bas possible pendant 3 heures, en écumant la mousse à la surface au besoin. Les os de poulet commenceront à se désintégrer. Ajouter de l'eau si, à un moment donné, le niveau du liquide descend sous les os.",
+  "Préparer un bain d'eau glacée. Passer le bouillon dans un tamis fin ou une passoire tapissée de coton à fromage au-dessus d'un très grand bol. Jeter les solides. Placer le bol dans le bain d'eau glacée; laisser le bouillon refroidir à température ambiante.",
+  "Transférer le bouillon dans des contenants hermétiques. On peut l'étiqueter à ce stade et le réfrigérer 3 jours ou le congeler jusqu'à 4 mois. Pour la conservation, laisser la couche de gras intacte; elle scelle le bouillon.",
+  "Rendement : environ 4,75 L (5 quarts US).",
+  "Note : Si vous prévoyez utiliser le bouillon pour une recette précise, commencez à le préparer au moins 12 heures à l'avance et réfrigérez-le pendant 8 heures afin que le gras se fige sur le dessus et puisse être retiré.",
+  "Note – Bouillon de poulet à saveur asiatique : Pour obtenir un bouillon excellent pour les soupes de nouilles asiatiques, ajouter un ou plusieurs des ingrédients suivants au bouillon pendant qu'il mijote : 2 tiges de citronnelle fraîche, 225 g (8 oz) de champignons shiitake, 115 g (4 oz) de gingembre frais tranché finement, 10 tiges de coriandre fraîche, 10 grains de poivre du Sichuan entiers, 10 graines de coriandre entières, 2 étoiles de badiane. Ou remplacer l'eau par 500 mL (2 tasses) de saké japonais."
+]
+},
+{
+"id": 30201,
+"livreId": 21,
+"titre": "Bouillon de bœuf",
+"page": 2,
+"categorie": "Bouillons",
+"ingredientPrincipal": "Bœuf",
+"image": "livres/021-the-martha-stewart-living-cookbook/images/Bouillon-de-boeuf.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "8 brins de persil plat frais",
+  "6 brins de thym frais ou 4 mL (¾ c. à thé) de thym séché",
+  "4 brins de romarin frais ou 10 mL (2 c. à thé) de romarin séché",
+  "2 feuilles de laurier séchées",
+  "15 mL (1 c. à soupe) de grains de poivre noir entiers",
+  "450 g (1 lb) de bœuf à ragoût, en cubes",
+  "2,3 kg (5 lb) d'os de veau, coupés en petits morceaux",
+  "1 gros oignon, non pelé, coupé en quartiers",
+  "2 grosses carottes, coupées en trois",
+  "2 branches de céleri, coupées en trois",
+  "500 mL (2 tasses) de vin rouge sec"
+],
+"preparation": [
+  "Préchauffer le four à 230 °C (450 °F). Attacher le persil, le thym, le romarin, les feuilles de laurier et les grains de poivre dans un morceau de coton à fromage pour faire un bouquet garni. Réserver.",
+  "Disposer le bœuf à ragoût, les os de veau, l'oignon, les carottes et le céleri en une couche uniforme dans une rôtissoire épaisse. Rôtir en remuant toutes les 20 minutes, jusqu'à ce que les légumes et les os soient d'un brun foncé, environ 1 ½ heure. Transférer la viande, les os et les légumes dans une grande marmite et réserver. Verser le gras de la rôtissoire et le jeter. Placer la rôtissoire sur feu vif. Ajouter le vin rouge et remuer avec une cuillère de bois pour décoller les particules brunes au fond de la rôtissoire; faire bouillir jusqu'à ce que le vin soit réduit de moitié, environ 5 minutes. Verser le mélange dans la marmite.",
+  "Ajouter 5,7 L (6 quarts) d'eau froide dans la marmite, ou plus au besoin pour couvrir les os. Ne pas utiliser moins d'eau; couvrir et porter à ébullition, puis réduire à un frémissement très doux, de sorte que des bulles montent occasionnellement à la surface. Ajouter le bouquet garni réservé. Écumer la mousse à la surface. Continuer à laisser mijoter le bouillon à feu le plus bas possible pendant 3 heures. Une pellicule se formera à la surface du liquide; l'enlever avec une cuillère à égoutter. Répéter au besoin. Ajouter de l'eau si, à un moment donné, le niveau descend sous les os.",
+  "Préparer un bain d'eau glacée. Passer le bouillon dans un tamis fin ou une passoire tapissée de coton à fromage au-dessus d'un grand bol. Jeter les solides. Placer le bol dans le bain d'eau glacée et laisser le bouillon refroidir à température ambiante.",
+  "Transférer le bouillon dans des contenants hermétiques. On peut l'étiqueter à ce stade et le réfrigérer 3 jours ou le congeler jusqu'à 4 mois. Si le bouillon est destiné à une recette, le réfrigérer au moins 8 heures ou toute la nuit afin que le gras se fige sur le dessus et puisse être retiré. Pour la conservation, laisser la couche de gras intacte; elle scelle le bouillon.",
+  "Rendement : environ 5,7 L (6 quarts US).",
+  "Note : Le boucher peut couper les os de veau en petits morceaux pour vous. Si vous voulez des morceaux de viande dans votre bouillon, voir Bouillon de bœuf avec bœuf effiloché (page suivante).",
+  "Note – Bouillon de bœuf : Le meilleur bouillon de bœuf commence par le rôtissage au four des os de bœuf ou de veau, qui les fait brunir foncé; c'est ce qui donnera sa couleur au bouillon riche ainsi que sa saveur de viande complexe et profonde. Une telle qualité ne se trouve jamais dans le bouillon de bœuf en conserve, généralement aqueux et salé. Le seul substitut acceptable au bouillon maison est le bouillon de bœuf surgelé de haute qualité vendu dans les épiceries fines."
+]
+},
+{
+"id": 30202,
+"livreId": 21,
+"titre": "Bouillon de bœuf avec bœuf effiloché",
+"page": 3,
+"categorie": "Bouillons",
+"ingredientPrincipal": "Bœuf",
+"image": "livres/021-the-martha-stewart-living-cookbook/images/Bouillon-de-boeuf-avec-boeuf-effiloche.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "1,4 kg (3 lb) de jarret de bœuf, coupé en morceaux de 2,5 cm (1 po)",
+  "2 feuilles de laurier séchées",
+  "1 oignon, non pelé, coupé en quartiers",
+  "1 branche de céleri, coupée en trois",
+  "2 carottes",
+  "15 mL (1 c. à soupe) de grains de poivre noir entiers"
+],
+"preparation": [
+  "Mettre le jarret de bœuf, les feuilles de laurier, l'oignon, le céleri, les carottes, les grains de poivre et 3,3 L (3 ½ quarts) d'eau dans une marmite de 3,8 L (4 quarts); couvrir et porter à ébullition à feu moyen-vif. Réduire le feu et laisser mijoter à découvert pendant 2 heures, en écumant de temps à autre la mousse qui monte à la surface.",
+  "Préparer un bain d'eau glacée. Passer le bouillon dans un tamis fin ou une passoire tapissée de coton à fromage au-dessus d'un grand bol. Laisser refroidir légèrement. Détacher la viande des os; jeter les os et les légumes. Placer le bouillon dans le bain d'eau glacée. Effilocher la viande en petits morceaux et réserver. Réfrigérer le bouillon, toute la nuit si possible, et retirer le gras figé avec une cuillère. Le bouillon de bœuf peut se conserver au réfrigérateur, avec le bœuf effiloché, jusqu'à 2 jours, ou être congelé jusqu'à 4 mois.",
+  "Rendement : environ 1,9 L (2 quarts US).",
+  "Note : Utiliser cette recette de bouillon de bœuf lorsque vous voulez du bœuf effiloché pour la recette de soupe. La plupart des bouchers vendent du jarret de bœuf, mais les côtes courtes sont un bon substitut."
+]
+},
+{
+"id": 30203,
+"livreId": 21,
+"titre": "Bouillon de veau",
+"page": 4,
+"categorie": "Bouillons",
+"ingredientPrincipal": "Veau",
+"image": "livres/021-the-martha-stewart-living-cookbook/images/Bouillon-de-veau.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "4 brins de romarin frais",
+  "8 brins de persil plat frais",
+  "6 brins de thym frais",
+  "2 feuilles de laurier séchées",
+  "15 mL (1 c. à soupe) de grains de poivre noir entiers",
+  "450 g (1 lb) de veau à ragoût, en cubes",
+  "3,2 kg (7 lb) d'os de veau, comme des cous, des jarrets et des jointures, sciés ou cassés en morceaux de 5 cm (2 po)",
+  "450 g (1 lb) de queue de bœuf, facultatif",
+  "1 pied de porc, facultatif",
+  "2 gros oignons espagnols, non pelés, coupés en quartiers",
+  "3 grosses carottes, coupées en deux",
+  "3 branches de céleri, coupées en deux",
+  "225 g (8 oz) de champignons variés, essuyés, tiges conservées",
+  "1 tête d'ail, coupée en deux dans le sens de la largeur",
+  "1 boîte de 170 g (6 oz) de pâte de tomate",
+  "1 boîte de 800 g (28 oz) de tomates italiennes, égouttées et coupées en quartiers",
+  "500 mL (2 tasses) de vin rouge sec, comme un bourgogne"
+],
+"preparation": [
+  "Préchauffer le four à 220 °C (425 °F). Attacher le romarin, le persil, le thym, les feuilles de laurier et les grains de poivre dans un petit morceau de coton à fromage pour faire un bouquet garni; réserver.",
+  "Disposer la viande et les os de veau (ainsi que la queue de bœuf ou le pied de porc, si utilisés) en une seule couche dans une grande rôtissoire épaisse et mettre au four. Rôtir en retournant à plusieurs reprises, jusqu'à ce qu'ils soient brun foncé, environ 1 ½ heure. Sortir du four et placer les oignons, les carottes, le céleri, les champignons, l'ail, la pâte de tomate et les tomates hachées sur les os. Réduire le four à 190 °C (375 °F), remettre la rôtissoire au four et rôtir jusqu'à ce que les légumes soient dorés, environ 45 minutes.",
+  "Transférer les os, la viande et les légumes dans une marmite de 22 L (6 gallons US); réserver. Jeter le gras de la rôtissoire; placer la rôtissoire sur feu vif. Ajouter le vin et remuer avec une cuillère de bois pour décoller les particules brunes au fond de la rôtissoire; faire bouillir jusqu'à ce que le vin soit réduit de moitié, environ 5 minutes. Verser dans la marmite.",
+  "Ajouter 7,6 L (8 quarts) d'eau froide dans la marmite, juste assez pour couvrir les os; couvrir et porter à ébullition. Réduire à un frémissement; écumer la mousse qui monte à la surface. Ajouter le bouquet garni. Cuire de 8 à 10 heures en écumant fréquemment.",
+  "Préparer un bain d'eau glacée. Passer le bouillon dans un tamis fin au-dessus d'un grand bol et placer le bol dans le bain d'eau glacée. Une fois refroidi, couvrir et réfrigérer toute la nuit.",
+  "Jeter la couche de gras qui s'est formée sur le bouillon. Vous devriez obtenir environ 4,75 L (5 quarts) de bouillon. Le bouillon se conserve au réfrigérateur jusqu'à 3 jours ou au congélateur jusqu'à 4 mois.",
+  "Rendement : environ 4,75 L (5 quarts US) de bouillon ou 1 L (1 quart US) de demi-glace.",
+  "Note : Ce bouillon peut être utilisé tel quel ou réduit en une demi-glace de consistance gélatineuse.",
+  "Note – Pour la demi-glace : Après l'étape 6, transférer le bouillon dans une casserole plus petite, porter à ébullition, puis réduire à feu moyen-vif. Cuire à gros bouillons doux, en écumant fréquemment; réduire le liquide à environ 1 L (1 quart), soit environ 2 h 45. Il sera foncé et visqueux. Verser dans un moule carré de 20 cm (8 po), couvrir et réfrigérer toute la nuit. Couper la demi-glace ferme au couteau en carrés de 2,5 à 5 cm (1 à 2 po); envelopper chacun dans une pellicule plastique et placer dans un sac de congélation refermable. Conserver au congélateur jusqu'à 4 mois."
+]
+},
+{
+"id": 30204,
+"livreId": 21,
+"titre": "Bouillon de légumes",
+"page": 4,
+"categorie": "Bouillons",
+"ingredientPrincipal": "Légumes",
+"image": "livres/021-the-martha-stewart-living-cookbook/images/Bouillon-de-legumes.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "15 mL (1 c. à soupe) de beurre non salé",
+  "15 mL (1 c. à soupe) d'huile d'olive",
+  "1 gros oignon, haché grossièrement",
+  "2 grosses carottes, hachées grossièrement",
+  "2 panais, hachés grossièrement",
+  "1 branche de céleri, hachée grossièrement",
+  "1 botte (environ 700 g / 1 ½ lb) de bettes à carde rouges ou vertes, coupées en morceaux de 2,5 cm (1 po)",
+  "Quelques brins de thym frais",
+  "Quelques brins de persil plat frais",
+  "1 feuille de laurier séchée"
+],
+"preparation": [
+  "Dans une marmite moyenne, faire fondre le beurre et l'huile à feu moyen-doux, en remuant à l'occasion. Ajouter l'oignon; cuire jusqu'à ce qu'il soit caramélisé, de 15 à 25 minutes. Ajouter les carottes, les panais et le céleri, et cuire jusqu'à tendreté, environ 20 minutes.",
+  "Ajouter les bettes à carde au mélange de légumes. Ajouter 3,3 L (3 ½ quarts) d'eau froide, le thym, le persil et la feuille de laurier. Couvrir et porter à ébullition, réduire le feu et laisser mijoter à découvert environ 1 heure.",
+  "Retirer du feu et passer le bouillon dans un tamis fin ou une passoire tapissée de coton à fromage, en pressant sur les légumes pour en extraire le jus. Jeter les légumes. Le bouillon se conserve au réfrigérateur de 3 à 4 jours ou au congélateur jusqu'à 3 mois.",
+  "Rendement : environ 2,8 L (3 quarts US)."
+]
+},
+{
+"id": 30205,
+"livreId": 21,
+"titre": "Court-bouillon",
+"page": 5,
+"categorie": "Bouillons",
+"ingredientPrincipal": "Poisson",
+"image": "livres/021-the-martha-stewart-living-cookbook/images/Court-bouillon.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "1 botte de thym frais",
+  "1 botte de persil plat frais",
+  "2 mL (½ c. à thé) de grains de poivre noir entiers",
+  "2 mL (½ c. à thé) de graines de fenouil entières",
+  "1 bouteille de 750 mL de vin blanc sec",
+  "1 poireau, parties blanche et vert pâle, tranché en rondelles de 6 mm (¼ po), bien lavé (voir page 25)",
+  "2 carottes moyennes, tranchées en rondelles de 6 mm (¼ po)",
+  "1 citron, tranché en rondelles de 6 mm (¼ po)",
+  "3 feuilles de laurier séchées",
+  "30 mL (2 c. à soupe) de sel kasher"
+],
+"preparation": [
+  "Garnir le fond d'un poissonnier de 9,5 L (10 quarts) d'une grille et placer le poissonnier sur deux ronds de la cuisinière (ou utiliser une grande marmite). Remplir avec 6,6 L (7 quarts) d'eau (environ aux trois quarts).",
+  "Attacher le thym, le persil, les grains de poivre et les graines de fenouil ensemble dans un petit morceau de coton à fromage pour faire un bouquet garni et le placer dans le poissonnier; ajouter le vin, le poireau, les carottes, le citron, les feuilles de laurier et le sel.",
+  "Couvrir et porter à frémissement. Découvrir; laisser mijoter doucement 30 minutes. Jeter le bouquet garni.",
+  "Laisser le court-bouillon refroidir à température ambiante, environ 1 heure. Le court-bouillon peut être réfrigéré jusqu'à 1 semaine ou congelé jusqu'à 3 mois.",
+  "Rendement : environ 5,7 L (6 quarts US).",
+  "Note : Le court-bouillon, ce bouillon de légumes et d'herbes traditionnellement utilisé pour pocher le poisson, parfume subtilement le poisson pendant sa cuisson. Il peut être préparé 2 ou 3 jours à l'avance. Si vous préparez le poisson le même jour, faire le court-bouillon directement dans le poissonnier.",
+  "Note – Comment faire un bouillon plein de saveur : Avec quelques ingrédients simples, de l'équipement de cuisine de base et un peu de planification, il est facile de préparer un merveilleux bouillon à la maison. • Utiliser de la viande et des os pour faire un bouillon; si vous n'utilisez que des os, c'est exactement le goût qu'aura le bouillon. • La marmite doit être assez haute et étroite pour que les ingrédients soient bien serrés; trop d'espace fait évaporer le liquide savoureux au lieu d'extraire toute la saveur des ingrédients. • Ne pas précipiter le bouillon; il faut de 3 à 4 heures pour libérer toute la saveur des os. • Ajouter assez d'eau froide pour couvrir les ingrédients de 2,5 à 5 cm (1 ou 2 po), pas plus, sinon le bouillon risque d'être trop aqueux. Porter le tout à ébullition, puis réduire aussitôt le feu pour que le liquide mijote à peine (utiliser un trépied en métal ou un diffuseur de flamme). Laisser bouillir trop longtemps peut donner des saveurs grasses et désagréables; tout ce brassage fait émulsionner dans l'eau le gras libéré par les os et la viande. • Pendant que le bouillon mijote doucement, une mince pellicule d'impuretés se forme à la surface. Écumer cette pellicule avec une cuillère à égoutter et la jeter. Écumer le bouillon toutes les 30 minutes. Lorsque le liquide descend sous le niveau des os, ajouter de l'eau froide. • Filtré et refroidi, le bouillon se conserve 3 jours au réfrigérateur et de 3 à 4 mois au congélateur. Une fois réfrigéré, une couche de gras se forme sur le dessus du bouillon; l'enlever avec une cuillère et la jeter. Si vous congelez le bouillon, laisser le gras intact pour sceller le bouillon; l'enlever avant de l'utiliser."
+]
+},
+{
+"id": 30206,
+"livreId": 21,
+"titre": "Fumet de poisson",
+"page": 6,
+"categorie": "Bouillons",
+"ingredientPrincipal": "Poisson",
+"image": "livres/021-the-martha-stewart-living-cookbook/images/Fumet-de-poisson.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "1,8 kg (4 lb) de têtes et d'os de poissons non gras, comme la sole, la plie, le vivaneau ou le bar",
+  "2 feuilles de laurier séchées",
+  "8 brins de persil plat frais",
+  "1 botte de thym frais",
+  "½ botte d'estragon frais",
+  "7 mL (1 ½ c. à thé) de graines de fenouil entières",
+  "8 grains de poivre noir entiers",
+  "45 mL (3 c. à soupe) de beurre non salé",
+  "1 gros poireau, parties blanche et vert pâle, coupé en quatre et tranché de 6 mm (¼ po) d'épaisseur, bien lavé (page 25)",
+  "1 oignon moyen, coupé en dés de 6 mm (¼ po)",
+  "225 g (8 oz) de champignons blancs, essuyés, coupés en dés de 6 mm (¼ po)",
+  "2 carottes moyennes, coupées en dés de 6 mm (¼ po)",
+  "2 branches de céleri, coupées en dés de 6 mm (¼ po)",
+  "½ bulbe de fenouil, coupé en dés de 6 mm (¼ po)",
+  "250 mL (1 tasse) de vin blanc sec"
+],
+"preparation": [
+  "Retirer les ouïes et le sang des têtes de poisson; laver soigneusement les os et les couper pour qu'ils entrent dans une marmite de 11 L (12 quarts). Attacher les feuilles de laurier, le persil, le thym, l'estragon, les graines de fenouil et les grains de poivre dans un petit morceau de coton à fromage pour faire un bouquet garni; réserver.",
+  "Faire fondre le beurre dans la marmite à feu moyen; ajouter le poireau, l'oignon, les champignons, les carottes, le céleri et le fenouil, et cuire jusqu'à tendreté, de 8 à 10 minutes. Augmenter à feu moyen-vif et ajouter les têtes et les os de poisson. Cuire en remuant de 3 à 5 minutes. Ajouter le vin, le bouquet garni et 2,4 L (2 ½ quarts) d'eau, juste assez pour couvrir les os. Porter à ébullition, réduire à feu doux, écumer et laisser mijoter 25 minutes. Éteindre le feu; laisser reposer 10 minutes.",
+  "Préparer un bain d'eau glacée. Passer le bouillon dans un tamis fin au-dessus d'un grand bol; placer le bol dans le bain d'eau glacée pour le refroidir. Utiliser dans la journée ou congeler jusqu'à 3 mois.",
+  "Rendement : environ 2,4 L (2 ½ quarts US).",
+  "Note : Comme ce fumet de poisson se congèle bien, doubler la recette; en utiliser une portion et congeler la seconde pour plus tard.",
+  "Note – Fumet de poisson méditerranéen : Pour donner à votre fumet les saveurs de la Méditerranée, ajouter un ou plusieurs des ingrédients suivants : 2 mL (½ c. à thé) de filaments de safran émiettés, 6 tomates séchées (non conservées dans l'huile), 7 mL (1 ½ c. à thé) de paprika doux, 2 mL (½ c. à thé) de graines de fenouil ou de cumin grillées, 3 gousses d'ail, 20 carapaces de crevettes, ou le zeste d'une orange."
+]
+},
+{
+"id": 30207,
+"livreId": 21,
+"titre": "Dashi",
+"page": 6,
+"categorie": "Bouillons",
+"ingredientPrincipal": "Poisson",
+"image": "livres/021-the-martha-stewart-living-cookbook/images/Dashi.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "1 morceau de 5 cm (2 po) d'algue kombu",
+  "30 mL (2 c. à soupe) de flocons de bonite (flocons de poisson)",
+  "25 mL (1 c. à soupe plus 2 c. à thé) de sauce soya",
+  "15 mL (1 c. à soupe) de mirin",
+  "Jus de ¼ de lime"
+],
+"preparation": [
+  "Porter 750 mL (3 tasses) d'eau à ébullition dans une petite casserole. Essuyer le kombu, l'ajouter à l'eau bouillante et laisser bouillir 3 minutes.",
+  "Ajouter les flocons de bonite, retirer du feu et laisser reposer 30 minutes.",
+  "Filtrer, puis ajouter la sauce soya, le mirin et le jus de lime; servir chaud ou froid. Le dashi doit être utilisé dans les quelques heures qui suivent.",
+  "Rendement : 4 portions.",
+  "Note : Le dashi est un bouillon simple essentiel à la cuisine japonaise. Ce bouillon s'utilise dans les soupes froides et chaudes et il est délicieux chaud, seul. Les ingrédients se trouvent chez un épicier asiatique, ou voir Sources, page 573."
+]
+},
+{
+"id": 30208,
+"livreId": 21,
+"titre": "Sauce hollandaise",
+"page": 7,
+"categorie": "Sauces",
+"ingredientPrincipal": "Œufs",
+"image": "livres/021-the-martha-stewart-living-cookbook/images/Sauce-hollandaise.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "3 gros jaunes d'œufs",
+  "22 mL (1 ½ c. à soupe) de jus de citron frais",
+  "115 g (8 c. à soupe / 1 bâton) de beurre non salé, fondu",
+  "Sel kasher"
+],
+"preparation": [
+  "Dans le haut d'un bain-marie ou dans un grand bol résistant à la chaleur placé sur une casserole d'eau frémissante, fouetter les jaunes d'œufs avec 22 mL (1 ½ c. à soupe) d'eau, en fouettant vigoureusement, jusqu'à ce que le mélange épaississe, environ 4 minutes. Retirer du feu et incorporer le jus de citron.",
+  "Incorporer lentement le beurre fondu en fouettant jusqu'à épaississement. Saler. Servir immédiatement ou garder au chaud sur de l'eau qui frémit très doucement, en fouettant de temps à autre.",
+  "Rendement : 250 mL (1 tasse)."
+]
+},
+{
+"id": 30209,
+"livreId": 21,
+"titre": "Béarnaise à l'aneth",
+"page": 7,
+"categorie": "Sauces",
+"ingredientPrincipal": "Œufs",
+"image": "livres/021-the-martha-stewart-living-cookbook/images/Bearnaise-a-l-aneth.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "30 mL (2 c. à soupe) de vinaigre de vin blanc",
+  "30 mL (2 c. à soupe) de vin blanc sec",
+  "5 grains de poivre noir entiers",
+  "1 échalote, hachée finement",
+  "3 gros jaunes d'œufs",
+  "170 g (12 c. à soupe / 1 ½ bâton) de beurre non salé, coupé en morceaux",
+  "Sel kasher",
+  "15 mL (1 c. à soupe) d'aneth frais, finement ciselé"
+],
+"preparation": [
+  "Dans une casserole, mélanger le vinaigre, le vin, les grains de poivre et l'échalote. Cuire à feu moyen-vif jusqu'à ce que presque tout le liquide soit évaporé, environ 2 minutes. Ajouter 30 mL (2 c. à soupe) d'eau; réduire le feu à doux.",
+  "Ajouter les jaunes d'œufs; fouetter jusqu'à ce que le mélange épaississe, environ 4 minutes. Retirer du feu; incorporer le beurre en fouettant jusqu'à ce qu'il soit entièrement incorporé et que la sauce épaississe, environ 3 minutes. Saler. Passer la sauce; jeter les solides. Incorporer l'aneth. Servir immédiatement ou garder au chaud sur de l'eau qui frémit doucement, en fouettant de temps à autre.",
+  "Rendement : 250 mL (1 tasse).",
+  "Note : Essayez cette sauce avec des œufs pochés et du saumon fumé."
+]
+},
+{
+"id": 30210,
+"livreId": 21,
+"titre": "Sauce béchamel",
+"page": 7,
+"categorie": "Sauces",
+"ingredientPrincipal": "Lait",
+"image": "livres/021-the-martha-stewart-living-cookbook/images/Sauce-bechamel.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "55 g (4 c. à soupe) de beurre non salé",
+  "15 mL (1 c. à soupe) d'échalote hachée finement",
+  "Sel kasher et poivre blanc fraîchement moulu",
+  "Une pincée de muscade moulue",
+  "Une pincée de poivre de Cayenne",
+  "125 mL (½ tasse) de farine tout usage",
+  "1 L (1 quart) de lait entier",
+  "1 feuille de laurier séchée",
+  "250 mL (1 tasse) de gruyère râpé (environ 85 g / 3 oz)"
+],
+"preparation": [
+  "Dans une grande casserole, chauffer le beurre à feu moyen. Ajouter l'échalote et cuire jusqu'à ce qu'elle soit translucide, sans la colorer, de 3 à 5 minutes. Assaisonner de sel, de poivre blanc, de muscade et de cayenne. Réduire le feu au minimum.",
+  "Ajouter la farine en trois fois, en fouettant constamment. Lorsqu'elle est entièrement incorporée, cuire en fouettant, sans colorer, jusqu'à ce que la sauce épaississe, bouillonne et n'ait plus un goût de farine.",
+  "Pendant ce temps, chauffer le lait dans une petite casserole à feu moyen-vif; porter à ébullition et retirer immédiatement du feu. Ajouter le lait chaud au mélange de farine, en trois fois, en fouettant constamment. La texture doit être épaisse et sans grumeaux. Ajouter la feuille de laurier; poursuivre la cuisson environ 8 minutes à feu doux.",
+  "Passer au tamis; ajouter le fromage pendant que la béchamel est encore chaude. Assaisonner de sel et de poivre. Une fois à température ambiante, la sauce peut être réfrigérée jusqu'à 3 jours dans un contenant hermétique, recouverte d'une pellicule plastique appliquée directement sur la surface de la sauce. Réchauffer dans le haut d'un bain-marie, sur 2,5 cm (1 po) d'eau frémissante.",
+  "Rendement : 1 L (1 quart US)."
+]
+},
+{
+"id": 30211,
+"livreId": 21,
+"titre": "Sauce rémoulade",
+"page": 8,
+"categorie": "Sauces",
+"ingredientPrincipal": "Œufs",
+"image": "livres/021-the-martha-stewart-living-cookbook/images/Sauce-remoulade.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "1 gros œuf entier",
+  "2 gros jaunes d'œufs",
+  "2 mL (½ c. à thé) de sel kasher",
+  "Une pincée de sucre",
+  "1 mL (¼ c. à thé) de poivre noir fraîchement moulu",
+  "180 mL (¾ tasse) d'huile d'olive extra vierge",
+  "15 à 30 mL (1 à 2 c. à soupe) de jus de citron frais",
+  "180 mL (¾ tasse) d'huile de canola",
+  "15 mL (1 c. à soupe) de câpres, égouttées et hachées",
+  "10 mL (2 c. à thé) de moutarde de Dijon",
+  "15 mL (1 c. à soupe) de persil plat frais haché",
+  "15 mL (1 c. à soupe) d'estragon frais haché",
+  "15 mL (1 c. à soupe) de ciboulette ciselée",
+  "15 mL (1 c. à soupe) d'échalote hachée finement"
+],
+"preparation": [
+  "Mettre l'œuf entier, les jaunes d'œufs, le sel, le sucre et le poivre dans le bol d'un robot culinaire. Mélanger jusqu'à homogénéité.",
+  "Le moteur en marche, verser lentement l'huile d'olive en filet par le tube d'alimentation. Ajouter 15 mL (1 c. à soupe) de jus de citron, puis verser lentement l'huile de canola en filet par le tube d'alimentation. Rectifier l'assaisonnement avec plus de jus de citron, de sel et de poivre, au besoin.",
+  "Incorporer les câpres, la moutarde, le persil, l'estragon, la ciboulette et l'échalote, et servir immédiatement.",
+  "Rendement : environ 500 mL (2 tasses).",
+  "Note : Si les œufs crus vous préoccupent, utilisez de la mayonnaise du commerce et commencez à l'étape 3. La sauce peut être préparée à l'avance et réfrigérée dans un contenant hermétique jusqu'à 2 jours."
+]
+},
+{
+"id": 30212,
+"livreId": 21,
+"titre": "Sauce trempette vietnamienne",
+"page": 8,
+"categorie": "Sauces",
+"ingredientPrincipal": "Sauce de poisson",
+"image": "livres/021-the-martha-stewart-living-cookbook/images/Sauce-trempette-vietnamienne.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "7 mL (1 ½ c. à thé) d'ail haché",
+  "5 mL (1 c. à thé) de pâte de piment moulu",
+  "1 piment oiseau thaï ou piment serrano, haché, facultatif",
+  "60 mL (¼ tasse) de sauce de poisson asiatique (nam pla)",
+  "30 mL (2 c. à soupe) de jus de lime frais",
+  "60 mL (¼ tasse) de sucre",
+  "30 mL (2 c. à soupe) de carottes râpées, pour garnir"
+],
+"preparation": [
+  "À l'aide d'un mortier et d'un pilon, piler l'ail, la pâte de piment et le piment frais en une pâte (ou hacher ensemble au couteau). Transférer dans un bol.",
+  "Ajouter la sauce de poisson, 80 mL (⅓ tasse) d'eau chaude, le jus de lime et le sucre. Fouetter jusqu'à ce que le sucre soit dissous. Garnir de carottes et servir.",
+  "Rendement : environ 375 mL (1 ½ tasse).",
+  "Note : Connue sous le nom de nuoc cham, cette sauce de table vietnamienne sert à assaisonner les dumplings, les soupes et les plats de nouilles."
+]
+},
+{
+"id": 30213,
+"livreId": 21,
+"titre": "Sauce trempette aux agrumes",
+"page": 8,
+"categorie": "Sauces",
+"ingredientPrincipal": "Agrumes",
+"image": "livres/021-the-martha-stewart-living-cookbook/images/Sauce-trempette-aux-agrumes.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "80 mL (⅓ tasse) de jus d'orange frais",
+  "80 mL (⅓ tasse) de jus de lime frais",
+  "60 mL (¼ tasse) de sauce soya à faible teneur en sodium",
+  "15 mL (1 c. à soupe) d'huile de sésame foncée chinoise",
+  "0,5 mL (⅛ c. à thé) de poivre noir fraîchement moulu",
+  "2 oignons verts, parties blanches et vertes, tranchés finement"
+],
+"preparation": [
+  "Dans un petit bol, fouetter ensemble les jus d'orange et de lime, la sauce soya, l'huile de sésame et le poivre; ajouter les oignons verts. Servir.",
+  "Rendement : environ 250 mL (1 tasse).",
+  "Note : Cette sauce rafraîchissante peut être préparée jusqu'à 8 heures à l'avance et conservée au réfrigérateur dans un contenant hermétique."
+]
+}
+
+
+
+
+  
+]
