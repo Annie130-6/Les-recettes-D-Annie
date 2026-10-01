@@ -2264,7 +2264,49 @@
   "Servir sur la salade."
 ]
 },
-
+{
+"id": 77,
+"livreId": 1,
+"titre": "Tête de porcelet rôtie, sauce gribiche",
+"page": 196,
+"categorie": "Porc",
+"ingredientPrincipal": "Porc",
+"image": "livres/001-kitchen-galerie/images/Tete-de-porcelet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"source": null,
+"ingredients": [
+  "1 petite tête de porc (préférablement de Gaspor)",
+  "SAUMURE",
+  "6 litres (24 tasses) d'eau chaude",
+  "750 g (3 ¾ tasses) de sel",
+  "750 g (3 ¾ tasses) de sucre",
+  "20 grains de poivre noir entiers",
+  "2 feuilles de thym",
+  "2 feuilles de laurier",
+  "2 branches de romarin",
+  "1 tête d'ail",
+  "SAUCE GRIBICHE",
+  "250 mL (1 tasse) de mayonnaise",
+  "1 œuf dur, haché",
+  "½ botte d'estragon, ciselée",
+  "½ botte de ciboulette, ciselée",
+  "½ botte de persil plat, ciselée",
+  "2 branches de thym, effeuillées",
+  "Quelques gouttes de sauce Tabasco",
+  "2 échalotes, émincées",
+  "Sel et poivre noir frais moulu"
+],
+"preparation": [
+  "Déposer la tête de porc dans un bol et, sous un filet continu d'eau froide du robinet, la faire dégorger pendant au moins 2 heures.",
+  "Dans un très grand récipient, combiner les ingrédients de la saumure et y déposer la tête de porc. Faire saumurer pendant 8 heures. Retirer le porc de la saumure et bien rincer la viande sous l'eau du robinet.",
+  "Préchauffer le four à 110 °C (225 °F).",
+  "Transférer la tête de porc dans un grand pyrex ou sur une plaque de cuisson. Faire cuire au four pendant 3 à 4 heures. En fin de cuisson, augmenter le four à 220 °C (425 °F) pour obtenir une peau croustillante.",
+  "Entre-temps, mettre tous les ingrédients de la sauce gribiche dans un bol et bien mélanger. Réserver au réfrigérateur.",
+  "Servir la tête entière à table, avec la sauce gribiche. Si désiré, accompagner de céleri-rémoulade ou d'une simple salade."
+]
+},  
 {"id": 78, "livreId": 1, "titre": "Gravlax du KG", "page": 208, "categorie": "Entrée", "ingredientPrincipal": "Saumon et truite", "image": "livres/001-kitchen-galerie/images/Gravlax-du-kgb.jpeg",
 "favori": false,
 "note": 0,
