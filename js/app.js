@@ -487,33 +487,15 @@ afficherIngredients();
 
 
 
-  function sansAccents(texte) {
-  return texte.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+
+function sansAccents(texte) {
+  return String(texte || "")
+    .replace(/œ/g, "oe").replace(/Œ/g, "oe")
+    .replace(/æ/g, "ae").replace(/Æ/g, "ae")
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 }
 
-let timerRecherche = null;
-search.addEventListener("input", () => {
-  clearTimeout(timerRecherche);
-  timerRecherche = setTimeout(appliquerFiltres, 300);
-});
 
-
-
-chargerDonnees();
-
-
-const pageAgenda = document.getElementById("pageAgenda");
-const btnAgenda = document.getElementById("btnAgenda");
-let anneeAffichee = new Date().getFullYear();
-let moisAffiche = new Date().getMonth();
-let recetteEnCoursId = null;
-let recetteEnCoursTitre = null;
-
-btnAgenda.addEventListener("click", () => {
-  cacherPages();
-  pageAgenda.style.display = "block";
-  afficherAgenda();
-});
 
 function chargerAgenda() {
   const data = localStorage.getItem("agendaRecettes");
