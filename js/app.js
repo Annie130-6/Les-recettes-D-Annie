@@ -2031,12 +2031,24 @@ function categoriesAutomatiques(r) {
   return trouvees;
 }
 
+
 function categoriesDeRecette(r) {
   const base = [];
   if (Array.isArray(r.categories)) base.push(...r.categories);
 
-  const catNettoyee = categorieFinale(r.categorie, r.ingredientPrincipal, r.titre);
-  if (catNettoyee) base.push(catNettoyee);
+  // Une catégorie peut contenir plusieurs valeurs séparées par des virgules
+  // (ex. "Entrée, Agneau"), sauf si c'est un ancien nom connu qui contient une virgule.
+  const brute = (r.categorie || "").trim();
+  if (brute) {
+    const connue = mappingCategories[brute] !== undefined
+      || categoriesMixtesEntreeSoupe.has(brute)
+      || categoriesAMelanger.has(brute);
+    const morceaux = connue ? [brute] : brute.split(",").map(s => s.trim()).filter(Boolean);
+    morceaux.forEach(m => {
+      const c = categorieFinale(m, r.ingredientPrincipal, r.titre);
+      if (c) base.push(c);
+    });
+  }
 
   base.push(...categoriesAutomatiques(r));
 
