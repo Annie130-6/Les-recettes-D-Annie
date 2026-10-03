@@ -820,6 +820,38 @@ function categorieFinale(categorieBrute, ingredientPrincipal, titre) {
   return mappingCategories[categorieBrute] || categorieBrute;
 }
 
+// Catégories automatiques : déduites du titre et de l'ingrédient principal
+const motsClesCategories = {
+  "Agneau": ["agneau"],
+  "Bœuf": ["boeuf","bifteck","entrecote","bavette","rosbif","onglet","hampe","tournedos"],
+  "Porc": ["porc","cotes levees"],
+  "Veau": ["veau"],
+  "Poulet/Volaille": ["poulet","volaille","pintade","poule","caille"],
+  "Dindon": ["dindon","dinde"],
+  "Canard": ["canard"],
+  "Charcuterie": ["jambon","bacon","saucisse","saucisson","salami","prosciutto","pancetta","chorizo","smoked meat"],
+  "Poisson": ["poisson","saumon","thon","morue","truite","tilapia","sole","fletan","aiglefin","cabillaud","brochet","mahi-mahi","achigan","sardine","anchois","lotte","rouget","omble"],
+  "Fruits de mer": ["fruits de mer","crevette","homard","crabe","moules","petoncle","huitre","palourde","calmar","langoustine"],
+  "Pizza": ["pizza"],
+  "Quiche": ["quiche"]
+};
+
+const regexCategories = Object.keys(motsClesCategories).map(cat => ({
+  cat,
+  re: new RegExp("(^|[^a-z])(" +
+    motsClesCategories[cat].map(m => sansAccents(m).replace(/[-\/\\^$*+?.()|[\]{}]/g, "\\$&")).join("|") +
+    ")(s|x)?([^a-z]|$)")
+}));
+
+const cacheCatsAuto = new Map();
+function categoriesAutomatiques(r) {
+  if (cacheCatsAuto.has(r.id)) return cacheCatsAuto.get(r.id);
+  const texte = sansAccents((r.titre || "") + " " + (r.ingredientPrincipal || ""));
+  const trouvees = regexCategories.filter(x => x.re.test(texte)).map(x => x.cat);
+  cacheCatsAuto.set(r.id, trouvees);
+  return trouvees;
+}
+
 function categoriesDeRecette(r) {
   const base = [];
   if (Array.isArray(r.categories)) base.push(...r.categories);
@@ -827,12 +859,15 @@ function categoriesDeRecette(r) {
   const catNettoyee = categorieFinale(r.categorie, r.ingredientPrincipal, r.titre);
   if (catNettoyee) base.push(catNettoyee);
 
+  base.push(...categoriesAutomatiques(r));
+
   if (livresAsiatiques.has(r.livreId)) base.push("Asiatique");
 
   const ajout = catsAjoutees[r.id] || [];
   const retires = catsRetirees[r.id] || [];
   return [...new Set([...base, ...ajout])].filter(c => !retires.includes(c));
 }
+
 
 function retirerCategorie(recetteId, cat) {
   if (!catsRetirees[recetteId]) catsRetirees[recetteId] = [];
@@ -885,52 +920,37 @@ function basculerMode() {
 }
 
 
-
-
-
-
-
-
-
-
-  function appliquerFiltres() {
+function appliquerFiltres() {
   const mots = sansAccents(search.value).split(/\s+/).filter(m => m);
   const choisies = categoriesChoisies.map(sansAccents);
+  const base = baseFiltres || recettes;
 
-      const base = livreActuelId ? recettesLivreBase : recettes;
-    const filtres = base.filter(r => {
-
-
-        const cats = categoriesDeRecette(r).map(sansAccents);
+  const filtres = base.filter(r => {
+    const cats = categoriesDeRecette(r).map(sansAccents);
     const ingr = ingredientsDeRecette(r).map(sansAccents);
     const champs = sansAccents(r.titre) + " " + cats.join(" ") + " " + ingr.join(" ");
-
 
     const okTexte = mots.every(m => champs.includes(m));
     const okCats = choisies.length === 0 ? true
       : modeCategories === "ET"
       ? choisies.every(c => cats.includes(c))
       : choisies.some(c => cats.includes(c));
-    const okIng = ingredientsChoisis.length === 0 ? true
-      : ingredientsChoisis.every(i => ingr.includes(i));
-    
-    return okTexte && okCats && okIng;
+
+    return okTexte && okCats;
   });
 
-
-
-      recettesActuelles = filtres;
-    nombreAffiche = 60;
-    rendreRecettes();
-  }
-
+  recettesActuelles = filtres;
+  nombreAffiche = 60;
+  rendreRecettes();
+}
 
 
 
-let notes = JSON.parse(localStorage.getItem("notesRecettes") || "{}");
-let favoris = JSON.parse(localStorage.getItem("favorisRecettes") || "[]");
 
-let ingredientsEpicerie = JSON.parse(localStorage.getItem("ingredientsEpicerie") || "{}");
+
+
+
+
 
 function sauvegarderIngredientsEpicerie() {
   localStorage.setItem("ingredientsEpicerie", JSON.stringify(ingredientsEpicerie));
