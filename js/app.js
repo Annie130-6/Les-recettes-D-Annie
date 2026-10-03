@@ -1,3 +1,5 @@
+/*
+
 let livres = [];
 let recettes = [];
 
@@ -1165,6 +1167,8 @@ function viderEpicerie() {
   sauvegarderIngredientsEpicerie();
   afficherEpicerie();
 }
+
+*/
 
 let livres = [];
 let recettes = [];
