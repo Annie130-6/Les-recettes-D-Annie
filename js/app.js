@@ -99,6 +99,8 @@ function carteLivreHTML(livre) {
 
 let nombreAfficheLivres = 60;
 let triLivresMode = "defaut"; // "alpha" | "recentAncien" | "ancienRecent"
+let rechercheLivres = "";
+let timerRechercheLivres = null;
 
 function trierListeLivres(liste) {
   const copie = [...liste];
@@ -122,40 +124,90 @@ function trierLivresDate() {
   rendreLivres();
 }
 
+// Tout le texte d'un livre (titre, auteur, sujet, langue...) sans accents ni majuscules
+function texteRechercheLivre(livre) {
+  const ignores = new Set(["id", "couverture", "dossier"]);
+  const morceaux = [];
+  Object.keys(livre).forEach(cle => {
+    if (ignores.has(cle)) return;
+    const v = livre[cle];
+    if (v === null || v === undefined) return;
+    if (Array.isArray(v)) morceaux.push(v.join(" "));
+    else if (typeof v !== "object") morceaux.push(String(v));
+  });
+  return sansAccents(morceaux.join(" "));
+}
+
+function filtrerLivres() {
+  const mots = sansAccents(rechercheLivres).split(/\s+/).filter(m => m);
+  if (mots.length === 0) return livres;
+  return livres.filter(livre => {
+    const texte = texteRechercheLivre(livre);
+    return mots.every(m => texte.includes(m));
+  });
+}
 
 function afficherLivres() {
   cacherPages();
   pageLivres.style.display = "block";
   nombreAfficheLivres = 60;
+  rechercheLivres = "";
+
+  pageLivres.innerHTML = `
+    <input id="searchLivres" placeholder="Rechercher un livre (titre, auteur, sujet)..."
+      style="width:100%;max-width:500px;padding:12px;font-size:1.1em;border:1px solid #ccc;border-radius:8px;margin:10px 0;">
+    <div id="zoneLivres"></div>`;
+
+  const champ = document.getElementById("searchLivres");
+  champ.addEventListener("input", () => {
+    clearTimeout(timerRechercheLivres);
+    timerRechercheLivres = setTimeout(() => {
+      rechercheLivres = champ.value;
+      nombreAfficheLivres = 60;
+      rendreLivres();
+    }, 200);
+  });
+
   rendreLivres();
 }
 
 function rendreLivres() {
-  const listeTriee = trierListeLivres(livres);
+  const zone = document.getElementById("zoneLivres");
+  if (!zone) return;
 
-  let html = `<h2>📚 Mes livres (${livres.length})</h2>
+  const trouves = filtrerLivres();
+  const listeTriee = trierListeLivres(trouves);
+  const compteur = trouves.length === livres.length
+    ? `${livres.length}`
+    : `${trouves.length} sur ${livres.length}`;
+
+  let html = `<h2>📚 Mes livres (${compteur})</h2>
     <button class="btn-scroll-jump" onclick="sauterDeCartes(25)">⏩ +25</button>
     <div class="tri-boutons">
       <button onclick="trierLivresAlpha()">🔤 ${triLivresMode === "alpha" ? "✓ " : ""}A → Z</button>
       <button onclick="trierLivresDate()">📅 ${triLivresMode === "ancienRecent" ? "Plus ancien → récent" : "Plus récent → ancien"}</button>
     </div>`;
 
+  if (trouves.length === 0) {
+    html += `<p>Aucun livre ne correspond à « ${rechercheLivres.replace(/</g, "&lt;")} ».</p>`;
+  }
+
   listeTriee.slice(0, nombreAfficheLivres).forEach(livre => {
     html += carteLivreHTML(livre);
   });
 
-  if (livres.length > nombreAfficheLivres) {
-    html += `<button class="btn-scroll-jump" onclick="afficherPlusDeLivres()">⏩ Afficher 60 de plus (${livres.length - nombreAfficheLivres} restants)</button>`;
+  if (trouves.length > nombreAfficheLivres) {
+    html += `<button class="btn-scroll-jump" onclick="afficherPlusDeLivres()">⏩ Afficher 60 de plus (${trouves.length - nombreAfficheLivres} restants)</button>`;
   }
 
-  pageLivres.innerHTML = html;
+  zone.innerHTML = html;
 }
-
 
 function afficherPlusDeLivres() {
   nombreAfficheLivres += 60;
   rendreLivres();
 }
+
 
 function sauterDeCartes(nombre) {
   window.scrollBy({ top: nombre * 220, behavior: "smooth" });
