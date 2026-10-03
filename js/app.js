@@ -1693,7 +1693,10 @@ function ouvrirModalAgenda(recetteId, titre) {
   recetteEnCoursId = recetteId;
   recetteEnCoursTitre = titre;
   document.getElementById("modalTitreRecette").textContent = titre;
-  document.getElementById("modalDateInput").value = new Date().toISOString().split("T")[0];
+    const auj = new Date();
+  document.getElementById("modalDateInput").value =
+    `${auj.getFullYear()}-${String(auj.getMonth() + 1).padStart(2, "0")}-${String(auj.getDate()).padStart(2, "0")}`;
+
   document.getElementById("modalAgenda").style.display = "flex";
 }
 
