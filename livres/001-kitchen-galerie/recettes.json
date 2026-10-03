@@ -1,5 +1,5 @@
 [
-{"id": 1, "livreId": 1, "titre": "Carré d'agneau à la gelée de menthe pour ma mère", "page": 14, "categorie": "Entrée", "ingredientPrincipal": "Agneau", "image": "livres/001-kitchen-galerie/images/Carre-d-agneau-a-la-gelee.jpeg",
+{"id": 1, "livreId": 1, "titre": "Carré d'agneau à la gelée de menthe pour ma mère", "page": 14, "categorie": "Entrée, Agneau", "ingredientPrincipal": "Agneau", "image": "livres/001-kitchen-galerie/images/Carre-d-agneau-a-la-gelee.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -25,7 +25,7 @@
   "Servir avec la gelée de menthe."
 ]
 },
-{"id": 2, "livreId": 1, "titre": "Parmentier d'agneau", "page": 17, "categorie": "Entrée", "ingredientPrincipal": "Agneau", "image": "livres/001-kitchen-galerie/images/parmentier-d-agneau.jpeg",
+{"id": 2, "livreId": 1, "titre": "Parmentier d'agneau", "page": 17, "categorie": "Entrée, Agneau", "ingredientPrincipal": "Agneau", "image": "livres/001-kitchen-galerie/images/parmentier-d-agneau.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -52,7 +52,7 @@
   "Dans un emporte-pièce posé dans une assiette de service, déposer l'agneau effiloché et ajouter assez de sauce pour mouiller. Recouvrir de purée. Verser de la sauce autour et retirer l'emporte-pièce. Servir aussitôt."
 ]
  },
-{"id": 3, "livreId": 1, "titre": "Jarret d'agneau à l'ail confit, polenta crémeuse au citron", "page": 19, "categorie": "Plat", "ingredientPrincipal": "Agneau", "image": "livres/001-kitchen-galerie/images/Jarret-d-agneau-a-l-ail.jpeg",
+{"id": 3, "livreId": 1, "titre": "Jarret d'agneau à l'ail confit, polenta crémeuse au citron", "page": 19, "categorie": "Agneau", "ingredientPrincipal": "Agneau", "image": "livres/001-kitchen-galerie/images/Jarret-d-agneau-a-l-ail.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -85,7 +85,7 @@
   "Servir avec la polenta."
 ]
 },
-{"id": 4, "livreId": 1, "titre": "Carrés d'épaule d'agneau braisés à la tomate, orzo aux olives et aux tomates séchées", "page": 20, "categorie": "Plat", "ingredientPrincipal": "Agneau","image": "livres/001-kitchen-galerie/images/Carre-d-epaule-d-agneau-braise.jpeg",
+{"id": 4, "livreId": 1, "titre": "Carrés d'épaule d'agneau braisés à la tomate, orzo aux olives et aux tomates séchées", "page": 20, "categorie": "Agneau", "ingredientPrincipal": "Agneau","image": "livres/001-kitchen-galerie/images/Carre-d-epaule-d-agneau-braise.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -118,7 +118,7 @@
   "Combiner tous les ingrédients de l'orzo et servir avec les carrés."
 ]
  },
-{"id": 5, "livreId": 1, "titre": "Soupe froide d'asperge avec crabe et jambon", "page": 25, "categorie": "Entrée", "ingredientPrincipal": "Asperge", "image": "livres/001-kitchen-galerie/images/Soupe-froide-d-asperges.jpeg",
+{"id": 5, "livreId": 1, "titre": "Soupe froide d'asperge avec crabe et jambon", "page": 25, "categorie": "Soupe", "ingredientPrincipal": "Asperge", "image": "livres/001-kitchen-galerie/images/Soupe-froide-d-asperges.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -149,7 +149,7 @@
   "Dans un grand bol, combiner tous les ingrédients de la salade. Façonner en quatre quenelles et en garnir les soupes. Si désiré, servir avec des croûtons de pain."
 ]
 },
-{"id": 6, "livreId": 1, "titre": "Salade d'asperges grillées, œuf poché, roquette et parmesan", "page": 26, "categorie": "Entrée", "ingredientPrincipal": "Asperge","image": "livres/001-kitchen-galerie/images/Salade-d-asperge-grillees.jpeg",
+{"id": 6, "livreId": 1, "titre": "Salade d'asperges grillées, œuf poché, roquette et parmesan", "page": 26, "categorie": "Entrée, Salade", "ingredientPrincipal": "Asperge","image": "livres/001-kitchen-galerie/images/Salade-d-asperge-grillees.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -180,7 +180,7 @@
   "Disposer la salade dans les assiettes et décorer de copeaux de parmesan."
 ]
  },
-{"id": 7, "livreId": 1, "titre": "Salade d'asperges et de pieuvre aux agrumes", "page": 28, "categorie": "Entrée", "ingredientPrincipal": "Asperge", "image": "livres/001-kitchen-galerie/images/Salade-d-asperge-et-de-pieuvre.jpeg",
+{"id": 7, "livreId": 1, "titre": "Salade d'asperges et de pieuvre aux agrumes", "page": 28, "categorie": "Entrée, Salade", "ingredientPrincipal": "Asperge", "image": "livres/001-kitchen-galerie/images/Salade-d-asperge-et-de-pieuvre.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -235,7 +235,7 @@
   "Assaisonner, ajouter le basilic et servir."
 ]
 },
-{"id": 9, "livreId": 1, "titre": "Tartare de bœuf comme dans le temps de Chez Roger", "page": 35, "categorie": "Entrée", "ingredientPrincipal": "Bœuf", "image": "livres/001-kitchen-galerie/images/Tartare-de-boeuf-comme-dans-le-temps.jpeg",
+{"id": 9, "livreId": 1, "titre": "Tartare de bœuf comme dans le temps de Chez Roger", "page": 35, "categorie": "Entrée, Boeuf", "ingredientPrincipal": "Bœuf", "image": "livres/001-kitchen-galerie/images/Tartare-de-boeuf-comme-dans-le-temps.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -256,7 +256,7 @@
   "Au service, poser un jaune d'œuf sur chaque tartare et mélanger devant les convives."
 ]
 },
-{"id": 10, "livreId": 1, "titre": "Tataki de bœuf, crème montée à la coriandre et gelée au yuzu", "page": 36, "categorie": "Entrée", "ingredientPrincipal": "Bœuf", "image": "livres/001-kitchen-galerie/images/Tataki-de-boeuf-creme-montee.jpeg",
+{"id": 10, "livreId": 1, "titre": "Tataki de bœuf, crème montée à la coriandre et gelée au yuzu", "page": 36, "categorie": "Entrée, Boeuf", "ingredientPrincipal": "Bœuf", "image": "livres/001-kitchen-galerie/images/Tataki-de-boeuf-creme-montee.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -286,7 +286,7 @@
   "Dresser les assiettes et servir sans tarder."
 ]
  },
-{"id": 11, "livreId": 1, "titre": "Côte de boeuf, vraie purée du Kitchen Galerie, poêlée de légumes-racines", "page": 39, "categorie": "Plat", "ingredientPrincipal": "Bœuf", "image": "livres/001-kitchen-galerie/images/Cote-de-boeuf-vrai-puree.jpeg",
+{"id": 11, "livreId": 1, "titre": "Côte de boeuf, vraie purée du Kitchen Galerie, poêlée de légumes-racines", "page": 39, "categorie": "Boeuf", "ingredientPrincipal": "Bœuf", "image": "livres/001-kitchen-galerie/images/Cote-de-boeuf-vrai-puree.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -332,7 +332,7 @@
   "Avant de servir, préchauffer le four à 180 °C (350 °F). Y réchauffer la côte de bœuf pendant 5 minutes. Trancher la viande. Servir, nappée de sauce et accompagnée de purée et de légumes-racines."
 ]
  },
-{"id": 12, "livreId": 1, "titre": "Short ribs de bœuf à la bière noire", "page": 41, "categorie": "Plat", "ingredientPrincipal": "Bœuf", "image": "livres/001-kitchen-galerie/images/Short-ribs-de-boeuf.jpeg",
+{"id": 12, "livreId": 1, "titre": "Short ribs de bœuf à la bière noire", "page": 41, "categorie": "Boeuf", "ingredientPrincipal": "Bœuf", "image": "livres/001-kitchen-galerie/images/Short-ribs-de-boeuf.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -356,7 +356,7 @@
   "Dans une cocotte, mettre les côtes croisées, le mélange de bière, l'oignon, les carottes, le céleri, l'ail et le thym. Cuire au four, à couvert, pendant 4 heures. Servir."
 ]
 },
-{"id": 13, "livreId": 1, "titre": "Rillettes de canard au sambal œlek", "page": 45, "categorie": "Entrée", "ingredientPrincipal": "Canard", "image": "livres/001-kitchen-galerie/images/Rillettes-de-canard.jpeg",
+{"id": 13, "livreId": 1, "titre": "Rillettes de canard au sambal œlek", "page": 45, "categorie": "Entrée, Canard", "ingredientPrincipal": "Canard", "image": "livres/001-kitchen-galerie/images/Rillettes-de-canard.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -384,7 +384,7 @@
   "Retirer les cuisses et passer le gras au tamis. Réserver 60 mL (¼ tasse). (Congeler le reste de gras de canard pour utilisation ultérieure.) Désosser les cuisses et enlever la peau. Dans un bol, mélanger la chair de canard, l'échalote, l'ail rôti, la ciboulette, la branche de thym, les feuilles de basilic, le sambal œlek et le gras de canard réservé. Verser dans une terrine carrée d'environ 5 x 5 x 10 cm (2 x 2 x 4 po), en pressant bien. Laisser reposer au réfrigérateur 12 heures.",
   "Trancher et servir."]
 },
-{"id": 14, "livreId": 1, "titre": "Carpaccio de canard et rabioles, vinaigrette au miel et au xérès", "page": 46, "categorie": "Entrée", "ingredientPrincipal": "Canard", "image": "livres/001-kitchen-galerie/images/Carpaccio-de-canard.jpeg",
+{"id": 14, "livreId": 1, "titre": "Carpaccio de canard et rabioles, vinaigrette au miel et au xérès", "page": 46, "categorie": "Entrée, Canard", "ingredientPrincipal": "Canard", "image": "livres/001-kitchen-galerie/images/Carpaccio-de-canard.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -408,7 +408,7 @@
   "Trancher les magrets le plus finement possible et en tapisser une assiette de service. Recouvrir complètement des tranches de rabioles. Napper de vinaigrette, assaisonner de fleur de sel et de poivre, puis garnir de romarin. Servir aussitôt."
 ]},
 
-{"id": 15, "livreId": 1, "titre": "Magret de canard super size", "page": 49, "categorie": "Plat", "ingredientPrincipal": "Canard", "image": "livres/001-kitchen-galerie/images/Magret-de-canard.jpeg",
+{"id": 15, "livreId": 1, "titre": "Magret de canard super size", "page": 49, "categorie": "Canard", "ingredientPrincipal": "Canard", "image": "livres/001-kitchen-galerie/images/Magret-de-canard.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -433,7 +433,7 @@
   "Dresser les assiettes et servir aussitôt."]},
 
 
-{"id": 16, "livreId": 1, "titre": "Demi-canard laqué du Lac Brome, salade de nouilles soba", "page": 50, "categorie": "Plat", "ingredientPrincipal": "Canard", "image": "livres/001-kitchen-galerie/images/Demi-canard-laque.jpeg",
+{"id": 16, "livreId": 1, "titre": "Demi-canard laqué du Lac Brome, salade de nouilles soba", "page": 50, "categorie": "Canard", "ingredientPrincipal": "Canard", "image": "livres/001-kitchen-galerie/images/Demi-canard-laque.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -466,7 +466,7 @@
   "Dans un grand saladier, combiner les nouilles froides, la carotte, le concombre, la betterave, les oignons verts et la coriandre. Au fouet, émulsionner le reste des ingrédients pour obtenir une vinaigrette. Verser sur la salade en mélangeant bien, mais délicatement. Réserver à température ambiante.",
   "Couper les canards en deux et servir avec la salade de nouilles soba froide."
 ]},
-{"id": 17, "livreId": 1, "titre": "Filet de cerf aux trompettes de la mort", "page": 54, "categorie": "Entrée", "ingredientPrincipal": "Cerf", "image": "livres/001-kitchen-galerie/images/Filet-de-cerf-aux-trompettes.jpeg",
+{"id": 17, "livreId": 1, "titre": "Filet de cerf aux trompettes de la mort", "page": 54, "categorie": "Entrée, Gibier, Cerf", "ingredientPrincipal": "Cerf", "image": "livres/001-kitchen-galerie/images/Filet-de-cerf-aux-trompettes.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -494,7 +494,7 @@
   "Dresser les pavés de cerf dans quatre assiettes décorées de traits de mayonnaise. Garnir des champignons et de fromage de chèvre."
 ]},
 
-{"id": 18, "livreId": 1, "titre": "Côtes levées de cerf, sauce BBQ", "page": 57, "categorie": "Entrée", "ingredientPrincipal": "Cerf", "image": "livres/001-kitchen-galerie/images/Cotes-levees-de-cerf.jpeg",
+{"id": 18, "livreId": 1, "titre": "Côtes levées de cerf, sauce BBQ", "page": 57, "categorie": "Entrée, Cerf, Gibier", "ingredientPrincipal": "Cerf", "image": "livres/001-kitchen-galerie/images/Cotes-levees-de-cerf.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -528,7 +528,7 @@
   "Deuxième cuisson : Dans une petite casserole, amener à ébullition le miel, le sambal œlek, la cassonade, le vinaigre, le ketchup, et les 3 gousses d'ail hachées. Badigeonner de cette sauce les côtes qui sortent de la mijoteuse pendant qu'elles sont encore chaudes, puis les laisser refroidir au frigo. Cuire les côtes levées sur le barbecue jusqu'à ce qu'elles soient bien grillées, en les badigeonnant de sauce durant la cuisson."
 ]
 },
-{"id": 19, "livreId": 1, "titre": "Jarret de cerf braisé, purée de courge musquée", "page": 59, "categorie": "Plat", "ingredientPrincipal": "Cerf", "image": "livres/001-kitchen-galerie/images/Jarret-de-cerf-braise.jpeg",
+{"id": 19, "livreId": 1, "titre": "Jarret de cerf braisé, purée de courge musquée", "page": 59, "categorie": "Gibier, Cerf", "ingredientPrincipal": "Cerf", "image": "livres/001-kitchen-galerie/images/Jarret-de-cerf-braise.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
