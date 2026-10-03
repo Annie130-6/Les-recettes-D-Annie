@@ -1798,13 +1798,12 @@ function supprimerDuCalendrier(dateStr, index) {
 const btnLivres = document.getElementById("btnLivres");
 const btnRecettes = document.getElementById("btnRecettes");
 const btnFavoris = document.getElementById("btnFavoris");
-const btnIngredients = document.getElementById("btnIngredients");
+
 const btnEpicerie = document.getElementById("btnEpicerie");
 
 btnLivres.addEventListener("click", afficherLivres);
 btnRecettes.addEventListener("click", () => afficherRecettes(recettes));
 btnFavoris.addEventListener("click", () => afficherRecettes(recettes.filter(r => estFavori(r.id))));
-btnIngredients.addEventListener("click", afficherIngredients);
 btnEpicerie.addEventListener("click", afficherEpicerie);
 
 // ===== CATÉGORIES : mapping et nettoyage =====
@@ -2362,6 +2361,106 @@ search.addEventListener("input", () => {
   clearTimeout(timerRecherche);
   timerRecherche = setTimeout(appliquerFiltres, 300);
 });
+
+// ===== NOTES (étoiles) =====
+let modeNotes = false;
+let filtreNote = 0; // 0 = toutes les recettes notées, 1 / 2 / 3 = cette note seulement
+
+const btnNotes = document.getElementById("btnNotes");
+btnNotes.addEventListener("click", afficherNotes);
+
+function afficherNotes() {
+  afficherRecettes(recettes.filter(r => noteDe(r.id) >= 1));
+  modeNotes = true;
+  filtreNote = 0;
+  rendreRecettes();
+}
+
+function choisirFiltreNote(n) {
+  filtreNote = n;
+  appliquerFiltres();
+}
+
+function afficherRecettes(liste) {
+  cacherPages();
+  pageRecettes.style.display = "block";
+  livreActuelId = null;
+  baseFiltres = liste;
+  categoriesChoisies = [];
+  search.value = "";
+  modeNotes = false;
+  recettesActuelles = liste;
+  nombreAffiche = 60;
+  rendreRecettes();
+}
+
+function appliquerFiltres() {
+  const mots = sansAccents(search.value).split(/\s+/).filter(m => m);
+  const choisies = categoriesChoisies.map(sansAccents);
+  const base = baseFiltres || recettes;
+
+  const filtres = base.filter(r => {
+    const cats = categoriesDeRecette(r).map(sansAccents);
+    const ingr = ingredientsDeRecette(r).map(sansAccents);
+    const champs = sansAccents(r.titre) + " " + cats.join(" ") + " " + ingr.join(" ");
+
+    const okTexte = mots.every(m => champs.includes(m));
+    const okCats = choisies.length === 0 ? true
+      : modeCategories === "ET"
+      ? choisies.every(c => cats.includes(c))
+      : choisies.some(c => cats.includes(c));
+    const okNote = !modeNotes || filtreNote === 0 || noteDe(r.id) === filtreNote;
+
+    return okTexte && okCats && okNote;
+  });
+
+  recettesActuelles = filtres;
+  nombreAffiche = 60;
+  rendreRecettes();
+}
+
+function rendreRecettes() {
+  const liste = (modeNotes && triRecettesMode === "defaut")
+    ? [...recettesActuelles].sort((a, b) => noteDe(b.id) - noteDe(a.id))
+    : trierListeRecettes(recettesActuelles);
+
+  let html = `<div class="filtres">
+    <button class="btn-mode" onclick="basculerMode()">Mode : ${modeCategories}</button>
+    <div class="chips">`;
+  toutesLesCategories().forEach(c => {
+    const actif = categoriesChoisies.includes(c) ? " chip-actif" : "";
+    html += `<span class="chip${actif}" onclick="basculerCategorie('${c.replace(/'/g, "\\'")}')">${c}</span>`;
+  });
+  html += `</div></div>`;
+
+  if (modeNotes) {
+    html += `<div class="tri-boutons">
+      <button onclick="choisirFiltreNote(0)">${filtreNote === 0 ? "✓ " : ""}Toutes</button>
+      <button onclick="choisirFiltreNote(1)">${filtreNote === 1 ? "✓ " : ""}★</button>
+      <button onclick="choisirFiltreNote(2)">${filtreNote === 2 ? "✓ " : ""}★★</button>
+      <button onclick="choisirFiltreNote(3)">${filtreNote === 3 ? "✓ " : ""}★★★</button>
+    </div>`;
+  }
+
+  html += `<div class="tri-boutons">
+    <button onclick="trierRecettesAlpha()">🔤 ${triRecettesMode === "alpha" ? "✓ " : ""}A → Z</button>
+    <button onclick="trierRecettesDate()">📅 ${triRecettesMode === "ancienRecent" ? "Plus ancien → récent" : "Plus récent → ancien"}</button>
+  </div>`;
+
+  html += `<h2>${modeNotes ? "⭐ Recettes notées" : "🍽️ Recettes"} (${liste.length})</h2>`;
+  if (liste.length === 0) html += `<p>Aucune recette ne correspond à ces filtres.</p>`;
+
+  liste.slice(0, nombreAffiche).forEach(recette => {
+    html += carteRecetteHTML(recette);
+  });
+
+  if (liste.length > nombreAffiche) {
+    html += `<button class="btn-scroll-jump" onclick="afficherPlusDeRecettes()">⏩ Afficher 60 de plus (${liste.length - nombreAffiche} restantes)</button>`;
+  }
+
+  results.innerHTML = html;
+}
+
 
 chargerDonnees();
 
