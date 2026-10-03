@@ -31,40 +31,43 @@ function urlCouverture(couv) {
 }
 
 async function chargerDonnees() {
-  const version = Date.now();
-  const echecs = [];
   try {
-    const rL = await fetch(`data/livres.json?v=${version}`);
-    if (!rL.ok) throw new Error(`data/livres.json introuvable (${rL.status})`);
-    livres = await rL.json();
-  } catch (err) {
-    document.body.insertAdjacentHTML('afterbegin', `<p style="background:red;color:white">ERREUR: impossible de charger la liste des livres (${err.message})</p>`);
-    afficherLivres();
-    return;
-  }
-
-  // Chaque livre a son propre fichier : si l'un est abîmé, seul ce livre est touché.
-  const morceaux = await Promise.all(livres.map(async (livre) => {
-    if (!livre.dossier) return [];
+    const version = Date.now();
+    const echecs = [];
     try {
-      const r = await fetch(`livres/${livre.dossier}/recettes.json?v=${version}`);
-      if (!r.ok) throw new Error(`fichier introuvable (${r.status})`);
-      const data = await r.json();
-      if (!Array.isArray(data)) throw new Error("le fichier n'est pas une liste");
-      return data;
+      const rL = await fetch(`data/livres.json?v=${version}`);
+      if (!rL.ok) throw new Error(`data/livres.json introuvable (${rL.status})`);
+      livres = await rL.json();
     } catch (err) {
-      echecs.push(`${livre.titre} (${err.message})`);
-      return [];
+      document.body.insertAdjacentHTML('afterbegin', `<p style="background:red;color:white">ERREUR: impossible de charger la liste des livres (${err.message})</p>`);
+      afficherLivres();
+      return;
     }
-  }));
 
-  recettes = morceaux.flat().sort((a, b) => a.id - b.id);
-  if (echecs.length) {
-    afficherAvertissement(`⚠️ ${echecs.length} livre(s) n'ont pas pu être chargés : ${echecs.join(" ; ")}`);
+    // Chaque livre a son propre fichier : si l'un est abîmé, seul ce livre est touché.
+    const morceaux = await Promise.all(livres.map(async (livre) => {
+      if (!livre.dossier) return [];
+      try {
+        const r = await fetch(`livres/${livre.dossier}/recettes.json?v=${version}`);
+        if (!r.ok) throw new Error(`fichier introuvable (${r.status})`);
+        const data = await r.json();
+        if (!Array.isArray(data)) throw new Error("le fichier n'est pas une liste");
+        return data;
+      } catch (err) {
+        echecs.push(`${livre.titre} (${err.message})`);
+        return [];
+      }
+    }));
+
+    recettes = morceaux.flat().sort((a, b) => a.id - b.id);
+    if (echecs.length) {
+      afficherAvertissement(`⚠️ ${echecs.length} livre(s) n'ont pas pu être chargés : ${echecs.join(" ; ")}`);
+    }
+    afficherLivres();
+  } catch (err) {
+    document.body.insertAdjacentHTML('afterbegin', `<p style="background:red;color:white">ERREUR au chargement : ${err.message}</p>`);
   }
-  afficherLivres();
 }
-
 
 
 function allerALaFin() {
