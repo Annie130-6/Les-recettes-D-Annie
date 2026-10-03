@@ -374,7 +374,9 @@ function rendreRecettes() {
     <button onclick="trierRecettesDate()">📅 ${triRecettesMode === "ancienRecent" ? "Plus ancien → récent" : "Plus récent → ancien"}</button>
   </div>`;
 
-  html += `<h2>🍽️ Recettes (${liste.length})</h2>`;
+    html += `<h2>🍽️ Recettes (${liste.length})</h2>`;
+  if (liste.length === 0) html += `<p>Aucune recette ne correspond à ces filtres.</p>`;
+
 
   liste.slice(0, nombreAffiche).forEach(recette => {
     html += carteRecetteHTML(recette);
