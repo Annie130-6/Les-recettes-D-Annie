@@ -308,14 +308,20 @@ function trierRecettesDate() {
 }
 
 
+let baseFiltres = null;
+
 function afficherRecettes(liste) {
   cacherPages();
   pageRecettes.style.display = "block";
   livreActuelId = null;
+  baseFiltres = liste;
+  categoriesChoisies = [];
+  search.value = "";
   recettesActuelles = liste;
   nombreAffiche = 60;
   rendreRecettes();
 }
+
 
 
 function ouvrirDetailRecette(id) {
