@@ -214,7 +214,9 @@
 ]
 },
 
-"favori": false,
+
+
+{"id": 7442, "livreId": 35, "titre": "Bouillon brun de poulet", "page": 164, "categorie": "Bouillons", "ingredientPrincipal": "poulet", "favori": false,
 "note": null,
 "statut": "à essayer",
 "ingredients": [
@@ -238,8 +240,6 @@
 "* Pour faire un bouquet garni, lier 2 ou 3 tiges de persil, 1 brindille de thym et 2 ou 3 feuilles de laurier."
 ]
 },
-
-{"id": 7442, "livreId": 35, "titre": "Bouillon brun de poulet", "page": 164, "categorie": "Bouillons", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7443, "livreId": 35, "titre": "Chop suey au poulet", "page": 123, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Chop-suey-au-poulet.jpeg",
 "favori": false,
 "note": 0,
