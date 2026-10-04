@@ -188,31 +188,29 @@
 ]
 },
 
-{"id": 7441, "livreId": 35, "titre": "Bouillon blanc de poulet", "page": 165, "categorie": "Bouillons", "ingredientPrincipal": "poulet", "image": null,
+{"id": 7441, "livreId": 35, "titre": "Bouillon blanc de poulet", "page": 165, "categorie": "Bouillons", "ingredientPrincipal": "poulet", 
+"image": null,
 "favori": false,
 "note": null,
 "statut": "à essayer",
 "ingredients": [
 "1,5 kg (3 lb) carcasses crues de poulet",
 "2 oignons",
-"1 branche de céleri",
+"2 branches de céleri",
 "1 grosse carotte",
 "1 poireau (la partie verte seulement)",
-"2 grosses tomates",
-"30 ml (2 c. à s.) pâte de tomates",
-"1 bouquet garni*",
-"eau"
+"30 ml (2 c. à s.) beurre",
+"3 litres (12 tasses) eau",
+"1 bouquet garni*"
 ],
 "preparation": [
-"Préchauffer le four à 260 °C (500 °F).",
-"Dans une lèchefrite, déposer les carcasses de poulet et les faire rôtir au four 25 à 30 minutes, ou jusqu’à ce qu’elles soient bien colorées.",
-"Entre-temps, hacher grossièrement les légumes. Lorsque les carcasses sont bien colorées, y ajouter les légumes hachés et la pâte de tomates, puis remettre au four 4 à 5 minutes.",
-"Sortir les carcasses et les légumes du four et les déposer dans une marmite. Mettre la lèchefrite sur le feu et y verser 500 ml (2 tasses) d’eau froide. Faire chauffer l’eau à feu vif, tout en raclant bien le fond de la lèchefrite. Verser le jus de cuisson dans la marmite, puis ajouter de l’eau de façon à couvrir complètement les carcasses.",
-"Ajouter le bouquet garni et porter à ébullition.",
-"Faire cuire à feu doux 2½ à 3 heures, ou jusqu’à ce que le bouillon prenne une belle couleur marron. Écumer régulièrement. Filtrer, laisser refroidir et réfrigérer dans un contenant hermétique.",
+"Bien rincer les carcasses de poulet. Hacher grossièrement les légumes. Dans une marmite, faire fondre le beurre à feu moyen-doux et y faire cuire à couvert les légumes 6 à 8 minutes.",
+"Mouiller avec l’eau, ajouter les carcasses et le bouquet garni. Porter à ébullition à feu vif. Réduire le feu et laisser mijoter 2½ à 3 heures. Écumer régulièrement durant la cuisson.",
+"Filtrer le bouillon, laisser refroidir et réfrigérer dans un contenant hermétique.",
 "* Pour faire un bouquet garni, lier 2 ou 3 tiges de persil, 1 brindille de thym et 2 ou 3 feuilles de laurier."
 ]
 },
+
 
 
 
