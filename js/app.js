@@ -2474,5 +2474,60 @@ function rendreRecettes() {
 }
 
 
+// ===== ID LIBRES =====
+function formaterPlages(nombres) {
+  const plages = [];
+  let debut = null, prev = null;
+  const fermer = () => plages.push(debut === prev ? `${debut}` : `${debut}–${prev}`);
+  nombres.forEach(n => {
+    if (debut === null) { debut = prev = n; }
+    else if (n === prev + 1) { prev = n; }
+    else { fermer(); debut = prev = n; }
+  });
+  if (debut !== null) fermer();
+  return plages.join(", ");
+}
+
+function afficherIdsLibres() {
+  cacherPages();
+  pageFavoris.style.display = "block";
+
+  const ids = recettes.map(r => r.id).filter(Number.isInteger);
+  if (!ids.length) {
+    pageFavoris.innerHTML = "<h2>🔢 ID des recettes</h2><p>Aucune recette chargée.</p>";
+    return;
+  }
+
+  const presents = new Set(ids);
+  const max = Math.max(...ids);
+  const libres = [];
+  for (let i = 1; i <= max; i++) if (!presents.has(i)) libres.push(i);
+
+  const vus = new Set();
+  const doublons = new Set();
+  ids.forEach(i => { if (vus.has(i)) doublons.add(i); vus.add(i); });
+
+  let html = `<h2>🔢 ID des recettes</h2>
+    <p>${ids.length} recettes chargées · plus grand ID : <strong>${max}</strong> · prochain après le dernier : <strong>${max + 1}</strong></p>
+    <h3>ID libres (${libres.length})</h3>
+    <p>${libres.length ? formaterPlages(libres) : "Aucun trou, tous les numéros de 1 à " + max + " sont utilisés."}</p>`;
+
+  if (doublons.size) {
+    html += `<h3>⚠️ ID utilisés plus d'une fois (${doublons.size})</h3>
+      <p>${formaterPlages([...doublons].sort((a, b) => a - b))}</p>`;
+  }
+
+  pageFavoris.innerHTML = html;
+}
+
+const btnIds = document.createElement("button");
+btnIds.id = "btnIds";
+btnIds.textContent = "🔢 ID";
+document.querySelector("nav").appendChild(btnIds);
+btnIds.addEventListener("click", afficherIdsLibres);
+
+
+
+
 chargerDonnees();
 
