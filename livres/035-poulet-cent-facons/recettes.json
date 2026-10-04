@@ -188,7 +188,57 @@
 ]
 },
 
-{"id": 7441, "livreId": 35, "titre": "Bouillon blanc de poulet", "page": 165, "categorie": "Bouillons", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 7441, "livreId": 35, "titre": "Bouillon blanc de poulet", "page": 165, "categorie": "Bouillons", "ingredientPrincipal": "poulet", "image": null,
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"1,5 kg (3 lb) carcasses crues de poulet",
+"2 oignons",
+"1 branche de céleri",
+"1 grosse carotte",
+"1 poireau (la partie verte seulement)",
+"2 grosses tomates",
+"30 ml (2 c. à s.) pâte de tomates",
+"1 bouquet garni*",
+"eau"
+],
+"preparation": [
+"Préchauffer le four à 260 °C (500 °F).",
+"Dans une lèchefrite, déposer les carcasses de poulet et les faire rôtir au four 25 à 30 minutes, ou jusqu’à ce qu’elles soient bien colorées.",
+"Entre-temps, hacher grossièrement les légumes. Lorsque les carcasses sont bien colorées, y ajouter les légumes hachés et la pâte de tomates, puis remettre au four 4 à 5 minutes.",
+"Sortir les carcasses et les légumes du four et les déposer dans une marmite. Mettre la lèchefrite sur le feu et y verser 500 ml (2 tasses) d’eau froide. Faire chauffer l’eau à feu vif, tout en raclant bien le fond de la lèchefrite. Verser le jus de cuisson dans la marmite, puis ajouter de l’eau de façon à couvrir complètement les carcasses.",
+"Ajouter le bouquet garni et porter à ébullition.",
+"Faire cuire à feu doux 2½ à 3 heures, ou jusqu’à ce que le bouillon prenne une belle couleur marron. Écumer régulièrement. Filtrer, laisser refroidir et réfrigérer dans un contenant hermétique.",
+"* Pour faire un bouquet garni, lier 2 ou 3 tiges de persil, 1 brindille de thym et 2 ou 3 feuilles de laurier."
+]
+},
+
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"1,5 kg (3 lb) carcasses crues de poulet",
+"2 oignons",
+"1 branche de céleri",
+"1 grosse carotte",
+"1 poireau (la partie verte seulement)",
+"2 grosses tomates",
+"30 ml (2 c. à s.) pâte de tomates",
+"1 bouquet garni*",
+"eau"
+],
+"preparation": [
+"Préchauffer le four à 260 °C (500 °F).",
+"Dans une lèchefrite, déposer les carcasses de poulet et les faire rôtir au four 25 à 30 minutes, ou jusqu’à ce qu’elles soient bien colorées.",
+"Entre-temps, hacher grossièrement les légumes. Lorsque les carcasses sont bien colorées, y ajouter les légumes hachés et la pâte de tomates, puis remettre au four 4 à 5 minutes.",
+"Sortir les carcasses et les légumes du four et les déposer dans une marmite. Mettre la lèchefrite sur le feu et y verser 500 ml (2 tasses) d’eau froide. Faire chauffer l’eau à feu vif, tout en raclant bien le fond de la lèchefrite. Verser le jus de cuisson dans la marmite, puis ajouter de l’eau de façon à couvrir complètement les carcasses.",
+"Ajouter le bouquet garni et porter à ébullition.",
+"Faire cuire à feu doux 2½ à 3 heures, ou jusqu’à ce que le bouillon prenne une belle couleur marron. Écumer régulièrement. Filtrer, laisser refroidir et réfrigérer dans un contenant hermétique.",
+"* Pour faire un bouquet garni, lier 2 ou 3 tiges de persil, 1 brindille de thym et 2 ou 3 feuilles de laurier."
+]
+},
+
 {"id": 7442, "livreId": 35, "titre": "Bouillon brun de poulet", "page": 164, "categorie": "Bouillons", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7443, "livreId": 35, "titre": "Chop suey au poulet", "page": 123, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Chop-suey-au-poulet.jpeg",
 "favori": false,
@@ -219,9 +269,80 @@
 ]
 },
 
-{"id": 7444, "livreId": 35, "titre": "Coq au porc à la sauce aux poireaux", "page": 149, "categorie": "Plats pour les grandes occasions", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7445, "livreId": 35, "titre": "Coq au porc aux abricots", "page": 155, "categorie": "Plats pour les grandes occasions", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7446, "livreId": 35, "titre": "Coq au vin", "page": 138, "categorie": "Plats pour les grandes occasions", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 7444, "livreId": 35, "titre": "Coq au porc à la sauce aux poireaux", "page": 149, "categorie": "Poulet, Porc", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Tournedos-de-poulet-a-la-sauge.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"15 ml (1 c. à s.) huile végétale",
+"4 tournedos de poulet (500 g/1 lb)",
+"2 échalotes sèches, hachées finement",
+"2 figues fraîches, coupées en 6 quartiers",
+"30 ml (2 c. à s.) sirop d’érable",
+"250 ml (1 tasse) bouillon de poulet",
+"5 ml (1 c. à thé) sauge fraîche hachée",
+"sel et poivre"
+],
+"preparation": [
+"Préchauffer le four à 180 °C (350 °F). Dans une poêle, faire chauffer l’huile à feu moyen-vif et y faire cuire les tournedos 2 à 3 minutes de chaque côté ; saler et poivrer.",
+"Déposer le poulet dans un plat allant au four et poursuivre la cuisson au four environ 20 minutes selon l’épaisseur, ou jusqu’à ce que le jus qui s’écoule de la viande soit clair.",
+"Dans la même poêle, faire cuire à feu moyen les échalotes, les figues et le sirop d’érable environ 5 minutes, ou jusqu’à ce que le sirop caramélise légèrement. Ajouter le bouillon de poulet et laisser réduire de moitié. Incorporer la sauge et laisser mijoter à feu doux quelques minutes.",
+"Napper les tournedos de sauce et servir avec des courgettes, si désiré."
+]
+},
+
+{"id": 7445, "livreId": 35, "titre": "Coq au porc aux abricots", "page": 155, "categorie": "Poulet, Porc", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-au-fromage-de-chevre.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"15 ml (1 c. à s.) beurre",
+"4 demi-poitrines ou 8 hauts de cuisse de poulet, désossés (environ 500 g/1 lb)",
+"125 ml (½ tasse) jus de pomme non sucré",
+"250 ml (1 tasse) bouillon de poulet",
+"2 pommes, pelées, évidées et coupées en fines lamelles",
+"1 rouleau (160 g/8 oz) de fromage de chèvre crémeux",
+"sel et poivre",
+"persil frais, haché"
+],
+"preparation": [
+"Dans une poêle, faire chauffer le beurre à feu moyen-vif et y faire colorer le poulet de chaque côté, quelques minutes. Ajouter le jus de pomme, le bouillon de poulet et les pommes. Saler et poivrer.",
+"Porter à ébullition et faire cuire à couvert, à feu doux, environ 5 minutes. Retourner le poulet et poursuivre la cuisson 10 minutes ou jusqu’à ce que le jus qui s’écoule de la viande soit clair. Retirer le poulet et réserver. Laisser la sauce aux pommes dans la poêle chaude.",
+"Préchauffer le four à 180 °C (350 °F). Couper le fromage de chèvre en rondelles, puis les enrober de persil frais haché.",
+"Trancher les poitrines de poulet et disposer en alternance une rondelle de fromage et une tranche de poulet dans 6 assiettes. Les mettre au four quelques minutes pour chauffer le fromage.",
+"Répartir la sauce aux pommes entre les assiettes et garnir de tiges d’estragon, si désiré."
+]
+},
+
+{"id": 7446, "livreId": 35, "titre": "Coq au vin", "page": 138, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Coq-au-vin.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"45 ml (3 c. à s.) farine tout usage",
+"2 ml (½ c. à thé) paprika",
+"1 pincée de macis",
+"2 ml (½ c. à thé) sel",
+"4 cuisses de poulet, sans peau",
+"30 ml (2 c. à s.) huile végétale",
+"50 ml (¼ tasse) brandy (facultatif)",
+"12 petits oignons blancs, pelés",
+"250 g (½ lb) champignons coupés en 2",
+"1 gousse d’ail, dégermée et hachée finement",
+"30 ml (2 c. à s.) persil frais haché",
+"1 feuille de laurier",
+"2 ml (½ c. à thé) marjolaine séchée",
+"2 ml (½ c. à thé) thym séché",
+"250 ml (1 tasse) vin rouge sec"
+],
+"preparation": [
+"Dans un sac en plastique, mélanger la farine, le paprika, le macis et le sel. Mettre les cuisses de poulet dans le sac, puis le secouer pour bien enrober le poulet.",
+"Dans une poêle, faire chauffer l’huile à feu moyen et y faire colorer le poulet sur toutes les faces. Éteindre le feu. Arroser de brandy. Flamber. Retirer le poulet de la poêle et réserver.",
+"Dans la même poêle, faire sauter les oignons, les champignons et l’ail à feu moyen-vif 2 à 3 minutes. Ajouter le persil, la feuille de laurier, la marjolaine, le thym et le vin rouge.",
+"Réduire le feu à doux et remettre le poulet dans la poêle. Couvrir et laisser mijoter 45 à 60 minutes, ou jusqu’à ce que le poulet soit tendre. Servir avec des carottes et des pommes de terre, si désiré."
+]
+},
+
 {"id": 7447, "livreId": 35, "titre": "Crème aux pommes et au céleri", "page": 68, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Creme-aux-pommes-et-au-celeri.jpeg",
 "favori": false,
 "note": 0,
@@ -1012,21 +1133,391 @@
 ]
 },
 
-{"id": 7480, "livreId": 35, "titre": "Babas au rhum", "page": 174, "categorie": "Desserts savoureux", "ingredientPrincipal": "rhum", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7481, "livreId": 35, "titre": "Brownies", "page": 172, "categorie": "Desserts savoureux", "ingredientPrincipal": "chocolat", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7482, "livreId": 35, "titre": "Clafoutis aux cerises", "page": 189, "categorie": "Desserts savoureux", "ingredientPrincipal": "cerises", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7483, "livreId": 35, "titre": "Gâteau au chocolat et aux framboises", "page": 181, "categorie": "Desserts savoureux", "ingredientPrincipal": "chocolat", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7484, "livreId": 35, "titre": "Gâteau aux courgettes et à la noix de coco", "page": 186, "categorie": "Desserts savoureux", "ingredientPrincipal": "courgettes", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7485, "livreId": 35, "titre": "Gâteau aux pruneaux et au chocolat", "page": 185, "categorie": "Desserts savoureux", "ingredientPrincipal": "pruneaux", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7486, "livreId": 35, "titre": "Gâteau chiffon à l'orange", "page": 182, "categorie": "Desserts savoureux", "ingredientPrincipal": "orange", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7487, "livreId": 35, "titre": "Gâteau renversé aux ananas", "page": 170, "categorie": "Desserts savoureux", "ingredientPrincipal": "ananas", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7488, "livreId": 35, "titre": "Macarons à la noix de coco", "page": 184, "categorie": "Desserts savoureux", "ingredientPrincipal": "noix de coco", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7489, "livreId": 35, "titre": "Pain aux fruits et aux noix", "page": 176, "categorie": "Desserts savoureux", "ingredientPrincipal": "fruits", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7490, "livreId": 35, "titre": "Pouding au pain, aux pommes et aux épices", "page": 188, "categorie": "Desserts savoureux", "ingredientPrincipal": "pommes", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7491, "livreId": 35, "titre": "Pouding léger au citron", "page": 173, "categorie": "Desserts savoureux", "ingredientPrincipal": "citron", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7492, "livreId": 35, "titre": "Surprises aux pommes", "page": 180, "categorie": "Desserts savoureux", "ingredientPrincipal": "pommes", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7493, "livreId": 35, "titre": "Tarte aux fruits", "page": 177, "categorie": "Desserts savoureux", "ingredientPrincipal": "fruits", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7494, "livreId": 35, "titre": "Tartelettes à l'érable et aux noix", "page": 178, "categorie": "Desserts savoureux", "ingredientPrincipal": "érable", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 7480, "livreId": 35, "titre": "Babas au rhum", "page": 174, "categorie": "Desserts savoureux", "ingredientPrincipal": "rhum", "image": "livres/035-poulet-cent-facons/images/Babas-au-rhum.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"500 ml (2 tasses) farine tout usage, tamisée",
+"45 ml (3 c. à s.) sucre",
+"22 ml (1½ c. à s.) levure à levée rapide",
+"4 œufs à la température ambiante, battus",
+"50 ml (¼ tasse) lait, chaud",
+"45 ml (3 c. à s.) beurre fondu",
+"SIROP",
+"500 ml (2 tasses) eau",
+"300 ml (1¼ tasse) sucre",
+"75 ml (⅓ tasse) rhum"
+],
+"preparation": [
+"Dans un bol de taille moyenne, mélanger la farine, 45 ml (3 c. à s.) de sucre et la levure. Incorporer les œufs battus, puis ajouter le lait chaud et le beurre fondu. Mélanger jusqu’à l’obtention d’une pâte molle et collante.",
+"Beurrer 8 ramequins d’une capacité de 125 ml (½ tasse) chacun. Répartir la pâte entre les 8 ramequins, puis les couvrir de papier ciré.",
+"Laisser gonfler la pâte environ 1½ heure, ou jusqu’à ce qu’elle ait doublé de volume.",
+"Placer la grille au centre du four, puis le préchauffer à 200 °C (400 °F). Faire cuire les babas sur la grille du centre 10 minutes. Réduire ensuite la température du four à 160 °C (325 °F) et poursuivre la cuisson 10 à 15 minutes, ou jusqu’à ce que les babas soient bien dorés.",
+"Entre-temps, pour préparer le sirop, faire chauffer, à feu doux, l’eau, le sucre et le rhum dans une casserole. Remuer de temps à autre et retirer du feu lorsque le sucre est dissous. Laisser tiédir.",
+"Une fois les babas cuits, les sortir du four et passer un couteau tout autour pour bien les détacher des ramequins. Les sortir des ramequins, les laisser tiédir, puis verser un peu de sirop à quelques minutes d’intervalle pour permettre aux babas de bien s’en imbiber."
+]
+},
+
+{"id": 7481, "livreId": 35, "titre": "Brownies", "page": 172, "categorie": "Desserts savoureux", "ingredientPrincipal": "chocolat", "image": "livres/035-poulet-cent-facons/images/Brownies.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"180 g (6 oz) chocolat mi-sucré",
+"50 ml (¼ tasse) beurre",
+"2 œufs",
+"125 ml (½ tasse) sucre",
+"5 ml (1 c. à thé) essence de vanille",
+"125 ml (½ tasse) farine tout usage",
+"2 ml (½ c. à thé) poudre à pâte",
+"75 ml (⅓ tasse) noix de pacanes hachées",
+"GLAÇAGE",
+"100 g (3½ oz) chocolat mi-sucré, fondu",
+"50 ml (¼ tasse) crème sure"
+],
+"preparation": [
+"Préchauffer le four à 180 °C (350 °F). Graisser un moule carré de 20 cm (8 po) de côté.",
+"Faire fondre le chocolat et le beurre au bain-marie ou au micro-ondes. Réserver.",
+"Au batteur électrique, battre ensemble les œufs, le sucre et la vanille. Ajouter le mélange au chocolat et bien mélanger.",
+"Incorporer la farine, la poudre à pâte et les noix. Verser dans le moule et faire cuire au four 35 minutes, ou jusqu’à ce qu’un cure-dent inséré au centre du gâteau en ressorte propre. Laisser refroidir.",
+"Entre-temps, pour préparer le glaçage, faire fondre le chocolat au bain-marie. Incorporer la crème sure et mélanger jusqu’à l’obtention d’une pâte lisse. Étaler sur les brownies."
+]
+},
+
+{"id": 7482, "livreId": 35, "titre": "Clafoutis aux cerises", "page": 189, "categorie": "Dessert", "ingredientPrincipal": "cerises", "image": "livres/035-poulet-cent-facons/images/Clafoutis-aux-cerises.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"1 boîte (397 g/14 oz) de cerises Bing, égouttées et dénoyautées",
+"5 œufs",
+"75 ml (⅓ tasse) sucre",
+"150 ml (⅔ tasse) farine tout usage",
+"50 ml (¼ tasse) beurre fondu, tiède",
+"5 ml (1 c. à thé) essence de vanille"
+],
+"preparation": [
+"Préchauffer le four à 200 °C (400 °F). Beurrer un moule à quiche de 25 cm (10 po) de diamètre et en tapisser le fond de cerises.",
+"Dans un bol, battre les œufs environ 3 minutes au batteur électrique. Ajouter le sucre et la farine graduellement tout en continuant de battre.",
+"Incorporer le beurre et la vanille. Verser sur les cerises.",
+"Faire cuire au four 35 minutes, ou jusqu’à ce qu’un cure-dent inséré au centre du clafoutis en ressorte propre. À la sortie du four, laisser reposer 5 minutes."
+]
+},
+
+{"id": 7483, "livreId": 35, "titre": "Gâteau au chocolat et aux framboises", "page": 181, "categorie": "Desserts", "ingredientPrincipal": "chocolat", "image": "livres/035-poulet-cent-facons/images/Gateau-au-chocolat-et-aux-framboises.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"4 œufs, blancs et jaunes séparés",
+"125 ml (½ tasse) sucre",
+"45 ml (3 c. à s.) cacao en poudre non sucré, tamisé",
+"50 ml (¼ tasse) chapelure blanche",
+"125 ml (½ tasse) amandes moulues",
+"50 ml (¼ tasse) confiture de framboises",
+"250 ml (1 tasse) crème à 35 %, fouettée",
+"framboises fraîches"
+],
+"preparation": [
+"Préchauffer le four à 180 °C (350 °F).",
+"Dans un bol, battre les blancs d’œufs jusqu’à ce qu’ils soient fermes.",
+"Dans un grand bol, battre les jaunes d’œufs et le sucre jusqu’à ce que le mélange soit épais et léger. Dans un troisième bol, mélanger le cacao en poudre, la chapelure et les amandes. Incorporer très délicatement au mélange aux jaunes d’œufs.",
+"Incorporer très délicatement au mélange aux œufs d’abord la moitié des blancs d’œufs en neige, puis l’autre moitié.",
+"Graisser un moule à charnière de 23 cm (9 po) de diamètre. Verser la préparation dans le moule et faire cuire au four 35 à 40 minutes, ou jusqu’à ce que le dessus reprenne sa forme après l’avoir touché légèrement.",
+"Sortir du four, renverser le moule sur une grille et laisser refroidir complètement. Pour démouler, passer un couteau entre le gâteau et la paroi du moule.",
+"Badigeonner le dessus du gâteau de confiture de framboises. Garnir de crème fouettée, puis de framboises et servir aussitôt."
+]
+},
+
+{"id": 7484, "livreId": 35, "titre": "Gâteau aux courgettes et à la noix de coco", "page": 186, "categorie": "Desserts", "ingredientPrincipal": "courgettes", "image": "livres/035-poulet-cent-facons/images/Gateau-aux-courgettes.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"300 ml (1¼ tasse) farine tout usage",
+"5 ml (1 c. à thé) poudre à pâte",
+"1 pincée de sel",
+"2 ml (½ c. à thé) bicarbonate de soude",
+"125 ml (½ tasse) cassonade",
+"375 ml (1½ tasse) courgettes, lavées, non pelées et râpées",
+"125 ml (½ tasse) huile végétale",
+"2 œufs, légèrement battus",
+"125 ml (½ tasse) crème sure",
+"GARNITURE À LA NOIX DE COCO",
+"250 ml (1 tasse) cassonade",
+"50 ml (¼ tasse) crème à 35 % ou à 15 %, style champêtre",
+"125 ml (½ tasse) beurre",
+"375 ml (1½ tasse) noix de coco râpée"
+],
+"preparation": [
+"Préchauffer le four à 180 °C (350 °F).",
+"Dans un grand bol, tamiser ensemble la farine, la poudre à pâte, le sel et le bicarbonate de soude. Ajouter la cassonade et les courgettes.",
+"Dans un petit bol, mélanger l’huile, les œufs et la crème sure. Incorporer aux ingrédients secs.",
+"Graisser et fariner légèrement un moule à gâteau de 20 cm (8 po) de diamètre et d’au moins 6 cm (2½ po) de profond.",
+"Verser la préparation dans le moule et faire cuire au four 40 minutes, ou jusqu’à ce qu’un cure-dent inséré au centre du gâteau en ressorte propre.",
+"Entre-temps, dans une casserole, faire chauffer tous les ingrédients de la garniture à feu doux, tout en remuant, jusqu’à ce que la cassonade soit dissoute.",
+"Lorsque le gâteau est cuit, le sortir du four, puis y verser immédiatement la garniture à la noix de coco. Laisser refroidir avant de servir."
+]
+},
+
+{"id": 7485, "livreId": 35, "titre": "Gâteau aux pruneaux et au chocolat", "page": 185, "categorie": "Desserts", "ingredientPrincipal": "pruneaux", "image": "livres/035-poulet-cent-facons/images/Gateau-aux-pruneaux.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"125 ml (½ tasse) beurre",
+"175 ml (¾ tasse) cassonade",
+"2 gros œufs",
+"375 ml (1½ tasse) farine tout usage",
+"5 ml (1 c. à thé) poudre à pâte",
+"50 ml (¼ tasse) amandes hachées",
+"120 g (4 oz) chocolat mi-sucré, fondu",
+"250 ml (1 tasse) pruneaux dénoyautés hachés finement",
+"1 pincée de sel"
+],
+"preparation": [
+"Préchauffer le four à 180 °C (350 °F). Graisser un moule rectangulaire de 23 x 13 cm (9 x 5 po).",
+"Dans une casserole de taille moyenne, faire fondre le beurre à feu moyen. Retirer la casserole du feu, bien incorporer la cassonade, puis ajouter le reste des ingrédients en remuant bien après chaque addition.",
+"Verser la préparation dans le moule. Faire cuire au four 45 à 50 minutes, ou jusqu’à ce qu’un cure-dent enfoncé au centre du gâteau en ressorte propre. Laisser refroidir sur une grille avant de retirer le gâteau du moule.",
+"Servir avec de la crème glacée, de la sauce au chocolat et des framboises, si désiré."
+]
+},
+
+{"id": 7486, "livreId": 35, "titre": "Gâteau chiffon à l'orange", "page": 182, "categorie": "Desserts", "ingredientPrincipal": "orange", "image": "livres/035-poulet-cent-facons/images/Gateau-chiffon-a-l-orange.jpeg",
+"favori": false,
+"note": 3,
+"statut": "essayée",
+"ingredients": [
+"500 ml (2 tasses) farine à pâtisserie, tamisée",
+"375 ml (1½ tasse) sucre",
+"15 ml (1 c. à s.) poudre à pâte",
+"2 ml (½ c. à thé) sel",
+"8 œufs, à la température ambiante, blancs et jaunes séparés",
+"125 ml (½ tasse) huile végétale",
+"125 ml (½ tasse) lait",
+"5 ml (1 c. à thé) zeste d’orange râpé",
+"50 ml (¼ tasse) jus d’orange frais",
+"2 ml (½ c. à thé) crème de tartre",
+"GLAÇAGE À L’ORANGE",
+"375 ml (1½ tasse) sucre à glacer",
+"5 ml (1 c. à thé) zeste d’orange râpé",
+"30 à 45 ml (2 à 3 c. à s.) jus d’orange"
+],
+"preparation": [
+"Préchauffer le four à 160 °C (325 °F).",
+"Dans un grand bol, tamiser ensemble la farine, le sucre, la poudre à pâte et le sel. Creuser un puits au centre, y verser les jaunes d’œufs, l’huile, le lait, le zeste (50 ml/1 c. à thé) et le jus d’orange (50 ml/¼ tasse). Mélanger pour obtenir une pâte lisse.",
+"Battre en neige ferme les blancs d’œufs et la crème de tartre. Incorporer très délicatement d’abord le tiers des blancs d’œufs en neige au premier mélange, ensuite le reste.",
+"Verser dans un moule en couronne graissé. Faire cuire au four pendant 1 heure, ou jusqu’à ce que le dessus reprenne sa forme après l’avoir touché légèrement. Renverser sur une grille, laisser refroidir, puis démouler.",
+"Entre-temps, pour préparer le glaçage à l’orange, mélanger tous les ingrédients jusqu’à l’obtention d’une pâte lisse. Étaler sur le gâteau et servir.",
+"Note : écrit à la main dans le livre : « TB »."
+]
+},
+
+{"id": 7487, "livreId": 35, "titre": "Gâteau renversé aux ananas", "page": 170, "categorie": "Desserts", "ingredientPrincipal": "ananas", "image": "livres/035-poulet-cent-facons/images/Gateau-renverse-aux-ananas.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"175 ml (¾ tasse) beurre mou",
+"125 ml (½ tasse) cassonade",
+"1 boîte (398 ml/14 oz) d’ananas en tranches, égouttés",
+"175 ml (¾ tasse) sucre",
+"2 œufs",
+"10 ml (2 c. à thé) essence de vanille",
+"375 ml (1½ tasse) farine tout usage",
+"5 ml (1 c. à thé) poudre à pâte",
+"5 ml (1 c. à thé) bicarbonate de soude",
+"1 ml (¼ c. à thé) sel",
+"125 ml (½ tasse) babeurre"
+],
+"preparation": [
+"Préchauffer le four à 180 °C (350 °F). Graisser un moule à charnière de 23 cm (9 po) de diamètre. Déposer le moule sur 2 épaisseurs de papier d’aluminium, puis relever l’excédent de papier d’aluminium autour du moule.",
+"Dans une petite casserole, faire fondre à feu moyen 50 ml (¼ tasse) de beurre avec la cassonade, tout en remuant. Retirer du feu aussitôt que la cassonade commence à bouillonner. Verser dans le moule. Déposer les tranches d’ananas sur la sauce de sorte qu’elles se chevauchent. Réserver.",
+"Dans un bol de taille moyenne, fouetter le reste du beurre (125 ml/½ tasse) et le sucre jusqu’à l’obtention d’une consistance légère. Incorporer les œufs et la vanille.",
+"Dans un autre bol, tamiser ensemble la farine, la poudre à pâte, le bicarbonate de soude et le sel. Incorporer les ingrédients secs au mélange aux œufs en alternant avec le babeurre. Bien mélanger jusqu’à l’obtention d’une pâte lisse.",
+"Verser cette préparation sur les ananas. Faire cuire au four 50 à 60 minutes, ou jusqu’à ce qu’un cure-dent inséré au centre du gâteau en ressorte propre.",
+"Passer un couteau autour du gâteau pour le dégager du moule, puis ouvrir la charnière du moule. Déposer une grande assiette sur le gâteau et le retourner en laissant le fond du moule sur le gâteau pendant quelques minutes pour permettre au caramel de pénétrer dans le gâteau. Retirer délicatement le fond. Servir avec de la crème glacée, si désiré."
+]
+},
+
+{"id": 7488, "livreId": 35, "titre": "Macarons à la noix de coco", "page": 184, "categorie": "Desserts", "ingredientPrincipal": "noix de coco", "image": "livres/035-poulet-cent-facons/images/Macarons-a-la-noix-de-coco.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"500 ml (2 tasses) noix de coco sucrée en flocons",
+"250 ml (1 tasse) sucre",
+"45 ml (3 c. à s.) farine tout usage",
+"4 blancs d’œufs, à la température ambiante",
+"1 ml (¼ c. à thé) essence d’amande ou de vanille",
+"1 pincée de sel"
+],
+"preparation": [
+"Préchauffer le four à 160 °C (325 °F). Dans un bol, mélanger la noix de coco, 50 ml (¼ tasse) de sucre et la farine ; réserver.",
+"Battre les blancs d’œufs avec l’essence d’amande et le sel, jusqu’à la formation de pics mous. Incorporer graduellement le reste du sucre, 30 ml (2 c. à s.) à la fois, en battant jusqu’à la formation de pics durs et luisants. Incorporer très délicatement le mélange à la noix de coco.",
+"Faire tomber la pâte par cuillerées à soupe sur une plaque à pâtisserie foncée de papier parcheminé ou de papier d’aluminium. Faire cuire au four 20 minutes, ou jusqu’à ce que les macarons soient fermes au toucher et légèrement colorés.",
+"Laisser refroidir sur la plaque à pâtisserie, puis les enlever très délicatement.",
+"VARIANTES",
+"Macarons garnis de chocolat : au bain-marie, faire fondre 60 g (2 oz) de chocolat mi-sucré. Verser sur les macarons cuits et refroidis.",
+"Macarons aux noix : diminuer la quantité de noix de coco à 375 ml (1½ tasse) et ajouter 125 ml (½ tasse) d’amandes ou de noisettes hachées. Garnir les macarons d’une noix avant de les faire cuire."
+]
+},
+
+{"id": 7489, "livreId": 35, "titre": "Pain aux fruits et aux noix", "page": 176, "categorie": "Desserts", "ingredientPrincipal": "fruits", "image": "livres/035-poulet-cent-facons/images/Pain-aux-fruits-et-au-noix.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"125 ml (½ tasse) beurre ramolli",
+"250 ml (1 tasse) sucre",
+"2 œufs",
+"375 ml (1½ tasse) crème sure",
+"250 ml (1 tasse) noix de pacane hachées",
+"80 ml (⅓ tasse) dattes hachées grossièrement",
+"80 ml (⅓ tasse) abricots secs hachés grossièrement",
+"5 ml (1 c. à thé) zeste d’orange râpé",
+"500 ml (2 tasses) farine tout usage",
+"5 ml (1 c. à thé) bicarbonate de soude",
+"2 ml (½ c. à thé) poudre à pâte",
+"2 ml (½ c. à thé) sel"
+],
+"preparation": [
+"Préchauffer le four à 180 °C (350 °F). Graisser un moule rectangulaire de 23 x 13 cm (9 x 5 po).",
+"Dans un grand bol, réduire en crème le beurre et le sucre à l’aide d’un batteur électrique. Ajouter les œufs, un à un, en battant entre chaque addition.",
+"Incorporer la crème sure, les noix, les dattes, les abricots et le zeste d’orange.",
+"Tamiser ensemble le reste des ingrédients secs, puis les incorporer délicatement au mélange aux œufs. Bien mélanger.",
+"Verser la préparation dans le moule et faire cuire au four environ 1 heure, ou jusqu’à ce qu’un cure-dent inséré au centre du gâteau en ressorte propre."
+]
+},
+
+{"id": 7490, "livreId": 35, "titre": "Pouding au pain, aux pommes et aux épices", "page": 188, "categorie": "Desserts", "ingredientPrincipal": "pommes", "image": "livres/035-poulet-cent-facons/images/Pouding-au-pain-aux-pommes.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"30 ml (2 c. à s.) beurre",
+"2 pommes de taille moyenne, évidées et coupées en dés",
+"750 ml (3 tasses) pain blanc rassis ou pain de blé entier, en cubes",
+"125 ml (½ tasse) raisins secs",
+"2 œufs",
+"500 ml (2 tasses) lait",
+"75 ml (⅓ tasse) cassonade tassée",
+"5 ml (1 c. à thé) essence de vanille",
+"2 ml (½ c. à thé) cannelle moulue",
+"1 ml (¼ c. à thé) muscade moulue"
+],
+"preparation": [
+"Dans une petite casserole, faire fondre le beurre à feu moyen. Ajouter les pommes, couvrir et faire cuire en remuant de temps à autre, jusqu’à ce que les pommes aient ramolli.",
+"Graisser un moule peu profond d’une capacité de 1,5 litre (6 tasses), allant au four. Y mélanger les pommes, les cubes de pain et les raisins secs.",
+"Dans un bol de taille moyenne, battre ensemble les œufs, le lait, la cassonade, la vanille, la cannelle et la muscade, jusqu’à l’obtention d’une pâte lisse. Verser dans le moule, sur le mélange aux pommes. Couvrir et réfrigérer au moins 4 heures.",
+"Préchauffer le four à 180 °C (350 °F). Faire cuire au four 40 à 45 minutes, ou jusqu’à ce qu’un cure-dent enfoncé au centre du pouding en ressorte propre. Servir chaud, tiède ou froid."
+]
+},
+
+{"id": 7491, "livreId": 35, "titre": "Pouding léger au citron", "page": 173, "categorie": "Desserts", "ingredientPrincipal": "citron", "image": "livres/035-poulet-cent-facons/images/Pouding-leger-au-citron.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"3 œufs, blancs et jaunes séparés",
+"125 ml (½ tasse) sucre",
+"75 ml (⅓ tasse) farine tout usage",
+"1 ml (¼ c. à thé) sel",
+"10 ml (2 c. à thé) zeste de citron râpé",
+"50 ml (¼ tasse) jus de citron fraîchement pressé",
+"15 ml (1 c. à s.) beurre, fondu",
+"175 ml (¾ tasse) lait"
+],
+"preparation": [
+"Préchauffer le four à 180 °C (350 °F).",
+"Battre les blancs d’œufs jusqu’à ce qu’ils soient fermes.",
+"Dans un autre bol, mélanger le sucre, la farine et le sel. Au fouet, incorporer le zeste et le jus de citron, le beurre, le lait et les jaunes d’œufs.",
+"Incorporer très délicatement les blancs d’œufs battus, puis verser dans un moule graissé d’une capacité de 1 litre (4 tasses), allant au four.",
+"Placer le moule dans un grand plat allant au four contenant 2,5 cm (1 po) d’eau chaude. Faire cuire 35 à 40 minutes, ou jusqu’à ce que le dessus du pouding soit légèrement coloré. Servir chaud ou froid."
+]
+},
+
+{"id": 7492, "livreId": 35, "titre": "Surprises aux pommes", "page": 180, "categorie": "Desserts", "ingredientPrincipal": "pommes", "image": "livres/035-poulet-cent-facons/images/Surprises-aux-pommes.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"6 pommes Golden",
+"75 ml (⅓ tasse) fromage à la crème",
+"75 ml (⅓ tasse) cassonade",
+"30 ml (2 c. à s.) amandes rôties effilées",
+"125 ml (½ tasse) raisins secs (facultatif)",
+"400 g (14 oz) pâte feuilletée surgelée, du commerce (décongelée au réfrigérateur)",
+"1 œuf, battu",
+"cannelle moulue, au goût",
+"muscade moulue, au goût"
+],
+"preparation": [
+"Préchauffer le four à 200 °C (400 °F). Graisser une grande plaque à pâtisserie. Peler et évider les pommes.",
+"Mélanger le fromage, la cassonade, les amandes, les raisins secs, la cannelle et la muscade. Farcir les pommes de ce mélange.",
+"Abaisser la pâte feuilletée sur une surface farinée, puis la découper en 6 carrés de 20 cm (8 po) de côté.",
+"Déposer une pomme sur chaque carré. Bien envelopper les pommes dans la pâte, puis badigeonner d’œuf battu.",
+"Déposer sur la plaque à pâtisserie et faire cuire au four 25 minutes, ou jusqu’à ce que la pâte soit bien dorée."
+]
+},
+
+{"id": 7493, "livreId": 35, "titre": "Tarte aux fruits", "page": 177, "categorie": "Desserts", "ingredientPrincipal": "fruits", "image": "livres/035-poulet-cent-facons/images/Tarte-aux-fruits.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"4 œufs",
+"125 ml (½ tasse) sucre",
+"1 pincée de sel",
+"375 ml (1½ tasse) lait, chaud",
+"2 ml (½ c. à thé) essence de vanille",
+"1 abaisse de pâte brisée de 23 cm (9 po) de diamètre, non cuite",
+"1 ml (¼ c. à thé) muscade moulue",
+"1 kiwi, pelé, tranché finement",
+"6 fraises, coupées en 2",
+"1 boîte (284 ml/10 oz) de mandarines en quartiers, égouttées"
+],
+"preparation": [
+"Préchauffer le four à 200 °C (400 °F). Dans un grand bol, fouetter ensemble les œufs, le sucre et le sel.",
+"Dans un autre bol, mélanger le lait et la vanille. Bien incorporer au mélange aux œufs.",
+"Verser dans l’abaisse et saupoudrer de muscade. Faire cuire au four 10 minutes. Réduire la température du four à 180 °C (350 °F) et poursuivre la cuisson 30 minutes, ou jusqu’à ce qu’un cure-dent enfoncé au centre de la tarte en ressorte propre. Sortir du four et laisser refroidir.",
+"Déposer les tranches de kiwi au centre de la tarte, placer les demi-fraises autour, puis garnir le bord de la tarte de quartiers de mandarines. Réfrigérer au moins 2 heures avant de servir."
+]
+},
+
+{"id": 7494, "livreId": 35, "titre": "Tartelettes à l'érable et aux noix", "page": 178, "categorie": "Desserts", "ingredientPrincipal": "érable", "image": "livres/035-poulet-cent-facons/images/Tartelettes-a-l-erable-et-aux-noix.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"PÂTE FEUILLETÉE",
+"500 ml (2 tasses) farine tout usage",
+"30 ml (2 c. à s.) sucre",
+"2 ml (½ c. à thé) sel",
+"1 ml (¼ c. à thé) poudre à pâte",
+"125 ml (½ tasse) beurre froid, coupé en morceaux",
+"75 ml (⅓ tasse) graisse végétale, à la température ambiante",
+"125 ml (½ tasse) eau glacée",
+"GARNITURE AUX NOIX",
+"3 œufs",
+"250 ml (1 tasse) sirop d’érable",
+"175 ml (¾ tasse) cassonade tassée",
+"30 ml (2 c. à s.) beurre, fondu",
+"5 ml (1 c. à thé) essence de vanille",
+"250 ml (1 tasse) noix grossièrement hachées"
+],
+"preparation": [
+"Dans un bol de taille moyenne, mélanger la farine, le sucre, le sel et la poudre à pâte. À l’aide d’un couteau, incorporer le beurre et la graisse végétale en les coupant, jusqu’à l’obtention d’un mélange grumeleux.",
+"À l’aide d’une fourchette, incorporer l’eau 30 ml (2 c. à s.) à la fois, jusqu’à ce que la pâte forme une boule.",
+"Former deux boules de pâte, les aplatir, les envelopper dans du papier ciré et réfrigérer 30 minutes.",
+"Entre-temps, battre ensemble les œufs, le sirop d’érable, la cassonade, le beurre fondu et la vanille.",
+"Préchauffer le four à 220 °C (425 °F). Sur une surface légèrement farinée, abaisser les boules de pâtes à 3 mm (⅛ po) d’épaisseur. Y découper des cercles de 12 cm (5 po) de diamètre. Récupérer les restes de pâte, les abaisser de nouveau et y découper d’autres cercles.",
+"Tapisser de pâte 12 moules à tartelettes de 9 cm (3½ po) de diamètre. Répartir les noix entre les moules, puis verser le mélange au sirop d’érable sur les noix.",
+"Faire cuire au four 20 à 25 minutes, ou jusqu’à ce que la pâte soit dorée et la garniture prise. Sortir du four et laisser reposer 15 minutes avant de démouler. Servir chaud ou à la température ambiante."
+]
+},
+
 {"id": 7495, "livreId": 35, "titre": "Émincé de poulet façon Stroganoff", "page": 107, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Emince-de-poulet-facon-stroganoff.jpeg",
 "favori": false,
 "note": 0,
@@ -1052,7 +1543,29 @@
 ]
 },
 
-{"id": 7496, "livreId": 35, "titre": "Escalopes de poulet à la dijonnaise", "page": 148, "categorie": "Plats pour les grandes occasions", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 7496, "livreId": 35, "titre": "Escalopes de poulet à la dijonnaise", "page": 148, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Escalopes-de-poulet-a-la-dijonnaise.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"4 demi-poitrines de poulet désossées, ou escalopes de poulet (environ 500 g/1 lb)",
+"50 ml (¼ tasse) farine tout usage",
+"15 ml (1 c. à s.) huile végétale",
+"15 ml (1 c. à s.) beurre",
+"125 ml (½ tasse) bouillon de poulet",
+"50 ml (¼ tasse) xérès sec ou vin blanc sec",
+"50 ml (¼ tasse) crème à 35 % ou à 15 %, style champêtre",
+"30 ml (2 c. à s.) moutarde forte style Dijon",
+"sel et poivre"
+],
+"preparation": [
+"Placer les demi-poitrines de poulet entre deux feuilles de papier ciré. À l’aide d’un maillet à viande ou d’un rouleau à pâte, les aplatir jusqu’à 1 cm (½ po) d’épaisseur.",
+"Enfariner le poulet. Dans une poêle, faire chauffer l’huile et le beurre, puis, à feu moyen, y faire colorer les demi-poitrines de poulet environ 5 minutes de chaque côté. Mettre dans une assiette et garder au chaud.",
+"Jeter la graisse de cuisson, puis verser dans la poêle le bouillon de poulet et le xérès. Faire cuire à feu doux et laisser réduire légèrement. Ajouter la crème et la moutarde ; laisser mijoter à feu doux 2 à 3 minutes, ou jusqu’à ce que la sauce épaississe. Saler et poivrer au goût.",
+"Napper le poulet de sauce et servir avec des pommes de terre nouvelles et des légumes verts."
+]
+},
+
 {"id": 7497, "livreId": 35, "titre": "Filo de poulet et de brie", "page": 18, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Filo-de-poulet-et-de-brie.jpeg",
 "favori": false,
 "note": 0,
@@ -1347,10 +1860,86 @@
 ]
 },
 
-{"id": 7508, "livreId": 35, "titre": "Marinade à l'orange et au sésame", "page": 162, "categorie": "Marinades", "ingredientPrincipal": "orange", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7509, "livreId": 35, "titre": "Marinade à l'orientale", "page": 163, "categorie": "Marinades", "ingredientPrincipal": "épices", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7510, "livreId": 35, "titre": "Marinade à la bière rousse", "page": 163, "categorie": "Marinades", "ingredientPrincipal": "bière", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7511, "livreId": 35, "titre": "Marinade à la dijonnaise", "page": 163, "categorie": "Marinades", "ingredientPrincipal": "moutarde", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 7508, "livreId": 35, "titre": "Marinade à l'orange et au sésame", "page": 162, "categorie": "Marinades", "ingredientPrincipal": "orange", "image": null,
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"45 ml (3 c. à s.) concentré de jus d’orange, surgelé",
+"30 ml (2 c. à s.) sauce soya",
+"30 ml (2 c. à s.) miel",
+"30 ml (2 c. à s.) marmelade",
+"15 ml (1 c. à s.) huile de sésame",
+"1 gousse d’ail, dégermée et hachée",
+"15 ml (1 c. à s.) gingembre frais haché finement",
+"30 ml (2 c. à s.) graines de sésame"
+],
+"preparation": [
+"Mélanger tous les ingrédients de la marinade. Réserver 50 ml (¼ tasse) du mélange pour badigeonner la viande. Faire mariner les morceaux de poulet dans le reste du mélange pendant 2 heures au réfrigérateur.",
+"Faire cuire les morceaux de poulet au barbecue, à feu moyen-vif, ou sous le gril du four.",
+"Badigeonner la viande à plusieurs reprises avec la marinade réservée. Faire cuire jusqu’à ce que le jus qui s’écoule de la viande soit clair."
+]
+},
+
+{"id": 7509, "livreId": 35, "titre": "Marinade à l'orientale", "page": 163, "categorie": "Marinades", "ingredientPrincipal": "épices", "image": null,
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"50 ml (¼ tasse) sauce hoisin",
+"50 ml (¼ tasse) sauce soya ou teriyaki",
+"30 ml (2 c. à s.) miel ou sirop d’érable",
+"15 ml (1 c. à s.) gingembre frais râpé",
+"2 gousses d’ail, dégermées et hachées finement",
+"5 ml (1 c. à thé) sambal oelek* (facultatif) ou pâte de chili"
+],
+"preparation": [
+"Mélanger tous les ingrédients de la marinade. Réserver 50 ml (¼ tasse) du mélange pour badigeonner la viande. Faire mariner les morceaux de poulet dans le reste du mélange pendant 2 heures au réfrigérateur.",
+"Faire cuire les morceaux de poulet au barbecue, à feu moyen-vif, ou sous le gril du four.",
+"Badigeonner la viande à plusieurs reprises avec la marinade réservée. Faire cuire jusqu’à ce que le jus qui s’écoule de la viande soit clair.",
+"* Le sambal oelek est une sauce au piment fort ; on en trouve dans les épiceries asiatiques."
+]
+},
+
+{"id": 7510, "livreId": 35, "titre": "Marinade à la bière rousse", "page": 163, "categorie": "Marinades", "ingredientPrincipal": "bière", "image": null,
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"1 bouteille (340 ml/11 oz) de bière rousse",
+"50 ml (¼ tasse) huile d’olive",
+"30 ml (2 c. à s.) sauce soya",
+"15 ml (1 c. à s.) persil frais haché",
+"jus de 1 citron"
+],
+"preparation": [
+"Mélanger tous les ingrédients de la marinade. Réserver 50 ml (¼ tasse) du mélange pour badigeonner la viande. Faire mariner les morceaux de poulet dans le reste du mélange pendant 2 heures au réfrigérateur.",
+"Faire cuire les morceaux de poulet au barbecue, à feu moyen-vif, ou sous le gril du four.",
+"Badigeonner la viande à plusieurs reprises avec la marinade réservée. Faire cuire jusqu’à ce que le jus qui s’écoule de la viande soit clair."
+]
+},
+
+{"id": 7511, "livreId": 35, "titre": "Marinade à la dijonnaise", "page": 163, "categorie": "Marinades", "ingredientPrincipal": "moutarde", "image": null,
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"50 ml (¼ tasse) mayonnaise",
+"45 ml (3 c. à s.) moutarde forte style Dijon",
+"50 ml (¼ tasse) échalotes sèches hachées",
+"30 ml (2 c. à s.) jus de citron ou de lime",
+"2 ml (½ c. à thé) sel",
+"2 ml (½ c. à thé) thym séché",
+"2 ml (½ c. à thé) origan séché",
+"1 gousse d’ail, dégermée et hachée finement"
+],
+"preparation": [
+"Mélanger tous les ingrédients de la marinade. Réserver 50 ml (¼ tasse) du mélange pour badigeonner la viande. Faire mariner les morceaux de poulet dans le reste du mélange pendant 2 heures au réfrigérateur.",
+"Faire cuire les morceaux de poulet au barbecue, à feu moyen-vif, ou sous le gril du four.",
+"Badigeonner la viande à plusieurs reprises avec la marinade réservée. Faire cuire jusqu’à ce que le jus qui s’écoule de la viande soit clair."
+]
+},
+
 {"id": 7512, "livreId": 35, "titre": "Salade aux foies de poulet au citron", "page": 40, "categorie": "Salades", "ingredientPrincipal": "foies de poulet", "image": "livres/035-poulet-cent-facons/images/Salade-aux-foies-de-poulet-au-citron.jpeg",
 "favori": false,
 "note": 0,
@@ -1830,11 +2419,126 @@
 {"id": 7531, "livreId": 35, "titre": "Sauce au fromage bleu", "page": 80, "categorie": "Sauces", "ingredientPrincipal": "fromage bleu", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7532, "livreId": 35, "titre": "Sauce aux arachides", "page": 16, "categorie": "Sauces", "ingredientPrincipal": "arachides", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7533, "livreId": 35, "titre": "Sauce aux canneberges et à l'orange", "page": 137, "categorie": "Sauces", "ingredientPrincipal": "canneberges", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7534, "livreId": 35, "titre": "Sauce barbecue", "page": 160, "categorie": "Sauces", "ingredientPrincipal": "sauce barbecue", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7535, "livreId": 35, "titre": "Sauce barbecue à la bière", "page": 161, "categorie": "Sauces", "ingredientPrincipal": "bière", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7536, "livreId": 35, "titre": "Sauce barbecue traditionnelle", "page": 161, "categorie": "Sauces", "ingredientPrincipal": "sauce barbecue", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7537, "livreId": 35, "titre": "Sauce rosée", "page": 166, "categorie": "Sauces", "ingredientPrincipal": "tomate", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7538, "livreId": 35, "titre": "Sauce tomate", "page": 167, "categorie": "Sauces", "ingredientPrincipal": "tomate", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 7534, "livreId": 35, "titre": "Sauce barbecue", "page": 160, "categorie": "Sauces", "ingredientPrincipal": "sauce barbecue", "image": null,
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"1 boîte (796 ml/28 oz) de tomates avec jus",
+"375 ml (1½ tasse) oignon haché",
+"250 ml (1 tasse) poivron rouge coupé en dés",
+"1 grosse gousse d’ail, dégermée et écrasée",
+"125 ml (½ tasse) vinaigre de cidre",
+"125 ml (½ tasse) cassonade bien tassée",
+"15 ml (1 c. à s.) chili en poudre",
+"10 ml (2 c. à thé) moutarde en poudre",
+"5 ml (1 c. à thé) sauce au piment Tabasco",
+"1 ml (¼ c. à thé) gingembre moulu",
+"1 ml (¼ c. à thé) cannelle moulue",
+"1 ml (¼ c. à thé) clou de girofle moulu",
+"75 ml (⅓ tasse) huile végétale"
+],
+"preparation": [
+"Dans une casserole, écraser les tomates avec un pilon. Ajouter le reste des ingrédients, sauf l’huile végétale.",
+"Porter à ébullition ; réduire le feu à moyen et laisser mijoter 30 à 35 minutes, ou jusqu’à ce que la sauce épaississe ; remuer souvent.",
+"Verser la préparation dans le mélangeur électrique ou le robot culinaire et réduire en purée.",
+"Remettre dans la casserole, ajouter l’huile et faire chauffer jusqu’au point d’ébullition.",
+"Servir immédiatement ou verser dans des pots stérilisés qui ferment hermétiquement. Cette sauce peut se conserver ainsi plusieurs semaines au réfrigérateur."
+]
+},
+
+{"id": 7535, "livreId": 35, "titre": "Sauce barbecue à la bière", "page": 161, "categorie": "Sauces", "ingredientPrincipal": "bière", "image": null,
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"30 ml (2 c. à s.) huile végétale",
+"1 gros oignon, haché",
+"2 gousses d’ail, dégermées et écrasées",
+"1 boîte (156 ml/5½ oz) de pâte de tomates",
+"175 ml (¾ tasse) bière",
+"50 ml (¼ tasse) cassonade",
+"15 ml (1 c. à s.) sauce Worcestershire",
+"10 ml (2 c. à thé) raifort",
+"10 ml (2 c. à thé) moutarde forte style Dijon",
+"5 ml (1 c. à thé) estragon séché",
+"5 ml (1 c. à thé) thym séché",
+"2 ou 3 gouttes de sauce au piment fort"
+],
+"preparation": [
+"Dans une casserole, faire chauffer l’huile à feu moyen et y faire revenir l’oignon jusqu’à ce qu’il soit transparent, environ 10 minutes. Ajouter l’ail et poursuivre la cuisson 2 minutes.",
+"Incorporer le reste des ingrédients et laisser mijoter 5 minutes. Badigeonner de cette sauce les morceaux de poulet sur le barbecue, durant les 15 dernières minutes de cuisson."
+]
+},
+
+{"id": 7536, "livreId": 35, "titre": "Sauce barbecue traditionnelle", "page": 161, "categorie": "Sauces", "ingredientPrincipal": "sauce barbecue", "image": null,
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"125 ml (½ tasse) ketchup",
+"125 ml (½ tasse) sauce chili",
+"15 ml (1 c. à s.) moutarde forte style Dijon",
+"15 ml (1 c. à s.) cassonade",
+"15 ml (1 c. à s.) vinaigre",
+"15 ml (1 c. à s.) sauce soya",
+"15 ml (1 c. à s.) sauce Worcestershire",
+"1 gousse d’ail, dégermée et hachée finement",
+"5 ml (1 c. à thé) sauce au piment Tabasco"
+],
+"preparation": [
+"Bien mélanger tous les ingrédients et en badigeonner les morceaux de poulet sur le barbecue, durant les 15 dernières minutes de cuisson."
+]
+},
+
+{"id": 7537, "livreId": 35, "titre": "Sauce rosée", "page": 166, "categorie": "Sauces", "ingredientPrincipal": "tomate", "image": null,
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"30 ml (2 c. à s.) huile d’olive",
+"30 ml (2 c. à s.) échalotes sèches hachées",
+"30 ml (2 c. à s.) ail haché finement",
+"250 ml (1 tasse) vin blanc sec",
+"1 boîte (796 ml/28 oz) de tomates en dés",
+"375 ml (1½ tasse) bouillon de poulet",
+"5 ml (1 c. à thé) origan séché",
+"5 ml (1 c. à thé) basilic",
+"1 bouquet garni*",
+"15 ml (1 c. à s.) fécule de maïs délayée dans de l’eau",
+"125 ml (½ tasse) crème à 15 %, style champêtre",
+"sel et poivre"
+],
+"preparation": [
+"Dans une casserole, faire chauffer l’huile à feu moyen et y faire revenir les échalotes et l’ail 3 minutes.",
+"Ajouter le vin, les tomates, le bouillon de poulet, l’origan, le basilic et le bouquet garni. Saler et poivrer.",
+"Couvrir et laisser mijoter à feu doux environ 25 minutes. Retirer le bouquet garni et ajouter la fécule de maïs délayée. Incorporer la crème. Servir chaud.",
+"* Pour faire un bouquet garni, lier 2 ou 3 tiges de persil, 1 brindille de thym et 2 ou 3 feuilles de laurier."
+]
+},
+
+{"id": 7538, "livreId": 35, "titre": "Sauce tomate", "page": 167, "categorie": "Sauces", "ingredientPrincipal": "tomate", "image": null,
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"30 ml (2 c. à s.) huile d’olive",
+"2 gros oignons, émincés",
+"4 gousses d’ail, dégermées et hachées finement",
+"2 kg (4 lb) tomates italiennes fraîches, pelées, épépinées et hachées ou 4 boîtes (796 ml/28 oz chacune) de tomates italiennes",
+"1 brin de thym",
+"1 feuille de laurier",
+"1 tige de persil",
+"10 à 12 grains de poivre vert"
+],
+"preparation": [
+"Dans une grande casserole, faire chauffer l’huile à feu doux et y faire revenir les oignons, en remuant jusqu’à ce qu’ils soient transparents.",
+"Ajouter l’ail et poursuivre la cuisson quelques minutes. Ajouter les tomates.",
+"Lier les fines herbes et le poivre vert dans un coton fromage. Mettre dans la casserole et saler.",
+"Laisser mijoter à feu doux, à découvert, environ 3 heures, en remuant souvent."
+]
+},
+
 {"id": 7539, "livreId": 35, "titre": "Soupe au poulet et à l'orge", "page": 67, "categorie": "Soupes", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Soupe-au-poulet-et-a-l-orge.jpeg",
 "favori": false,
 "note": 0,
@@ -1844,7 +2548,27 @@
   "1 carotte, pelée et tranchée",
   "1 branche de céleri, tranchée",
   "1 petit panais, pelé et coupé en cubes",
-  "1 courgette, coupée en cubes",
+  "1 courgette, coupée en cubes","image": "livres/035-poulet-cent-facons/images/Poulet-au-vinaigre-balsamique.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"15 ml (1 c. à s.) huile végétale",
+"4 demi-poitrines ou 8 hauts de cuisse de poulet, désossés (environ 500 g/1 lb)",
+"15 ml (1 c. à s.) beurre",
+"3 poires fraîches, pelées, épépinées et coupées en 8 morceaux",
+"45 ml (3 c. à s.) vinaigre balsamique",
+"125 ml (½ tasse) bouillon de poulet",
+"sel et poivre"
+],
+"preparation": [
+"Préchauffer le four à 180 °C (350 °F).",
+"Dans une poêle, faire chauffer l’huile à feu moyen-vif et y déposer le poulet. Saler et poivrer. Faire cuire le poulet environ 6 minutes de chaque côté, ou jusqu’à ce que le jus qui s’écoule de la viande soit clair. Retirer de la poêle et réserver au chaud dans le four.",
+"Essuyer la poêle avec du papier absorbant, puis ajouter le beurre. Y faire sauter les poires à feu vif environ 4 minutes, ou jusqu’à ce qu’elles soient colorées. Mouiller avec le vinaigre et le bouillon de poulet, puis porter à ébullition. Réduire le feu et laisser mijoter 1 minute.",
+"Remettre le poulet dans la poêle. Le faire cuire à feu vif 1 minute, en remuant, ou jusqu’à ce que la sauce épaississe légèrement. Trancher le poulet et le servir avec des asperges, si désiré."
+]
+},
+
   "2 pommes de terre, pelées et coupées en cubes",
   "75 mL (⅓ tasse) d'orge mondé",
   "2 brindilles de thym*",
@@ -2015,6 +2739,53 @@
 ]
 },
 
-{"id": 7546, "livreId": 35, "titre": "Tournedos de poulet à la sauge et aux figues", "page": 147, "categorie": "Plats pour les grandes occasions", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7547, "livreId": 35, "titre": "Tournedos de poulet aux framboises", "page": 134, "categorie": "Plats pour les grandes occasions", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"}
+{"id": 7546, "livreId": 35, "titre": "Tournedos de poulet à la sauge et aux figues", "page": 147, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Tournedos-de-poulet-a-la-sauge.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"15 ml (1 c. à s.) huile végétale",
+"4 tournedos de poulet (500 g/1 lb)",
+"2 échalotes sèches, hachées finement",
+"2 figues fraîches, coupées en 6 quartiers",
+"30 ml (2 c. à s.) sirop d’érable",
+"250 ml (1 tasse) bouillon de poulet",
+"5 ml (1 c. à thé) sauge fraîche hachée",
+"sel et poivre"
+],
+"preparation": [
+"Préchauffer le four à 180 °C (350 °F). Dans une poêle, faire chauffer l’huile à feu moyen-vif et y faire cuire les tournedos 2 à 3 minutes de chaque côté ; saler et poivrer.",
+"Déposer le poulet dans un plat allant au four et poursuivre la cuisson au four environ 20 minutes selon l’épaisseur, ou jusqu’à ce que le jus qui s’écoule de la viande soit clair.",
+"Dans la même poêle, faire cuire à feu moyen les échalotes, les figues et le sirop d’érable environ 5 minutes, ou jusqu’à ce que le sirop caramélise légèrement. Ajouter le bouillon de poulet et laisser réduire de moitié. Incorporer la sauge et laisser mijoter à feu doux quelques minutes.",
+"Napper les tournedos de sauce et servir avec des courgettes, si désiré."
+]
+},
+
+{"id": 7547, "livreId": 35, "titre": "Tournedos de poulet aux framboises", "page": 134, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Tournedos-de-poulet-aux-framboises.jpeg",
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"ingredients": [
+"125 ml (½ tasse) huile végétale",
+"50 ml (¼ tasse) vinaigre de framboise",
+"15 ml (1 c. à s.) thym frais haché",
+"4 tournedos de poulet",
+"15 ml (1 c. à s.) huile végétale",
+"30 ml (2 c. à s.) vinaigre de framboise",
+"250 ml (1 tasse) bouillon de poulet",
+"15 ml (1 c. à s.) moutarde à l’ancienne",
+"175 ml (¾ tasse) crème à 35 % ou à 15 %, style champêtre",
+"125 ml (½ tasse) framboises fraîches",
+"sel et poivre"
+],
+"preparation": [
+"Dans un bol, mélanger 125 ml (½ tasse) d’huile végétale, 50 ml (¼ tasse) de vinaigre de framboise et le thym. Saler et poivrer. Déposer les tournedos dans un plat peu profond, y verser la marinade, couvrir et laisser mariner au réfrigérateur 2 à 4 heures. Retourner le poulet toutes les heures.",
+"Préchauffer le four à 180 °C (350 °F).",
+"Éponger le poulet avec du papier absorbant. Jeter la marinade. Dans une poêle, faire chauffer 15 ml (1 c. à s.) d’huile végétale à feu vif et y faire colorer le poulet de chaque côté.",
+"Mettre le poulet dans un plat allant au four. Faire cuire 20 minutes, ou jusqu’à ce que le jus qui s’écoule de la viande soit clair. Retirer du plat et réserver au chaud.",
+"Dégraisser le plat et le poser sur le feu. Déglacer avec 30 ml (2 c. à s.) de vinaigre de framboise et laisser réduire de moitié. Ajouter le bouillon de poulet et la moutarde. Laisser de nouveau réduire de moitié.",
+"Incorporer la crème ; saler et poivrer. Napper 4 assiettes de sauce et y déposer le poulet. Garnir de framboises et servir avec de la courge et des champignons sauvages (par exemple, des chanterelles ou des trompettes-de-la-mort), si désiré."
+]
+},
+
 ]
