@@ -2601,27 +2601,7 @@
   "1 carotte, pelée et tranchée",
   "1 branche de céleri, tranchée",
   "1 petit panais, pelé et coupé en cubes",
-  "1 courgette, coupée en cubes","image": "livres/035-poulet-cent-facons/images/Poulet-au-vinaigre-balsamique.jpeg",
-"favori": false,
-"note": null,
-"statut": "à essayer",
-"ingredients": [
-"15 ml (1 c. à s.) huile végétale",
-"4 demi-poitrines ou 8 hauts de cuisse de poulet, désossés (environ 500 g/1 lb)",
-"15 ml (1 c. à s.) beurre",
-"3 poires fraîches, pelées, épépinées et coupées en 8 morceaux",
-"45 ml (3 c. à s.) vinaigre balsamique",
-"125 ml (½ tasse) bouillon de poulet",
-"sel et poivre"
-],
-"preparation": [
-"Préchauffer le four à 180 °C (350 °F).",
-"Dans une poêle, faire chauffer l’huile à feu moyen-vif et y déposer le poulet. Saler et poivrer. Faire cuire le poulet environ 6 minutes de chaque côté, ou jusqu’à ce que le jus qui s’écoule de la viande soit clair. Retirer de la poêle et réserver au chaud dans le four.",
-"Essuyer la poêle avec du papier absorbant, puis ajouter le beurre. Y faire sauter les poires à feu vif environ 4 minutes, ou jusqu’à ce qu’elles soient colorées. Mouiller avec le vinaigre et le bouillon de poulet, puis porter à ébullition. Réduire le feu et laisser mijoter 1 minute.",
-"Remettre le poulet dans la poêle. Le faire cuire à feu vif 1 minute, en remuant, ou jusqu’à ce que la sauce épaississe légèrement. Trancher le poulet et le servir avec des asperges, si désiré."
-]
-},
-
+  "1 courgette, coupée en cubes",
   "2 pommes de terre, pelées et coupées en cubes",
   "75 mL (⅓ tasse) d'orge mondé",
   "2 brindilles de thym*",
@@ -2638,7 +2618,6 @@
   "* On peut remplacer les fines herbes fraîches par 5 mL (1 c. à thé) de chacune des fines herbes séchées, qu'on enferme avec la feuille de laurier dans un coton fromage ou une cuillère à infusion."
 ]
 },
-
 {"id": 7540, "livreId": 35, "titre": "Soupe au poulet et au riz", "page": 60, "categorie": "Soupes", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Veloute-de-brocoli.jpeg",
 "favori": false,
 "note": 0,
