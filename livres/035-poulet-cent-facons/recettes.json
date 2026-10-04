@@ -341,7 +341,7 @@
 ]
 },
 
-{"id": 7447, "livreId": 35, "titre": "Crème aux pommes et au céleri", "page": 68, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Creme-aux-pommes-et-au-celeri.jpeg",
+{"id": 7447, "livreId": 35, "titre": "Crème aux pommes et au céleri", "page": 68, "categorie": "Soupe", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Creme-aux-pommes-et-au-celeri.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -367,7 +367,7 @@
 ]
 },
 
-{"id": 7448, "livreId": 35, "titre": "Crème de poulet et de champignons", "page": 66, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Creme-de-poulet-et-de-champignons.jpeg",
+{"id": 7448, "livreId": 35, "titre": "Crème de poulet et de champignons", "page": 66, "categorie": "Soupe", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Creme-de-poulet-et-de-champignons.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -772,7 +772,7 @@
 ]
 },
 
-{"id": 7465, "livreId": 35, "titre": "Lasagne au poulet", "page": 93, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Lasagne-au-poulet.jpeg",
+{"id": 7465, "livreId": 35, "titre": "Lasagne au poulet", "page": 93, "categorie": "Pâte, Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Lasagne-au-poulet.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -953,7 +953,7 @@
 ]
 },
 
-{"id": 7471, "livreId": 35, "titre": "Poulet au gingembre et au sirop d'érable", "page": 91, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-au-gingembre-et-sirop-d-erable.jpeg",
+{"id": 7471, "livreId": 35, "titre": "Poulet au gingembre et au sirop d'érable", "page": 91, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-au-gingembre-et-sirop-d-erable.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -978,7 +978,7 @@
 ]
 },
 
-{"id": 7472, "livreId": 35, "titre": "Poulet au jambon et au fromage", "page": 90, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-au-jambon-et-au-fromage.jpeg",
+{"id": 7472, "livreId": 35, "titre": "Poulet au jambon et au fromage", "page": 90, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-au-jambon-et-au-fromage.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -1028,7 +1028,7 @@
 ]
 },
 
-{"id": 7474, "livreId": 35, "titre": "Poulet glacé d'Asie", "page": 88, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-glace-d-asie.jpeg",
+{"id": 7474, "livreId": 35, "titre": "Poulet glacé d'Asie", "page": 88, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-glace-d-asie.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -1112,7 +1112,7 @@
 ]
 },
 
-{"id": 7477, "livreId": 35, "titre": "Sauté de poulet à l'orange et aux amandes", "page": 94, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Saute-de-poulet-a-l-orange.jpeg",
+{"id": 7477, "livreId": 35, "titre": "Sauté de poulet à l'orange et aux amandes", "page": 94, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Saute-de-poulet-a-l-orange.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -1188,7 +1188,7 @@
 ]
 },
 
-{"id": 7480, "livreId": 35, "titre": "Babas au rhum", "page": 174, "categorie": "Desserts savoureux", "ingredientPrincipal": "rhum", "image": "livres/035-poulet-cent-facons/images/Babas-au-rhum.jpeg",
+{"id": 7480, "livreId": 35, "titre": "Babas au rhum", "page": 174, "categorie": "Desserts", "ingredientPrincipal": "rhum", "image": "livres/035-poulet-cent-facons/images/Babas-au-rhum.jpeg",
 "favori": false,
 "note": null,
 "statut": "à essayer",
@@ -1214,7 +1214,7 @@
 ]
 },
 
-{"id": 7481, "livreId": 35, "titre": "Brownies", "page": 172, "categorie": "Desserts savoureux", "ingredientPrincipal": "chocolat", "image": "livres/035-poulet-cent-facons/images/Brownies.jpeg",
+{"id": 7481, "livreId": 35, "titre": "Brownies", "page": 172, "categorie": "Desserts", "ingredientPrincipal": "chocolat", "image": "livres/035-poulet-cent-facons/images/Brownies.jpeg",
 "favori": false,
 "note": null,
 "statut": "à essayer",
@@ -1998,7 +1998,7 @@
 ]
 },
 
-{"id": 7513, "livreId": 35, "titre": "Salade César au poulet", "page": 53, "categorie": "Salades", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Salade-cesar-au-poulet.jpeg",
+{"id": 7513, "livreId": 35, "titre": "Salade César au poulet", "page": 53, "categorie": "Salades, Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Salade-cesar-au-poulet.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -2025,7 +2025,7 @@
 ]
 },
 
-{"id": 7514, "livreId": 35, "titre": "Salade de carottes et de poulet", "page": 43, "categorie": "Salades", "ingredientPrincipal": "carottes", "image": "livres/035-poulet-cent-facons/images/Salade-de-carottes-et-de-poulet.jpeg",
+{"id": 7514, "livreId": 35, "titre": "Salade de carottes et de poulet", "page": 43, "categorie": "Salades, Poulet", "ingredientPrincipal": "carottes", "image": "livres/035-poulet-cent-facons/images/Salade-de-carottes-et-de-poulet.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -2049,7 +2049,7 @@
 ]
 },
 
-{"id": 7515, "livreId": 35, "titre": "Salade de pâtes et de poulet aux légumes grillés", "page": 50, "categorie": "Salades", "ingredientPrincipal": "pâtes", "image": "livres/035-poulet-cent-facons/images/Salade-de-pates-et-de-poulet-aux-legumes.jpeg",
+{"id": 7515, "livreId": 35, "titre": "Salade de pâtes et de poulet aux légumes grillés", "page": 50, "categorie": "Salades, Poulet", "ingredientPrincipal": "pâtes", "image": "livres/035-poulet-cent-facons/images/Salade-de-pates-et-de-poulet-aux-legumes.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -2083,7 +2083,7 @@
 ]
 },
 
-{"id": 7516, "livreId": 35, "titre": "Salade de poulet à la cantonaise", "page": 48, "categorie": "Salades", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Salade-de-poulet-cantonaise.jpeg",
+{"id": 7516, "livreId": 35, "titre": "Salade de poulet à la cantonaise", "page": 48, "categorie": "Salades, Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Salade-de-poulet-cantonaise.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -2109,7 +2109,7 @@
 ]
 },
 
-{"id": 7517, "livreId": 35, "titre": "Salade de poulet aux épinards et à la mangue", "page": 49, "categorie": "Salades", "ingredientPrincipal": "épinards", "image": "livres/035-poulet-cent-facons/images/Salade-de-poulet-aux-epinard.jpeg",
+{"id": 7517, "livreId": 35, "titre": "Salade de poulet aux épinards et à la mangue", "page": 49, "categorie": "Salades, Poulet", "ingredientPrincipal": "épinards", "image": "livres/035-poulet-cent-facons/images/Salade-de-poulet-aux-epinard.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -2137,7 +2137,7 @@
 ]
 },
 
-{"id": 7518, "livreId": 35, "titre": "Salade de poulet du Moyen-Orient", "page": 52, "categorie": "Salades", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Salade-de-poulet-du-moyen-orient.jpeg",
+{"id": 7518, "livreId": 35, "titre": "Salade de poulet du Moyen-Orient", "page": 52, "categorie": "Salades, Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Salade-de-poulet-du-moyen-orient.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -2160,7 +2160,7 @@
 ]
 },
 
-{"id": 7519, "livreId": 35, "titre": "Salade grecque au poulet", "page": 42, "categorie": "Salades", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Salade-grecque-au-poulet.jpeg",
+{"id": 7519, "livreId": 35, "titre": "Salade grecque au poulet", "page": 42, "categorie": "Salades, Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Salade-grecque-au-poulet.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -2223,7 +2223,7 @@
 ]
 },
 
-{"id": 7521, "livreId": 35, "titre": "Verdure colorée à l'avocat et au poulet", "page": 45, "categorie": "Salades", "ingredientPrincipal": "avocat", "image": "livres/035-poulet-cent-facons/images/Verdure-coloree-a-l-avocat.jpeg",
+{"id": 7521, "livreId": 35, "titre": "Verdure colorée à l'avocat et au poulet", "page": 45, "categorie": "Salades, Poulet", "ingredientPrincipal": "avocat", "image": "livres/035-poulet-cent-facons/images/Verdure-coloree-a-l-avocat.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -2409,7 +2409,7 @@
 ]
 },
 
-{"id": 7528, "livreId": 35, "titre": "Souvlaki", "page": 72, "categorie": "Sandwiches", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Souvlaki.jpeg",
+{"id": 7528, "livreId": 35, "titre": "Souvlaki", "page": 72, "categorie": "Sandwiches, Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Souvlaki.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -2443,11 +2443,6 @@
 ]
 },
 
-{"id": 7529, "livreId": 35, "titre": "Sauce à l'oignon", "page": 142, "categorie": "Sauces", "ingredientPrincipal": "oignon", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7530, "livreId": 35, "titre": "Sauce à la viande", "page": 93, "categorie": "Sauces", "ingredientPrincipal": "viande", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7531, "livreId": 35, "titre": "Sauce au fromage bleu", "page": 80, "categorie": "Sauces", "ingredientPrincipal": "fromage bleu", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7532, "livreId": 35, "titre": "Sauce aux arachides", "page": 16, "categorie": "Sauces", "ingredientPrincipal": "arachides", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7533, "livreId": 35, "titre": "Sauce aux canneberges et à l'orange", "page": 137, "categorie": "Sauces", "ingredientPrincipal": "canneberges", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7534, "livreId": 35, "titre": "Sauce barbecue", "page": 160, "categorie": "Sauces", "ingredientPrincipal": "sauce barbecue", "image": null,
 "favori": false,
 "note": null,
@@ -2868,7 +2863,7 @@
 "livreId": 35,
 "titre": "Pains de seigle au poulet et aux fines herbes",
 "page": 74,
-"categorie": "Sandwich/Burger",
+"categorie": "Sandwich/Burger, Poulet",
 "ingredientPrincipal": "Poulet",
 "image":  "livres/035-poulet-cent-facons/images/Pains-de-seigle-au-poulet.jpeg",
 "favori": false,
