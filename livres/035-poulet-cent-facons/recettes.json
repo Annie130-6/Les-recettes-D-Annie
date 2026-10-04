@@ -720,7 +720,31 @@
 ]
 },
 
-{"id": 7463, "livreId": 35, "titre": "Émincé de poulet façon Stroganoff", "page": 107, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 7463, "livreId": 35, "titre": "Émincé de poulet façon Stroganoff", "page": 107, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Emince-de-poulet-facon-stroganoff.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "10 mL (2 c. à thé) de beurre",
+  "10 mL (2 c. à thé) d'huile d'olive",
+  "750 g (1½ lb) de lanières de poitrine ou de haut de cuisse de poulet",
+  "125 mL (½ tasse) d'oignons hachés",
+  "125 mL (½ tasse) de champignons blancs coupés en quartiers",
+  "45 mL (3 c. à s.) de paprika",
+  "15 mL (1 c. à s.) de thym frais haché ou 2 mL (½ c. à thé) de thym séché",
+  "50 mL (¼ tasse) de vin blanc sec",
+  "175 mL (¾ tasse) de bouillon de poulet",
+  "125 mL (½ tasse) de crème sure",
+  "50 mL (¼ tasse) de ciboulette ciselée",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans une poêle, faire chauffer le beurre et l'huile à feu moyen-vif et y faire cuire les lanières de poulet 6 à 8 minutes, ou jusqu'à ce que la chair ne soit plus rosée à l'intérieur. Saler et poivrer. Réserver.",
+  "Dans la même poêle, faire cuire les oignons et les champignons 3 à 4 minutes. Parsemer de paprika et de thym.",
+  "Mouiller avec le vin, mélanger et ajouter le bouillon de poulet. Porter à ébullition et faire cuire 3 à 4 minutes. Réduire le feu à doux et incorporer la crème sure et le poulet. Servir avec des pâtes, si désiré, et garnir de ciboulette."
+]
+},
+
 {"id": 7464, "livreId": 35, "titre": "Enchiladas au poulet", "page": 106, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Enchiladas-au-poulet.jpeg",
 "favori": false,
 "note": 0,
@@ -780,7 +804,36 @@
 ]
 },
 
-{"id": 7466, "livreId": 35, "titre": "Pâté au poulet et aux légumes", "page": 104, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 7466, "livreId": 35, "titre": "Pâté au poulet et aux légumes", "page": 104, "categorie": "Poulet, Pâté", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Pate-au-poulet-et-au-legumes.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "250 mL (1 tasse) de bouillon de poulet",
+  "75 mL (⅓ tasse) de haricots coupés en petits tronçons",
+  "125 mL (½ tasse) de carottes coupées en dés",
+  "1 oignon, haché grossièrement",
+  "15 mL (1 c. à s.) de beurre",
+  "15 mL (1 c. à s.) de farine tout usage",
+  "1 boîte (284 mL/10 oz) de crème de champignons",
+  "30 mL (2 c. à s.) de basilic frais haché ou 10 mL (2 c. à thé) de basilic séché",
+  "75 mL (⅓ tasse) de petits pois surgelés ou en conserve",
+  "750 mL (3 tasses) de poulet cuit coupé en cubes",
+  "2 abaisses de pâte brisée de 20 cm (8 po) de diamètre chacune",
+  "1 œuf, battu",
+  "Sel et poivre"
+],
+"preparation": [
+  "Préchauffer le four à 190 °C (375 °F). Dans une casserole, porter le bouillon de poulet à ébullition et y faire cuire les haricots, les carottes et l'oignon 5 à 6 minutes.",
+  "Entre-temps, dans une autre casserole, faire fondre le beurre à feu moyen-doux et y incorporer la farine tout en remuant. Faire cuire jusqu'à ce que le mélange soit mousseux (roux blanc), puis laisser refroidir.",
+  "À l'aide d'une écumoire, retirer les légumes du bouillon et les réserver. Verser peu à peu le bouillon sur le roux et fouetter énergiquement. Faire cuire à feu moyen 4 à 5 minutes, de façon à lier la sauce.",
+  "Incorporer la crème de champignons et le basilic. Ajouter les légumes réservés, les petits pois et le poulet. Saler et poivrer.",
+  "Garnir un moule à tarte d'une abaisse de pâte et en badigeonner les bords d'œuf battu. Déposer la préparation au poulet dans l'abaisse. Couvrir de l'autre abaisse et appuyer sur le bord pour coller les abaisses l'une à l'autre. Couper l'excédent de pâte.",
+  "Perforer le centre du pâté avec la pointe d'un couteau, puis badigeonner la surface d'œuf battu.",
+  "Faire cuire au four 30 à 35 minutes, ou jusqu'à ce que la croûte soit dorée."
+]
+},
+
 {"id": 7467, "livreId": 35, "titre": "Pâtes à l'émincé de poulet et sauce au vin blanc", "page": 108, "categorie": "Pâte, Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Pates-a-l-emince-de-poulet.jpeg",
 "favori": false,
 "note": 0,
