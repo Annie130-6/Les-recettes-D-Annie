@@ -774,33 +774,37 @@
 ]
 },
 
-{"id": 7465, "livreId": 35, "titre": "Lasagne au poulet", "page": 93, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Pate-au-poulet-et-au-legumes.jpeg",
+{"id": 7465, "livreId": 35, "titre": "Lasagne au poulet", "page": 93, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Lasagne-au-poulet.jpeg",
 "favori": false,
 "note": 0,
 "statut": "Indexé",
 "ingredients": [
-  "250 mL (1 tasse) de bouillon de poulet",
-  "75 mL (⅓ tasse) de haricots coupés en petits tronçons",
-  "125 mL (½ tasse) de carottes coupées en dés",
-  "1 oignon, haché grossièrement",
-  "15 mL (1 c. à s.) de beurre",
-  "15 mL (1 c. à s.) de farine tout usage",
-  "1 boîte (284 mL/10 oz) de crème de champignons",
-  "30 mL (2 c. à s.) de basilic frais haché ou 10 mL (2 c. à thé) de basilic séché",
-  "75 mL (⅓ tasse) de petits pois surgelés ou en conserve",
-  "750 mL (3 tasses) de poulet cuit coupé en cubes",
-  "2 abaisses de pâte brisée de 20 cm (8 po) de diamètre chacune",
-  "1 œuf, battu",
-  "Sel et poivre"
+  "SAUCE À LA VIANDE",
+  "500 g (1 lb) de poulet haché, cru",
+  "2 oignons, hachés",
+  "2 gousses d'ail, dégermées et hachées finement",
+  "10 mL (2 c. à thé) de basilic séché",
+  "10 mL (2 c. à thé) d'origan séché",
+  "375 mL (1½ tasse) de champignons tranchés",
+  "1 boîte (156 mL/5½ oz) de pâte de tomates",
+  "1 boîte (510 mL/18 oz) de sauce tomate",
+  "250 mL (1 tasse) d'eau",
+  "5 mL (1 c. à thé) de sucre",
+  "Sel et poivre",
+  "LASAGNE",
+  "500 g (1 lb) de fromage cottage",
+  "2 œufs, battus",
+  "125 mL (½ tasse) de fromage parmesan râpé",
+  "9 lasagnes prêtes à cuire au four",
+  "250 g (½ lb) de fromage mozzarella tranché"
 ],
 "preparation": [
-  "Préchauffer le four à 190 °C (375 °F). Dans une casserole, porter le bouillon de poulet à ébullition et y faire cuire les haricots, les carottes et l'oignon 5 à 6 minutes.",
-  "Entre-temps, dans une autre casserole, faire fondre le beurre à feu moyen-doux et y incorporer la farine tout en remuant. Faire cuire jusqu'à ce que le mélange soit mousseux (roux blanc), puis laisser refroidir.",
-  "À l'aide d'une écumoire, retirer les légumes du bouillon et les réserver. Verser peu à peu le bouillon sur le roux et fouetter énergiquement. Faire cuire à feu moyen 4 à 5 minutes, de façon à lier la sauce.",
-  "Incorporer la crème de champignons et le basilic. Ajouter les légumes réservés, les petits pois et le poulet. Saler et poivrer.",
-  "Garnir un moule à tarte d'une abaisse de pâte et en badigeonner les bords d'œuf battu. Déposer la préparation au poulet dans l'abaisse. Couvrir de l'autre abaisse et appuyer sur le bord pour coller les abaisses l'une à l'autre. Couper l'excédent de pâte.",
-  "Perforer le centre du pâté avec la pointe d'un couteau, puis badigeonner la surface d'œuf battu.",
-  "Faire cuire au four 30 à 35 minutes, ou jusqu'à ce que la croûte soit dorée."
+  "Dans une grande poêle à revêtement antiadhésif, faire cuire à feu moyen-vif, en remuant bien, le poulet haché, les oignons, l'ail, le basilic et l'origan, jusqu'à ce que la chair du poulet ne soit plus rosée.",
+  "Ajouter le reste des ingrédients de la sauce. Saler et poivrer. Laisser mijoter 30 minutes.",
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Dans un bol, mélanger le fromage cottage, les œufs battus et le fromage parmesan.",
+  "Dans un moule de 23 × 33 cm (9 × 13 po) allant au four, étaler le quart de la sauce à la viande. Couvrir de 3 lasagnes. Napper d'un quart de la sauce, garnir de la moitié du mélange au fromage et du tiers des tranches de mozzarella.",
+  "Couvrir de 3 autres lasagnes et répéter les couches de sauce et de mozzarella. Faire cuire au four 30 minutes, ou jusqu'à ce que les pâtes soient tendres et le fromage fondu."
 ]
 },
 
@@ -1879,39 +1883,13 @@
 ]
 },
 
-{"id": 7507, "livreId": 35, "titre": "Lasagne au poulet", "page": 93, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Lasagne-au-poulet.jpeg",
-"favori": false,
-"note": 0,
-"statut": "Indexé",
-"ingredients": [
-  "SAUCE À LA VIANDE",
-  "500 g (1 lb) de poulet haché, cru",
-  "2 oignons, hachés",
-  "2 gousses d'ail, dégermées et hachées finement",
-  "10 mL (2 c. à thé) de basilic séché",
-  "10 mL (2 c. à thé) d'origan séché",
-  "375 mL (1½ tasse) de champignons tranchés",
-  "1 boîte (156 mL/5½ oz) de pâte de tomates",
-  "1 boîte (510 mL/18 oz) de sauce tomate",
-  "250 mL (1 tasse) d'eau",
-  "5 mL (1 c. à thé) de sucre",
-  "Sel et poivre",
-  "LASAGNE",
-  "500 g (1 lb) de fromage cottage",
-  "2 œufs, battus",
-  "125 mL (½ tasse) de fromage parmesan râpé",
-  "9 lasagnes prêtes à cuire au four",
-  "250 g (½ lb) de fromage mozzarella tranché"
-],
-"preparation": [
-  "Dans une grande poêle à revêtement antiadhésif, faire cuire à feu moyen-vif, en remuant bien, le poulet haché, les oignons, l'ail, le basilic et l'origan, jusqu'à ce que la chair du poulet ne soit plus rosée.",
-  "Ajouter le reste des ingrédients de la sauce. Saler et poivrer. Laisser mijoter 30 minutes.",
-  "Préchauffer le four à 180 °C (350 °F).",
-  "Dans un bol, mélanger le fromage cottage, les œufs battus et le fromage parmesan.",
-  "Dans un moule de 23 × 33 cm (9 × 13 po) allant au four, étaler le quart de la sauce à la viande. Couvrir de 3 lasagnes. Napper d'un quart de la sauce, garnir de la moitié du mélange au fromage et du tiers des tranches de mozzarella.",
-  "Couvrir de 3 autres lasagnes et répéter les couches de sauce et de mozzarella. Faire cuire au four 30 minutes, ou jusqu'à ce que les pâtes soient tendres et le fromage fondu."
-]
-},
+
+
+
+
+
+
+  
 
 {"id": 7508, "livreId": 35, "titre": "Marinade à l'orange et au sésame", "page": 162, "categorie": "Marinades", "ingredientPrincipal": "orange", "image": null,
 "favori": false,
