@@ -3332,6 +3332,89 @@
 "Servir immédiatement ou verser dans un contenant hermétique. Le pesto se conserve ainsi une semaine au réfrigérateur et plusieurs mois au congélateur. L’idéal est de le congeler dans des bacs à glaçons."
 ]
 },
+  {
+"id": 8785,
+"livreId": 35,
+"titre": "Marinade aigre-douce",
+"page": 162,
+"categorie": "Marinade",
+"ingredientPrincipal": "Poulet",
+"image": null,
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"source": null,
+"ingredients": [
+"125 ml (½ tasse) sauce teriyaki",
+"125 ml (½ tasse) huile d’arachide",
+"50 ml (¼ tasse) sauce soya",
+"50 ml (¼ tasse) vinaigre de vin blanc",
+"2 gousses d’ail, dégermées et hachées finement",
+"2 oignons verts, hachés",
+"30 ml (2 c. à s.) ketchup",
+"10 ml (2 c. à thé) sirop d’érable",
+"sel et poivre"
+],
+"preparation": [
+"Mélanger tous les ingrédients de la marinade. Réserver 50 ml (¼ tasse) du mélange pour badigeonner la viande. Faire mariner les morceaux de poulet dans le reste du mélange pendant 2 heures au réfrigérateur.",
+"Faire cuire les morceaux de poulet au barbecue, à feu moyen-vif, ou sous le gril du four.",
+"Badigeonner la viande à plusieurs reprises avec la marinade réservée. Faire cuire jusqu’à ce que le jus qui s’écoule de la viande soit clair."
+]
+},
+{
+"id": 8786,
+"livreId": 35,
+"titre": "Marinade à la moutarde et au citron",
+"page": 162,
+"categorie": "Marinade",
+"ingredientPrincipal": "Poulet",
+"image": null,
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"source": null,
+"ingredients": [
+"45 ml (3 c. à s.) moutarde forte style Dijon",
+"2 oignons verts, hachés finement",
+"30 ml (2 c. à s.) jus de citron",
+"30 ml (2 c. à s.) huile d’olive",
+"1 gousse d’ail, dégermée et hachée finement",
+"5 ml (1 c. à thé) sauce au piment Tabasco (facultatif)",
+"2 ml (½ c. à thé) thym ou basilic séché"
+],
+"preparation": [
+"Mélanger tous les ingrédients de la marinade. Réserver 50 ml (¼ tasse) du mélange pour badigeonner la viande. Faire mariner les morceaux de poulet dans le reste du mélange pendant 2 heures au réfrigérateur.",
+"Faire cuire les morceaux de poulet au barbecue, à feu moyen-vif, ou sous le gril du four.",
+"Badigeonner la viande à plusieurs reprises avec la marinade réservée. Faire cuire jusqu’à ce que le jus qui s’écoule de la viande soit clair."
+]
+},
+{
+"id": 8787,
+"livreId": 35,
+"titre": "Marinade à la grecque",
+"page": 163,
+"categorie": "Marinade",
+"ingredientPrincipal": "Poulet",
+"image": null,
+"favori": false,
+"note": null,
+"statut": "à essayer",
+"source": null,
+"ingredients": [
+"30 ml (2 c. à s.) jus de citron ou de lime",
+"2 ml (½ c. à thé) sel",
+"2 ml (½ c. à thé) poivre",
+"1 ml (¼ c. à thé) cumin moulu",
+"1 ml (¼ c. à thé) origan séché",
+"2 gousses d’ail, dégermées et hachées finement"
+],
+"preparation": [
+"Mélanger tous les ingrédients de la marinade. Réserver 50 ml (¼ tasse) du mélange pour badigeonner la viande. Faire mariner les morceaux de poulet dans le reste du mélange pendant 2 heures au réfrigérateur.",
+"Faire cuire les morceaux de poulet au barbecue, à feu moyen-vif, ou sous le gril du four.",
+"Badigeonner la viande à plusieurs reprises avec la marinade réservée. Faire cuire jusqu’à ce que le jus qui s’écoule de la viande soit clair."
+]
+}
+
 
 
 ]
