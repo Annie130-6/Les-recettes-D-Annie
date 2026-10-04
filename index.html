@@ -10,9 +10,11 @@
 
 <script>
 window.onerror = function(msg, url, line) {
+  if (msg === "Script error." || !line) return;
   document.body.insertAdjacentHTML('afterbegin', '<p style="background:red;color:white">JS ERREUR: ' + msg + ' (ligne ' + line + ')</p>');
 };
 </script>
+
 
 <div id="modalAgenda" class="modal-overlay" style="display:none">
   <div class="modal-box">
