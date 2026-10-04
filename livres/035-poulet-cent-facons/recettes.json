@@ -1,50 +1,1017 @@
 [
-{"id": 7434, "livreId": 35, "titre": "Ailes de poulet à la japonaise", "page": 33, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7435, "livreId": 35, "titre": "Ailes de poulet de l'Ouest", "page": 21, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7436, "livreId": 35, "titre": "Amuse-gueule au poulet", "page": 32, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7437, "livreId": 35, "titre": "Artichauts farcis au poulet", "page": 22, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7438, "livreId": 35, "titre": "Brochettes de poulet tandoori", "page": 30, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7439, "livreId": 35, "titre": "Brochettes de poulet exotiques", "page": 131, "categorie": "Cuisine légère", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7440, "livreId": 35, "titre": "Brochettes satay avec sauce aux arachides", "page": 16, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 7434, "livreId": 35, "titre": "Ailes de poulet à la japonaise", "page": 33, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Ailes-de-poulet-a-la-japonnaise.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "2,5 kg (5 lb) d'ailes de poulet",
+  "250 mL (1 tasse) de sauce soya",
+  "50 mL (¼ tasse) de sucre",
+  "5 mL (1 c. à thé) de gingembre moulu",
+  "2 gousses d'ail, dégermées et hachées finement",
+  "125 mL (½ tasse) de graines de sésame rôties"
+],
+"preparation": [
+  "Couper le bout des ailes de poulet et les conserver pour la préparation d'un bouillon, si désiré.",
+  "Dans un grand plat, mélanger la sauce soya, le sucre, le gingembre et l'ail. En réserver 50 mL (¼ tasse) pour badigeonner le poulet. Faire mariner les ailes de poulet dans le plat au moins 2 heures, au réfrigérateur, en les retournant de temps à autre.",
+  "Placer les ailes de poulet dans un plat allant au four. Jeter la marinade. Préchauffer le gril du four. Badigeonner les ailes de poulet du mélange à la sauce soya réservé et les faire cuire au four pendant 10 minutes, à environ 15 cm (6 po) du gril. Les retourner et poursuivre la cuisson 5 à 10 minutes, ou jusqu'à ce qu'elles soient dorées et tendres.",
+  "Parsemer de graines de sésame et servir immédiatement."
+]
+},
+
+{"id": 7435, "livreId": 35, "titre": "Ailes de poulet de l'Ouest", "page": 21, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Ailes-de-poulet-de-l-ouest.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 kg (2 lb) d'ailes de poulet",
+  "SAUCE",
+  "125 mL (½ tasse) de ketchup",
+  "125 mL (½ tasse) de sauce chili ou de salsa mexicaine",
+  "30 mL (2 c. à s.) de miel",
+  "5 mL (1 c. à thé) de sauce Worcestershire",
+  "2 mL (½ c. à thé) de moutarde en poudre",
+  "1 mL (¼ c. à thé) de poivre de Cayenne",
+  "1 gousse d'ail, dégermée et hachée"
+],
+"preparation": [
+  "Préchauffer le four à 190 °C (375 °F).",
+  "Couper le bout des ailes de poulet et les conserver pour la préparation d'un bouillon, si désiré. Couper ensuite les ailes en deux, à l'articulation.",
+  "Bien mélanger tous les ingrédients de la sauce. Enrober les ailes de sauce et les déposer sur une plaque à pâtisserie recouverte de papier d'aluminium.",
+  "Faire cuire au four 40 minutes, ou jusqu'à ce que les ailes soient cuites."
+]
+},
+
+{"id": 7436, "livreId": 35, "titre": "Amuse-gueule au poulet", "page": 32, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Amuse-gueule-au-poulet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 g (1 lb) de poulet haché, cru",
+  "2 œufs, battus",
+  "125 mL (½ tasse) de chapelure",
+  "30 mL (2 c. à s.) de parmesan râpé",
+  "15 mL (1 c. à s.) de persil séché",
+  "10 mL (2 c. à thé) de basilic séché",
+  "10 mL (2 c. à thé) d'origan séché",
+  "2 mL (½ c. à thé) de poudre d'ail",
+  "Sel et poivre",
+  "Huile d'arachide",
+  "Cantaloup, coupé en cubes (facultatif)"
+],
+"preparation": [
+  "Bien mélanger tous les ingrédients, sauf l'huile d'arachide et le cantaloup, puis façonner en boulettes de 2,5 cm (1 po) de diamètre.",
+  "Dans une poêle, faire chauffer 3 mm (⅛ po) d'huile. À feu moyen, y faire revenir les boulettes par petites quantités, environ 5 minutes de chaque côté, ou jusqu'à ce qu'elles soient dorées et cuites.",
+  "Retirer les boulettes avec une écumoire et les déposer sur du papier absorbant. Les garder au chaud jusqu'à ce qu'elles soient toutes cuites. Les piquer avec des cure-dents à cocktail, ajouter des cubes de cantaloup, si désiré, et servir aussitôt.",
+  "Note : ces boulettes peuvent se conserver au réfrigérateur dans un contenant hermétique pendant 2 jours."
+]
+},
+
+{"id": 7437, "livreId": 35, "titre": "Artichauts farcis au poulet", "page": 22, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Artichaults-farcis.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "6 gros artichauts frais",
+  "½ citron",
+  "30 mL (2 c. à s.) de beurre",
+  "500 g (1 lb) de poulet haché, cru",
+  "2 échalotes sèches, hachées",
+  "1 poivron vert, haché",
+  "½ blanc de poireau, émincé finement",
+  "2 tomates, pelées et concassées",
+  "250 mL (1 tasse) de sauce tomate",
+  "2 gousses d'ail, hachées finement",
+  "1 pincée de poivre de Cayenne ou de sauce à la harissa",
+  "75 mL (⅓ tasse) de basilic frais haché finement",
+  "Sel et poivre"
+],
+"preparation": [
+  "Couper la partie supérieure des artichauts au quart, y compris le bout des feuilles. Enlever toute feuille décolorée. Couper la base des artichauts pour qu'ils soient stables. Badigeonner de citron les surfaces coupées.",
+  "Faire cuire les artichauts dans de l'eau bouillante salée ou à la marguerite, environ 35 minutes, ou jusqu'à ce que les feuilles se détachent facilement.",
+  "Dans une poêle à revêtement antiadhésif, faire fondre le beurre. À feu moyen-vif, y faire revenir le poulet haché environ 4 minutes, ou jusqu'à ce que la chair ne soit plus rosée.",
+  "Ajouter les échalotes ; faire cuire 1 minute. Ajouter le poivron et le poireau, puis poursuivre la cuisson 4 minutes. Incorporer les tomates, la sauce tomate et l'ail ; saler et poivrer. Poursuivre la cuisson à feu doux 10 minutes. Incorporer le basilic et faire cuire 2 minutes, tout en remuant.",
+  "Retirer les artichauts de l'eau bouillante, les égoutter la tête en bas. Les remettre à l'endroit, puis les ouvrir en dégageant les feuilles du centre. Avec une cuillère, retirer le cône rosâtre et le foin.",
+  "Remplir la cavité des artichauts du mélange au poulet et les garder au chaud jusqu'au moment de servir.",
+  "Note : on peut remplacer les artichauts par des poivrons ou des tomates et le basilic frais par du pesto."
+]
+},
+
+{"id": 7438, "livreId": 35, "titre": "Brochettes de poulet tandoori", "page": 30, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Brochettes-de-poulet-tandoori.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 g (1 lb) de poitrines ou hauts de cuisse de poulet, désossés",
+  "8 à 12 brochettes en bambou",
+  "MARINADE",
+  "250 mL (1 tasse) de yogourt nature",
+  "15 mL (1 c. à s.) de jus de citron",
+  "1 gousse d'ail, dégermée et hachée finement",
+  "1 petit oignon, haché finement",
+  "7 mL (1½ c. à thé) de poudre de cari",
+  "5 mL (1 c. à thé) de cumin moulu",
+  "5 mL (1 c. à thé) de coriandre moulue",
+  "5 mL (1 c. à thé) de gingembre moulu",
+  "2 mL (½ c. à thé) de sel",
+  "SAUCE TANDOORI",
+  "250 mL (1 tasse) de crème à 35 %",
+  "125 mL (½ tasse) de vin blanc sec ou de bouillon de poulet",
+  "45 mL (3 c. à s.) de pâte de tomates",
+  "5 mL (1 c. à thé) de poudre de cari",
+  "2 mL (½ c. à thé) de coriandre moulue",
+  "2 mL (½ c. à thé) de cumin moulu",
+  "2 mL (½ c. à thé) de garam masala*",
+  "125 mL (½ tasse) de coriandre fraîche hachée ou de persil frais haché"
+],
+"preparation": [
+  "Détailler le poulet en gros cubes et les enfiler sur les brochettes. Mettre les brochettes dans un sac en plastique. Mélanger tous les ingrédients de la marinade et verser dans le sac. S'assurer que tous les morceaux soient bien enrobés du mélange. Fermer le sac et réfrigérer au moins 4 heures.",
+  "Mélanger tous les ingrédients de la sauce tandoori et réfrigérer dans un contenant hermétique, jusqu'au moment de l'utiliser.",
+  "Préchauffer le barbecue à intensité moyenne.",
+  "Sortir les brochettes de poulet du sac et les placer sur la grille du barbecue. Jeter le sac en plastique ainsi que la marinade qu'il contient. Fermer le couvercle du barbecue et faire griller le poulet environ 10 minutes, ou jusqu'à ce que la chair ne soit plus rosée et que le jus qui s'en écoule soit clair. Tourner les brochettes 3 fois pendant la cuisson.",
+  "Entre-temps, verser la sauce tandoori dans une casserole de taille moyenne. Porter à légère ébullition en remuant continuellement, puis réduire le feu à doux. Laisser mijoter jusqu'à ce que la sauce épaississe, en remuant de temps à autre. Couvrir et garder la sauce chaude jusqu'à ce que le poulet soit cuit.",
+  "Dresser le poulet dans un plat de service et le napper de sauce tandoori. Garnir de coriandre, si désiré, et servir.",
+  "* Le garam masala se trouve dans les épiceries asiatiques. À défaut d'en avoir, on peut le remplacer par 2 mL (½ c. à thé) de cannelle moulue."
+]
+},
+
+{"id": 7439, "livreId": 35, "titre": "Brochettes de poulet exotiques", "page": 131, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Brochettes-de-poulet-exotiques.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "75 mL (⅓ tasse) de jus de lime",
+  "5 mL (1 c. à thé) de zeste de lime",
+  "30 mL (2 c. à s.) d'huile végétale",
+  "30 mL (2 c. à s.) de miel",
+  "30 mL (2 c. à s.) de noix de coco séchée, non sucrée",
+  "15 mL (1 c. à s.) de gingembre frais haché finement",
+  "1 gousse d'ail, dégermée et hachée finement",
+  "500 g (1 lb) de poitrines ou de hauts de cuisse de poulet, coupés en cubes",
+  "1 poivron rouge, coupé en morceaux de 2,5 cm (1 po)",
+  "½ ananas frais, coupé en morceaux de 2,5 cm (1 po)"
+],
+"preparation": [
+  "Dans un contenant hermétique, mélanger le jus et le zeste de lime, l'huile, le miel, la noix de coco, le gingembre et l'ail. Réserver 50 mL (¼ tasse) de ce mélange. Mettre le poulet dans le contenant, bien enrober le poulet, puis fermer le contenant et réfrigérer 1 heure.",
+  "Égoutter le poulet et jeter la marinade. Sur chaque brochette, enfiler les morceaux de poulet, en alternant avec du poivron et des morceaux d'ananas.",
+  "Préchauffer le barbecue à intensité moyenne.",
+  "Faire cuire les brochettes, à feu moyen-vif, en plaçant la grille à 12 cm (5 po) du feu. Badigeonner avec le mélange à la lime réservé. Faire cuire 10 à 12 minutes, ou jusqu'à ce que le jus qui s'écoule de la viande soit clair. Retourner les brochettes à la mi-cuisson. Servir avec du riz, si désiré.",
+  "Note : il est aussi possible de faire cuire les brochettes sous le gril du four."
+]
+},
+
+{"id": 7440, "livreId": 35, "titre": "Brochettes satay avec sauce aux arachides", "page": 16, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Brochettes-satay.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 g (1 lb) de poitrines ou hauts de cuisse de poulet, désossés",
+  "MARINADE",
+  "5 mL (1 c. à thé) de poudre de cari",
+  "1 gousse d'ail, dégermée et hachée finement",
+  "30 mL (2 c. à s.) de sauce soya",
+  "30 mL (2 c. à s.) de jus de citron",
+  "15 mL (1 c. à s.) de sucre",
+  "SAUCE AUX ARACHIDES",
+  "45 mL (3 c. à s.) de beurre d'arachide crémeux",
+  "30 mL (2 c. à s.) de miel",
+  "30 mL (2 c. à s.) de sauce soya",
+  "30 mL (2 c. à s.) d'eau",
+  "Sauce au piment Tabasco, au goût"
+],
+"preparation": [
+  "Couper le poulet en lanières d'environ 2,5 × 10 cm (1 × 4 po) et les mettre dans un plat peu profond. Mélanger les ingrédients de la marinade et la verser sur le poulet. Faire mariner au réfrigérateur 10 à 60 minutes.",
+  "Au mélangeur électrique ou au robot culinaire, mélanger tous les ingrédients de la sauce. Si celle-ci se délie, ajouter 15 mL (1 c. à s.) d'eau bouillante.",
+  "Préchauffer le barbecue à intensité moyenne.",
+  "Enfiler le poulet sur les brochettes. Sur une grille huilée, faire griller les brochettes au barbecue, à feu moyen, environ 5 minutes de chaque côté, ou jusqu'à ce que le jus qui s'écoule de la viande soit clair.",
+  "Servir les brochettes nappées d'un mince filet de sauce aux arachides ou servir la sauce à part, comme trempette."
+]
+},
+
 {"id": 7441, "livreId": 35, "titre": "Bouillon blanc de poulet", "page": 165, "categorie": "Bouillons", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7442, "livreId": 35, "titre": "Bouillon brun de poulet", "page": 164, "categorie": "Bouillons", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7443, "livreId": 35, "titre": "Chop suey au poulet", "page": 123, "categorie": "Cuisine légère", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 7443, "livreId": 35, "titre": "Chop suey au poulet", "page": 123, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Chop-suey-au-poulet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "15 mL (1 c. à s.) d'huile végétale",
+  "1 oignon, émincé",
+  "½ poivron rouge, coupé en julienne",
+  "125 mL (½ tasse) de céleri coupé en biseau",
+  "1 carotte, pelée et coupée en biseau",
+  "250 mL (1 tasse) de pois mange-tout",
+  "500 g (1 lb) de lanières de haut de cuisse de poulet",
+  "250 mL (1 tasse) de champignons coupés en quartiers",
+  "1 gousse d'ail, dégermée et hachée finement",
+  "1 kg (2 lb) de fèves germées",
+  "30 mL (2 c. à s.) de sauce hoisin",
+  "15 mL (1 c. à s.) de sauce teriyaki",
+  "15 mL (1 c. à s.) de gingembre frais haché finement",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans une grande poêle profonde ou un wok, faire chauffer l'huile à feu vif. Y faire sauter l'oignon, le poivron, le céleri, la carotte et les pois 3 à 4 minutes. Réserver au chaud.",
+  "Dans la même poêle, faire sauter les lanières de poulet 3 à 4 minutes. Ajouter les champignons, l'ail et les fèves germées ; poursuivre la cuisson 2 à 3 minutes.",
+  "Dans un bol, mélanger le reste des ingrédients et en verser la moitié sur les légumes réservés et l'autre moitié, sur le poulet. Laisser réduire 2 à 3 minutes. Saler et poivrer au goût.",
+  "Servir les légumes sur le poulet.",
+  "Note : pour obtenir une sauce plus épaisse, délayer 15 mL (1 c. à s.) de fécule de maïs dans un peu d'eau froide et l'ajouter au mélange à base de sauce hoisin."
+]
+},
+
 {"id": 7444, "livreId": 35, "titre": "Coq au porc à la sauce aux poireaux", "page": 149, "categorie": "Plats pour les grandes occasions", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7445, "livreId": 35, "titre": "Coq au porc aux abricots", "page": 155, "categorie": "Plats pour les grandes occasions", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7446, "livreId": 35, "titre": "Coq au vin", "page": 138, "categorie": "Plats pour les grandes occasions", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7447, "livreId": 35, "titre": "Crème aux pommes et au céleri", "page": 68, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7448, "livreId": 35, "titre": "Crème de poulet et de champignons", "page": 66, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7449, "livreId": 35, "titre": "Cretons à l'ancienne", "page": 28, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7450, "livreId": 35, "titre": "Cuisses de poulet aux pruneaux et aux amandes", "page": 118, "categorie": "Cuisine légère", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7451, "livreId": 35, "titre": "Hauts de cuisse au parfum de clémentine", "page": 117, "categorie": "Cuisine légère", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7452, "livreId": 35, "titre": "Pot-au-feu de poulet aux légumes", "page": 126, "categorie": "Cuisine légère", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7453, "livreId": 35, "titre": "Poulet à l'oseille", "page": 127, "categorie": "Cuisine légère", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7454, "livreId": 35, "titre": "Poulet au sésame", "page": 116, "categorie": "Cuisine légère", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7455, "livreId": 35, "titre": "Poulet aux tomates et à l'orge en cocotte", "page": 120, "categorie": "Cuisine légère", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7456, "livreId": 35, "titre": "Poulet du Moyen-Orient", "page": 130, "categorie": "Cuisine légère", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7457, "livreId": 35, "titre": "Poulet et julienne de légumes en papillote", "page": 124, "categorie": "Cuisine légère", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7458, "livreId": 35, "titre": "Poulet tandoori", "page": 122, "categorie": "Cuisine légère", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7459, "livreId": 35, "titre": "Suprêmes de poulet à la méditerranéenne", "page": 129, "categorie": "Cuisine légère", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7460, "livreId": 35, "titre": "Suprêmes de poulet en papillote", "page": 114, "categorie": "Cuisine légère", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7461, "livreId": 35, "titre": "Suprêmes de poulet glacés aux abricots", "page": 121, "categorie": "Cuisine légère", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7462, "livreId": 35, "titre": "Cuisses de poulet à la toscane", "page": 111, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 7447, "livreId": 35, "titre": "Crème aux pommes et au céleri", "page": 68, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Creme-aux-pommes-et-au-celeri.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "45 mL (3 c. à s.) de beurre ou d'huile végétale",
+  "2 poireaux ou oignons, émincés",
+  "4 grosses pommes, pelées, épépinées et hachées",
+  "500 mL (2 tasses) de céleri haché",
+  "2 pommes de terre, pelées et coupées en cubes",
+  "1,5 L (6 tasses) de bouillon de poulet",
+  "2 mL (½ c. à thé) de graines de céleri",
+  "1 pincée de muscade moulue",
+  "2 pommes non pelées, épépinées et coupées en dés",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans une casserole, faire fondre, à feu doux, 30 mL (2 c. à s.) de beurre. Ajouter les poireaux, couvrir et faire cuire environ 5 minutes.",
+  "Ajouter les pommes hachées et le céleri ; faire cuire 5 minutes en remuant.",
+  "Incorporer les pommes de terre, le bouillon de poulet, les graines de céleri et la muscade. Saler et poivrer.",
+  "Porter à ébullition, couvrir et laisser mijoter environ 30 minutes.",
+  "Réduire en purée au mélangeur électrique ou au robot culinaire. Filtrer la soupe.",
+  "Faire sauter les pommes en dés dans le beurre qui reste, juste pour les dorer. En garnir chaque portion et servir."
+]
+},
+
+{"id": 7448, "livreId": 35, "titre": "Crème de poulet et de champignons", "page": 66, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Creme-de-poulet-et-de-champignons.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "50 mL (¼ tasse) de beurre ou d'huile végétale",
+  "2 oignons, hachés",
+  "250 mL (1 tasse) de champignons tranchés",
+  "75 mL (⅓ tasse) de farine tout usage",
+  "1 L (4 tasses) de bouillon de poulet",
+  "500 mL (2 tasses) de lait",
+  "500 mL (2 tasses) de poulet cuit coupé en dés",
+  "Sel et poivre",
+  "Ciboulette fraîche"
+],
+"preparation": [
+  "Dans une casserole, faire fondre le beurre. Y faire revenir les oignons et les champignons à feu moyen, jusqu'à ce qu'ils soient tendres.",
+  "Saupoudrer de farine et faire cuire 1 à 2 minutes, en remuant. Sans cesser de remuer, ajouter peu à peu le bouillon de poulet et le lait. Saler et poivrer. Porter à ébullition, couvrir et laisser mijoter 10 minutes à feu doux.",
+  "Ajouter le poulet et faire chauffer. Verser ensuite la soupe dans le mélangeur électrique ou le robot culinaire et réduire en purée. Servir dans des bols et garnir de ciboulette."
+]
+},
+
+{"id": 7449, "livreId": 35, "titre": "Cretons à l'ancienne", "page": 28, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Creton-a-l-ancienne.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 g (1 lb) de poulet haché, cru",
+  "250 mL (1 tasse) de mie de pain coupée en dés",
+  "250 mL (1 tasse) de lait",
+  "375 mL (1½ tasse) de bouillon de poulet",
+  "1 oignon, haché",
+  "1 gousse d'ail, dégermée et hachée",
+  "10 mL (2 c. à thé) de moutarde en poudre",
+  "5 mL (1 c. à thé) de sel",
+  "5 mL (1 c. à thé) de persil séché",
+  "5 mL (1 c. à thé) de pâte de tomates",
+  "1 pincée de thym",
+  "1 pincée de clou de girofle"
+],
+"preparation": [
+  "Dans une casserole, mélanger tous les ingrédients, puis porter à ébullition en remuant sans arrêt. Réduire le feu à doux et laisser cuire 1½ heure, ou jusqu'à ce que le bouillon soit complètement évaporé.",
+  "Mouler les cretons dans des petits ramequins ou dans un grand plat. Servir sur du pain frais ou sur des biscottes."
+]
+},
+
+{"id": 7450, "livreId": 35, "titre": "Cuisses de poulet aux pruneaux et aux amandes", "page": 118, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Cuisse-de-poulet-aux-pruneaux.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "6 cuisses de poulet, sans dos, sans peau",
+  "5 mL (1 c. à thé) de sel",
+  "5 mL (1 c. à thé) de poivre",
+  "5 mL (1 c. à thé) de safran ou de curcuma",
+  "1 bâton de cannelle",
+  "2 oignons, coupés en dés",
+  "500 mL (2 tasses) de bouillon de poulet",
+  "500 mL (2 tasses) de pruneaux dénoyautés",
+  "50 mL (¼ tasse) de miel",
+  "5 mL (1 c. à thé) de cannelle moulue",
+  "125 mL (½ tasse) d'amandes émincées, rôties"
+],
+"preparation": [
+  "Mettre les cuisses de poulet dans une grande poêle avec le sel, le poivre, le safran, le bâton de cannelle et les oignons. Ajouter le bouillon de poulet, porter à ébullition et laisser mijoter environ 15 minutes, à demi-couvert. Retourner les cuisses et poursuivre la cuisson 15 minutes.",
+  "Lorsque la chair du poulet n'est plus rosée à l'intérieur, retirer les cuisses à l'aide d'une écumoire et réserver au chaud. Mettre les pruneaux dans la casserole et les faire cuire 5 à 10 minutes. Ajouter le miel et la cannelle moulue ; faire cuire jusqu'à ce que la sauce épaississe.",
+  "Déposer le poulet dans un plat de service et le napper de sauce. Garnir d'amandes. Servir avec du couscous, si désiré."
+]
+},
+
+{"id": 7451, "livreId": 35, "titre": "Hauts de cuisse au parfum de clémentine", "page": 117, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Haut-de-cuisse-au-parfum-de-clementine.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "15 mL (1 c. à s.) de poivre concassé",
+  "8 hauts de cuisse de poulet, sans dos, sans peau",
+  "15 mL + 5 mL (1 c. à s. + 1 c. à thé) d'huile d'olive",
+  "1 échalote sèche, hachée finement",
+  "250 mL (1 tasse) de jus de clémentine ou d'orange",
+  "15 mL (1 c. à s.) de zeste d'orange haché",
+  "30 mL (2 c. à s.) de vinaigre balsamique",
+  "5 mL (1 c. à thé) de pâte de tomates",
+  "2 oignons verts, hachés",
+  "Sel",
+  "Quartiers de clémentine ou d'orange"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Presser le poivre sur les deux faces des hauts de cuisse de poulet.",
+  "Dans une poêle, faire chauffer 15 mL (1 c. à s.) d'huile à feu vif et y faire colorer le poulet environ 2 minutes de chaque côté. Le mettre dans un plat allant au four et poursuivre la cuisson au four 25 à 30 minutes.",
+  "Entre-temps, dans la même poêle, faire chauffer 5 mL (1 c. à thé) d'huile à feu moyen-vif et y faire sauter l'échalote 1 minute, tout en remuant.",
+  "Ajouter le jus de clémentine, le zeste d'orange, le vinaigre balsamique et la pâte de tomates. Porter à ébullition, baisser le feu à moyen et laisser réduire de moitié.",
+  "Lorsque les hauts de cuisse sont cuits, les déposer dans la sauce avec leur jus de cuisson. Bien remuer pour les enrober de sauce. Ajouter les oignons verts et poursuivre la cuisson 2 à 3 minutes. Saler au goût.",
+  "Servir accompagné de quartiers de clémentines, de riz sauvage et de fenouil braisé, si désiré."
+]
+},
+
+{"id": 7452, "livreId": 35, "titre": "Pot-au-feu de poulet aux légumes", "page": 126, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Pot-au-feu-de-poulet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 L (4 tasses) de bouillon de poulet",
+  "1 poulet entier, sans peau, coupé en 8 morceaux",
+  "2 oignons, coupés en quartiers",
+  "2 mL (1 c. à thé) de thym frais haché",
+  "2 feuilles de laurier",
+  "2 branches de sauge fraîche",
+  "12 petites pommes de terre nouvelles",
+  "2 navets de taille moyenne, pelés et tranchés",
+  "½ rutabaga, pelé et coupé en cubes",
+  "6 panais, pelés et tranchés",
+  "6 carottes miniatures, pelées",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans une grande casserole, porter le bouillon de poulet à ébullition. Ajouter les morceaux de poulet, les oignons, le thym, les feuilles de laurier et la sauge. Saler et poivrer. Couvrir et faire cuire à feu moyen pendant 15 minutes.",
+  "Ajouter les pommes de terre et les navets. Poursuivre la cuisson 10 minutes. Ajouter le rutabaga, les panais et les carottes et faire cuire 15 minutes. Lorsque la chair du poulet n'est plus rosée à l'intérieur, rectifier l'assaisonnement et servir aussitôt."
+]
+},
+
+{"id": 7453, "livreId": 35, "titre": "Poulet à l'oseille", "page": 127, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-a-l-oseille.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "4 demi-poitrines ou 8 hauts de cuisse de poulet, désossés (environ 500 g/1 lb)",
+  "30 mL (2 c. à s.) d'huile d'olive",
+  "250 mL (1 tasse) de jus de pomme",
+  "250 mL (1 tasse) de bouillon de poulet",
+  "1 feuille de laurier",
+  "1 bouquet d'oseille, ciselée",
+  "Sel et poivre"
+],
+"preparation": [
+  "Saler et poivrer les poitrines de poulet. Dans une sauteuse, faire chauffer l'huile d'olive à feu moyen et y faire colorer le poulet sur toutes les faces, environ 5 minutes.",
+  "Ajouter le jus de pomme, le bouillon de poulet et la feuille de laurier. Couvrir et faire cuire à feu doux 10 minutes. Ajouter l'oseille et poursuivre la cuisson 10 minutes, ou jusqu'à ce que la chair du poulet ne soit plus rosée à l'intérieur.",
+  "Rectifier l'assaisonnement et servir aussitôt avec des légumes grillés ou cuits à la vapeur, si désiré."
+]
+},
+
+{"id": 7454, "livreId": 35, "titre": "Poulet au sésame", "page": 116, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-au-sesame.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "8 pilons de poulet, sans peau",
+  "50 mL (¼ tasse) de miel",
+  "50 mL (¼ tasse) de graines de sésame",
+  "5 mL (1 c. à thé) d'ail haché finement",
+  "1 mL (¼ c. à thé) de poivre"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Dans une lèchefrite, déposer les pilons côte à côte.",
+  "Dans une petite casserole, faire chauffer le miel. En badigeonner le poulet.",
+  "Mélanger les graines de sésame, l'ail et le poivre ; en parsemer généreusement le poulet. Faire cuire au four 25 à 30 minutes en arrosant de temps à autre avec le jus de cuisson, ou jusqu'à ce que le jus qui s'écoule de la viande soit clair."
+]
+},
+
+{"id": 7455, "livreId": 35, "titre": "Poulet aux tomates et à l'orge en cocotte", "page": 120, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-aux-tomates.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "30 mL (2 c. à s.) d'huile de maïs",
+  "750 g (1½ lb) de poitrines ou de hauts de cuisse de poulet, coupés en cubes",
+  "2 oignons, émincés",
+  "500 mL (2 tasses) de petits champignons coupés en quartiers",
+  "2 poivrons rouges, émincés",
+  "325 mL (1⅓ tasse) d'orge perlé",
+  "1 boîte (796 mL/28 oz) de tomates à l'étuvée",
+  "175 mL (¾ tasse) de bouillon de poulet",
+  "10 mL (2 c. à thé) de thym frais haché",
+  "30 mL (2 c. à s.) de persil frais haché",
+  "Sel et poivre"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Dans une cocotte allant au four, faire chauffer l'huile à feu vif et y faire colorer le poulet 5 minutes de chaque côté. Réserver.",
+  "Réduire le feu à moyen. Ajouter les oignons et poursuivre la cuisson 5 minutes. Incorporer les champignons et faire cuire 2 minutes, tout en remuant.",
+  "Ajouter les poivrons, l'orge, les tomates, le bouillon de poulet et le thym. Saler et poivrer. Bien mélanger.",
+  "Couvrir et faire cuire au four environ 30 minutes, ou jusqu'à ce que l'orge soit tendre et que tout le liquide soit absorbé. Ajouter le poulet 10 minutes avant la fin de la cuisson.",
+  "Parsemer de persil et servir aussitôt."
+]
+},
+
+{"id": 7456, "livreId": 35, "titre": "Poulet du Moyen-Orient", "page": 130, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-du-moyen-orient.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "75 mL (⅓ tasse) de vin rouge",
+  "30 mL (2 c. à s.) d'huile d'olive",
+  "30 mL (2 c. à s.) de vinaigre de vin rouge",
+  "1 goutte de sauce à la harissa",
+  "1 gousse d'ail, dégermée et hachée finement",
+  "5 mL (1 c. à thé) de cumin moulu",
+  "5 mL (1 c. à thé) de coriandre moulue",
+  "8 hauts de cuisse de poulet, sans dos, sans peau"
+],
+"preparation": [
+  "Dans un petit bol, mélanger tous les ingrédients, sauf le poulet. Verser sur le poulet et laisser mariner 2 heures.",
+  "Préchauffer le barbecue à intensité moyenne.",
+  "Déposer le poulet sur la grille du barbecue à 12 cm (5 po) du feu. Le faire griller à feu moyen-vif 20 à 30 minutes, en le retournant et en l'arrosant souvent. Faire cuire le poulet jusqu'à ce que le jus qui s'en écoule soit clair.",
+  "Note : il est aussi possible de faire cuire le poulet sous le gril du four."
+]
+},
+
+{"id": 7457, "livreId": 35, "titre": "Poulet et julienne de légumes en papillote", "page": 124, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-et-julienne-de-legumes.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "4 demi-poitrines ou 8 hauts de cuisse de poulet, désossés (environ 500 g/1 lb)",
+  "2 citrons",
+  "1 pomme de terre, coupée en julienne",
+  "3 carottes, coupées en julienne",
+  "1 courgette, coupée en julienne",
+  "10 mL (2 c. à thé) de thym frais haché",
+  "Sel et poivre"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Couper 4 morceaux de papier d'aluminium de 25 cm (10 po) de large. Déposer une poitrine de poulet sur chaque morceau.",
+  "Couper un citron en 8 tranches minces. Déposer 2 tranches sur chaque poitrine de poulet.",
+  "Répartir les légumes entre les poitrines de poulet.",
+  "Râper le zeste du deuxième citron ; le parsemer sur les légumes. Extraire le jus du citron et en arroser les légumes. Parsemer de thym, puis saler et poivrer.",
+  "Plier le papier d'aluminium en faisant un pli double. Déposer les papillotes sur une plaque à pâtisserie et faire cuire au four 20 minutes, ou jusqu'à ce que le jus qui s'écoule de la viande soit clair."
+]
+},
+
+{"id": 7458, "livreId": 35, "titre": "Poulet tandoori", "page": 122, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-tandoori.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "250 mL (1 tasse) de yogourt nature",
+  "2 gousses d'ail, dégermées et hachées finement",
+  "5 mL (1 c. à thé) de gingembre frais râpé",
+  "5 mL (1 c. à thé) de chacune des épices suivantes : poudre de cari, paprika, cumin et coriandre moulue",
+  "4 demi-poitrines ou 8 hauts de cuisse de poulet, désossés (environ 500 g/1 lb)",
+  "15 mL (1 c. à s.) d'huile végétale"
+],
+"preparation": [
+  "Dans un bol, mélanger le yogourt, l'ail, le gingembre et les épices. Ajouter le poulet et bien l'enrober de sauce. Laisser mariner 2 heures au réfrigérateur.",
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Égoutter la viande et jeter la marinade. Dans une poêle, faire chauffer l'huile à feu moyen-vif et y faire colorer le poulet sur toutes les faces.",
+  "Déposer le poulet dans un plat allant au four et faire cuire 25 à 30 minutes.",
+  "Servir avec du riz basmati et des légumes vapeur, si désiré."
+]
+},
+
+{"id": 7459, "livreId": 35, "titre": "Suprêmes de poulet à la méditerranéenne", "page": 129, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Supreme-de-poulet-a-la-mediterraneenne.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "30 mL (2 c. à s.) d'huile d'olive",
+  "1 oignon, haché",
+  "1 courgette, hachée",
+  "½ petite aubergine, hachée",
+  "3 tomates italiennes, hachées",
+  "4 demi-poitrines de poulet, désossées (environ 500 g/1 lb)",
+  "15 mL (1 c. à s.) de basilic frais haché",
+  "2 mL (½ c. à thé) d'origan frais haché",
+  "2 mL (½ c. à thé) de marjolaine fraîche hachée",
+  "1 gousse d'ail, dégermée et hachée finement",
+  "Sel et poivre"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Dans un plat allant au four, mélanger 15 mL (1 c. à s.) d'huile d'olive avec les légumes et les faire cuire au four 7 à 8 minutes.",
+  "Badigeonner le poulet avec le reste d'huile d'olive et le déposer sur les légumes. Saler et poivrer.",
+  "Mélanger les fines herbes et l'ail et en parsemer le poulet. Faire cuire au four 25 à 30 minutes, ou jusqu'à ce que le jus qui s'écoule de la viande soit clair. Servir avec des pommes de terre, si désiré.",
+  "Note : on peut aussi préparer ce plat avec des côtelettes de poitrine ou des hauts de cuisse de poulet désossés."
+]
+},
+
+{"id": 7460, "livreId": 35, "titre": "Suprêmes de poulet en papillote", "page": 114, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Supremes-de-poulet-en-papillote.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "4 demi-poitrines de poulet, désossées, coupées en 3 (environ 500 g/1 lb)",
+  "30 mL (2 c. à s.) de sauce soya",
+  "10 mL (2 c. à thé) de miel",
+  "30 mL (2 c. à s.) de sherry",
+  "1 mL (¼ c. à thé) de cinq-épices",
+  "10 mL (2 c. à thé) d'huile de sésame",
+  "5 mL (1 c. à thé) de gingembre frais râpé",
+  "4 champignons shiitake, coupés en dés",
+  "4 pleurotes, coupés en dés",
+  "1 poivron rouge, coupé en lanières",
+  "1 courgette, pelée et coupée en julienne",
+  "4 oignons verts, hachés",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans un bol, mélanger le poulet, la sauce soya, le miel, le sherry, le cinq-épices, l'huile de sésame et le gingembre. Couvrir et réfrigérer 2 heures.",
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Dans du papier parchemin ou du papier d'aluminium, découper 4 cercles de 25 cm (10 po) de diamètre chacun.",
+  "Égoutter le poulet et jeter la marinade. Déposer 3 morceaux de poulet sur chaque cercle de papier. Garnir de champignons, de poivron, de courgette et d'oignons verts. Saler et poivrer.",
+  "Plier le papier sur le poulet, rouler, puis replier les côtés pour former des papillotes. Les déposer sur une plaque à pâtisserie.",
+  "Faire cuire au four environ 20 minutes, ou jusqu'à ce que le jus qui s'écoule de la viande soit clair."
+]
+},
+
+{"id": 7461, "livreId": 35, "titre": "Suprêmes de poulet glacés aux abricots", "page": 121, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Supremes-de-poulet-glaces-aux-abricots.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "30 mL (2 c. à s.) de confiture d'abricots",
+  "15 mL (1 c. à s.) de moutarde forte style Dijon",
+  "5 mL (1 c. à thé) d'estragon frais haché",
+  "1 kg (2 lb) de demi-poitrines ou de hauts de cuisse de poulet, désossés"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Dans une petite casserole, à feu doux, mélanger la confiture d'abricots, la moutarde et l'estragon. Faire chauffer juste assez pour faire fondre la confiture.",
+  "Dans un grand plat allant au four, déposer les morceaux de poulet côte à côte. (Le plat devrait être juste assez grand pour contenir tous les morceaux de poulet.)",
+  "À l'aide d'un pinceau à pâtisserie, badigeonner le poulet de sauce. Le faire cuire au four 30 minutes, ou jusqu'à ce que le jus qui s'écoule de la viande soit clair. Arroser souvent de jus de cuisson.",
+  "Trancher le poulet et servir avec des pommes de terre et du cresson, si désiré."
+]
+},
+
+{"id": 7462, "livreId": 35, "titre": "Cuisses de poulet à la toscane", "page": 111, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Cuisse-de-poulet-a-la-toscane.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "45 mL (3 c. à s.) d'huile d'olive",
+  "6 cuisses de poulet, sans peau",
+  "1 oignon, tranché finement",
+  "12 gousses d'ail, chacune coupée en 4",
+  "1 boîte (540 mL/19 oz) de tomates à l'étuvée",
+  "125 mL (½ tasse) d'olives noires dénoyautées",
+  "50 mL (¼ tasse) de tomates séchées hachées",
+  "15 mL (1 c. à s.) d'assaisonnement italien",
+  "15 mL (1 c. à s.) de vinaigre balsamique",
+  "1 pincée de piment fort en flocons (facultatif)",
+  "Sel et méditerranéen ne
+"preparation": [
+  "Dans une grande poêle ou dans une poêle électrique, faire chauffer l'huile à feu moyen-vif et y faire colorer le poulet sur toutes ses faces. Le retirer de la poêle et réserver.",
+  "Dans la même poêle, faire cuire l'oignon et l'ail jusqu'à ce que l'oignon soit ramolli. Ajouter le reste des ingrédients et bien mélanger.",
+  "Ajouter le poulet réservé, couvrir et laisser mijoter à feu doux 40 à 45 minutes, ou jusqu'à ce que la chair du poulet ne soit plus rosée à l'intérieur."
+]
+},
+
 {"id": 7463, "livreId": 35, "titre": "Émincé de poulet façon Stroganoff", "page": 107, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7464, "livreId": 35, "titre": "Enchiladas au poulet", "page": 106, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7465, "livreId": 35, "titre": "Lasagne au poulet", "page": 93, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 7464, "livreId": 35, "titre": "Enchiladas au poulet", "page": 106, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Enchiladas-au-poulet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 mL (2 tasses) de poulet cuit coupé en cubes",
+  "125 mL (½ tasse) d'oignon haché finement",
+  "250 mL (1 tasse) de fromage Monterey Jack ou Brick râpé",
+  "45 mL (3 c. à s.) de fromage parmesan râpé",
+  "5 mL (1 c. à thé) de cumin moulu",
+  "15 mL (1 c. à s.) de sauce Worcestershire",
+  "1 gousse d'ail, dégermée et hachée finement",
+  "1 petit piment fort, émincé (facultatif)",
+  "30 mL (2 c. à s.) de coriandre fraîche hachée",
+  "8 tortillas de 20 cm (8 po) de diamètre",
+  "250 mL (1 tasse) de salsa mexicaine",
+  "250 mL (1 tasse) de fromage Monterey Jack ou Brick râpé",
+  "125 mL (½ tasse) de crème sure (facultatif)",
+  "50 mL (¼ tasse) de guacamole (facultatif)",
+  "Sel et poivre"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Dans un bol, mélanger les 9 premiers ingrédients. Saler et poivrer. Répartir ce mélange entre les 8 tortillas.",
+  "Rouler les tortillas pour envelopper la préparation. Verser 75 mL (⅓ tasse) de salsa dans le fond d'un plat allant au four. Déposer les tortillas côte à côte dans le plat. Napper du reste de la sauce.",
+  "Parsemer de fromage et faire cuire au four 20 minutes. Faire griller le fromage sous le gril du four pendant 2 minutes, si désiré. Garnir de crème sure et de guacamole au moment de servir."
+]
+},
+
+{"id": 7465, "livreId": 35, "titre": "Lasagne au poulet", "page": 93, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Pate-au-poulet-et-au-legumes.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "250 mL (1 tasse) de bouillon de poulet",
+  "75 mL (⅓ tasse) de haricots coupés en petits tronçons",
+  "125 mL (½ tasse) de carottes coupées en dés",
+  "1 oignon, haché grossièrement",
+  "15 mL (1 c. à s.) de beurre",
+  "15 mL (1 c. à s.) de farine tout usage",
+  "1 boîte (284 mL/10 oz) de crème de champignons",
+  "30 mL (2 c. à s.) de basilic frais haché ou 10 mL (2 c. à thé) de basilic séché",
+  "75 mL (⅓ tasse) de petits pois surgelés ou en conserve",
+  "750 mL (3 tasses) de poulet cuit coupé en cubes",
+  "2 abaisses de pâte brisée de 20 cm (8 po) de diamètre chacune",
+  "1 œuf, battu",
+  "Sel et poivre"
+],
+"preparation": [
+  "Préchauffer le four à 190 °C (375 °F). Dans une casserole, porter le bouillon de poulet à ébullition et y faire cuire les haricots, les carottes et l'oignon 5 à 6 minutes.",
+  "Entre-temps, dans une autre casserole, faire fondre le beurre à feu moyen-doux et y incorporer la farine tout en remuant. Faire cuire jusqu'à ce que le mélange soit mousseux (roux blanc), puis laisser refroidir.",
+  "À l'aide d'une écumoire, retirer les légumes du bouillon et les réserver. Verser peu à peu le bouillon sur le roux et fouetter énergiquement. Faire cuire à feu moyen 4 à 5 minutes, de façon à lier la sauce.",
+  "Incorporer la crème de champignons et le basilic. Ajouter les légumes réservés, les petits pois et le poulet. Saler et poivrer.",
+  "Garnir un moule à tarte d'une abaisse de pâte et en badigeonner les bords d'œuf battu. Déposer la préparation au poulet dans l'abaisse. Couvrir de l'autre abaisse et appuyer sur le bord pour coller les abaisses l'une à l'autre. Couper l'excédent de pâte.",
+  "Perforer le centre du pâté avec la pointe d'un couteau, puis badigeonner la surface d'œuf battu.",
+  "Faire cuire au four 30 à 35 minutes, ou jusqu'à ce que la croûte soit dorée."
+]
+},
+
 {"id": 7466, "livreId": 35, "titre": "Pâté au poulet et aux légumes", "page": 104, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7467, "livreId": 35, "titre": "Pâtes à l'émincé de poulet et sauce au vin blanc", "page": 108, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7468, "livreId": 35, "titre": "Pâtes Portofino", "page": 110, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7469, "livreId": 35, "titre": "Penne au poulet et au portobello", "page": 97, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7470, "livreId": 35, "titre": "Poulet à la tetrazzini", "page": 102, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7471, "livreId": 35, "titre": "Poulet au gingembre et au sirop d'érable", "page": 91, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7472, "livreId": 35, "titre": "Poulet au jambon et au fromage", "page": 90, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7473, "livreId": 35, "titre": "Poulet épicé au basilic", "page": 103, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7474, "livreId": 35, "titre": "Poulet glacé d'Asie", "page": 88, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7475, "livreId": 35, "titre": "Poulet presto sauce béchamel", "page": 101, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7476, "livreId": 35, "titre": "Sauce à spaghetti au poulet", "page": 100, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7477, "livreId": 35, "titre": "Sauté de poulet à l'orange et aux amandes", "page": 94, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7478, "livreId": 35, "titre": "Suprêmes de poulet panés aux flocons de maïs", "page": 96, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7479, "livreId": 35, "titre": "Tourtière au poulet et au porc hachés", "page": 99, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 7467, "livreId": 35, "titre": "Pâtes à l'émincé de poulet et sauce au vin blanc", "page": 108, "categorie": "Pâte, Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Pates-a-l-emince-de-poulet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "SAUCE AU VIN BLANC",
+  "30 mL (2 c. à s.) d'huile d'olive",
+  "30 mL (2 c. à s.) d'échalotes sèches hachées finement",
+  "30 mL (2 c. à s.) d'ail dégermé et haché finement",
+  "250 mL (1 tasse) de vin blanc sec",
+  "1 boîte (796 mL/28 oz) de tomates en dés",
+  "375 mL (1½ tasse) de bouillon de poulet",
+  "5 mL (1 c. à thé) d'origan séché",
+  "5 mL (1 c. à thé) de basilic séché",
+  "1 bouquet garni*",
+  "15 mL (1 c. à s.) de fécule de maïs délayée dans de l'eau",
+  "125 mL (½ tasse) de crème à 15 %, style champêtre",
+  "Sel et poivre",
+  "PÂTES",
+  "750 mL (3 tasses) de pâtes gemelli ou farfalle",
+  "15 mL (1 c. à s.) d'huile d'olive",
+  "500 g (1 lb) de lanières de poitrine ou de haut de cuisse de poulet",
+  "½ poivron rouge, émincé",
+  "175 mL (¾ tasse) de basilic frais haché",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans une poêle, faire chauffer 30 mL (2 c. à s.) d'huile d'olive à feu moyen et y faire revenir les échalotes et l'ail 3 minutes.",
+  "Ajouter le vin, les tomates, le bouillon de poulet, l'origan, le basilic et le bouquet garni. Saler et poivrer. Couvrir et faire mijoter environ 25 minutes à feu doux.",
+  "Entre-temps, dans une casserole remplie d'eau bouillante salée, faire cuire les pâtes al dente.",
+  "Dans une grande poêle, faire chauffer l'huile d'olive à feu moyen-vif et y faire cuire le poulet pendant 5 minutes. Saler et poivrer. Ajouter le poivron et poursuivre la cuisson à feu doux 2 minutes. Incorporer le basilic frais et retirer du feu.",
+  "Retirer le bouquet garni de la sauce au vin blanc. Incorporer la fécule de maïs délayée ainsi que la crème. Bien chauffer, puis mélanger avec les pâtes cuites. Garnir de la préparation au poulet et saupoudrer de parmesan, si désiré.",
+  "* Pour faire un bouquet garni, lier avec une ficelle 2 ou 3 tiges de persil, 1 brindille de thym et 2 ou 3 feuilles de laurier."
+]
+},
+
+{"id": 7468, "livreId": 35, "titre": "Pâtes Portofino", "page": 110, "categorie": "Pâte, Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Pates-portofino.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "30 mL (2 c. à s.) d'huile végétale",
+  "4 échalotes sèches ou oignons verts, hachés",
+  "250 mL (1 tasse) de courgettes tranchées",
+  "250 g (½ lb) de crevettes fraîches ou surgelées, décongelées",
+  "250 g (½ lb) de lanières de poitrine ou de haut de cuisse de poulet",
+  "250 mL (1 tasse) de bouquets de brocoli",
+  "50 mL (¼ tasse) de vin blanc sec",
+  "125 mL (½ tasse) de crème à 35 % ou à 15 %, style champêtre",
+  "2 mL (½ c. à thé) de thym",
+  "1 tomate, pelée, épépinée et hachée",
+  "500 mL (2 tasses) de pâtes rotinis",
+  "Fromage parmesan râpé",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans une grande poêle, faire chauffer l'huile à feu moyen et y faire cuire les échalotes et les courgettes. Ajouter les crevettes et les faire cuire 2 à 3 minutes, ou jusqu'à ce qu'elles soient rosées. Retirer le mélange de la poêle à l'aide d'une écumoire ; réserver.",
+  "Dans la même poêle, à feu moyen-vif, faire cuire le poulet 5 minutes. Ajouter le brocoli et poursuivre la cuisson 3 à 4 minutes.",
+  "Remettre le mélange aux crevettes dans la poêle et mouiller avec le vin. Incorporer la crème, le thym et la tomate. Saler et poivrer. Laisser mijoter environ 5 minutes, ou jusqu'à ce que la sauce épaississe légèrement.",
+  "Dans une casserole remplie d'eau bouillante salée, faire cuire les pâtes al dente. Les égoutter, les napper de sauce et les saupoudrer de parmesan."
+]
+},
+
+{"id": 7469, "livreId": 35, "titre": "Penne au poulet et au portobello", "page": 97, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Penne-au-poulet-et-au-portobello.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "15 mL (1 c. à s.) d'huile d'olive",
+  "500 g (1 lb) de lanières de poitrine ou de haut de cuisse de poulet",
+  "4 échalotes sèches, hachées",
+  "1 champignon portobello, coupé en dés",
+  "250 mL (1 tasse) de pois mange-tout",
+  "75 mL (⅓ tasse) de vin blanc sec",
+  "125 mL (½ tasse) de crème à 35 %",
+  "2 mL (½ c. à thé) de thym séché",
+  "4 demi-tomates séchées, égouttées et hachées",
+  "500 mL (2 tasses) de pâtes penne",
+  "Fromage parmesan râpé",
+  "Sel et poivre fraîchement moulu"
+],
+"preparation": [
+  "Dans une grande poêle, faire chauffer l'huile à feu moyen et y faire colorer les lanières de poulet 5 minutes.",
+  "Ajouter les échalotes, le champignon et les pois mange-tout. Poursuivre la cuisson 3 à 4 minutes, ou jusqu'à ce que le poulet ne soit plus rosé à l'intérieur. Mouiller avec le vin et faire cuire 2 minutes.",
+  "Ajouter la crème, le thym et les tomates séchées. Saler et poivrer. Faire cuire à feu doux jusqu'à ce que la sauce épaississe légèrement.",
+  "Dans une casserole remplie d'eau bouillante salée, faire cuire les pâtes al dente. Égoutter et incorporer à la sauce. Bien mélanger et servir immédiatement. Saupoudrer de fromage parmesan."
+]
+},
+
+{"id": 7470, "livreId": 35, "titre": "Poulet à la tetrazzini", "page": 102, "categorie": "Pâte, Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-a-la-tetrazzini.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "10 mL (2 c. à thé) de beurre",
+  "10 mL (2 c. à thé) d'huile d'olive",
+  "1 oignon, haché",
+  "175 mL (¾ tasse) de champignons émincés",
+  "75 mL (⅓ tasse) de céleri émincé",
+  "1 gousse d'ail, dégermée et hachée finement",
+  "30 mL (2 c. à s.) de farine tout usage",
+  "375 mL (1½ tasse) de lait",
+  "375 mL (1½ tasse) de bouillon de poulet",
+  "125 mL (½ tasse) de fromage gruyère râpé",
+  "5 mL (1 c. à thé) d'estragon frais haché ou 1 mL (¼ c. à thé) d'estragon séché",
+  "375 mL (1½ tasse) de poulet cuit coupé en cubes",
+  "Sel et poivre",
+  "Pâtes linguine cuites"
+],
+"preparation": [
+  "Dans une poêle, faire chauffer le beurre et l'huile à feu moyen-vif et y faire revenir l'oignon, les champignons, le céleri et l'ail 2 à 3 minutes. Incorporer la farine aux légumes tout en remuant.",
+  "Mouiller avec le lait et le bouillon de poulet ; faire cuire à feu moyen 4 à 5 minutes afin de bien lier la sauce.",
+  "Ajouter la moitié du fromage à la sauce et bien mélanger pour le faire fondre. Parsemer d'estragon ; saler et poivrer. Ajouter ensuite le poulet et le faire chauffer 2 à 3 minutes.",
+  "Verser la sauce sur un lit de pâtes chaudes. Parsemer du reste de fromage et servir aussitôt."
+]
+},
+
+{"id": 7471, "livreId": 35, "titre": "Poulet au gingembre et au sirop d'érable", "page": 91, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-au-gingembre-et-sirop-d-erable.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "10 mL (2 c. à thé) d'huile végétale",
+  "625 g (1¼ lb) de lanières de poitrine ou de haut de cuisse de poulet",
+  "75 mL (⅓ tasse) de farine tout usage",
+  "125 mL (½ tasse) de sirop d'érable",
+  "30 mL (2 c. à s.) de vinaigre de cidre",
+  "30 mL (2 c. à s.) de sauce soya",
+  "30 mL (2 c. à s.) de sherry sec (facultatif)",
+  "10 mL (2 c. à thé) de gingembre frais râpé",
+  "2 gousses d'ail, dégermées et hachées",
+  "2 mL (½ c. à thé) de poivre"
+],
+"preparation": [
+  "Préchauffer le four à 160 °C (325 °F).",
+  "Dans une poêle allant au four, faire chauffer l'huile à feu moyen. Enrober de farine les morceaux de poulet, les faire cuire dans la poêle environ 5 minutes, ou jusqu'à ce qu'ils soient dorés sur toutes les faces.",
+  "Mélanger le sirop d'érable, le vinaigre, la sauce soya, le sherry, le gingembre, l'ail et le poivre. Verser ce mélange sur les morceaux de poulet.",
+  "Faire cuire au four 5 à 10 minutes, selon la grosseur des morceaux, ou jusqu'à ce que le jus qui s'écoule de la viande soit clair.",
+  "Servir avec une purée de pommes de terre et des haricots, si désiré."
+]
+},
+
+{"id": 7472, "livreId": 35, "titre": "Poulet au jambon et au fromage", "page": 90, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-au-jambon-et-au-fromage.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "4 demi-poitrines de poulet, désossées (500 g/1 lb)",
+  "4 tranches de jambon fumé",
+  "4 tranches de fromage gruyère",
+  "4 feuilles de basilic",
+  "50 mL (¼ tasse) de farine tout usage",
+  "1 œuf, battu",
+  "125 mL (½ tasse) de chapelure",
+  "15 mL (1 c. à s.) d'huile végétale"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Ouvrir en papillon les poitrines de poulet. Les farcir d'une tranche de jambon, d'une tranche de fromage et d'une feuille de basilic.",
+  "Former des rouleaux et maintenir les poitrines fermées à l'aide de cure-dents. Enrober le poulet d'abord de farine, ensuite d'œuf battu, puis de chapelure.",
+  "Dans une poêle, faire chauffer l'huile et y faire colorer les poitrines de chaque côté. Les déposer dans un plat allant au four et les faire cuire 10 à 12 minutes, ou jusqu'à ce que le jus qui s'écoule de la viande soit clair.",
+  "Trancher les poitrines de poulet et servir avec des légumes et des pâtes, si désiré."
+]
+},
+
+{"id": 7473, "livreId": 35, "titre": "Poulet épicé au basilic", "page": 103, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-epice-au-basilic.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "30 mL (2 c. à s.) d'huile végétale",
+  "625 g (1¼ lb) de pilons de poulet, sans peau",
+  "30 mL (2 c. à s.) de bouillon de poulet",
+  "30 mL (2 c. à s.) de sauce aux huîtres* ou de sauce hoisin",
+  "30 mL (2 c. à s.) de sauce de poisson nam pla*",
+  "1 mL (¼ c. à thé) de sel",
+  "5 mL (1 c. à thé) de piments en flocons",
+  "1 pincée de paprika",
+  "8 à 12 feuilles de basilic",
+  "1 poivron vert, coupé en lanières",
+  "1 poivron rouge, coupé en lanières",
+  "Riz vapeur"
+],
+"preparation": [
+  "Préchauffer le four à 190 °C (375 °F).",
+  "Dans une grande poêle, faire chauffer l'huile à feu vif et y faire colorer le poulet environ 5 minutes.",
+  "Ajouter le bouillon de poulet, la sauce aux huîtres, la sauce de poisson, le sel, le piment et le paprika. Faire cuire 2 à 3 minutes. Verser dans un plat allant au four, couvrir et faire cuire 30 minutes.",
+  "Ajouter le basilic, les poivrons et poursuivre la cuisson, à découvert, 5 minutes. Servir avec du riz vapeur.",
+  "* Ces sauces sont vendues dans les épiceries asiatiques ou dans les supermarchés, au rayon des produits fins. On peut remplacer la sauce de poisson nam pla par de la sauce nuoc mam ou, à défaut, par de la sauce soya."
+]
+},
+
+{"id": 7474, "livreId": 35, "titre": "Poulet glacé d'Asie", "page": 88, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-glace-d-asie.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "125 mL (½ tasse) de vinaigre de riz ou de xérès",
+  "125 mL (½ tasse) de jus d'orange ou d'ananas",
+  "30 mL (2 c. à s.) de sauce soya",
+  "30 mL (2 c. à s.) de miel",
+  "2 mL (½ c. à thé) de cannelle moulue",
+  "2 mL (½ c. à thé) de gingembre moulu",
+  "8 hauts de cuisse de poulet, sans peau",
+  "15 mL (1 c. à s.) d'huile d'arachide",
+  "1 gousse d'ail, dégermée et hachée finement",
+  "1 petit piment fort, haché finement (facultatif)",
+  "5 mL (1 c. à thé) de fécule de maïs délayée dans 15 mL (1 c. à s.) d'eau",
+  "2 oignons verts, émincés",
+  "Vermicelles de riz, cuits",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans un petit bol, mélanger le vinaigre de riz, le jus d'orange, la sauce soya et le miel. Réserver.",
+  "Dans un autre petit bol, mélanger la cannelle, le gingembre, le sel et le poivre. Bien enrober le poulet de ce mélange.",
+  "Dans une grande poêle, faire chauffer l'huile à feu vif et y faire colorer les morceaux de poulet. Réduire le feu à moyen et poursuivre la cuisson 12 à 15 minutes, ou jusqu'à ce que la chair ne soit plus rosée à l'intérieur. Retirer le poulet et son jus de cuisson de la poêle ; réserver.",
+  "Dans la même poêle, verser le mélange au vinaigre de riz et monter le feu à moyen-vif. Porter à ébullition et faire cuire 2 à 3 minutes pour faire réduire de moitié.",
+  "Réduire le feu et ajouter l'ail, le piment, le poulet et son jus de cuisson. Bien mélanger. Lorsque les morceaux de poulet sont chauds, les retirer de la sauce et réserver.",
+  "Incorporer la fécule de maïs délayée à la sauce et la faire épaissir. Déposer le poulet sur un nid de vermicelles de riz, napper de sauce et garnir d'oignons verts. Servir aussitôt avec des légumes vapeur, si désiré."
+]
+},
+
+{"id": 7475, "livreId": 35, "titre": "Poulet presto sauce béchamel", "page": 101, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-presto-sauce-bechamel.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "625 mL (2½ tasses) de pâtes rotelle tricolores",
+  "750 mL (3 tasses) de poulet cuit coupé en cubes",
+  "625 mL (2½ tasses) de sauce béchamel (voir p. 166)",
+  "30 mL (2 c. à s.) de persil frais haché",
+  "50 mL (¼ tasse) de chapelure",
+  "125 mL (½ tasse) de fromage parmesan râpé",
+  "Sel et poivre"
+],
+"preparation": [
+  "Préchauffer le four à 200 °C (400 °F).",
+  "Dans une grande casserole remplie d'eau bouillante salée, faire cuire les pâtes al dente. Égoutter et réserver.",
+  "Entre-temps, dans une grande poêle, mettre le poulet et la sauce béchamel, puis faire chauffer à feu doux tout en remuant. Ajouter le persil. Saler et poivrer. Réserver.",
+  "Graisser 4 petits plats allant au four ou un moule carré allant au four, de 23 cm (9 po) de côté, et y déposer les pâtes. Napper de la sauce au poulet, parsemer de chapelure et de parmesan.",
+  "Faire cuire au four environ 20 minutes, ou jusqu'à ce que la préparation bouillonne et que le dessus soit doré."
+]
+},
+
+{"id": 7476, "livreId": 35, "titre": "Sauce à spaghetti au poulet", "page": 100, "categorie": "Sauce, Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Sauce-a-spaghetti-au-poulet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "15 mL (1 c. à s.) d'huile végétale",
+  "4 oignons, hachés finement",
+  "2 branches de céleri, coupées en dés",
+  "2 carottes, coupées en dés",
+  "2 poivrons verts coupés en dés",
+  "500 g (1 lb) de champignons tranchés",
+  "1 kg (2 lb) de poulet haché, cru",
+  "3 gousses d'ail, dégermées et hachées finement",
+  "1 boîte (1,36 L/48 oz) de jus de tomate",
+  "2 boîtes (540 mL/19 oz chacune) de tomates italiennes, en dés",
+  "1 boîte (157 mL/10 oz) de pâte de tomates",
+  "300 g (10 oz) d'épinards frais, hachés",
+  "2 mL (½ c. à thé) de thym séché",
+  "2 mL (½ c. à thé) d'origan séché",
+  "2 mL (½ c. à thé) de marjolaine séchée",
+  "2 mL (½ c. à thé) de piment fort",
+  "2 feuilles de laurier",
+  "15 mL (1 c. à s.) de sucre",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans une casserole, faire chauffer l'huile et y faire revenir les oignons, le céleri, les carottes, les poivrons et les champignons, jusqu'à ce qu'ils soient tendres. Remuer de temps à autre.",
+  "Ajouter le poulet et poursuivre la cuisson 7 à 8 minutes, tout en remuant. Incorporer le reste des ingrédients et faire cuire à feu doux 2 heures à 2½ heures, en remuant de temps à autre.",
+  "Note : lorsque la sauce est bien refroidie, on peut la congeler en portions individuelles ou familiales."
+]
+},
+
+{"id": 7477, "livreId": 35, "titre": "Sauté de poulet à l'orange et aux amandes", "page": 94, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Saute-de-poulet-a-l-orange.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "5 mL (1 c. à thé) de fécule de maïs",
+  "125 mL (½ tasse) de jus d'orange",
+  "30 mL (2 c. à s.) d'huile végétale",
+  "500 g (1 lb) de lanières de poitrine ou de haut de cuisse de poulet",
+  "1 oignon, tranché finement",
+  "2 carottes, tranchées",
+  "1 branche de céleri, tranchée finement",
+  "250 mL (1 tasse) de bouquets de brocoli",
+  "50 mL (¼ tasse) de bouillon de poulet",
+  "15 mL (1 c. à s.) de zeste d'orange râpé",
+  "30 mL (2 c. à s.) d'amandes grillées",
+  "Sel et poivre",
+  "Riz vapeur"
+],
+"preparation": [
+  "Délayer la fécule de maïs dans le jus d'orange ; réserver.",
+  "Dans un wok ou dans une grande poêle profonde, faire chauffer l'huile à feu moyen-vif et y faire sauter le poulet 5 minutes. Retirer de la poêle et réserver.",
+  "Dans le wok, faire sauter l'oignon, les carottes et le céleri 2 minutes. Ajouter le brocoli et le bouillon de poulet. Couvrir et poursuivre la cuisson 3 à 4 minutes, ou jusqu'à ce que les légumes soient tendres et encore croquants.",
+  "Remettre le poulet dans le wok. Ajouter le jus et le zeste d'orange ; saler et poivrer. Faire cuire environ 1 minute, ou jusqu'à ce que la sauce épaississe.",
+  "Parsemer d'amandes et servir avec du riz vapeur."
+]
+},
+
+{"id": 7478, "livreId": 35, "titre": "Suprêmes de poulet panés aux flocons de maïs", "page": 96, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Supremes-de-poulet-panes.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "4 demi-poitrines de poulet, désossées (500 g/1 lb)",
+  "125 mL (½ tasse) de farine tout usage",
+  "2 œufs, battus",
+  "625 mL (2½ tasses) de flocons de maïs écrasés",
+  "5 mL (1 c. à thé) d'huile végétale",
+  "Sel et poivre"
+],
+"preparation": [
+  "Préchauffer le four à 200 °C (400 °F).",
+  "Saler et poivrer les demi-poitrines. Les enrober ensuite de farine, puis d'œufs battus. Les paner avec les flocons de maïs écrasés.",
+  "Déposer le poulet sur une plaque à pâtisserie huilée et faire cuire au four 20 minutes, ou jusqu'à ce que le jus qui s'écoule de la viande soit clair.",
+  "Servir avec une purée de pommes de terre et des légumes, si désiré."
+]
+},
+
+{"id": 7479, "livreId": 35, "titre": "Tourtière au poulet et au porc hachés", "page": 99, "categorie": "Pâté", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Tourtiere-au-poulet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "15 mL (1 c. à s.) de beurre",
+  "1 oignon, haché",
+  "250 g (½ lb) de poulet haché, cru",
+  "250 g (½ lb) de porc haché, cru",
+  "1 mL (¼ c. à thé) de clou de girofle moulu",
+  "1 mL (¼ c. à thé) de muscade moulue",
+  "75 mL (⅓ tasse) de bouillon de poulet",
+  "2 abaisses de pâte brisée de 20 cm (8 po) de diamètre chacune",
+  "1 œuf, battu",
+  "Sel et poivre"
+],
+"preparation": [
+  "Préchauffer le four à 200 °C (400 °F).",
+  "Dans une casserole, faire fondre le beurre et y faire revenir l'oignon à feu moyen 4 à 5 minutes. Ajouter le poulet et le porc ; saler et poivrer et faire cuire 6 à 8 minutes, ou jusqu'à ce que la chair ne soit plus rosée.",
+  "Incorporer le clou de girofle et la muscade, puis mouiller avec le bouillon de poulet. Poursuivre la cuisson jusqu'à ce que la viande ait absorbé tout le liquide. Retirer du feu.",
+  "Garnir un moule à tarte d'une abaisse de pâte et badigeonner les bords d'œuf battu.",
+  "Égoutter la viande de son gras de cuisson, puis la déposer dans l'abaisse. Couvrir de l'autre abaisse et appuyer sur le bord pour coller les abaisses l'une à l'autre.",
+  "Perforer le centre de la tourtière avec la pointe d'un couteau, puis badigeonner la surface d'œuf battu.",
+  "Faire cuire au four 20 à 25 minutes, ou jusqu'à ce que la pâte soit bien dorée.",
+  "Servir avec des légumes et du ketchup aux tomates maison, si désiré."
+]
+},
+
 {"id": 7480, "livreId": 35, "titre": "Babas au rhum", "page": 174, "categorie": "Desserts savoureux", "ingredientPrincipal": "rhum", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7481, "livreId": 35, "titre": "Brownies", "page": 172, "categorie": "Desserts savoureux", "ingredientPrincipal": "chocolat", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7482, "livreId": 35, "titre": "Clafoutis aux cerises", "page": 189, "categorie": "Desserts savoureux", "ingredientPrincipal": "cerises", "image": null, "favori": false, "statut": "À indexer"},
@@ -60,40 +1027,804 @@
 {"id": 7492, "livreId": 35, "titre": "Surprises aux pommes", "page": 180, "categorie": "Desserts savoureux", "ingredientPrincipal": "pommes", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7493, "livreId": 35, "titre": "Tarte aux fruits", "page": 177, "categorie": "Desserts savoureux", "ingredientPrincipal": "fruits", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7494, "livreId": 35, "titre": "Tartelettes à l'érable et aux noix", "page": 178, "categorie": "Desserts savoureux", "ingredientPrincipal": "érable", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7495, "livreId": 35, "titre": "Émincé de poulet façon Stroganoff", "page": 107, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 7495, "livreId": 35, "titre": "Émincé de poulet façon Stroganoff", "page": 107, "categorie": "Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Emince-de-poulet-facon-stroganoff.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "10 mL (2 c. à thé) de beurre",
+  "10 mL (2 c. à thé) d'huile d'olive",
+  "750 g (1½ lb) de lanières de poitrine ou de haut de cuisse de poulet",
+  "125 mL (½ tasse) d'oignons hachés",
+  "125 mL (½ tasse) de champignons blancs coupés en quartiers",
+  "45 mL (3 c. à s.) de paprika",
+  "15 mL (1 c. à s.) de thym frais haché ou 2 mL (½ c. à thé) de thym séché",
+  "50 mL (¼ tasse) de vin blanc sec",
+  "175 mL (¾ tasse) de bouillon de poulet",
+  "125 mL (½ tasse) de crème sure",
+  "50 mL (¼ tasse) de ciboulette ciselée",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans une poêle, faire chauffer le beurre et l'huile à feu moyen-vif et y faire cuire les lanières de poulet 6 à 8 minutes, ou jusqu'à ce que la chair ne soit plus rosée à l'intérieur. Saler et poivrer. Réserver.",
+  "Dans la même poêle, faire cuire les oignons et les champignons 3 à 4 minutes. Parsemer de paprika et de thym.",
+  "Mouiller avec le vin, mélanger et ajouter le bouillon de poulet. Porter à ébullition et faire cuire 3 à 4 minutes. Réduire le feu à doux et incorporer la crème sure et le poulet. Servir avec des pâtes, si désiré, et garnir de ciboulette."
+]
+},
+
 {"id": 7496, "livreId": 35, "titre": "Escalopes de poulet à la dijonnaise", "page": 148, "categorie": "Plats pour les grandes occasions", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7497, "livreId": 35, "titre": "Filo de poulet et de brie", "page": 18, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7498, "livreId": 35, "titre": "Focaccia au poulet et aux poivrons grillés", "page": 78, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7499, "livreId": 35, "titre": "Hamburger endiablé", "page": 75, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7500, "livreId": 35, "titre": "Mini-gratins", "page": 29, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7501, "livreId": 35, "titre": "Mini-pizzas au poulet grillé", "page": 24, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7502, "livreId": 35, "titre": "Pâté de foies de poulet aux fines herbes", "page": 25, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7503, "livreId": 35, "titre": "Pâté de foies de poulet aux pommes", "page": 34, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7504, "livreId": 35, "titre": "Petits choux farcis au poulet", "page": 26, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7505, "livreId": 35, "titre": "Rouleaux de printemps au poulet et aux crevettes", "page": 36, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7506, "livreId": 35, "titre": "Tartelettes au poulet, aux poivrons et à la mozzarella", "page": 20, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7507, "livreId": 35, "titre": "Lasagne au poulet", "page": 93, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 7497, "livreId": 35, "titre": "Filo de poulet et de brie", "page": 18, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Filo-de-poulet-et-de-brie.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 blanc de poireau, coupé en fine julienne",
+  "300 g (⅔ lb) de poulet haché, cru",
+  "1 échalote sèche, hachée finement",
+  "50 mL (¼ tasse) de fenouil haché",
+  "1 gousse d'ail, dégermée et hachée finement",
+  "175 g (⅓ lb) de fromage brie sans croûte, coupé en morceaux",
+  "8 feuilles de menthe hachées ou 5 mL (1 c. à thé) de menthe séchée",
+  "125 mL (½ tasse) de beurre fondu ou clarifié",
+  "9 feuilles de pâte filo",
+  "Sel et poivre"
+],
+"preparation": [
+  "Préchauffer le four à 200 °C (400 °F).",
+  "À la marguerite, faire cuire la julienne de poireau 10 minutes. Bien égoutter.",
+  "Au mélangeur électrique ou au robot culinaire, bien mélanger le poireau, le poulet, l'échalote, le fenouil, l'ail, le brie et la menthe. Saler et poivrer ; réserver.",
+  "À l'aide d'un pinceau, badigeonner de beurre fondu une feuille de pâte filo. Déposer une autre feuille de pâte sur la première, la badigeonner de beurre et couvrir d'une troisième feuille.",
+  "Découper les 3 feuilles superposées en 4 et, au centre de chacune des sections de pâte, déposer 50 mL (¼ tasse) du mélange au poulet. Replier ensuite la pâte pour former un petit baluchon, puis badigeonner de beurre.",
+  "Avec le reste des feuilles de pâte filo et du mélange au poulet, répéter l'étape précédente pour former un total de 6 baluchons.",
+  "Déposer sur une plaque à pâtisserie beurrée et faire cuire au four 20 à 25 minutes, ou jusqu'à ce que la pâte soit bien dorée.",
+  "Servir aussitôt accompagné d'une salade verte."
+]
+},
+
+{"id": 7498, "livreId": 35, "titre": "Focaccia au poulet et aux poivrons grillés", "page": 78, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Focaccia-au-poulet-et-au-poivron-grilles.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "2 demi-poitrines de poulet, désossées (250 g/½ lb)",
+  "75 mL (⅓ tasse) d'huile d'olive",
+  "30 mL (2 c. à s.) de jus de citron",
+  "15 mL (1 c. à s.) de vinaigre de vin blanc",
+  "15 mL (1 c. à s.) de basilic frais haché finement ou 5 mL (1 c. à thé) de basilic séché",
+  "1 gousse d'ail, dégermée et hachée finement",
+  "2 mL (½ c. à thé) de moutarde forte style Dijon",
+  "2 mL (½ c. à thé) de sucre granulé",
+  "2 poivrons rouges",
+  "1 focaccia de 40 × 30 cm (16 × 12 po)",
+  "Poivre fraîchement moulu",
+  "Feuilles de basilic"
+],
+"preparation": [
+  "Préchauffer le barbecue à intensité moyenne.",
+  "Mettre le poulet dans un sac en plastique à fermeture hermétique.",
+  "Dans un bol, bien mélanger l'huile d'olive, le jus de citron, le vinaigre, le basilic, l'ail, la moutarde, le sucre et le poivre. Verser la moitié de ce mélange sur le poulet. Réserver l'autre moitié. Faire sortir l'air du sac, puis le fermer hermétiquement. Laisser mariner au moins 30 minutes, au réfrigérateur.",
+  "Entre-temps, faire griller les poivrons au barbecue, jusqu'à ce que la peau soit boursouflée et carbonisée. Les déposer dans un sac de papier, fermer le sac et laisser reposer 10 minutes.",
+  "Peler les poivrons, les couper en 4 et les évider. Réserver.",
+  "Égoutter le poulet ; jeter la marinade. Déposer le poulet sur la grille huilée du barbecue, à environ 12 cm (5 po) du feu. Faire griller à feu moyen-vif environ 7 minutes de chaque côté, ou jusqu'à ce que le jus qui s'écoule de la viande soit clair. En début de cuisson, badigeonner le poulet avec la marinade réservée. Le laisser refroidir, puis le couper en fines tranches.",
+  "Couper la focaccia en 4, puis chaque morceau en 2 pour former 2 tranches. Sur 4 tranches, répartir le poulet, les poivrons et le basilic. Couvrir d'une tranche de focaccia et servir aussitôt."
+]
+},
+
+{"id": 7499, "livreId": 35, "titre": "Hamburger endiablé", "page": 75, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Pain-de-seigle-au-poulet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "125 mL (½ tasse) de mayonnaise",
+  "15 mL (1 c. à s.) de moutarde à l'ancienne ou de moutarde forte style Dijon",
+  "1 oignon vert, haché",
+  "30 mL (2 c. à s.) de ciboulette fraîche hachée",
+  "30 mL (2 c. à s.) de persil frais haché",
+  "12 tranches de pain de seigle, grillées",
+  "½ concombre anglais, tranché finement",
+  "6 demi-poitrines de poulet, cuites et tranchées (750 g/1½ lb)",
+  "250 g (½ lb) de fromage cheddar, tranché",
+  "6 feuilles de laitue Boston",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans un bol, mélanger la mayonnaise, la moutarde, l'oignon vert, la ciboulette, le persil, le sel et le poivre.",
+  "Tartiner 12 tranches de pain de seigle de ce mélange. En garnir 6 de concombre, de poulet, de fromage et de laitue. Couvrir d'une tranche de pain de seigle et servir aussitôt."
+]
+},
+
+{"id": 7500, "livreId": 35, "titre": "Mini-gratins", "page": 29, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Mini-gratins.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "4 tranches de tomate, coupées en 4",
+  "125 mL (½ tasse) de poulet cuit haché",
+  "2 oignons verts, hachés",
+  "5 mL (1 c. à thé) de basilic ou d'estragon séché",
+  "4 œufs",
+  "50 mL (¼ tasse) de crème à 35 % ou de crème sure",
+  "Beurre",
+  "Fromage parmesan râpé",
+  "Sel et poivre"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Beurrer 4 ramequins ou un petit plat en pyrex, puis les saupoudrer de parmesan.",
+  "Répartir les morceaux de tomate, le poulet et l'oignon vert entre les 4 ramequins. Saler, poivrer et parsemer de basilic. Garnir de crème.",
+  "Casser un œuf sur chaque préparation, puis saupoudrer de parmesan.",
+  "Faire cuire au four 10 à 15 minutes, ou jusqu'à ce que les œufs soient cuits."
+]
+},
+
+{"id": 7501, "livreId": 35, "titre": "Mini-pizzas au poulet grillé", "page": 24, "categorie": "Entrées et hors-d'oeuvre, pizza, Poulet", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Mini-pizzas-au-poulet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "250 g (½ lb) de poitrine de poulet, désossée",
+  "50 mL (¼ tasse) de vinaigrette italienne",
+  "1 poivron rouge",
+  "1 courgette",
+  "1 tomate",
+  "1 oignon",
+  "2 abaisses de pâte à pizza précuites, de 18 cm (7 po) de diamètre chacune",
+  "250 mL (1 tasse) de fromage mozzarella ou fontina râpé",
+  "50 mL (¼ tasse) de basilic frais haché"
+],
+"preparation": [
+  "Préchauffer le barbecue à intensité moyenne. Faire mariner le poulet dans la vinaigrette italienne pendant quelques minutes. Éponger avec du papier absorbant et faire cuire au barbecue 5 à 7 minutes de chaque côté, ou jusqu'à ce que la chair ne soit plus rosée à l'intérieur. Laisser refroidir. Couper en lanières et réserver.",
+  "Pendant ce temps, faire griller le poivron de tous les côtés jusqu'à ce que la peau soit noircie. Le laisser refroidir dans un sac de papier, puis le peler et retirer la membrane et les graines. Le couper en lanières et réserver.",
+  "Couper la courgette en lanières. Les faire griller de chaque côté de 1 à 2 minutes, puis les couper encore en tronçons de 2,5 cm (1 po). Réserver.",
+  "Tailler la tomate en cubes et hacher l'oignon. Garnir les abaisses de pâte à pizza de tomate et d'oignon, puis de poulet et de courgette. Parsemer de fromage et de basilic, puis décorer de lanières de poivron rouge.",
+  "Faire cuire les pizzas au barbecue à feu moyen-vif 2 à 3 minutes, ou jusqu'à ce que le dessous de la croûte soit bien doré. Placer les pizzas sur une plaque à pâtisserie, la déposer sur le barbecue et refermer le couvercle. Faire cuire 5 minutes, ou jusqu'à ce que le fromage bouillonne et que la croûte soit croustillante.",
+  "Couper les pizzas en 4 parts et servir aussitôt."
+]
+},
+
+{"id": 7502, "livreId": 35, "titre": "Pâté de foies de poulet aux fines herbes", "page": 25, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Pate-de-foies-de-poulet-aux-fines-herbes.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "375 mL (1½ tasse) de beurre ramolli",
+  "1 oignon, haché",
+  "1 ou 2 gousses d'ail, dégermées et hachées",
+  "500 g (1 lb) de foies de poulet parés",
+  "5 mL (1 c. à thé) de chacune des fines herbes fraîches suivantes : thym, ciboulette, marjolaine, estragon",
+  "45 mL (3 c. à s.) de porto ou de sherry (facultatif)"
+],
+"preparation": [
+  "Dans une poêle, faire fondre 75 mL (⅓ tasse) de beurre et y faire revenir l'oignon à feu doux jusqu'à ce qu'il soit mou et transparent. Ajouter l'ail et poursuivre la cuisson quelques minutes. Réserver.",
+  "Dans la même poêle, à feu moyen-vif, faire sauter les foies de poulet jusqu'à ce qu'ils soient à peine rosés à l'intérieur, environ 5 minutes.",
+  "Au mélangeur électrique ou au robot culinaire, réduire en purée les foies de poulet, le mélange à l'oignon et le reste du beurre. Ajouter les fines herbes et le porto, si désiré. Bien mélanger.",
+  "Tasser la préparation dans une terrine de 1 litre (4 tasses) ou dans des ramequins. Réfrigérer pendant une journée avant de servir."
+]
+},
+
+{"id": 7503, "livreId": 35, "titre": "Pâté de foies de poulet aux pommes", "page": 34, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Pate-de-foies-de-poulet-aux-pommes.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "125 mL (½ tasse) de beurre",
+  "1 gros oignon, haché",
+  "2 gousses d'ail, dégermées et écrasées",
+  "2 pommes moyennes, pelées, évidées et hachées",
+  "500 g (1 lb) de foies de poulet",
+  "50 mL (¼ tasse) de calvados, de cognac ou de jus de pomme",
+  "5 mL (1 c. à thé) de moutarde forte style Dijon",
+  "5 mL (1 c. à thé) de thym séché",
+  "2 mL (½ c. à thé) de muscade",
+  "2 mL (½ c. à thé) de sel",
+  "1 mL (¼ c. à thé) de poivre",
+  "0,5 mL (⅛ c. à thé) de poivre de Cayenne"
+],
+"preparation": [
+  "Dans une grande poêle, faire fondre 30 mL (2 c. à s.) de beurre et y faire cuire l'oignon à feu moyen environ 10 minutes, ou jusqu'à ce qu'il soit mou.",
+  "Ajouter l'ail et les pommes ; tout en remuant, poursuivre la cuisson 3 à 5 minutes jusqu'à ce que les pommes soient tendres. Déposer dans le contenant du robot culinaire ou du mélangeur électrique.",
+  "Dans la même poêle, faire cuire les foies de poulet 5 minutes, à feu moyen, dans 30 mL (2 c. à s.) de beurre, tout en remuant.",
+  "Ajouter le calvados, couvrir et faire cuire à feu moyen environ 5 minutes, ou jusqu'à ce que les foies aient perdu leur couleur rosée.",
+  "Déposer les foies et le liquide de cuisson dans le contenant du robot culinaire. Ajouter le reste du beurre, la moutarde, le thym, la muscade, le sel et le poivre ainsi que le poivre de Cayenne. Réduire en purée. Tasser dans une terrine et réfrigérer pendant une journée.",
+  "Servir avec du pain frais ou des biscottes."
+]
+},
+
+{"id": 7504, "livreId": 35, "titre": "Petits choux farcis au poulet", "page": 26, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Petits-choux-farcis-au-poulet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 chou de Savoie de taille moyenne",
+  "3 tranches de pain de blé entier, sans croûte",
+  "125 mL (½ tasse) de lait",
+  "500 g (1 lb) de poulet haché, cru",
+  "1 gousse d'ail, dégermée et hachée finement",
+  "1 œuf",
+  "1 échalote sèche, hachée",
+  "5 mL (1 c. à thé) de graines d'aneth concassées",
+  "3 champignons, hachés",
+  "Sel et poivre"
+],
+"preparation": [
+  "Préchauffer le four à 200 °C (400 °F).",
+  "Détacher 6 feuilles de chou et les faire blanchir dans de l'eau bouillante salée pendant 2 minutes. Égoutter. Retirer la côte centrale des feuilles et réserver les feuilles.",
+  "Dans un bol, faire tremper le pain dans le lait, 1 à 2 minutes, de façon à le ramollir. Y ajouter le poulet, l'ail, l'œuf, l'échalote, l'aneth et les champignons ; saler et poivrer. Bien mélanger tous les ingrédients.",
+  "Déposer environ 75 mL (⅓ tasse) de mélange au poulet sur chaque feuille. Replier la feuille sur le mélange et former des rouleaux.",
+  "Déposer les 6 rouleaux dans un plat allant au four. Ajouter 250 mL (1 tasse) d'eau chaude, couvrir et faire cuire au four 40 minutes.",
+  "Servir avec du ketchup aux tomates maison ou tout autre condiment de votre choix."
+]
+},
+
+{"id": 7505, "livreId": 35, "titre": "Rouleaux de printemps au poulet et aux crevettes", "page": 36, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Rouleaux-de-printemps.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "SAUCE",
+  "50 mL (¼ tasse) de jus de citron ou de lime",
+  "50 mL (¼ tasse) de sauce de poisson nuoc mam",
+  "15 mL (1 c. à s.) de vinaigre de riz",
+  "15 mL (1 c. à s.) de sucre",
+  "5 mL (1 c. à thé) de gingembre frais haché finement (facultatif)",
+  "1 gousse d'ail, dégermée et hachée finement",
+  "1 pincée de poivre de Cayenne (facultatif)",
+  "ROULEAUX",
+  "120 g (4 oz) de vermicelles de riz",
+  "12 feuilles de pâte à rouleaux de printemps, de 20 cm (8 po) de diamètre chacune",
+  "18 grosses crevettes cuites, coupées en 2 dans le sens de la longueur",
+  "250 mL (1 tasse) de poulet cuit coupé en dés",
+  "250 mL (1 tasse) de fèves germées",
+  "1 concombre, pelé, épépiné et râpé",
+  "1 carotte, pelée et râpée finement",
+  "Feuilles de laitue ciselées finement",
+  "Feuilles de coriandre ou de menthe fraîche entières"
+],
+"preparation": [
+  "Dans un bol, mélanger tous les ingrédients de la sauce jusqu'à l'obtention d'une consistance homogène, puis laisser reposer environ 30 minutes.",
+  "Pour préparer les rouleaux, faire tremper les vermicelles de riz dans de l'eau chaude, environ 10 minutes. Les faire cuire quelques minutes dans de l'eau bouillante, jusqu'à ce qu'ils soient tendres. Les rincer à l'eau froide et les égoutter.",
+  "Une à une, faire tremper les feuilles de pâte à rouleaux de printemps dans de l'eau chaude, jusqu'à ce qu'elles soient réhydratées. Les retirer de l'eau et les déposer sur une planche de travail.",
+  "Sur chaque feuille de pâte, déposer 3 demi-crevettes bout à bout, un peu de poulet, de fèves germées, de concombre, de carotte, de laitue et des vermicelles de riz. Garnir de quelques feuilles de coriandre.",
+  "Délicatement, replier d'abord un côté et ensuite une extrémité de la pâte sur la préparation, puis former un rouleau en enveloppant les ingrédients dans la pâte. Garder les rouleaux sous un linge humide frais, au réfrigérateur.",
+  "Passer la sauce au tamis et servir à la température ambiante avec les rouleaux de printemps froids.",
+  "Note : on peut aussi farcir les rouleaux d'oignons verts en julienne, de champignons en fines tranches, de poivron rouge ou jaune émincé, ou de chou vert finement haché."
+]
+},
+
+{"id": 7506, "livreId": 35, "titre": "Tartelettes au poulet, aux poivrons et à la mozzarella", "page": 20, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Tartelettes-au-poulet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 g (1 lb) de poulet haché, cru",
+  "50 mL (¼ tasse) d'oignon haché finement",
+  "50 mL (¼ tasse) de poivron rouge haché finement",
+  "30 mL (2 c. à s.) de tomates séchées hachées finement",
+  "10 mL (2 c. à thé) de basilic séché",
+  "500 mL (2 tasses) de fromage mozzarella râpé finement",
+  "24 abaisses de tartelettes"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Dans une poêle à revêtement antiadhésif, faire cuire le poulet à feu moyen-vif en remuant, jusqu'à ce qu'il ne soit plus rosé. Ajouter l'oignon, le poivron, les tomates séchées et le basilic. Poursuivre la cuisson en remuant, jusqu'à ce que les oignons soient tendres.",
+  "Retirer du feu et laisser refroidir.",
+  "Incorporer le fromage mozzarella au mélange au poulet refroidi, puis remplir les tartelettes.",
+  "Faire cuire au four 20 à 25 minutes, ou jusqu'à ce que la pâte soit dorée et que la préparation bouillonne."
+]
+},
+
+{"id": 7507, "livreId": 35, "titre": "Lasagne au poulet", "page": 93, "categorie": "Cuisine pour tous les jours", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Lasagne-au-poulet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "SAUCE À LA VIANDE",
+  "500 g (1 lb) de poulet haché, cru",
+  "2 oignons, hachés",
+  "2 gousses d'ail, dégermées et hachées finement",
+  "10 mL (2 c. à thé) de basilic séché",
+  "10 mL (2 c. à thé) d'origan séché",
+  "375 mL (1½ tasse) de champignons tranchés",
+  "1 boîte (156 mL/5½ oz) de pâte de tomates",
+  "1 boîte (510 mL/18 oz) de sauce tomate",
+  "250 mL (1 tasse) d'eau",
+  "5 mL (1 c. à thé) de sucre",
+  "Sel et poivre",
+  "LASAGNE",
+  "500 g (1 lb) de fromage cottage",
+  "2 œufs, battus",
+  "125 mL (½ tasse) de fromage parmesan râpé",
+  "9 lasagnes prêtes à cuire au four",
+  "250 g (½ lb) de fromage mozzarella tranché"
+],
+"preparation": [
+  "Dans une grande poêle à revêtement antiadhésif, faire cuire à feu moyen-vif, en remuant bien, le poulet haché, les oignons, l'ail, le basilic et l'origan, jusqu'à ce que la chair du poulet ne soit plus rosée.",
+  "Ajouter le reste des ingrédients de la sauce. Saler et poivrer. Laisser mijoter 30 minutes.",
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Dans un bol, mélanger le fromage cottage, les œufs battus et le fromage parmesan.",
+  "Dans un moule de 23 × 33 cm (9 × 13 po) allant au four, étaler le quart de la sauce à la viande. Couvrir de 3 lasagnes. Napper d'un quart de la sauce, garnir de la moitié du mélange au fromage et du tiers des tranches de mozzarella.",
+  "Couvrir de 3 autres lasagnes et répéter les couches de sauce et de mozzarella. Faire cuire au four 30 minutes, ou jusqu'à ce que les pâtes soient tendres et le fromage fondu."
+]
+},
+
 {"id": 7508, "livreId": 35, "titre": "Marinade à l'orange et au sésame", "page": 162, "categorie": "Marinades", "ingredientPrincipal": "orange", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7509, "livreId": 35, "titre": "Marinade à l'orientale", "page": 163, "categorie": "Marinades", "ingredientPrincipal": "épices", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7510, "livreId": 35, "titre": "Marinade à la bière rousse", "page": 163, "categorie": "Marinades", "ingredientPrincipal": "bière", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7511, "livreId": 35, "titre": "Marinade à la dijonnaise", "page": 163, "categorie": "Marinades", "ingredientPrincipal": "moutarde", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7512, "livreId": 35, "titre": "Salade aux foies de poulet au citron", "page": 40, "categorie": "Salades", "ingredientPrincipal": "foies de poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7513, "livreId": 35, "titre": "Salade César au poulet", "page": 53, "categorie": "Salades", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7514, "livreId": 35, "titre": "Salade de carottes et de poulet", "page": 43, "categorie": "Salades", "ingredientPrincipal": "carottes", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7515, "livreId": 35, "titre": "Salade de pâtes et de poulet aux légumes grillés", "page": 50, "categorie": "Salades", "ingredientPrincipal": "pâtes", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7516, "livreId": 35, "titre": "Salade de poulet à la cantonaise", "page": 48, "categorie": "Salades", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7517, "livreId": 35, "titre": "Salade de poulet aux épinards et à la mangue", "page": 49, "categorie": "Salades", "ingredientPrincipal": "épinards", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7518, "livreId": 35, "titre": "Salade de poulet du Moyen-Orient", "page": 52, "categorie": "Salades", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7519, "livreId": 35, "titre": "Salade grecque au poulet", "page": 42, "categorie": "Salades", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7520, "livreId": 35, "titre": "Salade niçoise au poulet", "page": 46, "categorie": "Salades", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7521, "livreId": 35, "titre": "Verdure colorée à l'avocat et au poulet", "page": 45, "categorie": "Salades", "ingredientPrincipal": "avocat", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7522, "livreId": 35, "titre": "Bagels au poulet sauce à l'avocat", "page": 84, "categorie": "Sandwiches", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7523, "livreId": 35, "titre": "Paninis au poulet grillé et au pesto", "page": 83, "categorie": "Sandwiches", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7524, "livreId": 35, "titre": "Petites baguettes au poulet et au sésame", "page": 82, "categorie": "Sandwiches", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7525, "livreId": 35, "titre": "Pitas au poulet et au céleri-rave", "page": 76, "categorie": "Sandwiches", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7526, "livreId": 35, "titre": "Poulet en sandwich au fromage parmesan", "page": 77, "categorie": "Sandwiches", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7527, "livreId": 35, "titre": "Sandwich au poulet et au fromage bleu", "page": 80, "categorie": "Sandwiches", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7528, "livreId": 35, "titre": "Souvlaki", "page": 72, "categorie": "Sandwiches", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 7512, "livreId": 35, "titre": "Salade aux foies de poulet au citron", "page": 40, "categorie": "Salades", "ingredientPrincipal": "foies de poulet", "image": "livres/035-poulet-cent-facons/images/Salade-aux-foies-de-poulet-au-citron.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "VINAIGRETTE AU CITRON",
+  "10 mL (2 c. à thé) de zeste de citron râpé",
+  "50 mL (¼ tasse) de jus de citron",
+  "5 mL (1 c. à thé) de thym frais",
+  "125 mL (½ tasse) d'huile d'olive extra vierge",
+  "Sel et poivre",
+  "SALADE",
+  "1 L (4 tasses) de laitues mélangées : Boston, frisée, romaine, déchiquetées",
+  "4 tranches de bacon",
+  "500 g (1 lb) de foies de poulet parés",
+  "1 mL (¼ c. à thé) de poivre",
+  "375 mL (1½ tasse) de champignons en quartiers"
+],
+"preparation": [
+  "Dans un petit bol, mélanger tous les ingrédients de la vinaigrette, sauf l'huile. Ajouter l'huile peu à peu, en un mince filet, tout en fouettant vigoureusement. Réserver.",
+  "Mettre la laitue dans un grand bol.",
+  "Dans une poêle de taille moyenne, faire cuire le bacon à feu moyen-vif. L'égoutter sur du papier absorbant, l'émietter et réserver.",
+  "Retirer la graisse de bacon de la poêle, sauf 15 mL (1 c. à s.). Ajouter les foies de poulet et les faire cuire à feu moyen-vif 10 minutes. Poivrer. Retirer les foies de poulet de la poêle et réserver au chaud.",
+  "Dans la même poêle, faire cuire les champignons 5 minutes. Les ajouter ensuite aux foies de poulet.",
+  "Verser la moitié de la vinaigrette au citron sur les foies de poulet chauds et remuer délicatement. Verser le reste de la vinaigrette sur la laitue et remuer de nouveau.",
+  "Répartir la laitue entre 4 assiettes. Garnir du mélange aux foies de poulet chauds, parsemer de bacon et servir aussitôt."
+]
+},
+
+{"id": 7513, "livreId": 35, "titre": "Salade César au poulet", "page": 53, "categorie": "Salades", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Salade-cesar-au-poulet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 mL (2 tasses) de poulet cuit coupé en dés",
+  "2 tomates, coupées en quartiers",
+  "250 mL (1 tasse) de croûtons",
+  "8 tranches de bacon cuit, coupées en petits morceaux",
+  "1,5 L (6 tasses) de laitue romaine ciselée",
+  "30 mL (2 c. à s.) de persil frais haché",
+  "SAUCE",
+  "125 mL (½ tasse) de mayonnaise",
+  "2 gousses d'ail, dégermées et hachées finement",
+  "15 mL (1 c. à s.) de chacun des ingrédients suivants : pâte d'anchois, sauce Worcestershire, jus de citron, vinaigre de vin rouge",
+  "1 mL (¼ c. à thé) de sauce au piment Tabasco",
+  "50 mL (¼ tasse) d'huile d'olive",
+  "125 mL (½ tasse) de fromage parmesan râpé",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans un saladier, mélanger le poulet, les tomates, les croûtons, le bacon, la laitue et le persil.",
+  "Au mélangeur électrique ou au robot culinaire, mélanger tous les ingrédients de la sauce jusqu'à l'obtention d'une consistance crémeuse.",
+  "Verser sur la salade et remuer délicatement."
+]
+},
+
+{"id": 7514, "livreId": 35, "titre": "Salade de carottes et de poulet", "page": 43, "categorie": "Salades", "ingredientPrincipal": "carottes", "image": "livres/035-poulet-cent-facons/images/Salade-de-carottes-et-de-poulet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "750 mL (3 tasses) de poulet cuit coupé en cubes",
+  "500 mL (2 tasses) de carottes râpées",
+  "175 mL (¾ tasse) de quartiers d'orange ou de pomme",
+  "175 mL (¾ tasse) de raisins dorés secs",
+  "175 mL (¾ tasse) de yogourt nature ou de crème sure légère",
+  "5 mL (1 c. à thé) de jus de citron",
+  "5 mL (1 c. à thé) de miel",
+  "125 mL (½ tasse) d'amandes grillées",
+  "Feuilles de laitue frisée",
+  "Sel et poivre fraîchement moulu"
+],
+"preparation": [
+  "Dans un grand bol, mélanger le poulet, les carottes et les quartiers d'orange.",
+  "Dans un autre bol, faire tremper les raisins secs dans de l'eau bouillante 5 minutes. Les égoutter et les assécher avec du papier absorbant ; les incorporer au premier mélange.",
+  "Mélanger le yogourt, le jus de citron, le miel, le sel et le poivre. Bien incorporer à la préparation au poulet.",
+  "Servir sur des feuilles de laitue et parsemer d'amandes."
+]
+},
+
+{"id": 7515, "livreId": 35, "titre": "Salade de pâtes et de poulet aux légumes grillés", "page": 50, "categorie": "Salades", "ingredientPrincipal": "pâtes", "image": "livres/035-poulet-cent-facons/images/Salade-de-pates-et-de-poulet-aux-legumes.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "½ aubergine d'environ 250 g (½ lb)",
+  "2 courgettes",
+  "1 gros oignon",
+  "2 poivrons rouges",
+  "50 mL (¼ tasse) d'huile d'olive",
+  "1 gousse d'ail, dégermée et hachée finement",
+  "150 g (⅓ lb) de pâtes penne cuites, rincées et égouttées",
+  "500 mL (2 tasses) de poulet cuit coupé en dés",
+  "Sel et poivre",
+  "VINAIGRETTE",
+  "75 mL (⅓ tasse) de vinaigre balsamique",
+  "30 mL (2 c. à s.) de vinaigre de vin rouge",
+  "2 gousses d'ail, dégermées et hachées finement",
+  "5 mL (1 c. à thé) de moutarde forte",
+  "150 mL (⅔ tasse) d'huile d'olive",
+  "50 mL (¼ tasse) de basilic frais haché ou de persil frais haché",
+  "50 mL (¼ tasse) de ciboulette hachée ou d'oignons verts hachés",
+  "Sel et poivre"
+],
+"preparation": [
+  "Couper l'aubergine, les courgettes et l'oignon en tranches de 1 cm (½ po) d'épaisseur. Couper les poivrons en 2, retirer la membrane et les graines.",
+  "Mélanger l'huile, l'ail, le sel et le poivre ; bien en enrober les légumes.",
+  "Faire griller l'aubergine, les courgettes et l'oignon sur le gril 4 à 5 minutes, ou jusqu'à ce que les légumes soient dorés.",
+  "Faire griller les poivrons, le côté peau sur le gril, jusqu'à ce que celle-ci soit carbonisée. Laisser refroidir les poivrons, puis les peler.",
+  "Couper tous les légumes en morceaux d'environ 2,5 cm (1 po) de long. Les mettre dans un saladier. Ajouter les pâtes et le poulet.",
+  "Dans un petit bol, mélanger tous les ingrédients de la vinaigrette. Verser sur la salade et bien remuer."
+]
+},
+
+{"id": 7516, "livreId": 35, "titre": "Salade de poulet à la cantonaise", "page": 48, "categorie": "Salades", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Salade-de-poulet-cantonaise.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "30 mL (2 c. à s.) de gingembre frais haché",
+  "15 mL (1 c. à s.) d'huile de sésame",
+  "30 mL (2 c. à s.) d'huile végétale",
+  "30 mL (2 c. à s.) de sauce soya",
+  "15 mL (1 c. à s.) de jus de citron",
+  "500 mL (2 tasses) de poulet cuit coupé en dés",
+  "1 boîte (284 mL/10 oz) de châtaignes d'eau, égouttées, coupées en 4",
+  "4 oignons verts, hachés",
+  "1 concombre, coupé en 4 dans le sens de la longueur et tranché finement",
+  "½ poivron rouge, tranché finement",
+  "6 maïs miniatures, tranchés en 2",
+  "250 mL (1 tasse) de fèves germées hachées"
+],
+"preparation": [
+  "Dans un petit bol, mélanger le gingembre, l'huile de sésame, l'huile végétale, la sauce soya et le jus de citron. Saler et poivrer.",
+  "Dans un bol de taille moyenne, mélanger le reste des ingrédients.",
+  "Verser la sauce sur le mélange au poulet et remuer délicatement pour bien en enrober tous les ingrédients.",
+  "Note : on peut servir la salade sur un lit de laitue ou encore en farcir des tomates, des courgettes ou des poivrons verts évidés."
+]
+},
+
+{"id": 7517, "livreId": 35, "titre": "Salade de poulet aux épinards et à la mangue", "page": 49, "categorie": "Salades", "ingredientPrincipal": "épinards", "image": "livres/035-poulet-cent-facons/images/Salade-de-poulet-aux-epinard.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "750 mL (3 tasses) d'épinards frais, lavés et égouttés",
+  "50 mL (¼ tasse) de pignons grillés",
+  "½ mangue, pelée et coupée en morceaux",
+  "250 mL (1 tasse) de poulet cuit au barbecue et coupé en fines lanières",
+  "Estragon frais",
+  "VINAIGRETTE À L'ORANGE",
+  "1 gousse d'ail, dégermée et hachée finement",
+  "15 mL (1 c. à s.) de jus de citron",
+  "50 mL (¼ tasse) de jus d'orange fraîchement pressé",
+  "5 mL (1 c. à thé) de moutarde forte style Dijon",
+  "2 mL (½ c. à thé) de sucre",
+  "2 mL (½ c. à thé) de vinaigre de vin blanc",
+  "30 mL (2 c. à s.) d'huile d'olive",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans un bol, mélanger les épinards, les pignons et la mangue.",
+  "Dans un autre bol, mélanger les ingrédients de la vinaigrette, sauf l'huile. Ajouter l'huile peu à peu, en un mince filet, tout en fouettant vigoureusement.",
+  "Napper de vinaigrette le mélange aux épinards et bien remuer.",
+  "Répartir la salade entre 2 assiettes. Déposer le poulet sur la salade et garnir d'estragon frais."
+]
+},
+
+{"id": 7518, "livreId": 35, "titre": "Salade de poulet du Moyen-Orient", "page": 52, "categorie": "Salades", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Salade-de-poulet-du-moyen-orient.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 mL (2 tasses) de poulet cuit coupé en dés",
+  "500 mL (2 tasses) d'orge mondé cuit",
+  "5 mL (1 c. à thé) de cumin moulu",
+  "2 mL (½ c. à thé) de coriandre moulue",
+  "2 tomates de taille moyenne, épépinées et coupées en petits dés",
+  "30 mL (2 c. à s.) de jus de citron",
+  "30 mL (2 c. à s.) d'huile d'olive extra vierge",
+  "1 oignon vert, tranché",
+  "250 mL (1 tasse) de concombre coupé en petits dés",
+  "50 mL (¼ tasse) de persil frais haché finement",
+  "30 mL (2 c. à s.) de coriandre fraîche hachée finement"
+],
+"preparation": [
+  "Dans un grand bol, mélanger tous les ingrédients. Laisser refroidir au moins une heure au réfrigérateur.",
+  "Si désiré, servir sur des feuilles de laitue ou dans un pain pita garni de laitue hachée."
+]
+},
+
+{"id": 7519, "livreId": 35, "titre": "Salade grecque au poulet", "page": 42, "categorie": "Salades", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Salade-grecque-au-poulet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "3 pains pita, coupés en morceaux de 2,5 cm (1 po)",
+  "250 g (½ lb) de fromage feta",
+  "500 mL (2 tasses) de poulet cuit coupé en dés",
+  "1 concombre anglais, pelé, épépiné et coupé en dés",
+  "3 tomates, coupées en cubes",
+  "4 oignons verts, tranchés finement",
+  "1 petite laitue romaine, déchiquetée",
+  "VINAIGRETTE",
+  "30 mL (2 c. à s.) de jus de citron",
+  "30 mL (2 c. à s.) de vinaigre de vin rouge",
+  "2 mL (½ c. à thé) d'origan séché",
+  "50 mL (¼ tasse) d'huile d'olive",
+  "50 mL (¼ tasse) de persil frais haché",
+  "30 mL (2 c. à s.) de menthe fraîche hachée",
+  "Sel et poivre"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Placer les morceaux de pain pita sur une plaque à pâtisserie en une seule couche et les faire cuire au four environ 5 minutes.",
+  "Défaire le fromage feta en morceaux d'environ 1 cm (½ po).",
+  "Dans un saladier, mélanger le reste des ingrédients de la salade et ajouter le pain pita et le fromage feta.",
+  "Mélanger les ingrédients de la vinaigrette et verser sur la salade. Remuer délicatement pour bien enrober tous les ingrédients."
+]
+},
+
+{"id": 7520, "livreId": 35, "titre": "Salade niçoise au poulet", "page": 46, "categorie": "Salades", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Salade-nicoise-au-poulet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 g (1 lb) de poitrines ou hauts de cuisse de poulet, désossés",
+  "30 mL (2 c. à s.) d'huile d'olive",
+  "2 mL (½ c. à thé) de romarin frais haché",
+  "500 g (1 lb) de pommes de terre nouvelles, cuites, coupées en 2 et émincées",
+  "250 g (½ lb) de haricots verts, cuits 3 minutes",
+  "3 œufs durs, coupés en quartiers",
+  "3 tomates, coupées en quartiers",
+  "125 mL (½ tasse) d'olives noires dénoyautées",
+  "2 mL (½ c. à thé) d'estragon frais haché ou d'estragon séché",
+  "50 mL (¼ tasse) de basilic frais haché ou de persil frais haché",
+  "Sel et poivre",
+  "VINAIGRETTE",
+  "45 mL (3 c. à s.) de vinaigre de vin rouge",
+  "5 mL (1 c. à thé) de pâte d'anchois",
+  "2 gousses d'ail, dégermées et émincées",
+  "2 mL (½ c. à thé) de poivre",
+  "125 mL (½ tasse) d'huile d'olive"
+],
+"preparation": [
+  "Préchauffer le barbecue à intensité moyenne.",
+  "Éponger les poitrines de poulet avec du papier absorbant.",
+  "Dans un bol, mélanger l'huile, le romarin, le sel et le poivre.",
+  "Enrober le poulet de cette préparation, puis le faire griller au barbecue, à feu moyen, 5 à 7 minutes de chaque côté, ou jusqu'à ce que le poulet soit cuit. Laisser refroidir, puis couper en lanières.",
+  "Dans un saladier, dresser les pommes de terre au centre. Autour, disposer les haricots, puis les œufs et les tomates. Déposer le poulet sur les pommes de terre. Parsemer d'olives, d'estragon et de basilic.",
+  "Dans un bol, mélanger tous les ingrédients de la vinaigrette et verser sur la salade avant de servir."
+]
+},
+
+{"id": 7521, "livreId": 35, "titre": "Verdure colorée à l'avocat et au poulet", "page": 45, "categorie": "Salades", "ingredientPrincipal": "avocat", "image": "livres/035-poulet-cent-facons/images/Verdure-coloree-a-l-avocat.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "750 mL (3 tasses) de laitues mélangées : Boston, frisée, radicchio, endives",
+  "1 avocat, pelé et tranché",
+  "½ oignon rouge, coupé en rondelles",
+  "250 mL (1 tasse) de poulet cuit au barbecue et coupé en lanières",
+  "½ poivron rouge ou jaune, coupé en lanières",
+  "Noix de cajou ou amandes, grillées",
+  "VINAIGRETTE",
+  "125 mL (½ tasse) de yogourt nature",
+  "15 mL (1 c. à s.) de miel",
+  "15 mL (1 c. à s.) de basilic frais haché",
+  "Jus de ½ orange",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans un saladier, mettre tous les ingrédients de la salade.",
+  "Dans un bol, mélanger les ingrédients de la vinaigrette ; en napper la salade et bien remuer."
+]
+},
+
+{"id": 7522, "livreId": 35, "titre": "Bagels au poulet sauce à l'avocat", "page": 84, "categorie": "Sandwiches", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Bagels-au-poulet-sauce-a-l-avocat.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 g (1 lb) de poulet haché, cru",
+  "1 œuf",
+  "125 mL (½ tasse) de chapelure",
+  "2 mL (½ c. à thé) d'origan séché",
+  "2 mL (½ c. à thé) de paprika",
+  "2 mL (½ c. à thé) de zeste de citron râpé",
+  "1 gousse d'ail, dégermée et émincée",
+  "4 bagels, tranchés en 2",
+  "2 tomates, tranchées",
+  "250 mL (1 tasse) de champignons tranchés",
+  "Laitue romaine",
+  "Sel et poivre",
+  "SAUCE À L'AVOCAT",
+  "125 g (¼ lb) de fromage à la crème",
+  "2 avocats mûrs, pelés et dénoyautés",
+  "1 gousse d'ail, dégermée et hachée finement",
+  "125 mL (½ tasse) de yogourt nature",
+  "2 mL (½ c. à thé) de sauce au piment Tabasco (facultatif)",
+  "Jus de ½ citron"
+],
+"preparation": [
+  "Préchauffer le barbecue à intensité moyenne.",
+  "Mélanger le poulet, l'œuf, la chapelure, l'origan, le paprika, le zeste de citron et l'ail ; saler et poivrer. Façonner en 4 boulettes, puis les aplatir pour obtenir des galettes d'environ 10 cm (4 po) de diamètre de 2 cm (¾ po) d'épaisseur.",
+  "Sur la grille huilée du barbecue, faire cuire les galettes à feu moyen, 5 minutes de chaque côté, ou jusqu'à ce qu'elles soient bien cuites.",
+  "Entre-temps, bien mélanger tous les ingrédients de la sauce au mélangeur électrique ou au robot culinaire.",
+  "Sur chaque demi-bagel, déposer des tranches de tomate, des champignons, puis une galette de poulet. Napper de sauce à l'avocat, garnir de laitue et couvrir d'un demi-bagel pour former des sandwiches."
+]
+},
+
+{"id": 7523, "livreId": 35, "titre": "Paninis au poulet grillé et au pesto", "page": 83, "categorie": "Sandwiches", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Paninis-au-poulet-grille-et-au-pesto.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "2 demi-poitrines ou 4 hauts de cuisse de poulet, désossés (250 g/½ lb)",
+  "250 mL (1 tasse) de sauce pesto (voir recette p. 167)",
+  "2 ciabattas",
+  "10 tomates séchées",
+  "4 tranches de fromage provolone",
+  "Chicorée, en morceaux"
+],
+"preparation": [
+  "Faire mariner le poulet dans 175 mL (¾ tasse) de sauce pesto 1 heure au réfrigérateur.",
+  "Préchauffer le barbecue à intensité moyenne. Jeter la sauce dans laquelle le poulet a mariné. Sur la grille huilée, faire cuire le poulet 3 à 4 minutes de chaque côté, ou jusqu'à ce qu'il soit bien cuit.",
+  "Inciser les ciabattas dans le sens de la longueur et les ouvrir. Badigeonner l'intérieur de sauce pesto, puis garnir d'une rangée de tomates séchées. Trancher le poulet et le déposer sur les tomates. Ajouter le fromage et la chicorée.",
+  "Fermer les sandwiches et les faire griller au barbecue 2 minutes de chaque côté, tout en pressant fermement sur les sandwiches pour que le fromage fonde.",
+  "Note : on peut aussi faire cuire le poulet et les sandwiches à la poêle."
+]
+},
+
+{"id": 7524, "livreId": 35, "titre": "Petites baguettes au poulet et au sésame", "page": 82, "categorie": "Sandwiches", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Petites-baguettes-au-poulet-et-au-sesame.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "6 petites baguettes",
+  "30 mL (2 c. à s.) de vinaigre de vin rouge",
+  "5 mL (1 c. à thé) d'huile de sésame ou d'huile végétale",
+  "10 mL (2 c. à thé) de jus de citron",
+  "45 mL (3 c. à s.) de mayonnaise",
+  "750 mL (3 tasses) de poulet cuit coupé en cubes",
+  "75 mL (⅓ tasse) d'oignons verts émincés",
+  "2 mL (½ c. à thé) de graines de sésame",
+  "Sauce au piment Tabasco",
+  "Sel et poivre",
+  "Pousses de pois mange-tout ou germes de luzerne"
+],
+"preparation": [
+  "Inciser les baguettes dans le sens de la longueur et les ouvrir.",
+  "Dans un bol, bien mélanger le vinaigre, l'huile, le jus de citron et la mayonnaise. Ajouter le poulet, les oignons verts, les graines de sésame et quelques gouttes de sauce au piment Tabasco. Saler et poivrer. Bien mélanger.",
+  "Répartir la préparation au poulet entre les 6 baguettes, garnir de pousses de pois mange-tout et servir aussitôt."
+]
+},
+
+{"id": 7525, "livreId": 35, "titre": "Pitas au poulet et au céleri-rave", "page": 76, "categorie": "Sandwiches", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Pita-au-poulet-et-au-celeri-rave.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "30 mL (2 c. à s.) de crème sure",
+  "50 mL (¼ tasse) de mayonnaise",
+  "30 mL (2 c. à s.) d'estragon frais haché",
+  "2 mL (½ c. à thé) de graines de moutarde",
+  "375 mL (1½ tasse) de céleri-rave pelé et râpé",
+  "750 mL (3 tasses) de poulet cuit coupé en cubes",
+  "6 pains pita",
+  "6 feuilles de laitue",
+  "Sauce au piment Tabasco",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans un bol, mélanger la crème sure, la mayonnaise, l'estragon et quelques gouttes de sauce au piment Tabasco ; saler et poivrer.",
+  "Ajouter les graines de moutarde, le céleri-rave et le poulet. Bien mélanger pour obtenir une préparation homogène.",
+  "Ouvrir chaque pain pita et garnir l'intérieur d'une feuille de laitue, puis de la préparation au poulet."
+]
+},
+
+{"id": 7526, "livreId": 35, "titre": "Poulet en sandwich au fromage parmesan", "page": 77, "categorie": "Sandwiches", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Poulet-en-sandwich-au-fromage.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "4 demi-poitrines ou 8 hauts de cuisse de poulet, désossés (500 g/1 lb)",
+  "1 œuf",
+  "30 mL (2 c. à s.) d'eau",
+  "175 mL (¾ tasse) de chapelure",
+  "30 mL (2 c. à s.) de fromage parmesan râpé",
+  "2 mL (½ c. à thé) de paprika",
+  "4 tranches de pain de campagne",
+  "2 tomates, tranchées",
+  "50 mL (¼ tasse) d'aubergines marinées hachées",
+  "Huile d'olive extra vierge",
+  "Fromage parmesan râpé",
+  "Poivre"
+],
+"preparation": [
+  "Déposer le poulet entre 2 feuilles de papier ciré et l'aplatir en frappant doucement dessus avec un maillet.",
+  "Dans un petit bol peu profond, fouetter l'œuf et l'eau. Dans un autre bol peu profond, mélanger la chapelure, le parmesan, le paprika et le poivre.",
+  "Enrober le poulet du mélange liquide, puis le déposer dans le mélange sec et bien le paner. Le déposer dans un plat couvert de papier ciré. Réfrigérer environ 30 minutes.",
+  "Préchauffer le barbecue ou le gril du four à intensité moyenne.",
+  "Déposer le poulet sur la grille huilée du barbecue, à environ 12 cm (5 po) du feu. Le faire griller à feu moyen-vif 4 à 5 minutes de chaque côté, ou jusqu'à ce que le jus qui s'écoule de la viande soit clair.",
+  "Badigeonner d'huile les tranches de pain et les faire griller. Sur chaque tranche de pain, déposer des tranches de tomate et une demi-poitrine de poulet. Garnir d'aubergines et de fromage parmesan râpé. Servir chaud."
+]
+},
+
+{"id": 7527, "livreId": 35, "titre": "Sandwich au poulet et au fromage bleu", "page": 80, "categorie": "Sandwiches", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Sandwich-au-poulet-et-au-fromage-bleu.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 g (1 lb) de poulet haché, cru",
+  "125 mL (½ tasse) de chapelure",
+  "2 œufs, battus",
+  "30 mL (2 c. à s.) de sauce chili",
+  "30 mL (2 c. à s.) de persil séché",
+  "1 oignon, haché finement",
+  "2 mL (½ c. à thé) de poivre de Cayenne",
+  "8 tranches de pain pumpernickel",
+  "2 tomates, tranchées",
+  "250 mL (1 tasse) d'épinards hachés finement",
+  "SAUCE AU FROMAGE BLEU",
+  "175 mL (¾ tasse) de mayonnaise",
+  "1 oignon vert, haché",
+  "1 gousse d'ail, dégermée et hachée",
+  "1 mL (¼ c. à thé) de poivre noir",
+  "30 mL (2 c. à s.) de lait écrémé",
+  "100 g (3½ oz) de fromage bleu"
+],
+"preparation": [
+  "Préchauffer le gril du four.",
+  "Dans un bol, bien mélanger le poulet, la chapelure, les œufs, la sauce chili, le persil, l'oignon et le poivre de Cayenne. Façonner en 4 boulettes et bien les aplatir.",
+  "Déposer les galettes dans une lèchefrite bien huilée, puis les faire cuire à environ 15 cm (6 po) du gril, environ 5 minutes de chaque côté.",
+  "Entre-temps, au mélangeur électrique ou au robot culinaire, bien mélanger tous les ingrédients de la sauce.",
+  "Sur 4 tranches de pain, déposer des tranches de tomate et une galette de poulet. Napper de sauce, garnir d'épinards et couvrir d'une tranche de pain pour former des sandwiches."
+]
+},
+
+{"id": 7528, "livreId": 35, "titre": "Souvlaki", "page": 72, "categorie": "Sandwiches", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Souvlaki.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "30 mL (2 c. à s.) de jus de citron",
+  "30 mL (2 c. à s.) d'huile d'olive",
+  "1 mL (¼ c. à thé) de cumin moulu",
+  "1 mL (¼ c. à thé) d'origan séché",
+  "2 gousses d'ail, dégermées et hachées finement",
+  "500 g (1 lb) de poitrines ou hauts de cuisse de poulet, coupés en cubes",
+  "4 pains pita",
+  "2 tomates, coupées en dés",
+  "Sel et poivre",
+  "SAUCE",
+  "1 concombre anglais, pelé, épépiné et râpé",
+  "5 mL (1 c. à thé) de sel",
+  "125 mL (½ tasse) de yogourt nature",
+  "125 mL (½ tasse) de mayonnaise",
+  "30 mL (2 c. à s.) de menthe fraîche hachée",
+  "30 mL (2 c. à s.) de persil frais haché",
+  "2 gousses d'ail, dégermées et hachées finement",
+  "Quelques gouttes de sauce au piment Tabasco"
+],
+"preparation": [
+  "Dans un bol de taille moyenne, mélanger le jus de citron, l'huile d'olive, le cumin, l'origan, l'ail, le sel et le poivre. Bien en enrober les morceaux de poulet et les laisser mariner au réfrigérateur pendant au moins 30 minutes.",
+  "Entre-temps, préparer la sauce. Parsemer le concombre de sel. Laisser égoutter 15 minutes dans une passoire. Éponger délicatement avec du papier absorbant.",
+  "Mélanger tous les ingrédients de la sauce. Incorporer les concombres, assaisonner au goût et réserver.",
+  "Préchauffer le barbecue à intensité moyenne.",
+  "Répartir le poulet entre 4 brochettes. Le faire griller au barbecue à feu moyen-vif, 5 minutes de chaque côté, ou jusqu'à ce que le poulet soit bien cuit.",
+  "Retirer le poulet des brochettes et le placer sur les pains. Garnir de cubes de tomates, napper de sauce au concombre, former des rouleaux et servir chaud."
+]
+},
+
 {"id": 7529, "livreId": 35, "titre": "Sauce à l'oignon", "page": 142, "categorie": "Sauces", "ingredientPrincipal": "oignon", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7530, "livreId": 35, "titre": "Sauce à la viande", "page": 93, "categorie": "Sauces", "ingredientPrincipal": "viande", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7531, "livreId": 35, "titre": "Sauce au fromage bleu", "page": 80, "categorie": "Sauces", "ingredientPrincipal": "fromage bleu", "image": null, "favori": false, "statut": "À indexer"},
@@ -104,13 +1835,186 @@
 {"id": 7536, "livreId": 35, "titre": "Sauce barbecue traditionnelle", "page": 161, "categorie": "Sauces", "ingredientPrincipal": "sauce barbecue", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7537, "livreId": 35, "titre": "Sauce rosée", "page": 166, "categorie": "Sauces", "ingredientPrincipal": "tomate", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7538, "livreId": 35, "titre": "Sauce tomate", "page": 167, "categorie": "Sauces", "ingredientPrincipal": "tomate", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7539, "livreId": 35, "titre": "Soupe au poulet et à l'orge", "page": 67, "categorie": "Soupes", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7540, "livreId": 35, "titre": "Soupe au poulet et au riz", "page": 60, "categorie": "Soupes", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7541, "livreId": 35, "titre": "Soupe au poulet et aux tortellini", "page": 63, "categorie": "Soupes", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7542, "livreId": 35, "titre": "Soupe aux légumes", "page": 64, "categorie": "Soupes", "ingredientPrincipal": "légumes", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7543, "livreId": 35, "titre": "Soupe thaïlandaise", "page": 56, "categorie": "Soupes", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7544, "livreId": 35, "titre": "Soupe tonkinoise au poulet", "page": 62, "categorie": "Soupes", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7545, "livreId": 35, "titre": "Soupe vietnamienne", "page": 58, "categorie": "Soupes", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 7539, "livreId": 35, "titre": "Soupe au poulet et à l'orge", "page": 67, "categorie": "Soupes", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Soupe-au-poulet-et-a-l-orge.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1,5 L (6 tasses) de bouillon de poulet",
+  "1 carotte, pelée et tranchée",
+  "1 branche de céleri, tranchée",
+  "1 petit panais, pelé et coupé en cubes",
+  "1 courgette, coupée en cubes",
+  "2 pommes de terre, pelées et coupées en cubes",
+  "75 mL (⅓ tasse) d'orge mondé",
+  "2 brindilles de thym*",
+  "2 branches d'origan",
+  "2 tiges de persil",
+  "1 feuille de laurier",
+  "500 mL (2 tasses) de poulet cuit coupé en cubes",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans une casserole, porter le bouillon de poulet à ébullition, à feu moyen. Ajouter les légumes et l'orge.",
+  "Avec de la ficelle, nouer les fines herbes et le laurier, puis les mettre dans le bouillon. Saler et poivrer.",
+  "Laisser mijoter à feu doux environ 30 minutes, jusqu'à ce que les légumes et l'orge soient cuits. Retirer les fines herbes, ajouter le poulet et faire chauffer.",
+  "* On peut remplacer les fines herbes fraîches par 5 mL (1 c. à thé) de chacune des fines herbes séchées, qu'on enferme avec la feuille de laurier dans un coton fromage ou une cuillère à infusion."
+]
+},
+
+{"id": 7540, "livreId": 35, "titre": "Soupe au poulet et au riz", "page": 60, "categorie": "Soupes", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Veloute-de-brocoli.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "15 mL (1 c. à s.) de beurre",
+  "1 oignon, haché finement",
+  "250 mL (1 tasse) de poireau (les parties verte et blanche) haché",
+  "750 mL (3 tasses) de bouillon de poulet",
+  "250 mL (1 tasse) de brocoli (tiges et bouquets) haché",
+  "1 pomme de terre de taille moyenne, coupée en cubes",
+  "125 mL (½ tasse) de lait",
+  "30 mL (2 c. à s.) de ciboulette fraîche hachée ou de persil frais haché",
+  "2 mL (½ c. à thé) de moutarde en poudre (facultatif)",
+  "2 mL (½ c. à thé) de thym séché (facultatif)",
+  "Sel et poivre",
+  "Crème à 35 %",
+  "Ciboulette fraîche hachée"
+],
+"preparation": [
+  "Dans une grande casserole, faire fondre le beurre à feu moyen. Ajouter l'oignon et le poireau et les faire revenir jusqu'à ce qu'ils soient tendres.",
+  "Ajouter le bouillon de poulet, le brocoli et les cubes de pomme de terre. Porter à ébullition, couvrir et laisser mijoter à feu moyen jusqu'à ce que les légumes soient tendres.",
+  "Verser le tout dans un mélangeur électrique ou dans un robot culinaire et réduire en purée. Mettre la purée dans la casserole et incorporer le lait, 30 mL (2 c. à s.) de ciboulette, la moutarde et le thym. Saler et poivrer. Servir la soupe chaude. Si désiré, garnir de crème et de ciboulette hachée."
+]
+},
+
+{"id": 7541, "livreId": 35, "titre": "Soupe au poulet et aux tortellini", "page": 63, "categorie": "Soupes", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Soupe-au-poulet-et-au-tortellinis.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "30 mL (2 c. à s.) d'huile végétale",
+  "1 petit oignon, émincé",
+  "1 branche de céleri, coupée en dés",
+  "1 carotte, râpée",
+  "2 gousses d'ail, dégermées et hachées finement",
+  "15 mL (1 c. à s.) de basilic frais ou 5 mL (1 c. à thé) de basilic séché",
+  "750 mL (3 tasses) de bouillon de poulet",
+  "250 mL (1 tasse) de tortellinis ou de raviolis",
+  "50 mL (¼ tasse) de chou vert coupé en fines lanières",
+  "1 boîte (796 mL/28 oz) de tomates en dés",
+  "1 boîte (540 mL/19 oz) de haricots rouges égouttés",
+  "250 mL (1 tasse) de poulet cuit coupé en cubes",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans une grande casserole, faire chauffer l'huile à feu moyen et y faire revenir l'oignon 2 minutes.",
+  "Ajouter le céleri, la carotte, l'ail et le basilic. Faire cuire à feu moyen environ 5 minutes. Ajouter le bouillon de poulet, les tortellinis, le chou et les tomates.",
+  "Couvrir et faire cuire à feu doux jusqu'à ce que les tortellinis soient al dente.",
+  "Ajouter les haricots rouges et le poulet, puis laisser mijoter 5 minutes. Saler et poivrer avant de servir."
+]
+},
+
+{"id": 7542, "livreId": 35, "titre": "Soupe aux légumes", "page": 64, "categorie": "Soupes", "ingredientPrincipal": "légumes", "image": "livres/035-poulet-cent-facons/images/Soupe-aux-legumes.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "15 mL (1 c. à s.) de beurre ou d'huile végétale",
+  "1 gros oignon, haché finement",
+  "30 mL (2 c. à s.) de farine tout usage",
+  "1 L (4 tasses) de bouillon de poulet",
+  "2 pommes de terre, pelées et coupées en cubes",
+  "2 carottes, pelées et tranchées",
+  "2 grosses branches de céleri, tranchées finement",
+  "5 mL (1 c. à thé) d'assaisonnement à volaille",
+  "500 mL (2 tasses) de poulet cuit coupé en cubes",
+  "500 mL (2 tasses) de crème à 15 % ou de lait évaporé",
+  "300 g (10 oz) d'épinards frais ou surgelés, hachés",
+  "125 mL (½ tasse) de persil frais haché",
+  "Sel et poivre"
+],
+"preparation": [
+  "Dans une grande casserole, faire fondre le beurre. À feu doux, y faire revenir l'oignon en remuant, jusqu'à ce qu'il soit transparent. Sans cesser de remuer, saupoudrer de farine et faire cuire 1 à 2 minutes.",
+  "Ajouter le bouillon de poulet, les pommes de terre, les carottes, le céleri et l'assaisonnement à volaille. Saler et poivrer. Porter à ébullition à feu vif. Réduire le feu à moyen, couvrir et laisser mijoter 10 minutes.",
+  "Ajouter le poulet, la crème, les épinards et le persil ; poursuivre la cuisson 5 minutes pour que la soupe soit bien chaude. Ne pas la faire bouillir. Servir immédiatement."
+]
+},
+
+{"id": 7543, "livreId": 35, "titre": "Soupe thaïlandaise", "page": 56, "categorie": "Soupes", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Soupe-thailandaise.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "625 mL (2½ tasses) de bouillon de poulet",
+  "250 mL (1 tasse) de lait de coco",
+  "1 bâton de citronnelle, pelé et ciselé",
+  "1 gousse d'ail, dégermée et hachée finement",
+  "1 mL (¼ c. à thé) de sambal oelek* ou de poivre de Cayenne",
+  "500 mL (2 tasses) de poulet cuit coupé en dés",
+  "1 carotte de taille moyenne, pelée et râpée",
+  "500 mL (2 tasses) d'épinards frais coupés en lanières",
+  "2 oignons verts, coupés en biseau",
+  "50 mL (¼ tasse) de basilic thaïlandais frais ou de coriandre fraîche"
+],
+"preparation": [
+  "Dans une casserole de taille moyenne, porter à ébullition le bouillon de poulet, le lait de coco, la citronnelle et l'ail. Couvrir et laisser mijoter à feu moyen-vif environ 5 minutes.",
+  "Ajouter le sambal oelek, le poulet, la carotte et les épinards. Couvrir et poursuivre la cuisson environ 5 minutes.",
+  "Au moment de servir, garnir chaque portion d'oignons verts et de basilic thaïlandais.",
+  "* Le sambal oelek est une sauce faite de poivrons forts, qu'on trouve dans les épiceries asiatiques."
+]
+},
+
+{"id": 7544, "livreId": 35, "titre": "Soupe tonkinoise au poulet", "page": 62, "categorie": "Soupes", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Soupe-tonkinoise-au-poulet.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "2,5 L (10 tasses) de bouillon de poulet",
+  "45 mL (3 c. à s.) de coriandre fraîche hachée",
+  "15 mL (1 c. à s.) de jus de lime ou de citron",
+  "10 mL (2 c. à thé) d'huile de sésame",
+  "3 oignons verts, émincés",
+  "5 mL (1 c. à thé) de gingembre frais haché finement",
+  "125 g (4 oz) de vermicelles de riz",
+  "250 g (½ lb) de tranches de poulet pour fondue chinoise",
+  "Sauce soya",
+  "Fèves germées",
+  "Feuilles de coriandre"
+],
+"preparation": [
+  "Dans une casserole, porter le bouillon de poulet à ébullition. Ajouter la coriandre, le jus de lime, l'huile de sésame, les oignons verts et le gingembre ; laisser mijoter 2 à 3 minutes, à feu moyen.",
+  "Ajouter les vermicelles et les faire cuire quelques minutes, jusqu'à ce qu'ils soient tendres.",
+  "Verser dans des grands bols à soupe et ajouter le poulet afin qu'il cuise dans le bouillon brûlant.",
+  "Servir immédiatement avec de la sauce soya, des fèves germées et de la coriandre en accompagnement."
+]
+},
+
+{"id": 7545, "livreId": 35, "titre": "Soupe vietnamienne", "page": 58, "categorie": "Soupes", "ingredientPrincipal": "poulet", "image": "livres/035-poulet-cent-facons/images/Soupe-vietnamienne.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "750 mL (3 tasses) de bouillon de poulet",
+  "15 mL (1 c. à s.) de sauce aux huîtres",
+  "10 mL (2 c. à thé) de sauce de poisson nuoc mam*",
+  "250 mL (1 tasse) de vermicelles de riz, trempés dans l'eau, puis égouttés",
+  "2 carottes, tranchées finement",
+  "125 g (¼ lb) de poulet cuit coupé en lanières",
+  "125 mL (½ tasse) de champignons tranchés finement",
+  "3 oignons verts, émincés",
+  "1 gousse d'ail, dégermée et hachée finement",
+  "Sel et poivre",
+  "Feuilles de menthe fraîche"
+],
+"preparation": [
+  "Dans une grande casserole, porter à ébullition le bouillon de poulet, la sauce aux huîtres et la sauce de poisson. Ajouter les vermicelles et les carottes ; faire cuire 3 à 4 minutes.",
+  "Ajouter les lanières de poulet, les champignons, les oignons verts et l'ail. Poursuivre la cuisson 3 minutes.",
+  "Saler et poivrer au goût, verser dans de grands bols et garnir de feuilles de menthe.",
+  "* Le nuoc mam est un condiment vietnamien à base de poisson et d'anchois. Cette sauce rehausse la saveur des soupes et des ragoûts. On la trouve dans les boutiques d'alimentation spécialisées."
+]
+},
+
 {"id": 7546, "livreId": 35, "titre": "Tournedos de poulet à la sauge et aux figues", "page": 147, "categorie": "Plats pour les grandes occasions", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7547, "livreId": 35, "titre": "Tournedos de poulet aux framboises", "page": 134, "categorie": "Plats pour les grandes occasions", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"}
 ]
