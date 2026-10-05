@@ -349,7 +349,111 @@
 ]
 },
 
-  
+ {
+"id": 464,
+"livreId": 47,
+"titre": "Barres aux cerises nappées de chocolat",
+"page": 239,
+"categorie": "Desserts",
+"ingredientPrincipal": "Cerises",
+"image": "livres/047-biscuits/images/Barres-aux-cerises.jpeg",
+"favori": false,
+"note": null,
+"statut": null,
+"source": null,
+"ingredients": [
+"250 ml (1 tasse) de farine tout usage",
+"125 ml (½ tasse) de beurre ou de margarine, ramolli",
+"50 ml (¼ tasse) de sucre granulé",
+"25 ml (2 c. à s.) de cacao pur",
+"FONDANT",
+"500 ml (2 tasses) de sucre à glacer",
+"25 ml (2 c. à s.) de beurre ou de margarine, ramolli",
+"25 ml (2 c. à s.) de crème moitié-moitié ou de lait",
+"1 ml (¼ c. à t.) d'extrait d'amande",
+"NAPPAGE",
+"36 cerises rouges au marasquin, bien égouttées",
+"250 ml (1 tasse) de pépites de chocolat mi-sucré",
+"5 ml (1 c. à t.) de graisse végétale"
+],
+"preparation": [
+"Préchauffer le four à 180 °C (350 °F). Dans un bol de taille moyenne, mélanger la farine, 125 ml (½ tasse) de beurre, le sucre granulé et le cacao. Incorporer au batteur électrique, à faible vitesse, jusqu'à ce que la préparation soit lisse. Presser uniformément le mélange au fond d'un moule carré de 2 litres (8 po de côté) pour former la base. Mettre au four de 15 à 18 minutes, ou jusqu'à ce que la pâte soit cuite. Laisser refroidir complètement.",
+"Dans un autre bol de taille moyenne, battre à faible vitesse les ingrédients du fondant, jusqu'à ce que le mélange soit lisse. Étaler délicatement sur la base. Garnir des cerises en les disposant en 6 rangées de 6 cerises.",
+"Dans une casserole de 1 litre, à feu doux, faire fondre les pépites de chocolat et la graisse végétale, en remuant sans arrêt. Napper les barres de cette préparation, en couvrant les cerises et le fondant. Faire refroidir au réfrigérateur avant de couper.",
+"Micro-ondes : dans un petit bol, faire fondre les pépites et la graisse végétale à intensité MOYENNE, de 2½ à 5 minutes, en remuant après chaque minute. Poursuivre la recette tel qu'indiqué ci-haut.",
+"Donne 36 barres."
+]
+},
+{
+"id": 465,
+"livreId": 47,
+"titre": "Carrés au chocolat et noix de cajou",
+"page": 241,
+"categorie": "Desserts",
+"ingredientPrincipal": "Noix de cajou",
+"image": "livres/047-biscuits/images/Carrés-au-chocolat-et-noix-de-coco.jpeg",
+"favori": false,
+"note": null,
+"statut": null,
+"source": null,
+"ingredients": [
+"250 ml (1 tasse) de sucre granulé",
+"125 ml (½ tasse) de beurre ou de margarine, ramolli",
+"2 œufs",
+"75 ml (⅓ tasse) de cacao pur",
+"5 ml (1 c. à t.) d'essence de vanille",
+"300 ml (1¼ tasse) de farine tout usage",
+"2 ml (½ c. à t.) de bicarbonate de soude",
+"1 ml (¼ c. à t.) de sel",
+"125 ml (½ tasse) de noix de cajou hachées",
+"GLAÇAGE",
+"500 ml (2 tasses) de sucre à glacer",
+"25 à 50 ml (2 à 3 c. à s.) de lait",
+"25 ml (2 c. à s.) de beurre ou de margarine, ramolli",
+"2 ml (½ c. à t.) d'essence de vanille",
+"GARNITURE",
+"75 ml (⅓ tasse) de noix de cajou en moitiés"
+],
+"preparation": [
+"Préchauffer le four à 180 °C (350 °F). Graisser légèrement un moule carré de 2 litres (8 po de côté) et réserver.",
+"Dans un grand bol, au batteur électrique, à vitesse moyenne, mélanger le sucre granulé avec 125 ml (½ tasse) de beurre, jusqu'à ce que la préparation soit légère et mousseuse. Ajouter les œufs, le cacao et la vanille. Bien mélanger à vitesse moyenne. Ajouter la farine, le bicarbonate de soude et le sel. Bien mélanger à faible vitesse. Incorporer les noix de cajou hachées.",
+"Étaler uniformément la préparation au fond du moule graissé. Faire cuire au four de 23 à 33 minutes, ou jusqu'à ce qu'un cure-dent piqué au centre en ressorte propre. Laisser refroidir complètement.",
+"Dans un bol de taille moyenne, au batteur électrique, à faible vitesse, mélanger les ingrédients du glaçage, jusqu'à ce que la préparation soit lisse. Étaler uniformément sur les carrés au chocolat. Garnir des moitiés de noix de cajou.",
+"Donne 16 carrés au chocolat."
+]
+},
+{
+"id": 466,
+"livreId": 47,
+"titre": "Carrés aux carottes et aux dattes",
+"page": 243,
+"categorie": "Desserts",
+"ingredientPrincipal": "Carottes",
+"image": "livres/047-biscuits/images/Carres-aux-carottes-et-aux-dattes.jpeg",
+"favori": false,
+"note": null,
+"statut": null,
+"source": null,
+"ingredients": [
+"250 ml (1 tasse) de farine tout usage",
+"250 ml (1 tasse) de sucre granulé",
+"175 ml (¾ tasse) d'huile végétale",
+"2 œufs",
+"2 ml (½ c. à t.) de bicarbonate de soude",
+"2 ml (½ c. à t.) de cannelle moulue",
+"2 ml (½ c. à t.) de clous de girofle moulus",
+"2 ml (½ c. à t.) de sel",
+"375 ml (1½ tasse) de carottes râpées",
+"125 ml (½ tasse) de dattes hachées",
+"Sucre à glacer"
+],
+"preparation": [
+"Préchauffer le four à 180 °C (350 °F). Dans un grand bol, mélanger la farine, le sucre granulé, l'huile, les œufs, le bicarbonate de soude, la cannelle, les clous de girofle et le sel. Bien incorporer au batteur électrique, à vitesse moyenne. Incorporer les carottes et les dattes.",
+"Étaler uniformément le mélange au fond d'un moule de 3,5 litres (13 po sur 9 po). Faire cuire au four de 28 à 32 minutes, ou jusqu'à ce qu'un cure-dent piqué au centre en ressorte propre. Laisser refroidir complètement. Saupoudrer uniformément de sucre à glacer.",
+"Donne 24 barres."
+]
+},
+ 
   
   
   
