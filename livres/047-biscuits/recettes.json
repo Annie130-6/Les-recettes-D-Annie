@@ -454,14 +454,135 @@
 ]
 },
  
-  
-  
-  
-  
-  
-  
-  
-  
+ {
+"id": 467,
+"livreId": 47,
+"titre": "Carrés aux noisettes",
+"page": 239,
+"categorie": "Desserts",
+"ingredientPrincipal": "Noisettes",
+"image": "livres/047-biscuits/images/Carres-aux-noisettes.jpeg",
+"favori": false,
+"note": null,
+"statut": null,
+"source": null,
+"ingredients": [
+"125 ml (½ tasse) de noisettes hachées",
+"250 ml (1 tasse) de sucre granulé",
+"125 ml (½ tasse) de cassonade tassée",
+"125 ml (½ tasse) de beurre ou de margarine, ramolli",
+"2 œufs",
+"25 ml (2 c. à s.) de liqueur de noisette",
+"375 ml (1½ tasse) de farine tout usage",
+"5 ml (1 c. à t.) de poudre à pâte",
+"2 ml (½ c. à t.) de sel",
+"GLAÇAGE",
+"25 ml (2 c. à s.) de beurre ou de margarine",
+"500 ml (2 tasses) de sucre à glacer",
+"25 à 50 ml (2 à 3 c. à s.) de lait",
+"15 ml (1 c. à s.) de liqueur de noisette"
+],
+"preparation": [
+"Préchauffer le four à 180 °C (350 °F). Graisser légèrement un moule de 3,5 litres (13 po sur 9 po) et réserver. Déposer les noisettes dans un moule carré de 2 litres (8 po de côté). Faire cuire au four de 7 à 9 minutes, ou jusqu'à ce que les noisettes commencent à brunir, en les retournant 2 fois. Réserver.",
+"Dans un grand bol, mélanger le sucre granulé, la cassonade et 125 ml (½ tasse) de beurre. Incorporer au batteur électrique, à vitesse moyenne, jusqu'à ce que le mélange soit léger et mousseux. Ajouter les œufs et 25 ml (2 c. à s.) de liqueur de noisette. Bien mélanger à faible vitesse. Ajouter la farine, la poudre à pâte et le sel. Bien mélanger à faible vitesse. Incorporer les noisettes.",
+"Étaler uniformément le mélange dans le moule graissé. Faire cuire au four de 20 à 25 minutes, ou jusqu'à ce qu'un cure-dent piqué au centre en ressorte propre. Laisser refroidir complètement.",
+"Dans une casserole de 1 litre, faire cuire 25 ml (2 c. à s.) de beurre à feu moyen jusqu'à ce qu'il devienne légèrement doré. Retirer du feu. Ajouter les autres ingrédients du glaçage et mélanger jusqu'à ce que la préparation soit lisse. Étaler uniformément sur les carrés aux noisettes.",
+"Donne 32 carrés."
+]
+}, 
+{
+"id": 468,
+"livreId": 47,
+"titre": "Barres à la rhubarbe",
+"page": 240,
+"categorie": "Desserts",
+"ingredientPrincipal": "Rhubarbe",
+"image": "livres/047-biscuits/images/Barres-a-la-rhubarbe.jpeg",
+"favori": false,
+"note": null,
+"statut": null,
+"source": null,
+"ingredients": [
+"GARNITURE",
+"450 g (16 oz) de rhubarbe non sucrée surgelée",
+"375 ml (1½ tasse) de sucre granulé",
+"50 ml (¼ tasse) d'eau",
+"25 ml (2 c. à s.) de fécule de maïs",
+"5 ml (1 c. à t.) d'essence de vanille",
+"3 à 4 gouttes de colorant alimentaire rouge",
+"MÉLANGE AUX CÉRÉALES",
+"375 ml (1½ tasse) de céréales multigrains à cuire, non cuites",
+"375 ml (1½ tasse) de farine tout usage",
+"250 ml (1 tasse) de cassonade tassée",
+"2 ml (½ c. à t.) de bicarbonate de soude",
+"2 ml (½ c. à t.) de zeste d'orange râpé",
+"250 ml (1 tasse) de beurre ou de margarine, très froid",
+"125 ml (½ tasse) de pacanes hachées"
+],
+"preparation": [
+"Préchauffer le four à 190 °C (375 °F). Graisser légèrement un moule de 3,5 litres (13 po sur 9 po) et réserver. Dans une casserole de 3 litres, à feu moyen-vif, faire cuire tous les ingrédients de la garniture, sauf le colorant alimentaire, en remuant sans arrêt jusqu'à ce que la rhubarbe ait dégelé et que la garniture épaississe et devienne translucide. Retirer du feu. Ajouter le colorant alimentaire et remuer. Réserver.",
+"Dans un grand bol, mélanger les céréales, la farine, la cassonade, le bicarbonate de soude et le zeste d'orange. Incorporer le beurre avec un coupe-pâte, jusqu'à ce que la préparation soit grumeleuse. Réserver 375 ml (1½ tasse) de ce mélange.",
+"Presser le reste de la préparation au fond du moule graissé, pour former la base. Étaler uniformément la garniture sur la base. Répartir ensuite par-dessus le mélange aux céréales réservé et les pacanes. Faire cuire au four de 20 à 25 minutes, ou jusqu'à ce que la surface soit dorée. Laisser refroidir complètement avant de couper."
+]
+},
+{
+"id": 469,
+"livreId": 47,
+"titre": "Barres au fromage à la crème",
+"page": 242,
+"categorie": "Desserts",
+"ingredientPrincipal": "Fromage à la crème",
+"image": "livres/047-biscuits/images/Barres-au-fromage-a-la-creme.jpeg",
+"favori": false,
+"note": null,
+"statut": null,
+"source": null,
+"ingredients": [
+"425 ml (1¾ tasse) de gaufrettes à la vanille écrasées",
+"125 ml (½ tasse) de beurre ou de margarine, fondu",
+"25 ml (2 c. à s.) de sucre",
+"GARNITURE",
+"227 g (8 oz) de fromage à la crème, ramolli",
+"75 ml (⅓ tasse) de sucre",
+"125 ml (½ tasse) de crème sure",
+"1 œuf",
+"7 ml (1½ c. à t.) de zeste de citron râpé",
+"5 ml (1 c. à t.) d'essence de vanille",
+"50 ml (¼ tasse) de confiture de framboises sans pépins, fondue"
+],
+"preparation": [
+"Préchauffer le four à 180 °C (350 °F). Dans un petit bol, mélanger les gaufrettes, le beurre et 25 ml (2 c. à s.) de sucre. Presser uniformément cette préparation au fond d'un moule carré de 2 litres (8 po), pour former la base. Réserver.",
+"Dans un bol de taille moyenne, au batteur électrique, à vitesse moyenne, mélanger le fromage à la crème et 75 ml (⅓ tasse) de sucre, jusqu'à ce que la préparation soit lisse. Ajouter le reste des ingrédients de la garniture. Bien mélanger à vitesse moyenne.",
+"Étaler uniformément la garniture sur la base. Faire cuire au four de 50 à 55 minutes, ou jusqu'à ce que la surface soit légèrement dorée. Napper en zigzag de gelée de framboises. Garder au réfrigérateur."
+]
+},
+
+{
+"id": 470,
+"livreId": 47,
+"titre": "Glaçage décoratif",
+"page": 246,
+"categorie": "Desserts",
+"ingredientPrincipal": "Sucre à glacer",
+"image": null,
+"favori": false,
+"note": null,
+"statut": null,
+"source": null,
+"ingredients": [
+"125 ml (½ tasse) de beurre ou de margarine, ramolli",
+"125 ml (½ tasse) de graisse végétale",
+"5 ml (1 c. à t.) d'essence de vanille",
+"1 litre (4 tasses) de sucre à glacer",
+"50 à 65 ml (3 à 4 c. à s.) de lait",
+"Colorant alimentaire (facultatif)"
+],
+"preparation": [
+"Dans un grand bol, au batteur électrique, à vitesse moyenne, mélanger le beurre, la graisse végétale et la vanille, jusqu'à ce que la préparation soit lisse. Ajouter le sucre, 250 ml (1 tasse) à la fois, en mélangeant bien à faible vitesse. Ajouter le lait. Battre à vitesse moyenne jusqu'à ce que le glaçage soit léger et mousseux. Incorporer le colorant alimentaire, une goutte à la fois, jusqu'à ce que le glaçage ait la couleur désirée.",
+"Conseil : il est possible de remplacer la vanille par 2 ml (½ c. à t.) d'extrait d'amande, de menthe, ou de tout autre extrait, essence ou arôme artificiel.",
+"Donne 750 ml (3 tasses) de glaçage."
+]
+},
   {
     "id": 11691,
     "livreId": 47,
