@@ -5786,7 +5786,7 @@
 "Dans un petit bol, au batteur électrique, à faible vitesse, mélanger tous les ingrédients du glaçage pour obtenir une préparation lisse. Étaler uniformément sur les barres.",
 "Donne 32 barres."
 ]
-},
+}
 
   
   
@@ -5795,6 +5795,4 @@
   
   
   
-  {"id": 11871, "livreId": 47, "titre": "Meringues à la menthe poivrée et aux pépites de chocolat", "page": 96, "categorie": "Toutes", "ingredientPrincipal": "Menthe", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 11872, "livreId": 47, "titre": "Palets aux abricots", "page": 97, "categorie": "Toutes", "ingredientPrincipal": "Abricots", "image": null, "favori": false, "statut": "À indexer"}
 ]
