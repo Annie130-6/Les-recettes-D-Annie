@@ -1,9 +1,136 @@
 [
 {"id": 1638, "livreId": 7, "titre": "Gâteau basque au pollen d'abeille, parfait glacé au miel de sarrasin et sauce aux abricots", "page": 261, "categorie": "Dessert", "ingredientPrincipal": "Abricot", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1639, "livreId": 7, "titre": "Achigan en écorce de bouleau", "page": 6, "categorie": "Poisson", "ingredientPrincipal": "Achigan", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1640, "livreId": 7, "titre": "Côtes levées d'agneau et aubergine BBQ", "page": 155, "categorie": "Agneau", "ingredientPrincipal": "Agneau", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1641, "livreId": 7, "titre": "Soupe aigre-piquante", "page": 177, "categorie": "Soupe", "ingredientPrincipal": "Agneau", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1642, "livreId": 7, "titre": "Artichauts Bravas", "page": 163, "categorie": "Légume", "ingredientPrincipal": "Ail", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1640, "livreId": 7, "titre": "Côtes levées d'agneau et aubergine BBQ", "page": 155, "categorie": "Agneau", "ingredientPrincipal": "Agneau", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Cote-levees-d-agneau.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "CÔTES LEVÉES D'AGNEAU",
+  "1 c. à soupe de pâte de tomates",
+  "1 c. à soupe de jus de citron frais",
+  "¼ c. à thé de cumin moulu",
+  "½ c. à thé de poivre noir",
+  "5 brins d'origan frais, hachés",
+  "2 c. à soupe de Beurre de piment fermenté (page 159), fondu",
+  "2 gousses d'ail, émincées",
+  "2 c. à thé de sel",
+  "2 trains de côtes levées d'agneau",
+  "AUBERGINE",
+  "2 c. à soupe de gras de poulet",
+  "1 grosse aubergine",
+  "Sel et poivre noir",
+  "SAUCE",
+  "2 échalotes, en tranches fines",
+  "60 ml (¼ tasse) de vin blanc sec",
+  "60 ml (¼ tasse) de xérès sec",
+  "1 c. à thé de grains de poivre noir",
+  "4 brins de thym frais, hachés",
+  "½ c. à thé de graines de moutarde",
+  "½ c. à thé de graines de coriandre",
+  "250 ml (1 tasse) de fond d'agneau",
+  "250 ml (1 tasse) de fond de veau",
+  "GARNITURE",
+  "500 ml (2 tasses) de yogourt de lait entier nature",
+  "2 c. à soupe de menthe fraîche, hachée",
+  "2 c. à soupe de coriandre fraîche, hachée",
+  "2 c. à soupe de persil plat frais, haché"
+],
+"preparation": [
+  "Côtes levées d'agneau : dans un bol, mélanger la pâte de tomates, le jus de citron, le cumin, le poivre et l'origan. Dans un autre bol, mélanger le beurre de piment avec l'ail, puis l'incorporer à la préparation de pâte de tomates.",
+  "Saler l'agneau, puis le frotter uniformément de marinade. Envelopper bien serré dans de la pellicule de plastique, puis dans du papier d'aluminium. Réfrigérer toute la nuit.",
+  "Le lendemain, préchauffer le four à 150 °C (300 °F). Cuire les paquets d'agneau (toujours emballés) sur une plaque pendant 4 heures ou jusqu'à ce que la chair soit très tendre. Réserver.",
+  "Augmenter la température du four à 200 °C (400 °F).",
+  "Aubergine : faire fondre le gras de poulet. Peler l'aubergine de haut en bas à l'aide d'un couteau éplucheur, puis la badigeonner de gras de poulet. Saler et poivrer au goût. (Le gras de poulet permet aux assaisonnements de mieux adhérer.)",
+  "Mettre l'aubergine au four, sur une plaque, de 18 à 20 minutes ou jusqu'à ce qu'elle commence à se défaire. Laisser refroidir à température ambiante.",
+  "Sauce : dans une petite casserole, mélanger les échalotes avec le vin, le xérès, le poivre, le thym et les graines de moutarde et de coriandre. Laisser réduire des trois quarts à feu moyen-vif environ 12 minutes. Ajouter les fonds d'agneau et de veau et laisser réduire de moitié pendant 15 minutes. Filtrer dans un tamis à mailles fines et réserver au chaud.",
+  "Déballer les côtes levées et les couper en côtelettes individuelles à l'aide d'un couteau bien affûté. Allumer le gril à intensité moyenne-élevée. Griller les côtelettes de 4 à 5 minutes (on peut aussi les cuire dans une poêle à fond cannelé sur la cuisinière). Retirer du gril, puis saler et poivrer au goût.",
+  "Entre-temps, couper l'aubergine en deux sur la longueur, puis en demi-cercles d'environ 2,5 cm (1 po) d'épaisseur. Après avoir retiré la viande du gril, faire griller l'aubergine de 2 à 3 minutes de chaque côté.",
+  "Étaler le yogourt au fond d'une assiette. Empiler les côtelettes sur le yogourt. Napper la viande de sauce et parsemer de fines herbes. Accompagner de demi-lunes d'aubergine. Déguster ce plat avec les mains.",
+  "Notes : La viande doit mariner toute la nuit. Elle grillera mieux si on la laisse raffermir au réfrigérateur après l'avoir fait cuire pendant 4 heures à l'étape 3. Tenez-en compte au moment de calculer le temps de préparation.",
+  "N'ayez pas peur de garder les côtes levées emballées dans de la pellicule de plastique et du papier d'aluminium pour le long braisage au four. La vapeur créée par les jus et la marinade préservera leur tendreté pendant la cuisson. C'est un genre de cuisson sous vide sans prétention !"
+]
+},
+
+{"id": 1641, "livreId": 7, "titre": "Soupe aigre-piquante", "page": 177, "categorie": "Soupe", "ingredientPrincipal": "Agneau", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Soupe-aigre-piquante.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "900 g (2 lb) de colliers d'agneau, en gros morceaux",
+  "Sel cachère et poivre noir",
+  "60 ml (¼ tasse) d'huile de canola",
+  "1 saucisse de porc hongroise de 255 g (9 oz), en morceaux",
+  "1 oignon blanc, en tranches fines",
+  "4 gousses d'ail, en tranches fines",
+  "1 c. à thé de mélange d'épices aux légumes Vegeta",
+  "1 c. à thé de graines de carvi",
+  "2 beaux brins de thym frais, hachés",
+  "1 c. à soupe de moutarde hongroise ou de moutarde forte",
+  "300 g (2 tasses) de choucroute, égouttée (réserver 125 ml/½ tasse de son jus)",
+  "2 c. à thé de paprika hongrois piquant",
+  "1 c. à thé de paprika doux",
+  "2 c. à thé de pâte de tomates",
+  "1 piment hongrois piquant",
+  "3 litres (12 tasses) de fond d'agneau ou de bouillon de poulet",
+  "GARNITURE",
+  "Crème sure",
+  "Brins d'aneth frais",
+  "Persil plat frais, haché finement"
+],
+"preparation": [
+  "Frotter les colliers d'agneau avec du sel et du poivre.",
+  "Dans une grande casserole à fond épais, chauffer l'huile à feu moyen-vif et faire dorer uniformément les colliers environ 5 minutes de chaque côté.",
+  "À l'aide d'une pince solide, déposer les morceaux de collier dans une assiette. Ajouter la saucisse et cuire 30 secondes. Ajouter l'oignon et faire suer 2 minutes. Ajouter l'ail, puis incorporer le Vegeta, le carvi et le thym.",
+  "À feu moyen, incorporer la moutarde et cuire 2 minutes de plus.",
+  "Ajouter la choucroute et le jus réservé. Incorporer les deux variétés de paprika et la pâte de tomates. Laisser mijoter 4 minutes.",
+  "Ajouter le piment hongrois. Remettre les colliers dans la casserole et verser le fond d'agneau. Porter à ébullition. Cuire à découvert, à feu doux, pendant 2 ½ heures. À l'aide d'une cuillère à égoutter, retirer et jeter le piment fort avant de servir. Rectifier l'assaisonnement au goût.",
+  "Laisser les os dans la soupe. Nous aimons les prendre avec nos mains comme lorsqu'on déguste une soupe coréenne à l'échine de porc. Servir très chaud avec de la crème sure et une généreuse pluie d'herbes fraîches."
+]
+},
+
+{"id": 1642, "livreId": 7, "titre": "Artichauts Bravas", "page": 163, "categorie": "Légume", "ingredientPrincipal": "Artichault", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Artichauts.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "SALSA BRAVA",
+  "3 poivrons rouges",
+  "900 g (2 lb) de tomates très mûres",
+  "Sel et poivre",
+  "1 petit oignon, en rondelles fines",
+  "4 gousses d'ail, en tranches fines",
+  "3 c. à soupe de vinaigre de xérès",
+  "1 c. à soupe de Jalapenos marinés (page 165)",
+  "1 c. à soupe de pimentón espagnol (paprika fumé)",
+  "60 ml (¼ tasse) d'huile d'olive",
+  "ARTICHAUTS",
+  "2 litres (8 tasses) d'eau froide",
+  "Le jus de 4 citrons",
+  "12 artichauts moyens",
+  "4 litres (16 tasses) d'huile de canola pour la friture",
+  "450 g (1 lb) de topinambours",
+  "Sel cachère et poivre noir du moulin",
+  "SERVICE",
+  "220 g (1 tasse) d'aïoli au choix",
+  "2 c. à soupe de persil plat frais, haché finement",
+  "Quartiers de citron"
+],
+"preparation": [
+  "Chauffer le gril à intensité moyenne ou préchauffer le gril du four au maximum.",
+  "Griller les poivrons sur toutes les faces jusqu'à ce qu'ils soient bien noircis. Réserver dans un bol et couvrir pendant 10 minutes. Peler grossièrement et épépiner. Réserver.",
+  "Couper les tomates en deux sur la largeur. Saler et poivrer la face coupée. Griller les tomates, face coupée vers le haut, de 15 à 20 minutes en fermant le couvercle, ou jusqu'à ce que le fond soit noirci et que la face coupée soit sèche et ridée. Retirer du feu et laisser refroidir avant de hacher finement.",
+  "Faire noircir les rondelles d'oignon sur le gril environ 4 minutes de chaque côté en les retournant délicatement.",
+  "Dans une casserole moyenne, mélanger tous les ingrédients de la salsa brava, sauf l'huile d'olive. Verser l'huile et laisser mijoter à feu moyen-doux pendant 15 minutes. Réduire en purée au mélangeur. Saler et poivrer au goût. Verser dans un petit contenant et réfrigérer.",
+  "Artichauts : dans un grand bol, mélanger l'eau et le jus de citron.",
+  "Retirer toutes les feuilles extérieures qui sont trop lâches jusqu'à ce les feuilles vert tendre apparaissent. Épointer les artichauts et couper la queue au ras des feuilles. Retirer le foin à l'aide d'une cuillère à expresso, puis mettre les artichauts dans le bol d'eau acidulée pour empêcher l'oxydation.",
+  "Dans une friteuse ou une sauteuse à fond épais, chauffer l'huile de canola à 135 °C (275 °F).",
+  "Frire quelques artichauts à la fois pendant 5 à 6 minutes en maintenant l'huile à 135 °C (275 °F). Ils sont cuits lorsqu'on peut les percer facilement avec un cure-dent et que leur forme est encore intacte. Laisser égoutter et refroidir sur du papier absorbant. Appuyer légèrement sur les artichauts refroidis jusqu'à ce qu'ils s'ouvrent comme une fleur.",
+  "Rincer et éponger minutieusement les topinambours. Couper en deux sur la longueur et frire comme les artichauts (voir étape 9).",
+  "Augmenter la température de l'huile à 185 °C (365 °F).",
+  "Frire de nouveau les artichauts et les topinambours – quelques-uns à la fois – de 4 à 5 minutes ou jusqu'à ce qu'ils soient dorés. Laisser égoutter sur du papier absorbant propre. Saler et poivrer immédiatement.",
+  "Verser la salsa au centre d'une assiette Steal Your Face. Ajouter les légumes. Napper d'aïoli et garnir de persil. Accompagner de plusieurs quartiers de citron.",
+  "Note : Choisissez des artichauts fermes qui sont lourds pour leur poids. Évitez ceux dont les feuilles sont ouvertes. Ne vous en faites pas si certaines de leurs feuilles sont abîmées puisqu'on les jette de toute façon."
+]
+},
+
 {"id": 1643, "livreId": 7, "titre": "Bisque Rapide", "page": 65, "categorie": "Soupe", "ingredientPrincipal": "Ail", "image": null,
 "favori": false,
 "note": null,
@@ -34,10 +161,131 @@
 ]
 },
 
-{"id": 1644, "livreId": 7, "titre": "Bolognaise de mirepoix", "page": 238, "categorie": "Sauce", "ingredientPrincipal": "Ail", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1645, "livreId": 7, "titre": "Carbonnade de cous de cerf", "page": 185, "categorie": "Viande", "ingredientPrincipal": "Ail", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1646, "livreId": 7, "titre": "Flanc de cerf à la bière", "page": 167, "categorie": "Viande", "ingredientPrincipal": "Ail", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1647, "livreId": 7, "titre": "Jalapenos marinés", "page": 165, "categorie": "Conserve", "ingredientPrincipal": "Ail", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1644, "livreId": 7, "titre": "Bolognaise de mirepoix", "page": 238, "categorie": "Sauce", "ingredientPrincipal": "Ail", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+  "1 bulbe de fenouil, haché grossièrement",
+  "1 gros oignon, haché grossièrement",
+  "4 échalotes, hachées grossièrement",
+  "3 grosses carottes, hachées grossièrement",
+  "1 blanc de poireau, en tranches fines",
+  "4 branches de céleri, hachées grossièrement",
+  "6 gousses d'ail",
+  "1 brin de romarin frais",
+  "4 filets d'anchois",
+  "Sel et poivre noir",
+  "1 pincée de flocons de piment rouge",
+  "2 c. à soupe de pâte de tomates",
+  "500 ml (2 tasses) de passata (coulis de tomate)",
+  "Croûte de parmesan",
+  "500 ml (2 tasses) d'huile d'olive"
+],
+"preparation": [
+  "Si l'on n'a pas de mijoteuse, préchauffer le four à 110 °C (225 °F).",
+  "À l'aide d'un hache-viande, hacher le fenouil, l'oignon, les échalotes, les carottes, le poireau, le céleri et l'ail directement dans le bol de la mijoteuse ou une cocotte. (On peut aussi les hacher grossièrement au robot culinaire.)",
+  "Couvrir du reste des ingrédients et mélanger. L'apparence de la sauce peut sembler banale pour le moment, mais il faut nous faire confiance.",
+  "Fermer le couvercle de la mijoteuse ou couvrir la cocotte de papier d'aluminium. Régler la température de la mijoteuse à 110 °C (225 °F) et cuire pendant 8 heures. Si on utilise une cocotte, la couvrir de papier d'aluminium avant de la mettre au four pendant 8 heures."
+]
+},
+
+{"id": 1645, "livreId": 7, "titre": "Carbonnade de cous de cerf", "page": 185, "categorie": "Viande", "ingredientPrincipal": "Cerf", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Carbonnade-de-cous.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "12 à 16 morceaux de cous de cerf marinés (encart, page 10)",
+  "60 g (¼ tasse) de gras de bacon ou de beurre",
+  "6 tranches de bacon, coupées en allumettes",
+  "4 oignons, coupés en deux puis en tranches fines",
+  "1 c. à soupe de farine tout usage",
+  "2 c. à soupe de gelée de cassis",
+  "3 baies de genièvre",
+  "1 c. à soupe de persil plat frais, haché",
+  "1 c. à soupe d'estragon frais, haché",
+  "1 c. à soupe de thym frais, haché",
+  "4 gousses d'ail, hachées finement",
+  "2 c. à thé de poivre noir du moulin",
+  "2 bouteilles de 350 ml (12 oz) de bonne bière sans trop de houblon",
+  "2 c. à soupe de vinaigre de cidre de pomme",
+  "1 carotte",
+  "Sel cachère"
+],
+"preparation": [
+  "Faire tremper les morceaux de cous de cerf dans un bol d'eau froide de 4 à 5 heures en changeant celle-ci toutes les heures.",
+  "Préchauffer le four à 150 °C (300 °F).",
+  "Dans une grande cocotte ovale, faire fondre le gras de bacon à feu moyen-vif. Cuire le bacon 3 minutes ou jusqu'à ce qu'il soit croustillant. Le laisser dans la cocotte. Faire dorer les oignons en remuant environ toutes les minutes.",
+  "Incorporer la farine en enrobant uniformément le bacon et les oignons.",
+  "Ajouter le reste des ingrédients et verser de l'eau au besoin pour que la viande soit presque complètement recouverte. Porter à faible ébullition.",
+  "Couvrir et faire braiser au four pendant 3 heures en tout. Après 1 heure de cuisson, sortir la cocotte du four pour vérifier si la viande est toujours presque complètement recouverte de liquide. Saler au goût. Couvrir et remettre au four pendant 2 heures.",
+  "Sortir la cocotte du four. Si la sauce semble trop liquide, retirer la viande et réserver. Laisser réduire la sauce à feu moyen-vif et rectifier l'assaisonnement. Remettre la viande dans la sauce avant de servir.",
+  "Note : Cette recette suppose que vous avez pris le temps de faire mariner des cous de cerf avant l'apocalypse (encart, page 10). N'oubliez pas qu'on doit les faire tremper dans l'eau fraîche pendant 4 à 5 heures le matin même avant de préparer la carbonnade."
+]
+},
+
+{"id": 1646, "livreId": 7, "titre": "Flanc de cerf à la bière", "page": 167, "categorie": "Viande", "ingredientPrincipal": "Cerf", "image": "IMG_1793.jpeg", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Flanc-de-cerf.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "FLANC DE CERF",
+  "1 flanc de cerf de 2,7 kg (6 lb)",
+  "250 ml (1 tasse) d'huile neutre pour la friture (si on n'utilise pas une bassine à friture)",
+  "2 belles grosses pommes de terre à chair jaune, pelées et coupées en cubes de 6 mm (¼ po)",
+  "Sel et poivre",
+  "2 c. à soupe de vinaigre de cidre de pomme",
+  "900 g (2 lb) de chair à saucisse de base (celle recommandée par votre boucher ou celle de la page 89), mélangée avec 2 gros cornichons cachères à l'aneth entiers et 3 karnatzels (saucisson de bœuf séché et fumé) – couper le tout en cubes de 6 mm (¼ po)",
+  "8 gros œufs durs, écalés",
+  "POUR LE BRAISAGE",
+  "60 ml (¼ tasse) d'huile de pépins de raisin (ou autre huile neutre)",
+  "4 carottes, coupées en 4 morceaux",
+  "4 branches de céleri, coupées en 4 morceaux",
+  "2 gros oignons jaunes, coupés en 8 quartiers chacun",
+  "2 têtes d'ail",
+  "1 ½ c. à soupe de poivre noir",
+  "1 c. à soupe de moutarde en poudre",
+  "3 clous de girofle entiers",
+  "¼ c. à thé de cannelle moulue",
+  "¼ de noix de muscade, râpée",
+  "1 c. à soupe de feuilles de thym frais",
+  "12 feuilles de laurier",
+  "80 g (½ tasse) de cassonade pâle",
+  "125 ml (½ tasse) de bourbon",
+  "60 ml (¼ tasse) de vinaigre de cidre de pomme",
+  "2 canettes de bière au choix",
+  "2 litres (8 tasses) de fond de viande (bœuf ou veau) ou d'eau"
+],
+"preparation": [
+  "Débarrasser la viande de tout surplus de gras dur, car il ne fondra pas pendant la cuisson. Pour ce faire, utiliser un couteau bien affûté et le manipuler avec une main experte. Placer le flanc de cerf sur une planche à découper ou un plan de travail propre, peau tournée vers le bas. Le grain de la viande doit aller de droite à gauche et non de haut en bas.",
+  "Chauffer l'huile neutre à une température optimale pour la friture, soit 180 °C (350 °F). Éponger les pommes de terre. Frire quelques cubes à la fois jusqu'à ce qu'ils soient très croustillants. Égoutter sur du papier absorbant, puis mélanger avec du sel et du vinaigre.",
+  "Couvrir le flanc de cerf de chair à saucisse, sauf sur environ 5 cm (2 po) de la partie du « haut ». Presser les frites uniformément dans la préparation de saucisse. Faire un sillon sur toute la surface du flanc, de gauche à droite; il servira à entasser les œufs durs. Couper une très fine tranche au sommet de chaque œuf, puis les aligner dans le sillon, sur un seul rang, en pressant légèrement dessus. Rouler le flanc de bas en haut en gardant les œufs bien alignés. Avec de la ficelle, faire 10 nœuds serrés et bien espacés autour du flanc. Raccorder les bouts et couper le surplus. Assaisonner la viande comme un steak, puis l'envelopper dans un grand linge propre et inodore. Maintenir les extrémités en place avec de la ficelle. Réfrigérer au moins 3 heures ou, de préférence, toute la nuit.",
+  "Préchauffer le four à 220 °C (425 °F).",
+  "Mettre au four un grand plat à rôtir à fond lourd et épais. Lorsqu'il est bien chaud, verser l'huile de pépins de raisin, puis ajouter les carottes, le céleri et les oignons. Laisser dorer au four environ 10 minutes.",
+  "Ajouter l'ail, les épices, le thym, le laurier et la cassonade. Remuer vigoureusement, puis verser le bourbon, le vinaigre et la bière – le liquide de braisage – et laisser réduire de moitié en gardant la porte fermée. Verser le fond de viande. Déposer le flanc avec soin et arroser de liquide. Couvrir de papier d'aluminium. Baisser la température du four à 160 °C (325 °F) et fermer la porte.",
+  "Laisser braiser la viande tout doucement en l'arrosant toutes les 30 minutes environ. Après 4 heures de cuisson, elle devrait être prête – un thermomètre inséré dans la partie la plus épaisse doit indiquer 75 °C (165 °F) et la chair doit céder facilement sous une faible pression du doigt. Laisser tempérer le liquide avant de retirer le linge prudemment. À l'aide d'un couteau dentelé, découper la viande recouverte de la sauce réduite légèrement et assaisonnée à la perfection pour honorer ce festin. Servir avec des Galettes Tater Tots (page 178).",
+  "Notes : Si vous vivez à la campagne, vous n'aurez aucun mal à vous procurer du flanc de cerf. Un ami chasseur vous refilera sûrement l'emplacement d'une clairière où pullulent les cervidés, sinon contactez un éleveur de gibier. Faute de viande de cerf, demandez à votre boucher de commander un flanc de veau et la recette sera tout aussi savoureuse.",
+  "Si vous faites votre propre chair à saucisse : pour 450 g (1 lb) de porc haché, ajoutez 1 c. à thé de sel, 1 c. à thé de poivre noir et 1 gousse d'ail broyée.",
+  "Si vous n'êtes pas familier avec la viande de gibier, nous vous recommandons d'essayer la recette de Carbonnade de cous de cerf (page 185)."
+]
+},
+
+{"id": 1647, "livreId": 7, "titre": "Jalapenos marinés", "page": 165, "categorie": "Conserve", "ingredientPrincipal": "Jalapeno",  "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+  "450 g (1 lb) de jalapenos, en rondelles très fines (environ 15 piments)",
+  "2 c. à soupe de sel cachère",
+  "125 ml (½ tasse) de vinaigre de cidre de pomme",
+  "60 ml (¼ tasse) de téquila bon marché",
+  "6 gousses d'ail, broyées",
+  "500 ml (2 tasses) d'huile neutre"
+],
+"preparation": [
+  "Dans un bol, mélanger les jalapenos avec le sel. Laisser reposer à température ambiante pendant 2 heures, jusqu'à ce qu'ils rendent leur jus. Rincer et éponger.",
+  "Dans une petite casserole, porter le vinaigre à ébullition. Verser sur les piments. Ajouter la téquila et l'ail, puis laisser reposer toute la nuit.",
+  "Le lendemain, égoutter les piments et les mettre dans un bocal Mason avec l'ail. Couvrir d'huile et réfrigérer pendant quelques jours avant de consommer. Garder au froid.",
+  "Note : Comme les piments doivent macérer toute la nuit, planifiez la préparation à l'avance."
+]
+},
+
 {"id": 1648, "livreId": 7, "titre": "Petits fantômes", "page": 240, "categorie": "Amuse-bouche", "ingredientPrincipal": "Ail", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1649, "livreId": 7, "titre": "Pommes de terre aux algues en sac", "page": 126, "categorie": "Légume", "ingredientPrincipal": "Ail", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1650, "livreId": 7, "titre": "Pot-au-feu d'hiver", "page": 21, "categorie": "Plat", "ingredientPrincipal": "boeuf", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Pot-au-feu-d-hiver.jpeg",
@@ -166,8 +414,61 @@
 },
 
 {"id": 1654, "livreId": 7, "titre": "Tripes à la mode de Caen", "page": 95, "categorie": "Abats", "ingredientPrincipal": "Ail", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1655, "livreId": 7, "titre": "Boisson à la noix de coco et à la mousse d'Irlande", "page": 217, "categorie": "Boisson", "ingredientPrincipal": "Algue", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1656, "livreId": 7, "titre": "Frappé vitalité", "page": 218, "categorie": "Boisson", "ingredientPrincipal": "Algue", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1655, "livreId": 7, "titre": "Boisson à la noix de coco et à la mousse d'Irlande", "page": 217, "categorie": "Boisson", "ingredientPrincipal": "Algue", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Boisson-a-la-noix-de-coco.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "BASE À LA MOUSSE D'IRLANDE",
+  "15 g (¼ tasse) de mousse d'Irlande",
+  "POUR 1 PORTION",
+  "2 c. à soupe combles de lait concentré sucré",
+  "125 ml (½ tasse) d'eau de coco",
+  "1 c. à soupe de sirop d'érable",
+  "2 c. à soupe de vieux rhum moelleux",
+  "1 c. à thé de jus prélevé d'un bocal de cerises au marasquin",
+  "3 traits d'amers Angostura",
+  "1 c. à thé de gingembre frais, émincé",
+  "Glace au besoin (commencer avec quelques cubes)",
+  "GARNITURE",
+  "1 cerise au marasquin",
+  "1 pincée de macis moulu"
+],
+"preparation": [
+  "Préparer la recette de base en rinçant la mousse d'Irlande à l'eau courante. Réserver dans un bol d'eau propre et réfrigérer toute la nuit.",
+  "Égoutter la mousse et la mettre dans une petite casserole avec 750 ml (3 tasses) d'eau. Laisser mijoter à feu moyen de 30 à 40 minutes, jusqu'à ce qu'elle soit tendre et fondante (elle sera presque complètement dissoute) en veillant à ne pas la laisser brûler. Bien remuer et transvider dans un contenant en verre. Réfrigérer environ 2 heures, jusqu'à ce qu'elle soit froide et bien prise. On obtiendra 375 ml (1 ½ tasse) de base, ce qui permettra de faire 6 ou 7 verres. Conservation : 5 jours au réfrigérateur.",
+  "Pour faire 1 verre de boisson, mixer au mélangeur 2 à 3 c. à soupe combles de la préparation de base avec le reste des ingrédients jusqu'à ce que la texture soit bien lisse. Goûter et ajouter sans hésitation une plus grande quantité de n'importe quel ingrédient dont le goût mérite d'être accentué. Verser dans un grand verre. Garnir d'une cerise au marasquin et saupoudrer de macis. Si on préfère une boisson plus raffinée, remplacer le lait concentré sucré et le rhum par de la crème de coco et une quantité très conservatrice (5 mg) d'huile de cannabidiol (CBD) – un dérivé du chanvre – ou 1 capsule d'extrait de Ginkgo biloba.",
+  "Note : La recette de base à la mousse d'Irlande permet de faire 6 ou 7 verres. On doit la laisser infuser toute la nuit."
+]
+},
+
+{"id": 1656, "livreId": 7, "titre": "Frappé vitalité", "page": 218, "categorie": "Boisson", "ingredientPrincipal": "Algue", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Frappe-vitalite.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "1 feuille de kelp (algue) de la grosseur d'une carte de souhaits, rincée et trempée 10 minutes dans l'eau froide",
+  "1 c. à soupe de beurre de cajou",
+  "½ c. à thé de gingembre moulu",
+  "1 c. à thé de curcuma moulu",
+  "1 c. à thé de poudre de champignon chaga",
+  "1 trait d'extrait de vanille pure",
+  "1 pincée de cannelle moulue",
+  "1 pincée de muscade moulue",
+  "2 c. à thé d'huile de chanvre",
+  "125 g (½ tasse) de courge ou de topinambour, cuit et réduit en purée",
+  "2 à 4 c. à soupe de sirop d'érable",
+  "1 pincée de sel marin",
+  "250 ml (1 tasse) d'eau filtrée (ou plus au besoin)",
+  "150 g (1 tasse) de glace",
+  "Gouttes d'huile de cannabidiol (CBD) (un dérivé du chanvre; facultatif)"
+],
+"preparation": [
+  "Essorer le kelp.",
+  "Au mélangeur, à vitesse élevée, mixer tous les ingrédients jusqu'à l'obtention d'une boisson homogène.",
+  "Servir dans des grands verres tiki.",
+  "Note : On peut se procurer du kelp dans les magasins d'alimentation naturelle. Nous commandons le nôtre chez Canadian Kelp Resources à Bamfield, en Colombie-Britannique."
+]
+},
+
 {"id": 1657, "livreId": 7, "titre": "Paupiettes de saumon au cerfeuil", "page": 135, "categorie": "Poisson", "ingredientPrincipal": "Saumon", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Paupiettes-de-saumon.jpeg",
 "favori": false,
 "note": null,
@@ -199,10 +500,145 @@
 ]
 },
 
-{"id": 1658, "livreId": 7, "titre": "Soupe au chou de régime cinq étoiles", "page": 201, "categorie": "Soupe", "ingredientPrincipal": "Algue", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1659, "livreId": 7, "titre": "Limonade aux poires cactus", "page": 221, "categorie": "Boisson", "ingredientPrincipal": "Aloès", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1660, "livreId": 7, "titre": "Cari de homard de Halifax et pilaf à la moelle", "page": 195, "categorie": "Fruits de mer", "ingredientPrincipal": "Amande", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1661, "livreId": 7, "titre": "Craquelins de seigle", "page": 193, "categorie": "Pain", "ingredientPrincipal": "Amaranthe", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1658, "livreId": 7, "titre": "Soupe au chou de régime cinq étoiles", "page": 201, "categorie": "Soupe", "ingredientPrincipal": "Chou", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Soupe-au-chou.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "1 os de jarret de bœuf, coupé par le boucher en morceaux qui conviennent à la casserole et rincé",
+  "1 cou de dinde ou 4 cous de poulet, rincés",
+  "1 pied de veau ou 2 pieds de porc, coupés en 3 morceaux chacun et rincés",
+  "600 g (4 tasses) de glace",
+  "3 c. à soupe de vinaigre de cidre de pomme",
+  "4 morceaux de kombu (algue séchée) de la grosseur d'une carte postale",
+  "900 g (2 lb) de steak de haut de palette, roulé et ficelé comme un rôti",
+  "120 g (2 tasses) de chou de Savoie, émincé",
+  "100 g (1 tasse) de choux de Bruxelles, émincés",
+  "110 g (2 tasses) de chou frisé, émincé",
+  "110 g (1 tasse) de navet blanc, en lanières",
+  "100 g (2 tasses) de chou nappa, émincé",
+  "250 ml (1 tasse) de jus de carotte fraîchement pressé",
+  "250 ml (1 tasse) de jus de céleri fraîchement pressé",
+  "Sel gris de Guérande et poivre blanc du moulin",
+  "GARNITURE (FACULTATIF)",
+  "Beurre non salé, froid",
+  "Graines de tournesol",
+  "Jerky de bœuf ou de cheval (encart, page 8)"
+],
+"preparation": [
+  "Rincer les morceaux d'os de bœuf avec soin à l'eau froide. Dans une grande marmite, les mélanger avec le(s) cou(s) de volaille et le pied de veau. Couvrir d'eau froide. Ajouter la glace (en amenant l'eau à frémissement tout doucement, on facilite l'extraction du collagène) et le vinaigre.",
+  "Porter à faible ébullition à feu moyen, ce qui devrait prendre au moins 30 minutes (plutôt de 45 à 60 minutes). Laisser frémir doucement en se rappelant qu'un bouillonnement trop vif n'est pas recommandé pour extraire le collagène et mettre les saveurs en valeur.",
+  "Laisser mijoter tout doucement pendant 6 heures. Ajouter le kombu et le steak en laissant mijoter lentement et doucement environ 2 heures. Réserver le steak dans une assiette. Filtrer le bouillon avec soin en jetant tous les os et aromates. Réfrigérer séparément la viande et le bouillon clair pendant la nuit.",
+  "Dégraisser le bouillon (si désiré, on peut conserver le gras pour cuire d'autres aliments). Dans une grande casserole, réchauffer le bouillon à feu moyen pour qu'il redevienne liquide.",
+  "Dans une autre grande casserole, mélanger les légumes et les jus de légumes. Ajouter 1 litre (4 tasses) de bouillon. Porter à faible ébullition à feu moyen-vif. Lorsque les choux sont tendres, ajouter 250 à 500 ml (1 à 2 tasses) de bouillon (ou au goût). Saler et poivrer au goût et laisser mijoter 20 minutes. Il restera de 1 à 1,5 litre (4 à 6 litres) de bouillon que l'on pourra congeler pour un usage ultérieur.",
+  "Pendant que la soupe mijote, couper le steak en petites bouchées que l'on mettra dans la soupe 2 ou 3 minutes avant la fin de la cuisson.",
+  "Verser 500 ml (2 tasses) de soupe dans chaque bol. Facultatif : faire fondre une noix de beurre dans chaque bol, puis ajouter quelques graines de tournesol. Ajouter une généreuse lamelle de jerky. Nous recommandons aussi de servir ce potage revigorant avec un peu de moutarde fermentée.",
+  "Notes : Demandez à l'avance à votre boucher de vous garder les cous de volaille et les os dont vous aurez besoin pour le bouillon.",
+  "Vous trouverez du kombu à votre magasin d'alimentation naturelle ou au rayon des produits asiatiques de toute bonne épicerie.",
+  "Cette soupe doit être réfrigérée toute la nuit; planifiez sa préparation à l'avance."
+]
+},
+
+{"id": 1659, "livreId": 7, "titre": "Limonade aux poires cactus", "page": 221, "categorie": "Boisson", "ingredientPrincipal": "Aloès", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Limonade-aux-poires.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "1 lime, en tranches",
+  "1 citron, en tranches",
+  "3 poires cactus (figues de Barbarie), pelées (écraser la pulpe de 2 poires et déchiqueter celle de la troisième)",
+  "1 feuille d'aloès fraîche de 10 à 13 cm (4 à 5 po), rincée et broyée + quelques tranches de feuille par verre comme garniture",
+  "200 g (1 tasse) de sucre",
+  "125 ml (½ tasse) de sirop d'agave",
+  "250 ml (1 tasse) de jus de lime frais (lime Key ou autre)",
+  "750 ml à 1 litre (3 à 4 tasses) de thé vert non sucré",
+  "Glace pilée"
+],
+"preparation": [
+  "Dans un bol moyen résistant à la chaleur, mettre les tranches de lime et de citron, la pulpe écrasée de 2 poires cactus et la feuille d'aloès broyée. Dans une petite casserole, porter à ébullition le sucre, le sirop d'agave et le jus de lime. Verser dans le bol et couvrir de pellicule de plastique. Laisser refroidir à température ambiante, puis réfrigérer toute la nuit.",
+  "Filtrer le sirop dans une carafe en pressant sur les ingrédients pour extraire toutes leurs saveurs.",
+  "Ajouter un peu de thé vert et goûter pour ajuster la quantité au goût. Incorporer la poire de cactus déchiquetée et quelques tranches de feuille d'aloès. Servir sur de la glace pilée.",
+  "Note : Pour peler les poires cactus, portez des gants de caoutchouc ou tenez-les avec un linge épais sans quoi leurs épines minuscules pourraient causer des blessures à vos mains."
+]
+},
+
+{"id": 1660, "livreId": 7, "titre": "Cari de homard de Halifax et pilaf à la moelle", "page": 195, "categorie": "Curry, Fruits de mer", "ingredientPrincipal": "Homard", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Cari-de-homard.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "Sel marin",
+  "2 homards de 675 g (1 ½ lb) chacun",
+  "1 c. à soupe d'huile d'olive",
+  "1 petit oignon, en dés",
+  "1 à 3 c. à soupe de poudre de cari",
+  "2 c. à soupe de gingembre frais, émincé",
+  "1 petite feuille de laurier",
+  "1 pomme jaune, pelée, coupée en petits dés et mélangée avec 1 filet de jus de citron",
+  "1 gousse d'ail, émincée",
+  "1 piment chili entier",
+  "1 c. à soupe comble de farine tout usage",
+  "1 tomate, épépinée et hachée grossièrement",
+  "500 ml (2 tasses) d'eau",
+  "1 c. à soupe de beurre non salé",
+  "250 ml (1 tasse) de crème 35 %",
+  "Sel et poivre",
+  "2 c. à soupe de raisins de Corinthe, trempés dans l'eau pendant 1 heure",
+  "Pilaf à la moelle (page 196)",
+  "GARNITURE",
+  "2 c. à soupe de flocons de noix de coco non sucrée",
+  "2 c. à soupe d'amandes en bâtonnets"
+],
+"preparation": [
+  "Porter une grande casserole d'eau à ébullition et ajouter une grosse poignée de sel. Goûter pour s'assurer qu'elle est « aussi salée que l'eau de mer ». Faire bouillir les homards pendant 3 minutes, puis les déposer dans un grand bol rempli de glace et d'eau froide.",
+  "Lorsqu'il est possible de manipuler les homards sans se brûler, les décortiquer pour extraire le maximum de chair (méthode dans notre premier livre, pages 27-28). Réfrigérer. À l'aide d'un vieux couteau/couperet ou de ciseaux de cuisine, hacher la carapace des pattes et du corps en morceaux de 2,5 cm (1 po).",
+  "Chauffer une grande casserole à feu moyen. Ajouter l'huile et, lorsqu'elle est bien chaude, cuire les morceaux de carapace de 1 à 2 minutes en remuant souvent.",
+  "Ajouter l'oignon et cuire jusqu'à ce qu'il soit translucide. Ajouter du cari au goût, le gingembre, le laurier, la moitié de la pomme, l'ail et le piment. Cuire environ 1 minute, puis ajouter la farine en remuant avec soin. Ajouter la tomate et l'eau.",
+  "Couvrir et laisser mijoter 30 minutes. Ajouter le beurre et la crème, puis laisser mijoter 10 minutes de plus.",
+  "Filtrer la préparation dans une casserole moyenne assez grande pour contenir la chair de homard. Laisser réduire la sauce à feu moyen jusqu'à ce qu'il n'en reste plus que 250 ml (1 tasse). Saler et poivrer au goût.",
+  "Ajouter la chair de homard, le reste de la pomme et les raisins gonflés. Réchauffer à feu doux en remuant doucement. Servir le cari de homard au centre d'une couronne de Pilaf à la moelle (recette suivante). Garnir de noix de coco et d'amandes."
+]
+},
+
+{"id": 1661, "livreId": 7, "titre": "Craquelins de seigle et fromage cottage", "page": 193, "categorie": "Pain, Entrée", "ingredientPrincipal": "Amaranthe", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Craquelins-de-seigle.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "FROMAGE COTTAGE",
+  "1 litre (4 tasses) de lait entier",
+  "60 ml (¼ tasse) de vinaigre blanc",
+  "125 ml (½ tasse) de crème 35 %",
+  "¼ c. à thé de sel casher",
+  "CRAQUELINS",
+  "½ c. à soupe de graines de lin",
+  "½ c. à soupe de kasha (sarrasin entier grillé)",
+  "½ c. à soupe de millet",
+  "½ c. à soupe d'amaranthe entière",
+  "½ c. à soupe de quinoa",
+  "½ c. à thé de graines de sésame",
+  "1 c. à soupe de graines de citrouille",
+  "150 g (1 tasse + 4 c. à thé) de farine tout usage",
+  "90 g (¾ tasse) de farine de seigle",
+  "3 c. à thé de poudre à pâte",
+  "2 c. à thé de sel casher",
+  "70 g (5 c. à soupe) de beurre non salé, froid, en cubes",
+  "160 ml (⅔ tasse) d'eau",
+  "2 c. à soupe d'huile d'olive",
+  "2 c. à soupe de miel"
+],
+"preparation": [
+  "Dans une casserole à fond épais, chauffer le lait à 77 °C (170 °F). Retirer du feu et incorporer le vinaigre. Couvrir et laisser reposer 10 minutes.",
+  "Placer un tamis tapissé d'étamine au-dessus d'un bol. À l'aide d'une louche, verser doucement le lait caillé et le petit-lait dans le tamis. Couvrir avec soin le dessus du tamis de pellicule de plastique. Jeter le petit-lait accumulé dans le bol. Mettre le tamis posé sur le bol vide au réfrigérateur pendant 1 ½ à 2 heures, jusqu'à ce que le reste du petit-lait soit complètement égoutté.",
+  "Entre-temps, préparer les craquelins : à l'aide du robot culinaire, moudre finement tous les ingrédients, sauf le beurre, l'eau, l'huile et le miel, pendant 10 secondes.",
+  "Ajouter le beurre et pulser six ou sept fois, jusqu'à ce que la préparation soit sablonneuse.",
+  "Ajouter l'eau, l'huile et le miel. Mélanger de 10 à 15 secondes, jusqu'à formation d'une pâte humide.",
+  "À l'aide d'une spatule, déposer la pâte sur une feuille de pellicule de plastique. Avec les mains humectées, façonner un disque. Envelopper la pâte dans la pellicule de plastique et réfrigérer au moins 1 heure.",
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Couper la pâte réfrigérée en deux et en placer la moitié sur un plan de travail. Fariner généreusement le rouleau à pâtisserie, puis abaisser la pâte à 3 mm (1/8 po) d'épaisseur. Fariner les emporte-pièces. Utiliser le plus gros pour faire environ 6 cercles et le plus petit pour couper des cercles dans les grands en leur donnant ainsi la forme d'un beignet aplati. Déposer les anneaux sur une plaque tapissée de papier-parchemin et piquer la pâte à l'aide d'une fourchette ou d'un rouleau « pique vite ». Rassembler les anneaux du centre et les retailler, puis les abaisser pour faire environ 3 cercles de plus.",
+  "Cuire les craquelins au four de 16 à 18 minutes, jusqu'à ce qu'ils soient dorés. Pendant la cuisson, abaisser le reste de la pâte tel qu'indiqué à l'étape 8. Cuire le reste des craquelins. Laisser refroidir, puis ranger dans un contenant hermétique. Conservation : 1 semaine.",
+  "Sortir le fromage cottage du réfrigérateur et le transvider dans un bol en jetant le petit-lait. Incorporer la crème et le sel. Conservation : 1 ou 2 jours au réfrigérateur.",
+  "Notes : La transformation des produits laitiers exige des règles d'hygiène rigoureuses. Pour obtenir un résultat impeccable, lavez vos mains le plus souvent possible et utilisez des ustensiles d'une propreté absolue. Cette recette demande du lait et de la crème de qualité supérieure.",
+  "Vous pouvez utiliser le reste du petit-lait pour confectionner de la moutarde fermentée que nous vous recommandons de servir avec la Soupe au chou de régime cinq étoiles (page 201)."
+]
+},
+
 {"id": 1662, "livreId": 7, "titre": "Bûche du Noël des campeurs", "page": 307, "categorie": "Dessert", "ingredientPrincipal": "Ananas", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1663, "livreId": 7, "titre": "Cari de tempeh", "page": 222, "categorie": "Végé", "ingredientPrincipal": "Ananas", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1664, "livreId": 7, "titre": "Cocktail fruits du jour de John Bil", "page": 72, "categorie": "Boisson", "ingredientPrincipal": "Ananas", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Cocktail-fruits-du-jour.jpeg",
@@ -237,7 +673,49 @@
 
 {"id": 1665, "livreId": 7, "titre": "Mayonnaise à l'arlésienne", "page": 254, "categorie": "Sauce", "ingredientPrincipal": "Anchois", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1666, "livreId": 7, "titre": "Mousse igloo (gelée de lait hivernale)", "page": 38, "categorie": "Dessert", "ingredientPrincipal": "Anis étoilé", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1667, "livreId": 7, "titre": "Sticky buns à la courge", "page": 179, "categorie": "Pâtisserie", "ingredientPrincipal": "Anis étoilé", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1667, "livreId": 7, "titre": "Sticky buns à la courge", "page": 179, "categorie": "Pâtisserie", "ingredientPrincipal": "Courge", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+  "PÂTE",
+  "250 ml (1 tasse) de lait entier",
+  "50 g (½ boîte) de pouding instantané à la vanille",
+  "55 g (¼ tasse) de margarine",
+  "60 ml (¼ tasse) d'eau",
+  "8 g (2 c. à thé) de levure à action rapide",
+  "2 gros œufs",
+  "2 c. à soupe de sucre",
+  "¼ c. à thé de sel cachère",
+  "520 g (4 tasses) de farine tout usage + 30 g (¼ tasse) pour abaisser la pâte",
+  "BEURRE ÉPICÉ",
+  "180 g (¾ tasse) de beurre, ramolli",
+  "200 g (1 ¼ tasse) de cassonade pâle bien tassée",
+  "1 ½ c. à soupe de cannelle moulue",
+  "1 c. à soupe de gingembre moulu",
+  "2 c. à thé de muscade moulue",
+  "½ c. à thé de clou de girofle moulu",
+  "1 pincée d'anis étoilé moulu",
+  "2 c. à thé de sel cachère",
+  "COURGE RÂPÉE",
+  "960 g (4 tasses) de courge Butternut, râpée grossièrement",
+  "80 ml (⅓ tasse) de beurre non salé fondu",
+  "70 g (½ tasse) de graines de citrouille non salées, rôties",
+  "80 g (½ tasse) de cassonade"
+],
+"preparation": [
+  "Préparer la pâte : à l'aide du batteur sur socle muni d'un fouet, battre vigoureusement le lait et le pouding instantané pendant 2 minutes. Remplacer le fouet par le crochet pétrisseur. Ajouter la margarine, l'eau, la levure, les œufs, le sucre, le sel et la farine dans le bol. Pétrir de 3 à 4 minutes à vitesse moyenne-basse. Déposer la pâte dans un bol bien beurré. Couvrir de pellicule de plastique et réserver dans un endroit chaud pendant au moins 2 heures ou jusqu'à ce que la pâte ait doublé de volume.",
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Pendant que la pâte lève, mélanger tous les ingrédients du beurre épicé dans un grand bol. Réserver.",
+  "Courge râpée : dans un grand bol, bien mélanger la courge avec le beurre fondu. Avec les mains, étendre la préparation sur une plaque tapissée de papier-parchemin. Cuire au four 30 minutes et laisser refroidir.",
+  "Lorsque la pâte a doublé de volume, étendre une feuille de papier-parchemin de 30 à 43 cm (12 x 17 po) sur un plan de travail. Saupoudrer du reste de la farine. À l'aide d'un rouleau à pâtisserie, abaisser la pâte à 6 mm (¼ po) d'épaisseur en couvrant toute la surface du papier. Éliminer le surplus de farine sur le dessus de la pâte.",
+  "À l'aide d'une spatule coudée, étaler uniformément le beurre épicé refroidi sur la pâte. Couvrir uniformément de courge, puis parsemer de graines de citrouille et de 80 g (½ tasse) de cassonade.",
+  "Rouler le bord inférieur de la pâte vers le haut en veillant à ce que le rouleau soit uniforme. Une fois arrivé au bout de la pâte, faire pivoter le rouleau afin que le joint se retrouve vers le bas. Déposer sur une planche à découper. À l'aide d'un couteau dentelé, couper le rouleau en morceaux de 4 cm (1 ½ po) d'épaisseur. Dans un plat en pyrex, coucher délicatement les morceaux sur le côté, face coupée vers le haut, en les espaçant.",
+  "Couvrir le plat de pellicule de plastique beurrée. Garder les brioches dans un endroit chaud de la cuisine ou dans le micro-ondes. Laisser doubler de volume pendant 1 heure.",
+  "Préchauffer le four à 180 °C (350 °F). Cuire les brioches au four pendant 45 minutes, jusqu'à ce qu'elles soient dorées et souples quand on presse au milieu.",
+  "Note : Laissez lever la pâte pendant au moins 2 heures."
+]
+},
+
 {"id": 1668, "livreId": 7, "titre": "Burnt ends à la bourguignonne", "page": 244, "categorie": "Viande", "ingredientPrincipal": "Bacon", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1669, "livreId": 7, "titre": "Canard Stroganov", "page": 53, "categorie": "Canard", "ingredientPrincipal": "Canard", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Canard-stroganov.jpeg",
 "favori": false,
@@ -320,7 +798,34 @@
 ]
 },
 
-{"id": 1672, "livreId": 7, "titre": "Tarte au chou", "page": 186, "categorie": "Plat", "ingredientPrincipal": "Bacon", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1672, "livreId": 7, "titre": "Tarte au chou", "page": 186, "categorie": "Pâté", "ingredientPrincipal": "Bacon",  "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Tarte-au-chou.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "1 chou de Savoie",
+  "4 c. à soupe de beurre non salé",
+  "1 gousse d'ail entière",
+  "4 oignons, en tranches fines",
+  "6 pommes Russet (ou autre variété qui garde sa forme à la cuisson), pelées, évidées et coupées en tranches épaisses",
+  "60 ml (¼ tasse) de vinaigre de cidre",
+  "Quelques brins de thym frais",
+  "Sel et poivre",
+  "Pâte à tarte du commerce, abaissée en formant un cercle de 35 cm (14 po) et un autre de 46 cm (18 po)",
+  "18 tranches de bacon",
+  "1 feuille de laurier",
+  "1 gros jaune d'œuf, battu avec un peu d'eau"
+],
+"preparation": [
+  "Préchauffer le four à 190 °C (375 °F).",
+  "Retirer les feuilles de chou extérieures. On doit en avoir suffisamment pour tapisser et garnir le moule à tarte. Retirer les tiges, puis hacher le trognon en carrés gros comme une boîte d'allumettes.",
+  "Porter une grande casserole d'eau salée à ébullition. Cuire rapidement les feuilles extérieures pour les assouplir, puis les plonger dans un bain de glace avant de les éponger.",
+  "Chauffer 2 c. à soupe de beurre à feu moyen et cuire le chou haché avec la gousse d'ail entière. Ajouter un peu d'eau pour que le chou reste humide. Il doit être tendre mais pas trop mou, car la cuisson se poursuivra au four. Réserver.",
+  "Essuyer la casserole et faire suer les oignons dans 2 c. à soupe de beurre jusqu'à ce qu'ils soient légèrement dorés. Ajouter les pommes et cuire de 5 à 6 minutes. Incorporer le vinaigre et le thym, puis saler et poivrer au goût. Réserver.",
+  "Mettre le cercle de pâte le plus grand dans un moule à tarte. Tapisser le fond de feuilles de chou, mais pas les bords.",
+  "Ajouter successivement le chou haché, la préparation de pommes et le bacon. Placer la feuille de laurier au centre et couvrir de l'autre cercle de pâte. Badigeonner de jaune d'œuf battu. Cuire au four 45 minutes, jusqu'à ce que la croûte soit dorée."
+]
+},
+
 {"id": 1673, "livreId": 7, "titre": "Carré d'agneau, canard entier, boudin noir, pointe de poitrine de bœuf, lapin, poulet et jarret de veau entier fumés à la française", "page": 256, "categorie": "Viande", "ingredientPrincipal": "Barbecue français", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1674, "livreId": 7, "titre": "Croquettes de viande fumée", "page": 74, "categorie": "Viande", "ingredientPrincipal": "Béchamel", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Croquettes-de-viande-fumee.jpeg",
 "favori": false,
@@ -357,7 +862,41 @@
 ]
 },
 
-{"id": 1675, "livreId": 7, "titre": "Gâteau au fromage et à la bette à carde", "page": 248, "categorie": "Plat", "ingredientPrincipal": "Bette à carde", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1675, "livreId": 7, "titre": "Gâteau au fromage et à la bette à carde", "page": 248, "categorie": "Plat", "ingredientPrincipal": "Bette à carde", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Gateau-au-fromage.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "EAU DE TREMPAGE POUR LES FRUITS",
+  "375 ml (1 ½ tasse) d'eau",
+  "2 c. à soupe de miel de qualité",
+  "75 g (½ tasse) de raisins secs",
+  "75 g (½ tasse) de cerises séchées",
+  "GÂTEAU AU FROMAGE",
+  "2 bottes de bette à carde (hacher finement les feuilles et couper les tiges en petits dés)",
+  "400 g (1 ⅔ tasse) de ricotta fraîche",
+  "2 gros œufs",
+  "8 gros jaunes d'œufs",
+  "60 ml (¼ tasse) de miel",
+  "1 c. à thé de sel marin",
+  "1 c. à thé de cannelle moulue",
+  "½ c. à thé de muscade moulue",
+  "Le zeste de 1 citron",
+  "GARNITURE",
+  "125 ml (½ tasse) de miel",
+  "70 g (½ tasse) de pignons, grillés"
+],
+"preparation": [
+  "Préchauffer le four à 160 °C (325 °F).",
+  "Dans une petite casserole, mélanger l'eau et le miel. Porter à ébullition à feu vif, puis éteindre aussitôt le feu. Ajouter les raisins secs et les cerises séchées. Couvrir et laisser tremper environ 25 minutes.",
+  "Entre-temps, dans une grande casserole d'eau salée, blanchir la bette à carde (feuilles et tiges). Refroidir dans un grand bol d'eau froide, puis égoutter. Utiliser du papier absorbant pour extraire le surplus d'eau.",
+  "Égoutter les raisins et les cerises. Jeter le liquide de trempage.",
+  "Dans un grand bol, mélanger au fouet la ricotta, les œufs et les jaunes d'œufs, le miel, le sel, la cannelle, la muscade, le zeste de citron, les raisins et les cerises. Ajouter la bette à carde.",
+  "Beurrer généreusement un moule à charnière et verser la pâte. Cuire au four 35 minutes ou jusqu'à ce que le gâteau soit doré et qu'un couteau inséré au centre en ressorte propre. Servir à température ambiante ou le manger froid le lendemain.",
+  "Démouler le gâteau. Arroser de miel et parsemer de pignons.",
+  "Note : Le goût de ce gâteau n'est pas celui d'un dessert traditionnel ni d'un plat principal, mais on peut tout de même le servir comme dessert original ou mets d'accompagnement."
+]
+},
+
 {"id": 1676, "livreId": 7, "titre": "Betteraves à la cendre, chanterelles marinées", "page": 254, "categorie": "Légume", "ingredientPrincipal": "Betterave", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1677, "livreId": 7, "titre": "Faux vin rouge", "page": 103, "categorie": "Boisson", "ingredientPrincipal": "Betterave", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1678, "livreId": 7, "titre": "Pithiviers de perdrix", "page": 131, "categorie": "Viande", "ingredientPrincipal": "Betterave", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
@@ -383,9 +922,98 @@
 },
 
 
-{"id": 1683, "livreId": 7, "titre": "Barres aux figues", "page": 211, "categorie": "Dessert", "ingredientPrincipal": "Beurre non salé", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1684, "livreId": 7, "titre": "Beignets de maïs à la crème pâtissière au maïs", "page": 305, "categorie": "Dessert", "ingredientPrincipal": "Beurre non salé", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1685, "livreId": 7, "titre": "Beurre de piment fermenté", "page": 159, "categorie": "Condiment", "ingredientPrincipal": "Beurre non salé", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1683, "livreId": 7, "titre": "Barres aux figues", "page": 211, "categorie": "Dessert", "ingredientPrincipal": "Figues", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Barres-aux-figues.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "PURÉE DE FIGUES",
+  "230 g (1 ¾ tasse) de figues noires séchées, hachées grossièrement",
+  "180 ml (¾ tasse) d'eau",
+  "1 c. à soupe + 2 c. à thé de jus de citron frais",
+  "2 c. à soupe + 1 c. à thé de miel",
+  "PÂTE À BISCUITS",
+  "120 g (½ tasse) de beurre non salé, ramolli",
+  "½ c. à thé de sel marin",
+  "40 g (⅓ tasse) de sucre glace",
+  "1 pincée de clou de girofle moulu",
+  "½ c. à thé de cannelle moulue",
+  "¼ c. à thé de muscade moulue",
+  "1 gros œuf, battu",
+  "30 g (¼ tasse) de farine de tapioca",
+  "60 g (⅓ tasse) de farine de riz",
+  "2 c. à soupe de fécule de pomme de terre",
+  "60 g (⅔ tasse) de farine de noisette",
+  "FROMAGE BLEU FOUETTÉ (FACULTATIF)",
+  "250 ml (1 tasse) de crème 35 %, froide",
+  "100 g (3 ½ oz) de fromage bleu à température ambiante, émietté",
+  "2 c. à soupe de miel"
+],
+"preparation": [
+  "Purée de figues : dans une petite casserole, à feu moyen, mélanger les figues, l'eau, le jus de citron et le miel. Cuire environ 25 minutes, jusqu'à évaporation presque complète de l'eau. Réduire en purée lisse à l'aide du mélangeur.",
+  "Tapisser une petite plaque ou un petit moule d'une longue feuille de pellicule de plastique. À l'aide d'une spatule coudée, étaler la purée de figues sur le plastique en formant un rectangle de 30 x 5 ou 6 cm (12 x 2 ou 2 ½ po) ayant environ 1 cm (½ po) d'épaisseur. Égaliser les bords pour avoir une épaisseur uniforme. Couvrir la purée avec la pellicule de plastique et laisser refroidir au congélateur pendant au moins 1 ½ heure.",
+  "Pâte à biscuits : à l'aide du batteur sur socle muni du fouet plat, à vitesse moyenne, battre le beurre en crème avec le sel, le sucre glace, le clou de girofle, la cannelle et la muscade. Arrêter le batteur et racler les parois du bol à l'aide d'une spatule. Ajouter l'œuf et continuer de battre à vitesse moyenne-basse environ 20 secondes. À basse vitesse, ajouter le reste des ingrédients et mélanger pour les amalgamer, sans plus.",
+  "Sur une feuille de papier-parchemin assez grande pour couvrir une plaque, tracer un rectangle de 30 x 18 cm (12 x 7 po). Humecter une spatule coudée et étaler la pâte en couvrant complètement le rectangle. Couvrir la pâte de papier-parchemin, puis aplanir le dessus à l'aide d'un rouleau à pâtisserie. Réfrigérer au moins 45 minutes.",
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Sortir la pâte du réfrigérateur et la purée de figues du congélateur. Laisser reposer la pâte de 5 à 10 minutes afin qu'on puisse la plier sans qu'elle se fissure. Ôter le papier qui la recouvre. Retirer la purée de figues de la pellicule de plastique et la mettre au centre du rectangle de pâte. À l'aide du papier-parchemin qui se trouve sous la pâte, ramener les côtés les plus longs de la pâte sur la purée de figues. Presser doucement pour sceller la pâte – on peut lisser la fermeture à l'aide de la spatule coudée. Mettre le rouleau emballé à côté de la plaque et tapisser celle-ci avec une feuille de papier-parchemin propre. Remettre le rouleau sur la plaque en veillant à ce que la fermeture soit tournée vers le bas. Réfrigérer 30 minutes avant de mettre au four.",
+  "Étape facultative : fouetter la crème jusqu'à l'obtention de pics moyens. Ajouter le fromage bleu et le miel. Réfrigérer jusqu'au moment de servir.",
+  "Cuire le rouleau au four de 25 à 30 minutes, jusqu'à ce qu'il soit doré et que les bords commencent à brunir.",
+  "Laisser refroidir à température ambiante de 30 à 60 minutes. Couper le rouleau en 6 gros biscuits et, si désiré, garnir chacun de fromage bleu fouetté."
+]
+},
+
+{"id": 1684, "livreId": 7, "titre": "Beignets de maïs à la crème pâtissière au maïs", "page": 305, "categorie": "Entrée", "ingredientPrincipal": "Maïs", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Beignets-de-mais.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "PÂTE",
+  "6 c. à soupe de beurre non salé",
+  "90 g (6 c. à soupe) de sucre",
+  "6 gros jaunes d'œufs",
+  "430 ml (1 ¾ tasse) de lait entier",
+  "720 g (5 ½ tasses) de farine tout usage",
+  "80 g (⅔ tasse) de semoule de maïs fine",
+  "14 g (1 c. à soupe + 1 c. à thé) de levure à action rapide",
+  "2 c. à thé de sel marin",
+  "Huile de canola pour la friture",
+  "CRÈME PÂTISSIÈRE AU MAÏS",
+  "4 gros œufs",
+  "4 gros jaunes d'œufs (85 g/3 oz)",
+  "180 g (¾ tasse + 2 c. à soupe) de sucre",
+  "1 pincée de sel casher",
+  "250 ml (1 tasse) de jus de maïs (égrener environ 5 épis à l'aide d'un bon couteau, réduire les grains en jus au mélangeur et filtrer)",
+  "3 feuilles de gélatine, gonflées dans l'eau froide",
+  "180 g (¾ tasse) de beurre",
+  "FINITION",
+  "200 g (1 tasse) de sucre",
+  "500 ml (2 tasses) de crème 35 %"
+],
+"preparation": [
+  "Pâte : mélanger le beurre et le sucre. Ajouter les jaunes d'œufs, puis le lait. Mélanger avec la farine, la semoule de maïs, la levure et le sel. À l'aide du batteur sur socle muni du crochet pétrisseur, à basse vitesse, pétrir la préparation environ 3 minutes, jusqu'à ce que la texture soit lisse. Laisser lever la pâte de 1 à 1 ½ heure, jusqu'à ce qu'elle ait doublé de volume.",
+  "Entre-temps, préparer la crème pâtissière en mélangeant les œufs, les jaunes d'œufs, le sucre et le sel. Dans une casserole, à feu moyen, chauffer le jus de maïs. Verser sur la préparation d'œufs. Poursuivre la cuisson en mélangeant au fouet jusqu'à ce que le thermomètre indique 82 °C (182 °F). Incorporer la gélatine.",
+  "Verser dans un bol placé dans un bain de glace et laisser refroidir jusqu'à ce que le thermomètre indique 45 °C (113 °F). À l'aide d'un pied-mélangeur, ajouter graduellement le beurre jusqu'à ce que la crème pâtissière soit lisse et soyeuse. Réfrigérer environ 4 heures.",
+  "Sur un plan de travail fariné, abaisser la pâte à environ 1 cm (½ po) d'épaisseur. Couper 20 beignets à l'aide d'un emporte-pièce pour beignets. (On peut rassembler les retailles pour en faire d'autres, mais ils ne seront pas aussi tendres que les premiers.) Laisser gonfler environ 30 à 60 minutes.",
+  "Verser 8 cm (3 po) d'huile de canola dans la friteuse (ou suivre les instructions du fabricant) et chauffer à 180 °C (350 °F). (On peut aussi utiliser une sauteuse profonde et un thermomètre à friture.) Frire quelques beignets à la fois environ 2 à 3 minutes de chaque côté, jusqu'à ce qu'ils soient légèrement dorés. Égoutter sur du papier absorbant et saupoudrer de sucre.",
+  "Avant de servir, couper les beignets en deux. À l'aide d'un sac à douille ou d'une spatule, étaler un peu de crème pâtissière sur la moitié inférieure, puis arroser de crème. Refermer les beignets."
+]
+},
+
+{"id": 1685, "livreId": 7, "titre": "Beurre de piment fermenté", "page": 159, "categorie": "Condiment", "ingredientPrincipal": "Beurre non salé", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Beurre-de-piment.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "450 g (1 lb) de piments frais (jalapenos rouges ou Cherry Bomb), lavés",
+  "1 c. à soupe de sel cachère",
+  "1 litre (4 tasses) d'eau embouteillée",
+  "450 g (1 lb) de beurre non salé"
+],
+"preparation": [
+  "Couper les piments en deux sur la longueur et les mélanger avec le sel dans un bol. Avec beaucoup de soin, mettre tous les piments et les graines dans le bocal Mason (une fois salés, les piments commencent habituellement à émettre des composés volatils pouvant provoquer la toux). Laisser reposer à température ambiante pendant 1 heure.",
+  "Couvrir les piments d'eau embouteillée (pour garantir la stérilisation). Couvrir le pot d'une étamine maintenue en place à l'aide d'une ficelle ou d'un élastique. Réserver dans un lieu frais, à l'abri de la lumière. Laisser fermenter les piments pendant 2 semaines. Ils ramolliront et l'eau deviendra trouble. Écumer avec soin la moisissure blanche qui pourrait se former à la surface. Si la moisissure n'est pas blanche, jeter le contenu et recommencer tout le processus. (Les piments fermentés se conservent 1 mois dans un contenant couvert gardé au réfrigérateur.)",
+  "Confection du beurre : sortir les piments du liquide avec soin. Dans une petite casserole, mélanger le beurre et les piments. Cuire à feu doux jusqu'à ce que le beurre se clarifie (il sera clair, mais il aura une teinte rougeâtre et un puissant arôme de piment). Filtrer et utiliser immédiatement, sinon on peut le conserver 1 semaine au réfrigérateur ou 1 mois au congélateur s'il est bien couvert.",
+  "Note : Les piments doivent fermenter pendant 2 semaines avant qu'on puisse confectionner le beurre."
+]
+},
+
 {"id": 1686, "livreId": 7, "titre": "Beurre de tomate à la marjolaine", "page": 58, "categorie": "Condiment", "ingredientPrincipal": "Beurre non salé", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Beurre-de-tomate-a-la-marjolaine.jpeg",
 "favori": false,
 "note": null,
@@ -469,8 +1097,52 @@
 ]
 },
 
-{"id": 1691, "livreId": 7, "titre": "Galettes au sucre de Mammie", "page": 213, "categorie": "Dessert", "ingredientPrincipal": "Beurre non salé", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1692, "livreId": 7, "titre": "Mmmuffins aux mûres", "page": 206, "categorie": "Pâtisserie", "ingredientPrincipal": "Beurre non salé", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1691, "livreId": 7, "titre": "Galettes au sucre de Mammie", "page": 213, "categorie": "Dessert", "ingredientPrincipal": "Beurre non salé", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+  "3 gros œufs",
+  "180 g (¾ tasse + 2 c. à soupe) de sucre granulé",
+  "1 pincée de sel",
+  "2 sachets de 9 g de sucre vanillé",
+  "200 g (¾ tasse + 4 c. à thé) de beurre non salé, fondu",
+  "275 g (1 ½ tasse) de farine sans gluten (nous aimons celle de Bob's Red Mill)"
+],
+"preparation": [
+  "Dans un bol à mélanger, à l'aide du batteur sur socle, blanchir les œufs avec le sucre granulé environ 4 minutes, jusqu'à dissolution complète du sucre.",
+  "Remplacer le fouet ordinaire par le fouet plat. Ajouter le sel, le sucre vanillé et le beurre. Ajouter la farine en trois fois. Mélanger avec soin de 2 à 3 minutes, jusqu'à ce que la pâte soit souple sans être trop liquide.",
+  "Cuire dans un moule à pizzelles en suivant les instructions du fabricant. Quand les galettes sont chaudes, on peut les mouler facilement sur un bol renversé pour les remplir ensuite de crème au beurre ou, comme nous le faisions chez Joe Beef, de crème glacée molle."
+]
+},
+
+{"id": 1692, "livreId": 7, "titre": "Mmmuffins aux mûres", "page": 206, "categorie": "Pâtisserie, Desserts", "ingredientPrincipal": "Mures", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Muffins-au-mures.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "60 g (⅔ tasse) de farine de noisette",
+  "80 g (⅔ tasse) de sucre glace",
+  "1 c. à thé de sucre vanillé maison (page 142) ou du commerce",
+  "30 g (¼ tasse) de farine tout usage",
+  "5 gros blancs d'œufs",
+  "1 c. à soupe de gelée de pomme",
+  "½ c. à thé d'épices pour pain d'épices",
+  "¼ c. à thé de sel",
+  "170 g (¾ tasse) de beurre non salé",
+  "50 g (½ tasse) de mûres blanches séchées",
+  "30 g (¼ tasse) de morceaux de pralines aux noisettes caramélisées (facultatif)",
+  "SERVICE",
+  "Fromage de chèvre québécois semi-affiné",
+  "Confiture de mûres"
+],
+"preparation": [
+  "Préchauffer le four à 180 °C (350 °F).",
+  "Dans un grand bol, à l'aide d'une spatule ou d'une cuillère en bois, mélanger la farine de noisette, le sucre glace, le sucre vanillé, la farine, les blancs d'œufs, la gelée de pomme, les épices et le sel.",
+  "Dans une casserole, à feu moyen-vif, chauffer le beurre jusqu'à ce qu'il prenne une belle couleur noisette. Verser immédiatement dans un bol métallique et laisser tempérer.",
+  "À l'aide d'un fouet, incorporer le beurre graduellement dans la pâte. Tapisser le moule de caissettes en papier et remplir celles-ci aux deux tiers. Garnir les muffins de mûres séchées en les enfonçant légèrement dans la pâte. Parsemer de pralines. Cuire au four 17 minutes.",
+  "Servir les muffins à température ambiante avec du fromage de chèvre et de la confiture de mûres."
+]
+},
+
 {"id": 1693, "livreId": 7, "titre": "Potage télépathique", "page": 56, "categorie": "Soupe", "ingredientPrincipal": "Navet", "image": null,
 "favori": false,
 "note": null,
@@ -490,7 +1162,27 @@
 ]
 },
 
-{"id": 1694, "livreId": 7, "titre": "Purée de pommes de terre au munster (Munster Mash)", "page": 251, "categorie": "Légume", "ingredientPrincipal": "Beurre non salé", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1694, "livreId": 7, "titre": "Purée de pommes de terre au munster (Munster Mash)", "page": 251, "categorie": "Légume", "ingredientPrincipal": "Pomme de terre", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Munster-mash.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "900 g (2 lb) de pommes de terre rattes non pelées",
+  "1 c. à soupe de sel marin",
+  "125 ml (½ tasse) de lait entier",
+  "1 petite meule de fromage munster de 10 à 13 cm (4 à 5 po) de diamètre",
+  "120 g (½ tasse) de beurre non salé, froid, en cubes (ou plus au besoin)",
+  "1 c. à thé de graines de cumin",
+  "2 c. à soupe de ciboulette fraîche, hachée",
+  "Poivre noir"
+],
+"preparation": [
+  "Mettre les pommes de terre dans une casserole. Couvrir de 2,5 cm (1 po) d'eau et ajouter le sel. Porter à ébullition à feu vif. Cuire à feu moyen de 15 à 20 minutes, jusqu'à ce que la chair cède lorsqu'on presse dessus à l'aide d'une cuillère.",
+  "Dans une petite casserole, porter le lait à ébullition avec le quart de la meule de fromage. Retirer du feu. Égoutter les pommes de terre et les passer au presse-purée au-dessus d'un grand bol. Ajouter le beurre et la moitié de la préparation de lait chaud. Remuer délicatement à l'aide d'une cuillère en bois jusqu'à ce que la texture devienne soyeuse. Si on le juge nécessaire, ajouter le reste du lait chaud et du beurre. Saler au goût.",
+  "Préchauffer le four à 150 °C (300 °F).",
+  "Si désiré, passer de nouveau la purée au presse-purée au-dessus des assiettes. Garnir du reste du fromage coupé en tranches et mettre au four 4 minutes pour le faire fondre un peu. Parsemer de cumin, de ciboulette et de poivre."
+]
+},
+
 {"id": 1695, "livreId": 7, "titre": "Sauce volaille", "page": 102, "categorie": "Sauce", "ingredientPrincipal": "Beurre non salé", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1696, "livreId": 7, "titre": "Soupe au cresson avec quenelles de truite", "page": 54, "categorie": "Soupe", "ingredientPrincipal": "Beurre non salé", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1697, "livreId": 7, "titre": "Steak Ambassadeur", "page": 101, "categorie": "Boeuf", "ingredientPrincipal": "Boeuf", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Steak-ambassadeur.jpeg",
@@ -542,8 +1234,64 @@
 {"id": 1699, "livreId": 7, "titre": "Écorces, racines et brindilles, encart", "page": 8, "categorie": "Condiment", "ingredientPrincipal": "Bière", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1700, "livreId": 7, "titre": "Porter Rabbit Stew", "page": 18, "categorie": "Viande", "ingredientPrincipal": "Bière", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1701, "livreId": 7, "titre": "Pemmican", "page": 287, "categorie": "Charcuterie", "ingredientPrincipal": "Bison", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1702, "livreId": 7, "titre": "Saucisses FrancForce", "page": 199, "categorie": "Charcuterie", "ingredientPrincipal": "Bison", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1703, "livreId": 7, "titre": "Tartare de bison Buffalo", "page": 158, "categorie": "Viande", "ingredientPrincipal": "Bison", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1702, "livreId": 7, "titre": "Saucisses FrancForce", "page": 199, "categorie": "Charcuterie", "ingredientPrincipal": "Bison", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Saucisse-francforce.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "1 boyau de porc naturel ou 1 boyau artificiel pour saucisses à hot-dog de 1,2 m (4 pi)",
+  "800 g (1 ¾ lb) de viande maigre (ex. : épaule de bison), en cubes",
+  "200 g (7 oz) de flanc de porc gras (sans peau), en cubes",
+  "2 c. à thé de sel marin",
+  "½ c. à thé de poudre de betterave",
+  "1 ½ c. à soupe d'Épices pour chiens-chauds (encart, page 5)",
+  "½ c. à thé de graines de céleri",
+  "100 g (¾ tasse) de graines de chanvre ou de tournesol décortiquées",
+  "125 g (1 tasse) de cubes de glace"
+],
+"preparation": [
+  "Se laver les mains minutieusement. Rincer le boyau en plaçant une extrémité sous le robinet et laisser couler l'eau froide jusqu'à ce qu'elle ressorte par l'autre bout. Cette étape élimine le sel de salaison à l'intérieur du boyau. Répéter deux ou trois fois. Laisser tremper le boyau rincé dans un bol d'eau propre et froide et réfrigérer jusqu'au moment de l'utilisation. Si on utilise un boyau artificiel, suivre les instructions du fabricant.",
+  "Si ce n'est déjà fait, placer le hache-viande et la grille la plus grosse de même que les cubes de viande au congélateur pendant au moins 1 heure avant de procéder au hachage.",
+  "Préparer le hachoir. Hacher la viande maigre et le flanc de porc en procédant par étapes.",
+  "Enfiler des gants. Dans un bol moyen, mélanger la viande hachée avec les mains en ajoutant le sel, la poudre de betterave, les épices, les graines de céleri et les graines de chanvre. Congeler pendant 1 heure.",
+  "Prendre une partie de la viande hachée et la pulser avec une quantité de glace de grosseur proportionnelle jusqu'à ce que le tout soit bien mélangé et que la glace ait été « absorbée ». Réfrigérer. Faire de même avec le reste de la viande.",
+  "Fixer le poussoir au comptoir de cuisine et installer le tube de remplissage le plus petit. Mettre la viande refroidie dans le poussoir et enfiler le boyau sur le tube.",
+  "Il est toujours plus facile de travailler avec un ami qui tournera la manivelle pendant que l'on façonnera les saucisses au fur et à mesure qu'elles émergeront du poussoir. Travailler avec constance (la pratique permet de se perfectionner) en gardant un peu de jeu dans le boyau pour faire des nœuds. À l'aide d'une aiguille stérilisée avec la flamme d'un briquet, piquer les poches d'air. Rouler la saucisse en grosse spirale et réfrigérer.",
+  "Se référer aux étapes 9 à 11 de la recette des Saucisses de base (page 89) pour façonner et cuire les saucisses. Une fois la confection terminée, il est recommandé de les réfrigérer de 2 à 3 heures avant de les faire griller. Conservation : 1 semaine au réfrigérateur ou 2 mois au congélateur.",
+  "Notes : Les règles d'hygiène sont les mêmes que pour la recette de Saucisses de base (page 89) : garder l'espace de travail propre; laver et rincer souvent le matériel utilisé (et les mains !); mettre tout le matériel et, plus important encore, les bols et les pièces du poussoir au congélateur jusqu'au moment de l'utilisation.",
+  "Cette recette ne contient pas de nitrates ni de nitrites. Si vous voulez faire des saucisses fumées, utilisez de la fumée liquide ou fumez les saucisses à chaud en suivant les instructions du guide d'utilisation qui vous a été fourni avec votre fumoir."
+]
+},
+
+{"id": 1703, "livreId": 7, "titre": "Tartare de bison Buffalo", "page": 158, "categorie": "Viande", "ingredientPrincipal": "Bison", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Tartare-de-bison.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "570 g (1 ¼ lb) de viande de bison fraîche (surlonge ou longe de préférence)",
+  "225 g (8 oz) de peau de poulet (la commander à l'avance au boucher ou la prélever sur des cuisses de poulet)",
+  "Sel cachère et poivre noir",
+  "1 petite échalote, émincée",
+  "1 c. à thé de câpres, égouttées et émincées",
+  "1 cornichon cachère à l'aneth, en petits dés",
+  "2 c. à soupe de cœur de céleri, émincé",
+  "2 c. à soupe d'huile d'olive",
+  "1 c. à thé de moutarde de Dijon",
+  "2 c. à thé de ketchup",
+  "4 c. à thé de jus de citron frais",
+  "60 g (¼ tasse) de Beurre de piment fermenté (page 159), ramolli",
+  "SERVICE",
+  "110 g (4 oz) de fromage bleu (le Bleu d'Élizabeth de la fromagerie du Presbytère est excellent, mais le stilton fait aussi l'affaire), émietté",
+  "Feuilles de cœur de céleri, émincées",
+  "Pain grillé"
+],
+"preparation": [
+  "Préchauffer le four à 160 °C (325 °F). Placer les deux bols superposés (celui du fond contient de la glace) près de la planche à découper.",
+  "Couper la viande en fines couches par petites quantités à la fois. La détailler ensuite en bâtonnets, puis tourner ceux-ci d'un quart de tour pour faire des petits dés. Mettre la viande dans le bol froid.",
+  "Étendre la peau de poulet sur une plaque tapissée de papier-parchemin. Les morceaux peuvent se toucher, mais on ne doit pas les superposer. Couvrir de papier-parchemin, puis d'une autre plaque. Cuire au four 45 minutes ou jusqu'à ce que la peau soit dorée et croustillante. Assaisonner immédiatement avec ½ c. à thé de sel et un peu de poivre. Laisser refroidir la plaque sur une grille à gâteau pendant 30 minutes en prenant soin d'ôter la plaque du dessus et le papier-parchemin. Émietter la peau avec les doigts ou la hacher au couteau. Réserver sur une plaque tapissée de papier absorbant sans couvrir.",
+  "Dans un petit bol, mélanger les échalotes, les câpres et le cornichon.",
+  "Assaisonner la viande avec 1 c. à soupe de sel et ¼ c. à thé de poivre noir. Ajouter la préparation d'échalotes, le céleri, l'huile, la moutarde, le ketchup, le jus de citron et, à la toute fin, le beurre de piment. Servir dans un bol et garnir de peau de poulet émiettée, de fromage bleu et de feuilles de céleri. Accompagner de pain grillé."
+]
+},
+
 {"id": 1704, "livreId": 7, "titre": "Fricassée de volaille aux écrevisses", "page": 68, "categorie": "Poulet", "ingredientPrincipal": "Bisque express", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Fricasses-de-volaille-aux-ecrevisses.jpeg",
 "favori": false,
 "note": null,
@@ -666,7 +1414,29 @@
 },
 
 {"id": 1711, "livreId": 7, "titre": "T-bones minces de bacon de bœuf", "page": 57, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1712, "livreId": 7, "titre": "Bolognaise à la viande fumée", "page": 301, "categorie": "Sauce", "ingredientPrincipal": "Bœuf haché", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1712, "livreId": 7, "titre": "Bolognaise à la viande fumée", "page": 301, "categorie": "Sauce", "ingredientPrincipal": "Bœuf haché", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Bolognaise-a-la-viande-fumee.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "1 oignon, en petits dés",
+  "1 gousse d'ail, en petits dés",
+  "1 carotte, en petits dés",
+  "1 branche de céleri, en petits dés",
+  "2 c. à soupe de pâte de tomates",
+  "2 c. à soupe d'huile d'olive",
+  "450 g (1 lb) de bœuf haché maigre",
+  "450 g (1 lb) de viande fumée mi-maigre, hachée au robot culinaire",
+  "½ c. à thé de poivre noir du moulin",
+  "1 boîte de 428 ml (14 ½ oz) de tomates entières pelées, en purée",
+  "Sel et poivre"
+],
+"preparation": [
+  "Préchauffer le four à 135 °C (275 °F). Dans une cocotte, à feu moyen-vif, faire suer l'oignon, l'ail, la carotte, le céleri et la pâte de tomates dans l'huile jusqu'à ce qu'ils soient translucides.",
+  "Ajouter le bœuf et la viande fumée en remuant. Ajouter le poivre et les tomates en purée. Remplir la boîte de tomates d'eau à moitié, secouer légèrement, puis verser dans la cocotte.",
+  "Couvrir et cuire au four pendant 2 heures en remuant de temps à autre. Saler et poivrer au goût. Conservation : 5 à 7 jours au réfrigérateur."
+]
+},
+
 {"id": 1713, "livreId": 7, "titre": "Hamburgers «Catalina»", "page": 113, "categorie": "Sandwich, Boeuf", "ingredientPrincipal": "Bœuf haché", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Hamburger.jpeg",
 "favori": false,
 "note": null,
@@ -947,7 +1717,55 @@
 ]
 },
 
-{"id": 1726, "livreId": 7, "titre": "Pelmenis au homard", "page": 173, "categorie": "Fruits de mer", "ingredientPrincipal": "Calvados", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1726, "livreId": 7, "titre": "Pelmenis au homard", "page": 173, "categorie": "Fruits de mer", "ingredientPrincipal": "Homard", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Pelmenis-au-homard.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "2 homards de 900 g (2 lb) chacun, blanchis 4 minutes (extraire la chair et réserver les carapaces; voir étapes 1 et 2)",
+  "SAUCE AU HOMARD",
+  "3 c. à soupe d'huile neutre",
+  "3 gousses d'ail, hachées grossièrement",
+  "2 brins d'estragon frais",
+  "1 c. à thé de paprika doux",
+  "Sel et poivre noir du moulin",
+  "500 ml (2 tasses) de crème 35 %",
+  "250 à 500 ml (1 à 2 tasses) d'eau",
+  "250 ml (1 tasse) de jus de carotte fraîchement pressé",
+  "Piment de Cayenne",
+  "Le jus de ½ citron (ou au goût)",
+  "60 g (¼ tasse) de beurre non salé, froid",
+  "PÂTE",
+  "2 gros œufs",
+  "520 g (4 tasses) de farine tout usage",
+  "1 pincée de sel",
+  "180 à 250 ml (¾ à 1 tasse) d'eau froide",
+  "GARNITURE POUR PELMENIS",
+  "450 g (1 lb) de porc haché",
+  "1 gros œuf",
+  "1 gros jaune d'œuf",
+  "2 gousses d'ail, émincées",
+  "2 c. à soupe d'estragon frais, haché finement",
+  "2 c. à soupe de ciboulette fraîche, hachée finement",
+  "60 ml (¼ tasse) de calvados",
+  "Sel et poivre blanc",
+  "SERVICE",
+  "250 ml (1 tasse) de crème sure",
+  "3 c. à soupe de ciboulette fraîche, hachée"
+],
+"preparation": [
+  "Hacher la chair de homard en morceaux gros comme des petits pois. Réserver au réfrigérateur.",
+  "Égoutter les carapaces des homards.",
+  "Sauce au homard : dans une casserole à fond épais, chauffer l'huile jusqu'à ce qu'elle soit très chaude. Cuire les carapaces à feu vif en remuant vigoureusement environ 5 minutes, jusqu'à évaporation complète du liquide. Ajouter l'ail, l'estragon, le paprika et ¼ c. à thé de poivre noir. Cuire quelques secondes, puis ajouter la crème et l'eau. Laisser mijoter à feu moyen-doux pendant 30 minutes. Filtrer dans un petit contenant. Saler et poivrer au goût.",
+  "Pâte : pendant que le homard mijote, à l'aide du batteur sur socle, à basse vitesse, mélanger les œufs, la farine, le sel et 180 ml (¾ tasse) d'eau de 8 à 10 minutes, jusqu'à formation d'une pâte souple. Ajouter un peu d'eau au besoin, mais pas plus de 4 ou 5 c. à soupe, puisque pendant le temps de repos la pâte deviendra beaucoup plus lâche et souple. Si le temps est humide, il est préférable de faire une pâte plus ferme. Pétrir avec les mains à quelques reprises, fariner légèrement et déposer dans un contenant ou un sac de type Ziploc. Laisser reposer au moins 30 minutes ou plus longtemps si possible.",
+  "Garniture pour pelmenis : dans un grand bol, avec les mains, bien mélanger la chair de homard hachée avec tous les ingrédients de la garniture. Nous recommandons de cuire une petite quantité à la poêle pour vérifier si on doit rectifier l'assaisonnement.",
+  "Sur un plan de travail fariné, abaisser la pâte en formant un grand cercle d'environ 3 mm (⅛ po) d'épaisseur. À l'aide d'un emporte-pièce de 10 cm (4 po), couper le plus de cercles possible et les placer côte à côte sur une plaque farinée.",
+  "Au centre de chaque cercle de pâte, déposer 1 c. à soupe de la garniture. Du bout du doigt, humecter le pourtour avec un peu d'eau ou de dorure. Plier un cercle de pâte en deux en scellant les bords – avec le doigté de votre ami qui savait rouler ses cigarettes d'une seule main. Soulever les extrémités du demi-cercle et les presser l'une contre l'autre. Déposer sur la plaque farinée et procéder de même pour les autres pelmenis. Réfrigérer.",
+  "Finition de la sauce au homard : dans une casserole moyenne, laisser réduire le jus de carotte de moitié. Ajouter la sauce au homard réservée et laisser mijoter doucement de 30 à 40 minutes, jusqu'à ce que la texture soit onctueuse sans être ferme. Ajouter du sel, du poivre noir et du cayenne au goût. Ajouter le jus de citron, puis incorporer le beurre froid à l'aide d'un fouet. Réserver au chaud.",
+  "Porter une grande casserole d'eau salée à ébullition. Cuire quelques pelmenis à la fois (pour éviter qu'ils ressemblent aux Schtroumpfs entassés dans le chaudron de Gargamel) en maintenant un doux mijotement constant pendant 2 à 3 minutes. Il va sans dire qu'il est beaucoup plus facile de vérifier la cuisson d'un pelmeni maintenant que d'envoyer une lettre d'excuse plus tard à nos invités. Déposer les pelmenis cuits sur une plaque huilée et cuire le reste.",
+  "Déposer les pelmenis dans une grande casserole. Couvrir de sauce au homard. Porter à faible ébullition à feu moyen-doux. Couvrir et cuire de 5 à 6 minutes. Comme les pelmenis absorberont une partie de la sauce, ajouter un peu d'eau et rectifier l'assaisonnement au besoin. Servir avec de la crème sure et de la ciboulette."
+]
+},
+
 {"id": 1727, "livreId": 7, "titre": "Bavarois à la Doris", "page": 145, "categorie": "Dessert", "ingredientPrincipal": "Camomille", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Bavarois.jpeg",
 "favori": false,
 "note": null,
@@ -998,7 +1816,65 @@
 },
  
 {"id": 1730, "livreId": 7, "titre": "Carottes, câpres, cerfeuil et ciboulette en rémoulade", "page": 255, "categorie": "Légume", "ingredientPrincipal": "Câpre", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1731, "livreId": 7, "titre": "Cari de crabe de Dungeness de Omar", "page": 181, "categorie": "Fruits de mer", "ingredientPrincipal": "Cari (feuille de)", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1731, "livreId": 7, "titre": "Cari de crabe de Dungeness de Omar", "page": 181, "categorie": "Fruits de mer", "ingredientPrincipal": "Crabe", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Cari-de-crabe.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "TANDOURI MASALA",
+  "3 c. à soupe de graines de coriandre",
+  "3 c. à soupe de graines de cumin",
+  "1 c. à soupe de graines de moutarde noire",
+  "1 bâton de cannelle de Chine de 5 cm (2 po)",
+  "3 feuilles de laurier",
+  "1 petit morceau de macis",
+  "1 c. à soupe de gingembre moulu",
+  "1 c. à soupe de poudre de mangue verte (amchoor)",
+  "1 c. à soupe de paprika fumé",
+  "CRABE",
+  "1 gros crabe de Dungeness de 900 g (2 lb)",
+  "2 gros œufs, battus",
+  "3 c. à soupe de fécule de maïs",
+  "3 c. à soupe de farine de riz",
+  "½ c. à soupe de chacun : gingembre frais et ail, émincés et mélangés",
+  "1 c. à thé de sel",
+  "1 c. à thé de poivre blanc",
+  "1 c. à thé de curcuma moulu",
+  "1 c. à soupe de cumin moulu",
+  "1 c. à thé de coriandre moulue",
+  "Huile de canola pour la friture",
+  "1 c. à thé de graines de cumin",
+  "20 feuilles de cari (Murraya)",
+  "SAUCE AU CARI",
+  "125 ml (½ tasse) d'huile de canola",
+  "4 piments rouges séchés",
+  "6 gousses d'ail, émincées",
+  "½ c. à thé de graines de fenugrec",
+  "½ c. à thé de graines de moutarde noire",
+  "2 oignons, en petits dés",
+  "1 c. à thé de cumin moulu",
+  "4 piments verts, épépinés et coupés en julienne",
+  "3 tomates moyennes (450 g/1 lb), en purée",
+  "Sel",
+  "SERVICE",
+  "1 c. à soupe de gingembre frais, en julienne",
+  "1 c. à soupe de piment vert, en julienne",
+  "Quartiers de lime",
+  "Riz basmati vapeur nature"
+],
+"preparation": [
+  "Préparer le tandouri masala à l'avance : dans une petite poêle, griller séparément les épices jusqu'à ce qu'elles dégagent tous leurs arômes. Laisser refroidir quelques minutes, puis les moudre finement ensemble à l'aide d'un moulin à épices. Réserver dans un contenant hermétique.",
+  "Décortiquer le crabe au goût. Nous recommandons de le plonger 5 minutes dans de l'eau bouillante salée, puis dans un bain d'eau glacée.",
+  "Séparer les pinces et les pattes, puis les briser pour retirer la chair. Réserver la carapace du dessus pour la garniture. Retirer et jeter les branchies, puis couper l'abdomen en deux.",
+  "Mélanger la chair de crabe avec les œufs, la fécule de maïs, la farine de riz, le gingembre à l'ail, le sel, le poivre, les épices et 2 c. à soupe du tandouri masala réservé. Réfrigérer pas plus de 2 heures afin que le goût des épices ne masque pas celui du crabe.",
+  "Sauce au cari : dans un karahi, chauffer l'huile à feu moyen. Ajouter les piments rouges, l'ail et les graines de fenugrec et de moutarde. Faire sauter à feu vif en remuant environ 1 minute, jusqu'à ce qu'ils changent de couleur. Ajouter les oignons et les faire dorer légèrement en remuant fréquemment de 4 à 6 minutes. Baisser le feu au besoin pour empêcher les épices de brûler.",
+  "Incorporer le cumin, les piments verts et la purée de tomates. Laisser mijoter de 10 à 15 minutes, en ajoutant de l'eau au besoin pour ajuster la consistance, jusqu'à ce que l'huile commence à remonter à la surface. Saler au goût et réserver hors feu.",
+  "Dans un autre karahi, verser juste assez d'huile pour frire les morceaux de crabe. Chauffer les graines de cumin avec les feuilles de cari jusqu'à ce qu'elles commencent à éclater. Ajouter le crabe et frire de 2 à 3 minutes. Réserver dans une assiette tapissée de papier absorbant.",
+  "Porter la sauce au cari à ébullition en rectifiant l'assaisonnement et la consistance au besoin. Ajouter le crabe et laisser mijoter de 3 à 5 minutes, jusqu'à ce qu'il soit complètement cuit.",
+  "Garnir de gingembre et de piment vert. Accompagner de quartiers de lime et de riz basmati.",
+  "Note : Nous vous recommandons de préparer le tandouri masala avant d'aller acheter un gros crabe vivant chez le poissonnier puisqu'il entre dans la composition de la marinade."
+]
+},
+
 {"id": 1732, "livreId": 7, "titre": "Sauce madère vite faite", "page": 46, "categorie": "Sauce", "ingredientPrincipal": "Carotte", "image": null,
 "favori": false,
 "note": null,
@@ -1085,7 +1961,29 @@
 ]
 },
 
-{"id": 1762, "livreId": 7, "titre": "Palourdes al forno!", "page": 238, "categorie": "Fruits de mer", "ingredientPrincipal": "Chapelure", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1762, "livreId": 7, "titre": "Palourdes al forno!", "page": 238, "categorie": "Fruits de mer", "ingredientPrincipal": "Palourde", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Paloudres-al-forno.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "24 belles paloudres fraîches",
+  "450 g (1 lb) de gros sel",
+  "500 ml (2 tasses) de Bolognaise de mirepoix (voir recette ci-haut)",
+  "4 c. à soupe de chapelure de qualité",
+  "4 quartiers de citron",
+  "Huile d'olive de qualité",
+  "2 c. à soupe de persil frais, haché"
+],
+"preparation": [
+  "Brosser et rincer les paloudres.",
+  "Préchauffer le four à 230 °C (450 °F).",
+  "Verser 60 ml (¼ tasse) d'eau dans une casserole assez grande pour contenir les paloudres. Ajouter les paloudres, couvrir et cuire à la vapeur de 3 à 4 minutes en secouant la casserole de temps à autre (doucement pour ne pas abîmer les coquilles). Déposer les paloudres dans une assiette propre pendant qu'elles s'ouvrent.",
+  "Retirer la chair des paloudres ouvertes et séparer les deux parties des coquilles.",
+  "Étaler le sel sur une plaque.",
+  "Déposer une paloudre dans chaque demi-coquille inférieure, puis la napper de 1 c. à soupe comble de sauce bolognaise. Parsemer de chapelure. Ranger les paloudres au fur et à mesure sur le lit de sel.",
+  "Cuire les paloudres au four de 5 à 6 minutes, jusqu'à ce qu'elles soient grésillantes. Servir immédiatement avec un quartier de citron. Arroser d'huile d'olive et parsemer de persil."
+]
+},
+
 {"id": 1763, "livreId": 7, "titre": "Saucisses à la salade de egg roll", "page": 94, "categorie": "Charcuterie", "ingredientPrincipal": "Châtaigne d'eau", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Saucisses-a-la-salade-de-egg-roll.jpeg",
 "favori": false,
 "note": null,
@@ -1119,8 +2017,58 @@
 ]
 },
 
-{"id": 1764, "livreId": 7, "titre": "Risotto minute", "page": 208, "categorie": "Plat", "ingredientPrincipal": "Cheddar", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1765, "livreId": 7, "titre": "Céviche de cheval", "page": 160, "categorie": "Viande", "ingredientPrincipal": "Cheval", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1764, "livreId": 7, "titre": "Risotto minute", "page": 208, "categorie": "Riz", "ingredientPrincipal": "Cheddar", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Risotto-minute.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "90 g (1 tasse) de riz instantané Minute Rice",
+  "15 g (½ tasse) de melon miel ou de cantaloup lyophilisé, en petits cubes",
+  "55 g (½ tasse) de speck (jambon cru fumé italien) en tranches, doré à sec 2 minutes dans une poêle et émietté à la main",
+  "3 c. à soupe d'oignon lyophilisé",
+  "2 c. à soupe d'huile d'olive",
+  "500 à 750 ml (2 à 3 tasses) d'eau ou de bouillon clair (au besoin)",
+  "2 c. à soupe de beurre non salé",
+  "55 g (½ tasse) de cheddar québécois de qualité, râpé",
+  "Sel et poivre",
+  "4 c. à thé de miel de sarrasin"
+],
+"preparation": [
+  "À l'aide d'un mélangeur solide ou d'un robot culinaire, fracturer les grains de riz en 3 ou 4 morceaux en pulsant brièvement avec assurance.",
+  "Mélanger le riz avec le melon, le speck et l'oignon. Ajouter l'huile et bien remuer.",
+  "Si l'on a prévu servir ce plat à la campagne, déposer le fromage et le reste des ingrédients dans des petits sacs de type Ziploc que l'on mettra dans un sac plus grand contenant le riz et les aromates. Emballer le miel, le bouillon et le beurre séparément. Pour cuire le risotto sur un feu de bois ou sur la cuisinière, suivre les instructions suivantes.",
+  "Porter 500 ml (2 tasses) d'eau ou de bouillon à faible ébullition. Incorporer la préparation de riz contenant le melon, le speck et l'oignon.",
+  "Ajouter du liquide au besoin pendant la cuisson; le temps de cuisson total sera de 4 à 5 minutes. Retirer du feu, puis incorporer le beurre et le fromage. Rectifier l'assaisonnement au besoin, puis arroser légèrement de miel au moment de servir.",
+  "Notes : On peut se procurer en ligne du melon miel ou du cantaloup lyophilisé ou séché. Vous pouvez aussi couper du melon frais en cubes et les faire sécher à l'aide d'un déshydrateur.",
+  "Si vous prévoyez faire cette recette pendant une randonnée, remplacez le cheddar par un fromage plus sec et moins périssable comme le pecorino."
+]
+},
+
+{"id": 1765, "livreId": 7, "titre": "Céviche de cheval", "page": 160, "categorie": "Viande", "ingredientPrincipal": "Cheval", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Ceviche-de-cheval.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "450 g (1 lb) de filet de cheval",
+  "½ c. à thé de sel marin",
+  "3 c. à soupe de jus de lime frais",
+  "1 ½ c. à soupe d'huile d'olive",
+  "½ oignon rouge, coupé à la mandoline en rondelles très fines",
+  "1 petite carotte, en tranches très fines",
+  "1 c. à soupe de Jalapenos marinés (page 165)",
+  "1 laitue Little Gem (sucrine), feuilles séparées",
+  "SERVICE",
+  "30 g (½ tasse) de feuilles de coriandre fraîche (laisser un petit bout de la tige)",
+  "1 rondelle ou quartier de lime"
+],
+"preparation": [
+  "À l'aide d'un couteau bien affûté, couper la viande en tranches extrêmement fines.",
+  "Mettre les tranches dans un bol peu profond. Ajouter le sel, le jus de lime et l'huile. Réfrigérer 30 minutes.",
+  "Sortir la viande de la marinade, mais ne pas jeter celle-ci. Rouler les tranches en forme de petit cigare et les disposer sur un petit plateau.",
+  "Mélanger l'oignon, la carotte, les jalapenos et la laitue avec la marinade réservée. Rectifier l'assaisonnement en ajoutant du sel, de l'huile et du jus de lime au besoin.",
+  "Garnir les rouleaux de viande de légumes. Ajouter ensuite la coriandre et la rondelle de lime.",
+  "Note : Si vous avez de la difficulté à vous procurer de la viande chevaline, demandez conseil à votre boucher."
+]
+},
+
 {"id": 1766, "livreId": 7, "titre": "Beurre de chips all dressed", "page": 60, "categorie": "Condiment", "ingredientPrincipal": "Chips", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Beurre-de-chips-all-dressed.jpeg",
 "favori": false,
 "note": null,
@@ -1166,7 +2114,37 @@
 ]
 },
 
-{"id": 1768, "livreId": 7, "titre": "Natas à la citrouille", "page": 264, "categorie": "Dessert", "ingredientPrincipal": "Citrouille (purée ou graines)", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1768, "livreId": 7, "titre": "Natas à la citrouille", "page": 264, "categorie": "Dessert", "ingredientPrincipal": "Citrouille (purée ou graines)", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Natas-a-la-citrouille.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "450 g (1 lb) de pâte feuilletée, décongelée mais froide",
+  "250 g (1 tasse) de purée de citrouille",
+  "250 ml (1 tasse) de lait entier",
+  "125 g (½ tasse + 2 c. à soupe) de sucre",
+  "2 c. à soupe de miel",
+  "30 g (¼ tasse) de fécule de maïs",
+  "½ c. à thé de cannelle moulue",
+  "¼ c. à thé de muscade moulue",
+  "¼ c. à thé de clou de girofle moulu",
+  "¼ c. à thé de gingembre moulu",
+  "¼ c. à thé d'extrait de vanille pure",
+  "½ c. à thé de sel marin",
+  "1 pincée de poivre noir",
+  "1 gros œuf",
+  "5 à 6 jaunes d'œufs (85 g/3 oz)"
+],
+"preparation": [
+  "Préchauffer le four à 220 °C (425 °F). Graisser légèrement un moule à muffins de 12 cavités.",
+  "Abaisser la pâte à 3 mm (1/8 po) d'épaisseur. À l'aide d'un emporte-pièce rond ou d'un bol, couper un cercle de pâte qui pourra entrer parfaitement dans une des cavités du moule. Changer d'emporte-pièce au besoin pour avoir le diamètre idéal pour les cavités du moule. Couper ensuite les 11 autres cercles de pâte.",
+  "Presser délicatement les cercles dans les cavités du moule. Réfrigérer pendant 1 heure.",
+  "Au mélangeur, mixer le reste des ingrédients à vitesse moyenne en ajoutant l'œuf et les jaunes d'œufs à la fin. Bien mélanger et transvider dans une casserole moyenne.",
+  "Cuire la préparation à feu moyen-vif en fouettant sans cesse jusqu'à ce qu'elle commence à bouillonner et à épaissir. Filtrer dans un tamis à mailles fines posé au-dessus d'un bol.",
+  "Remplir les moules aux deux tiers.",
+  "Cuire les natas au four de 10 à 12 minutes, jusqu'à ce que la croûte soit bien dorée. Laisser refroidir un peu avant de démouler. Pour que le dessus des natas soit bien doré (comme on le fait au Portugal), les passer sous le gril préchauffé du four de 2 à 3 minutes en les surveillant de près."
+]
+},
+
 {"id": 1769, "livreId": 7, "titre": "Absorbine Junior (L')", "page": 10, "categorie": "Boisson", "ingredientPrincipal": "Cocktails", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/L-absorbine-junior.jpeg",
 "favori": false,
 "note": null,
@@ -1208,7 +2186,63 @@
 },
 
 {"id": 1772, "livreId": 7, "titre": "Salade composée très française", "page": 252, "categorie": "Salade", "ingredientPrincipal": "Comté", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1773, "livreId": 7, "titre": "Saint-honoré «Beauty's Special»", "page": 169, "categorie": "Dessert", "ingredientPrincipal": "Corégone", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1773, "livreId": 7, "titre": "Saint-honoré «Beauty's Special»", "page": 169, "categorie": "Dessert", "ingredientPrincipal": "Corégone", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Saint-honore.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "SALADE DE CORÉGONE",
+  "200 g (1 ½ tasse) de corégone fumé de qualité, sans arêtes",
+  "125 ml (½ tasse) de crème sure",
+  "1 branche de céleri, hachée finement",
+  "3 oignons verts, en tranches fines",
+  "3 c. à soupe de mayonnaise",
+  "1 c. à soupe de jus de citron frais",
+  "Sel et poivre",
+  "FROMAGE À LA CRÈME AUX HERBES",
+  "1 paquet de 226 g (8 oz) de fromage à la crème, ramolli",
+  "250 ml (1 tasse) de crème sure",
+  "15 g (¼ tasse) de ciboulette fraîche, hachée",
+  "1 c. à soupe de brins d'aneth frais, hachés",
+  "Sel et poivre noir du moulin",
+  "CYGNES EN PÂTE À CHOUX",
+  "250 ml (1 tasse) d'eau",
+  "½ c. à thé de sel",
+  "½ c. à thé de sucre",
+  "100 g (7 c. à soupe) de beurre",
+  "130 g (1 tasse) de farine tout usage",
+  "4 gros œufs",
+  "1 c. à soupe de graines de pavot",
+  "DORURE",
+  "1 gros œuf, battu à l'aide d'une fourchette",
+  "PÂTE FEUILLETÉE",
+  "675 g (1 ½ lb) de pâte feuilletée, décongelée mais encore froide, abaissée en formant un carré de 30 x 30 cm (12 x 12 po) de 6 mm (¼ po) d'épaisseur",
+  "POISSON FUMÉ",
+  "300 g (2 tasses) d'omble chevalier saumuré et fumé, en tranches fines",
+  "300 g (2 tasses) d'esturgeon fumé (ou autre poisson fumé), en tranches fines",
+  "GARNITURE",
+  "8 brins d'aneth frais",
+  "1 petite échalote, en tranches fines",
+  "100 g (3 ½ oz) de caviar de corégone ou de truite"
+],
+"preparation": [
+  "Salade de corégone : dans un bol, mélanger tous les ingrédients à l'aide d'une fourchette. Assaisonner au goût. Couvrir et réfrigérer.",
+  "Fromage à la crème aux herbes : dans un bol moyen, à l'aide d'un fouet ou d'une cuillère en bois, bien mélanger le fromage, la crème sure, la ciboulette et l'aneth. Saler et poivrer au goût. Transvider dans une poche à douille munie d'une douille en forme d'étoile de 13 mm (½ po). Réfrigérer.",
+  "Préchauffer le four à 190 °C (375 °F).",
+  "Pâte à choux : dans une casserole moyenne, mélanger l'eau, le sel, le sucre et le beurre. Amener à frémissement. Lorsque le beurre est complètement fondu et que le liquide est bouillant, incorporer la farine hors du feu à l'aide d'une cuillère en bois. Mettre la casserole à feu moyen et remuer vigoureusement avec la même cuillère pendant 30 secondes. Transvider dans un bol à mélanger.",
+  "Continuer de remuer la pâte à choux à quelques reprises pour laisser la vapeur s'échapper. Ajouter les œufs un à un en mélangeant avec soin après chaque addition. Transvider dans une poche à douille munie d'une douille unie de 6 mm (¼ po). Réserver.",
+  "Tapisser une grande plaque de papier-parchemin. À l'aide d'un crayon à mine, tracer sur le papier environ 10 cercles de 4 cm (1 ½ po) en laissant un espace de 8 cm (3 po) entre eux. Dans les espaces entre les cercles, tracer de grands S de 5 cm (2 po) de longueur (au moins autant qu'il y a de cercles).",
+  "Retourner le papier-parchemin sur la plaque afin que le graphite du crayon n'entre pas en contact avec la pâte. Faire un chou de pâte dans chaque cercle en commençant au centre et en allant jusqu'au bord du cercle tracé. Distribuer ensuite de la pâte sur les S en faisant un mouvement rapide du poignet comme si on écrivait avec la main. Laisser reposer 10 minutes, puis badigeonner délicatement les cercles de dorure. Faire de même avec les cous de cygnes. (Laisser la pâte dans la poche au cas où on raterait un ou deux cygnes, ce qui peut se produire très facilement.)",
+  "Cuire la pâte au four 20 minutes ou jusqu'à ce qu'elle soit gonflée et dorée. Éteindre le four, sortir les choux et les badigeonner légèrement de dorure. Parsemer de graines de pavot. Remettre les choux au four et les laisser refroidir et sécher doucement environ 20 minutes en gardant la porte entrouverte.",
+  "Commencer à faire les cygnes en coupant le tiers supérieur des choux ronds. Couper chacun des « chapeaux » en deux en plein centre pour faire les ailes. Les choux restants seront farcis de salade de poisson.",
+  "Préchauffer le four à 200 °C (400 °F).",
+  "Fariner légèrement le plan de travail. Étaler la pâte feuilletée. À l'aide d'un couvercle ou d'un moule à tarte renversé, tracer et couper un cercle de 23 à 25 cm (9 à 10 po) avec la pointe d'un couteau. Piquer toute la surface à l'aide d'une fourchette. Déposer la pâte sur une plaque tapissée de papier-parchemin et placer une autre plaque sur le dessus. Cuire au four 15 minutes, puis retirer la plaque du dessus et le papier. Remettre la pâte au four 10 minutes, jusqu'à ce qu'elle soit dorée et croustillante. Laisser refroidir sur une grille.",
+  "Remplir les choux ronds de salade de poisson – ça ne fait rien si elle déborde un peu. Réserver sur le plan de travail ou sur une plaque.",
+  "Appliquer un peu de fromage à la crème aux fines herbes sous le cercle de pâte feuilletée et le déposer dans une belle assiette en le pressant doucement pour qu'il adhère bien. Appliquer un peu de fromage à la crème aux fines herbes sous les choux farcis de salade de poisson et les poser un à un autour du périmètre de la pâte feuilletée.",
+  "Distribuer d'abord le fromage à la crème au centre. Disposer le poisson fumé en cercles concentriques de sorte que chaque tranche roulée joue le rôle d'un pétale de nénuphar. Poser délicatement les ailes sur chaque cygne, puis rentrer les cous (les S) dans la salade de poisson (voir la photo finale).",
+  "Garnir cette magnifique création d'aneth frais, d'échalote et de caviar."
+]
+},
+
 {"id": 1774, "livreId": 7, "titre": "Grillades de Valleyfield, épices pour grillades", "page": 295, "categorie": "Condiment", "ingredientPrincipal": "Coriandre", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1775, "livreId": 7, "titre": "Cornichon", "page": 254, "categorie": "Conserve", "ingredientPrincipal": "Cornichon", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1776, "livreId": 7, "titre": "Filet de courge", "page": 281, "categorie": "Légume", "ingredientPrincipal": "Courge", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
@@ -1284,8 +2318,48 @@
 ]
 },
 
-{"id": 1781, "livreId": 7, "titre": "Ketchup maison", "page": 214, "categorie": "Condiment", "ingredientPrincipal": "Datte Medjool", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1782, "livreId": 7, "titre": "Gelées au vin", "page": 233, "categorie": "Dessert", "ingredientPrincipal": "Desserts", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1781, "livreId": 7, "titre": "Ketchup maison", "page": 214, "categorie": "Condiment", "ingredientPrincipal": "Datte Medjool", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Ketchup-maison.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "2 c. à soupe de sirop d'érable",
+  "125 ml (½ tasse) de vinaigre de cidre de pomme",
+  "10 dattes Medjool, dénoyautées et hachées grossièrement",
+  "1 tube de 127 g (4 ½ oz) de pâte de tomates bio",
+  "1 c. à thé de sel marin",
+  "¼ c. à thé de poudre d'ail",
+  "1 petite pincée de piment de Cayenne (ou plus, au goût)",
+  "1 petite pincée de curcuma moulu (ou plus, au goût)",
+  "1 petit oignon, haché très finement"
+],
+"preparation": [
+  "Dans une casserole à fond épais, mélanger 1 tasse (250 ml) d'eau, le sirop d'érable, le vinaigre et les dattes. Porter à ébullition et couvrir. Réserver 1 heure à température ambiante.",
+  "Incorporer le reste des ingrédients. Porter à faible ébullition à feu doux et cuire très doucement pendant 30 minutes en remuant souvent en fin de cuisson pour empêcher le ketchup de brûler. Ajouter de l'eau au besoin.",
+  "Mélanger jusqu'à consistance lisse à l'aide d'un pied-mélangeur. Verser immédiatement dans un contenant en verre hermétique et réfrigérer. Conservation : 1 mois au réfrigérateur."
+]
+},
+
+{"id": 1782, "livreId": 7, "titre": "Gelées au vin", "page": 233, "categorie": "Dessert", "ingredientPrincipal": "Desserts", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Gelees-au-vin.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "8 ½ feuilles (17 g) de gélatine",
+  "250 ml (1 tasse) de vin",
+  "70 g (⅓ tasse) de sucre",
+  "5 c. à thé de pectine liquide",
+  "Colorant alimentaire naturel (facultatif)"
+],
+"preparation": [
+  "Dans un grand bol d'eau froide, laisser ramollir les feuilles de gélatine pendant 10 minutes.",
+  "Dans une petite casserole, mélanger 125 ml (½ tasse) de vin et le sucre. Chauffer à feu moyen environ 5 minutes, jusqu'à dissolution du sucre. Ne pas porter à ébullition.",
+  "Essorer délicatement la gélatine, puis la mettre dans la casserole. Battre au fouet jusqu'à dissolution, puis retirer du feu. Ajouter la pectine et mélanger au fouet.",
+  "Ajouter le reste du vin et le colorant en remuant. Verser dans une petite carafe ou un contenant muni d'un bec verseur.",
+  "Ranger les moules sur une plaque. Remplir minutieusement les cavités jusqu'au bord. Laisser refroidir au réfrigérateur de 6 à 8 heures.",
+  "Au moment de servir, détacher les gommes des parois des moules à l'aide d'un cure-dent (comme on le fait avec un couteau avant de démouler un gâteau). Appuyer sur les cavités pour libérer les gommes et obtenir une forme parfaite. Conserver dans un contenant hermétique gardé au réfrigérateur. Consommer frais de préférence.",
+  "Note : Nous vous suggérons d'essayer cette recette avec différents cépages : pinot noir, chardonnay, riesling, merlot et savagnin."
+]
+},
+
 {"id": 1783, "livreId": 7, "titre": "Pêches Cardinal", "page": 9, "categorie": "Dessert", "ingredientPrincipal": "Desserts", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Peches-cardinal.jpeg",
 "favori": false,
 "note": null,
@@ -1389,7 +2463,29 @@
 ]
 },
 
-{"id": 1789, "livreId": 7, "titre": "Galettes Tater Tots", "page": 178, "categorie": "Amuse-bouche", "ingredientPrincipal": "Galettes", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1789, "livreId": 7, "titre": "Galettes Tater Tots", "page": 178, "categorie": "Amuse-bouche", "ingredientPrincipal": "Galettes", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+  "6 pommes de terre Russet",
+  "100 g (¾ tasse) de sel cachère",
+  "135 g (1 tasse) de fécule de maïs",
+  "Huile neutre pour la friture",
+  "Sel et poivre noir du moulin"
+],
+"preparation": [
+  "Peler les pommes de terre et les couper en dés moyens. Réserver dans l'eau froide pour empêcher l'oxydation.",
+  "Dans une grande casserole, porter 4 litres (16 tasses) d'eau à ébullition. Ajouter le sel.",
+  "Fixer le hache-viande en utilisant la grille moyenne. Hacher les pommes de terre dans un bol en acier inoxydable.",
+  "Verser l'eau bouillante salée sur les pommes de terre. Laisser reposer environ 20 minutes, jusqu'à ce que l'eau soit à température ambiante.",
+  "Égoutter les pommes de terre refroidies dans un bol et jeter l'eau. Incorporer la fécule de maïs.",
+  "Sur une grande plaque, à l'aide d'un emporte-pièce de 15 cm (6 po), façonner 8 galettes de pommes de terre en les pressant fermement (elles doivent avoir environ 2,5 cm/1 po de hauteur). Réfrigérer au moins 2 heures ou toute la nuit.",
+  "Chauffer l'huile à 180 °C (350 °F).",
+  "Frire quelques galettes à la fois de 3 à 4 minutes, jusqu'à ce qu'elles soient bien dorées. Servir sur un plateau tapissé de papier absorbant. Saler et poivrer au goût.",
+  "Note : On doit réfrigérer les galettes pendant au moins 2 heures ou toute la nuit avant de procéder à la cuisson."
+]
+},
+
 {"id": 1790, "livreId": 7, "titre": "Cassoulet vite fait", "page": 254, "categorie": "Plat", "ingredientPrincipal": "Haricots", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1791, "livreId": 7, "titre": "Sirop de maïs digne de ce nom", "page": 285, "categorie": "Condiment", "ingredientPrincipal": "Maïs", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1792, "livreId": 7, "titre": "Œufs mayonnaise", "page": 47, "categorie": "Amuse-bouche", "ingredientPrincipal": "Oeuf", "image": null,
@@ -1425,6 +2521,25 @@
 },
 
 {"id": 1793, "livreId": 7, "titre": "Beurre d'époisses à la moutarde", "page": 296, "categorie": "Condiment", "ingredientPrincipal": "Moutarde", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1794, "livreId": 7, "titre": "Noix fumées", "page": 157, "categorie": "Amuse-bouche", "ingredientPrincipal": "Noix et noisette", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1794, "livreId": 7, "titre": "Noix fumées", "page": 157, "categorie": "Amuse-bouche", "ingredientPrincipal": "Noix et noisette", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Noix-fumees.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "450 g (1 lb) d'amandes non mondées",
+  "450 g (1 lb) d'un mélange de noisettes, de noix et de cajous (avec la peau si possible)",
+  "60 ml (¼ tasse) d'huile de pépins de raisin (ou autre huile neutre)",
+  "1 ½ c. à soupe de sel",
+  "40 g (¼ tasse) de cassonade pâle",
+  "3 c. à thé d'épices à steak de Montréal",
+  "1 c. à soupe de farine de riz"
+],
+"preparation": [
+  "Allumer le fumoir. Essayer de maintenir une belle fumée constante plutôt que de faire une grosse boucane qui inciterait vos voisins à alerter les pompiers et à mettre la hache dans votre Weber tout neuf, ce qui vous forcerait dorénavant à utiliser de la fumée liquide.",
+  "Dans un grand bol en acier inoxydable, enrober les noix d'huile. Ajouter le sel, la cassonade et les épices en remuant avec soin. Mélanger avec la farine de riz.",
+  "Étaler les noix sur une plaque et les fumer pendant 3 heures ou jusqu'à ce qu'elles soient croustillantes et aient un bon goût de fumé.",
+  "Laisser refroidir à température ambiante. Conservation : 1 mois dans des contenants hermétiques."
+]
+},
+
 {"id": 1801, "livreId": 7, "titre": "Armagnac à la truffe du Périgord", "page": 123, "categorie": "Amuse-bouche", "ingredientPrincipal": "Truffe", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"}
 ]
