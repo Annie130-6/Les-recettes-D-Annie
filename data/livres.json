@@ -1,5 +1,5 @@
 [
-{"id": 1, "titre": "Kitchen Galerie", "langue": "Français", "editeur": "Les Éditions de l’Homme", "nbRecettes": 92, "statut": "À indexer", "couverture": "IMG_1648.jpeg", "dossier": "001-kitchen-galerie"},
+{"id": 1, "titre": "Kitchen Galerie", "langue": "Français", "editeur": "Les Éditions de l’Homme", "nbRecettes": 92, "statut": "Complet", "couverture": "IMG_1648.jpeg", "dossier": "001-kitchen-galerie"},
 {"id": 2, "titre": "La cuisine asiatique pour tous", "langue": "Français", "editeur": "", "nbRecettes": 345, "statut": "Complet", "couverture": "IMG_1650.jpeg", "dossier": "002-la-cuisine-asiatique-pour-tous"},
 {"id": 3, "titre": "Macarons - comme un pro, à la maison !", "langue": "Français", "editeur": "Marabout", "nbRecettes": 27, "statut": "Complet", "couverture": "IMG_1724.jpeg", "dossier": "003-macarons-comme-un-pro-a-la-maison"},
 {"id": 4, "titre": "Tapas pour l'apéro", "langue": "Français", "editeur": "Pratico Édition Cuisine", "nbRecettes": 58, "statut": "Complet", "couverture": "IMG_1749.jpeg", "dossier": "004-tapas-pour-l-apero"},
