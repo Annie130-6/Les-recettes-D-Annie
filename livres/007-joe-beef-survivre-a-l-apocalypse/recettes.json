@@ -105,8 +105,66 @@
 ]
 },
 
-{"id": 1652, "livreId": 7, "titre": "Sauce Worcestershire", "page": 106, "categorie": "Sauce", "ingredientPrincipal": "Ail", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1653, "livreId": 7, "titre": "Saucisses de base", "page": 89, "categorie": "Charcuterie", "ingredientPrincipal": "Ail", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1652, "livreId": 7, "titre": "Sauce Worcestershire", "page": 106, "categorie": "Sauce", "ingredientPrincipal": "Ail", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Sauce-worcestershire.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "500 ml (2 tasses) d'eau",
+  "1 litre (4 tasses) de vinaigre de cidre de pomme",
+  "500 ml (2 tasses) de sirop d'érable foncé (nous utilisons celui de nos amis de Saint-Armand)",
+  "60 g (¼ tasse) de sel",
+  "250 ml (1 tasse) de sauce de poisson fermentée naturellement",
+  "160 g (1 ¼ tasse) de pâte de tamarin",
+  "60 ml (¼ tasse) de jus d'oignon",
+  "2 c. à soupe de grains de poivre noir entiers",
+  "1 bâton de cannelle de 8 à 10 cm (3 à 4 po)",
+  "1 c. à thé de clou de girofle moulu",
+  "5 oignons verts, hachés",
+  "5 gousses d'ail",
+  "1 c. à thé de gingembre séché",
+  "45 g (¼ tasse) d'anchois salés entiers",
+  "1 c. à thé de macis entier",
+  "5 petits piments séchés"
+],
+"preparation": [
+  "À l'aide d'un entonnoir, mélanger tous les ingrédients dans la cruche de fermentation.",
+  "Fixer le barboteur sur la cruche et secouer vigoureusement. Laisser reposer sur le rebord d'une fenêtre ensoleillée pendant 1 mois. Ranger ensuite pendant au moins 4 mois dans un cellier ou un lieu frais, à l'abri de la lumière. Ou encore dans votre garage – ou celui d'un ami que vous remercierez en lui offrant une bouteille de cette sauce puisque vous en aurez une grande quantité !",
+  "Filtrer la sauce à l'aide d'une étamine et la mettre en bouteilles.",
+  "Note : Nous avons utilisé une dame-jeanne de 10 litres (2 gallons) pour la photo. Elle est plus grosse que celle dont vous aurez besoin pour faire 2 litres (8 tasses) de sauce. La fermentation prend 5 mois."
+]
+},
+
+{"id": 1653, "livreId": 7, "titre": "Saucisses de base", "page": 89, "categorie": "Charcuterie", "ingredientPrincipal": "Porc", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Saucisse-de-base.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "1 boyau de porc naturel de 1,2 à 1,5 m (4 à 5 pi)",
+  "4 gousses d'ail, hachées finement",
+  "250 ml (1 tasse) de vin blanc sec ou de cidre brut, froid",
+  "1 c. à soupe de sel cachère",
+  "¾ c. à thé de poivre blanc moulu finement",
+  "¾ c. à thé de poivre noir moulu finement",
+  "½ c. à thé de poudre de Prague n° 1",
+  "1 c. à soupe de sucre",
+  "900 g (2 lb) d'épaule de porc bien grasse, hachée grossièrement",
+  "225 g (8 oz) de salami séché (ex. : soppressata), épluché et coupé en dés de 6 mm (¼ po), puis haché grossièrement au robot culinaire (pulser 6 à 10 fois)"
+],
+"preparation": [
+  "Se laver les mains minutieusement. Rincer le boyau de porc en plaçant une extrémité sous le robinet et laisser couler l'eau froide jusqu'à ce qu'elle ressorte par l'autre bout. Cette étape élimine le sel de salaison à l'intérieur du boyau. Répéter deux ou trois fois. Laisser tremper le boyau rincé dans un bol d'eau propre et chaude.",
+  "Mélanger l'ail et le vin dans un petit bol. Laisser infuser à température ambiante pendant 20 minutes. Égoutter; réserver le vin et jeter l'ail.",
+  "Mélanger le vin infusé avec le sel, les poivres, la poudre de Prague et le sucre.",
+  "Dans un grand bol froid, ou à l'aide du batteur sur socle muni du fouet plat, mélanger le porc haché et le salami. Incorporer le vin infusé. Si possible, placer le bol de viande sur un bain de glace.",
+  "Dans une petite poêle, à feu doux, frire une petite galette de viande dans un peu d'huile de 3 à 5 minutes, jusqu'à cuisson complète. Goûter pour vérifier l'assaisonnement. Au besoin, ajouter du sel ou tout autre assaisonnement dans le bol de viande. Bien mélanger la préparation en la gardant toujours froide.",
+  "Retirer le boyau de l'eau et l'enfiler sur le tube du poussoir à saucisses, jusqu'à ce que la plus grande partie du boyau repose sur le tube, bien serré, près de la base du poussoir. Faire un nœud à l'autre bout. Humecter une plaque avec 4 c. à soupe d'eau et la placer près du bain de glace contenant la préparation de viande.",
+  "Dans une grande casserole, à feu vif, chauffer 4 litres (16 tasses) d'eau jusqu'à ce qu'elle commence à mijoter.",
+  "Entre-temps, farcir le boyau avec assurance. Tenir la base du poussoir avec la main non dominante. De l'autre main, prendre un peu de viande (de la grosseur d'une balle de golf) et la pousser dans le tube avec le pouce. Répéter. La saucisse commencera à émerger lentement en glissant sur la plaque humide. Le rythme de travail et la manière de bien distribuer la viande s'imposeront d'eux-mêmes. De temps à autre, faire une pause pour presser la saucisse avec les mains afin de mieux répartir la viande.",
+  "Pour former les saucisses, commencer par le bout noué du boyau. Avec la main dominante, mesurer la longueur d'une bonne main à partir du bout du boyau et pincer celui-ci avec le pouce et l'index. Tordre la saucisse en faisant deux rotations entières. Cette première saucisse doit être belle et compacte. Mesurer ensuite la longueur d'une main à partir de ce point précis et pincer de nouveau en faisant cette fois deux rotations complètes dans le sens opposé, ce qui permettra à cette deuxième saucisse de devenir plus compacte. Continuer ainsi pour toute la longueur du boyau : pincer et tordre dans un sens, puis pincer et tordre dans l'autre sens. Cette technique permet de ne pas défaire la saucisse qu'on vient tout juste de confectionner. S'il y a des bulles d'air, percer légèrement le boyau à l'endroit précis où elles se trouvent à l'aide d'un couteau à saucisson ou la pointe d'un couteau bien affûté.",
+  "Mettre les saucisses dans la casserole d'eau chaude. Pocher à feu doux pendant 20 minutes sans laisser bouillir – l'eau ne doit même pas avoir l'air de mijoter – jusqu'à ce que la température interne atteigne 68 °C (155 °F) sur un thermomètre à viande numérique.",
+  "Si on souhaite réserver les saucisses pochées pour plus tard, les laisser refroidir 2 minutes dans l'eau glacée, puis les emballer dans de la pellicule de plastique. Elles se conserveront 1 semaine au réfrigérateur ou 2 mois au congélateur. Si on veut les consommer immédiatement, on doit les éponger et les séparer. Chauffer un peu d'huile dans une poêle et les faire dorer environ 3 minutes de chaque côté. (Si les saucisses sortent du réfrigérateur, on doit les cuire à feu moyen-doux de 7 à 10 minutes.)",
+  "Note : Avec un peu d'habitude, on peut faire les saucisses rapidement à la main à condition d'avoir un poussoir adéquat. Assurez-vous que le matériel et les ingrédients sont impeccables et bien froids. Versez environ 4 c. à soupe d'eau sur la plaque afin que le boyau glisse facilement sans risque de se déchirer pendant que vous le remplissez."
+]
+},
+
 {"id": 1654, "livreId": 7, "titre": "Tripes à la mode de Caen", "page": 95, "categorie": "Abats", "ingredientPrincipal": "Ail", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1655, "livreId": 7, "titre": "Boisson à la noix de coco et à la mousse d'Irlande", "page": 217, "categorie": "Boisson", "ingredientPrincipal": "Algue", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1656, "livreId": 7, "titre": "Frappé vitalité", "page": 218, "categorie": "Boisson", "ingredientPrincipal": "Algue", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
@@ -405,7 +463,28 @@
 {"id": 1694, "livreId": 7, "titre": "Purée de pommes de terre au munster (Munster Mash)", "page": 251, "categorie": "Légume", "ingredientPrincipal": "Beurre non salé", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1695, "livreId": 7, "titre": "Sauce volaille", "page": 102, "categorie": "Sauce", "ingredientPrincipal": "Beurre non salé", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1696, "livreId": 7, "titre": "Soupe au cresson avec quenelles de truite", "page": 54, "categorie": "Soupe", "ingredientPrincipal": "Beurre non salé", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1697, "livreId": 7, "titre": "Steak Ambassadeur", "page": 101, "categorie": "Viande", "ingredientPrincipal": "Beurre non salé", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1697, "livreId": 7, "titre": "Steak Ambassadeur", "page": 101, "categorie": "Boeuf", "ingredientPrincipal": "Boeuf", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Steak-ambassadeur.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "120 g (½ tasse) de beurre non salé",
+  "2 gousses d'ail, en tranches",
+  "6 brins de thym frais",
+  "150 ml (5 oz) de Sauce Worcestershire maison (page 106) ou du commerce",
+  "1 steak de haut de surlonge de 2 kg (4 ½ lb) ayant 4 cm (1 ½ po) d'épaisseur (demander au boucher d'ôter le gras et tout gros tendon)",
+  "Gros sel et poivre noir concassé",
+  "1 petite botte de ciboulette fraîche, hachée"
+],
+"preparation": [
+  "Préchauffer la mijoteuse à réchaud (warm) ou le four à la température la plus basse. Dans la cocotte de la mijoteuse ou, si on n'a vraiment pas le choix, sur une plaque à bords hauts, mettre le beurre, l'ail, le thym et la sauce Worcestershire.",
+  "Enduire généreusement la viande de la préparation de beurre.",
+  "Cuire le steak dans la mijoteuse ou au four pendant 20 minutes. Entre-temps, préparer le gril.",
+  "Éteindre la mijoteuse et y laisser la viande. Lorsque le gril est chaud, saler et poivrer généreusement le steak. Cuire 3 minutes d'un côté, puis 2 minutes de l'autre en faisant un marquage aussi beau que dans les magazines (faire pivoter la viande de 45 degrés pour obtenir un beau quadrillage). Faire une incision dans la viande pour vérifier la cuisson – mieux vaut prévenir que guérir !",
+  "Rallumer la mijoteuse pour réchauffer le beurre, puis ajouter la ciboulette.",
+  "Napper la viande de beurre chaud. Couper en fines tranches. Suggestion de service à la mode texane : pommes de terre au four, crevettes, salade d'accompagnement, petit pain et, surtout, un bon ami."
+]
+},
+
 {"id": 1698, "livreId": 7, "titre": "Velouté de poulet aux morilles", "page": 67, "categorie": "Soupe", "ingredientPrincipal": "Poulet", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Veloute-de-poulet-aux-morilles.jpeg",
 "favori": false,
 "note": null,
@@ -488,10 +567,62 @@
 ]
 },
 
-{"id": 1710, "livreId": 7, "titre": "Sous-marin d'onglet «spécial A.A.»", "page": 109, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1710, "livreId": 7, "titre": "Sous-marin d'onglet «spécial A.A.»", "page": 109, "categorie": "Sandwich, Boeuf", "ingredientPrincipal": "Bœuf", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Sous-marin-d-onglet.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "1 onglet de bœuf de 450 g (1 lb)",
+  "½ petit oignon blanc, en tranches",
+  "8 champignons de Paris blancs",
+  "3 c. à soupe d'huile de canola",
+  "5 grosses tranches de capicollo",
+  "1 petite gousse d'ail, hachée",
+  "1 pincée d'origan séché",
+  "1 pincée de flocons de piment rouge",
+  "1 trait de sauce Worcestershire",
+  "Sel et poivre",
+  "2 c. à soupe d'huile de pépins de raisin",
+  "5 grosses tranches de pepperoni",
+  "4 tranches de fromage provolone",
+  "1 poignée de chiffonnade de laitue iceberg",
+  "Vinaigrette à l'italienne au goût relevé",
+  "2 tranches de tomate Beefsteak",
+  "1 poignée de ciboulette fraîche, hachée"
+],
+"preparation": [
+  "Sortir la viande du réfrigérateur 1 heure avant de procéder à la cuisson.",
+  "Dans une petite poêle, à feu moyen-vif, faire sauter l'oignon et les champignons dans l'huile de canola de 5 à 6 minutes. L'odeur doit rappeler celle d'un snack-bar où il y a des montagnes d'oignons et de champignons et où on peut sentir la chaleur de la plaque à frire.",
+  "Déposer le capicollo sur la préparation de champignons. À feu doux, ajouter l'ail, l'origan, le piment et la sauce Worcestershire. Cuire 4 minutes.",
+  "Cuisson de l'onglet : chauffer une poêle en fonte à fond épais à feu moyen-vif jusqu'à ce qu'elle devienne très chaude. Saler généreusement et poivrer légèrement la viande. Verser l'huile de pépins de raisin dans la poêle et ajouter l'onglet avec soin. Pour obtenir une viande saignante, cuire à feu moyen 4 minutes d'un côté et 2 minutes de l'autre. Il faut éviter de trop la cuire puisqu'on terminera la cuisson sous le gril. Retirer du feu et laisser reposer 5 minutes.",
+  "Préchauffer le gril du four à température élevée.",
+  "Montage du sous-marin : mettre la viande dans une assiette. Garnir de la préparation de champignons, puis couvrir de pepperoni et de fromage. Griller au four de 3 à 4 minutes.",
+  "Sortir le sandwich du four. Touiller la laitue avec la vinaigrette, puis la déposer avec précaution sur le sous-marin. Garnir de tomate et de ciboulette."
+]
+},
+
 {"id": 1711, "livreId": 7, "titre": "T-bones minces de bacon de bœuf", "page": 57, "categorie": "Viande", "ingredientPrincipal": "Bœuf", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1712, "livreId": 7, "titre": "Bolognaise à la viande fumée", "page": 301, "categorie": "Sauce", "ingredientPrincipal": "Bœuf haché", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1713, "livreId": 7, "titre": "Hamburgers «Catalina»", "page": 113, "categorie": "Viande", "ingredientPrincipal": "Bœuf haché", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1713, "livreId": 7, "titre": "Hamburgers «Catalina»", "page": 113, "categorie": "Sandwich, Boeuf", "ingredientPrincipal": "Bœuf haché", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Hamburger.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "675 g (1 ½ lb) de viande hachée (ce que vous voulez : bloc d'épaule et pointe de poitrine de bœuf, viande grasse ou maigre, longe, bacon), façonnée en 4 galettes",
+  "1 c. à thé de sel cachère",
+  "1 c. à thé de poivre noir",
+  "2 c. à soupe d'huile de pépins de raisin (ou autre huile neutre)",
+  "60 g (¼ tasse) de beurre non salé",
+  "60 ml (¼ tasse) de sauce pour steak (ex. : sauce HP)",
+  "4 pains à hamburger sans graines",
+  "250 ml (1 tasse) de Beurre de tomate à la marjolaine (page 58), chaud, mélangé rapidement au pied-mélangeur (ou de la vinaigrette Catalina tout simplement !)"
+],
+"preparation": [
+  "Chauffer une poêle à feu vif.",
+  "Saler et poivrer les galettes de viande. Cuire dans l'huile, à feu moyen, pendant 4 minutes ou jusqu'à ce que l'extérieur soit bien doré et l'intérieur encore rosé.",
+  "Réserver les galettes dans une assiette. Jeter le gras de cuisson. Mettre le beurre et la sauce pour steak dans la poêle. Cuire les galettes environ 2 minutes de plus pour bien marier les saveurs.",
+  "Garnir chaque pain d'une galette et verser un peu de jus de cuisson sur la viande. Fermer les burgers et les napper de beurre de tomate à la marjolaine."
+]
+},
+
 {"id": 1714, "livreId": 7, "titre": "Ailerons de poulet farcis", "page": 71, "categorie": "Poulet", "ingredientPrincipal": "Bouillon de volaille", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Ailerons-de-poulet-farcis.jpeg",
 "favori": false,
 "note": null,
@@ -694,11 +825,48 @@
 },
 
 {"id": 1724, "livreId": 7, "titre": "Rondelles de bouillon", "page": 104, "categorie": "Bouillon", "ingredientPrincipal": "Bouillons", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1725, "livreId": 7, "titre": "Saucisses de homard", "page": 93, "categorie": "Fruits de mer", "ingredientPrincipal": "Bouillons", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1725, "livreId": 7, "titre": "Saucisses de homard", "page": 93, "categorie": "Fruits de mer", "ingredientPrincipal": "Bouillons", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Saucisses-de-homard.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "1 recette de Saucisses de base (page 89)",
+  "125 ml (½ tasse) de fumet de homard (pour remplacer la moitié [125 ml/½ tasse] du vin infusé à l'ail utilisé dans la recette précédente)",
+  "70 g (½ tasse) d'échalotes, hachées grossièrement",
+  "30 g (½ tasse) de persil plat frais, haché",
+  "20 g (⅓ tasse) d'estragon frais, haché",
+  "2 c. à soupe de brandy",
+  "1 c. à soupe de paprika",
+  "1 pincée de piment de Cayenne",
+  "450 g (1 lb) de chair de homard, cuite et coupée brièvement au robot culinaire en petits morceaux qui pourront entrer facilement dans le poussoir"
+],
+"preparation": [
+  "Mélanger le fumet de homard avec 125 ml (½ tasse) de vin infusé à l'ail. Ajouter le reste des ingrédients, sauf la chair à saucisse et la chair de homard.",
+  "Mélanger la chair à saucisse et la chair de homard à l'étape 4. Incorporer le mélange de fumet de homard et de vin."
+]
+},
+
 {"id": 1726, "livreId": 7, "titre": "Pelmenis au homard", "page": 173, "categorie": "Fruits de mer", "ingredientPrincipal": "Calvados", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1727, "livreId": 7, "titre": "Bavarois à la Doris", "page": 145, "categorie": "Dessert", "ingredientPrincipal": "Camomille", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1728, "livreId": 7, "titre": "Gésiers confits fumés, encart", "page": 7, "categorie": "Charcuterie", "ingredientPrincipal": "Canard", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1729, "livreId": 7, "titre": "Chips", "page": 114, "categorie": "Amuse-bouche", "ingredientPrincipal": "Canola (huile de)", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1729, "livreId": 7, "titre": "Chips", "page": 114, "categorie": "Amuse-bouche", "ingredientPrincipal": "Pomme de terre", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Chips.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "2 grosses pommes de terre Russet jamais réfrigérées, pelées",
+  "4 litres (16 tasses) d'eau",
+  "1 c. à soupe de vinaigre blanc",
+  "Suffisamment d'huile à friture pour la friteuse (ex. : canola)",
+  "Sel fin (pulvérisé dans un moulin à café pour obtenir la même texture qu'au McDo)"
+],
+"preparation": [
+  "Quatre heures avant de procéder à la cuisson, couper les pommes de terre en tranches aussi épaisses qu'un bâtonnet de Popsicle à l'aide d'une mandoline. Dans un grand plat, mélanger l'eau et le vinaigre. Ajouter les pommes de terre et laisser tremper au réfrigérateur pendant 4 heures.",
+  "Chauffer l'huile à 170 °C (335 °F).",
+  "Égoutter les pommes de terre et les éponger avec soin à l'aide d'un linge propre.",
+  "Frire les pommes de terre par petites quantités à la fois jusqu'à ce qu'elles soient croustillantes. Laisser égoutter sur une plaque à bords hauts tapissée de papier absorbant. Saler au goût.",
+  "Note : Chez moi, nous utilisons du détergent non parfumé pour laver les linges de cuisine. J'ai déjà gâché de grands vins en lavant la carafe à décanter avec du détergent au tilleul et à la goyave et j'ai raté un foie gras au torchon parce que ce dernier avait été lavé avec du savon habituellement employé dans les gymnases de boxe. — Fred"
+]
+},
+ 
 {"id": 1730, "livreId": 7, "titre": "Carottes, câpres, cerfeuil et ciboulette en rémoulade", "page": 255, "categorie": "Légume", "ingredientPrincipal": "Câpre", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1731, "livreId": 7, "titre": "Cari de crabe de Dungeness de Omar", "page": 181, "categorie": "Fruits de mer", "ingredientPrincipal": "Cari (feuille de)", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1732, "livreId": 7, "titre": "Sauce madère vite faite", "page": 46, "categorie": "Sauce", "ingredientPrincipal": "Carotte", "image": null,
@@ -788,7 +956,39 @@
 },
 
 {"id": 1762, "livreId": 7, "titre": "Palourdes al forno!", "page": 238, "categorie": "Fruits de mer", "ingredientPrincipal": "Chapelure", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1763, "livreId": 7, "titre": "Saucisses à la salade de egg roll", "page": 94, "categorie": "Charcuterie", "ingredientPrincipal": "Châtaigne d'eau", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1763, "livreId": 7, "titre": "Saucisses à la salade de egg roll", "page": 94, "categorie": "Charcuterie", "ingredientPrincipal": "Châtaigne d'eau", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Saucisses-a-la-salade-de-egg-roll.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "1 chou de Savoie, coupé en 8 à 12 quartiers (ne pas ôter le trognon)",
+  "8 gros champignons shitakés (chapeaux seulement), coupés en tranches fines et sautés rapidement",
+  "2 c. à soupe d'huile de sésame",
+  "Huile d'olive",
+  "1 grosse carotte, coupée en allumettes",
+  "10 g (¼ tasse) d'oreilles de Judas séchées, réhydratées et coupées en tranches fines",
+  "2 c. à soupe de gingembre frais, émincé",
+  "1 gousse d'ail, émincée",
+  "2 c. à soupe de graines de sésame, grillées",
+  "60 g (¼ tasse) de châtaignes d'eau, en tranches",
+  "6 c. à soupe de vinaigre de cidre de pomme",
+  "2 c. à soupe de sirop d'érable",
+  "25 g (¼ tasse) de coriandre fraîche, hachée",
+  "25 g (¼ tasse) de ciboulette chinoise fraîche, hachée",
+  "20 g (¼ tasse) de menthe fraîche, hachée",
+  "Sel et poivre",
+  "Sauce piquante",
+  "450 g (1 lb) de pointe de poitrine de bœuf fumée ou de flanc de porc fumé"
+],
+"preparation": [
+  "Dans une friteuse ou une sauteuse à fond épais, chauffer l'huile à friture à 170 °C (340 °F). Sinon, allumer le barbecue.",
+  "Frire les quartiers de chou de 3 à 4 minutes, jusqu'à ce qu'ils soient dorés mais toujours croquants à l'intérieur. Égoutter sur du papier absorbant. On peut aussi les griller de chaque côté sur le barbecue. Réserver dans un bol et couvrir.",
+  "Dans une grande poêle, chauffer l'huile de sésame et 2 c. à soupe d'huile d'olive. Sauter les shitakés et réserver. Sauter ensuite les carottes dans la même poêle en ajoutant de l'huile d'olive au besoin et en les gardant croquantes. Faire sauter rapidement les autres champignons, puis les mélanger avec les carottes dans un bol. Ajouter le gingembre, l'ail, le sésame, les châtaignes d'eau, le vinaigre, le sirop d'érable et les herbes. Bien mélanger. Ajouter du sel, du poivre et de la sauce piquante au goût.",
+  "Couper et jeter les trognons des quartiers de chou. Mélanger vigoureusement le chou avec la préparation de légumes afin de bien l'enrober.",
+  "Si l'on sert la préparation comme salade, la mélanger avec la pointe de poitrine ou le flanc de porc effiloché ou en cubes (ou servir la viande sur le dessus). Si l'on veut faire des Saucisses à la salade de egg roll, hacher grossièrement la salade au robot culinaire en pulsant 5 ou 6 fois.",
+  "Note : Pour transformer cette recette en saucisses, préparez la salade sans la pointe de poitrine ni le flanc de porc. Hachez-la finement et ajoutez-la à la préparation pour Saucisses de base (page 89)."
+]
+},
+
 {"id": 1764, "livreId": 7, "titre": "Risotto minute", "page": 208, "categorie": "Plat", "ingredientPrincipal": "Cheddar", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1765, "livreId": 7, "titre": "Céviche de cheval", "page": 160, "categorie": "Viande", "ingredientPrincipal": "Cheval", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1766, "livreId": 7, "titre": "Beurre de chips all dressed", "page": 60, "categorie": "Condiment", "ingredientPrincipal": "Chips", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Beurre-de-chips-all-dressed.jpeg",
@@ -854,7 +1054,33 @@
 {"id": 1775, "livreId": 7, "titre": "Cornichon", "page": 254, "categorie": "Conserve", "ingredientPrincipal": "Cornichon", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1776, "livreId": 7, "titre": "Filet de courge", "page": 281, "categorie": "Légume", "ingredientPrincipal": "Courge", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1777, "livreId": 7, "titre": "Soupe au maïs mohawk", "page": 277, "categorie": "Soupe", "ingredientPrincipal": "Courge", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1778, "livreId": 7, "titre": "Ris de veau Prince des ténèbres", "page": 110, "categorie": "Abats", "ingredientPrincipal": "Crème 35%", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1778, "livreId": 7, "titre": "Ris de veau Prince des ténèbres", "page": 110, "categorie": "Veau", "ingredientPrincipal": "Ris de veau", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Ris-de-veau.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "2 ris de veau bien frais d'environ 225 g (8 oz) chacun (retirer le surplus de gras)",
+  "2 c. à soupe d'huile d'olive",
+  "2 c. à thé de jus de citron frais",
+  "1 c. à soupe de thym frais, haché",
+  "1 gousse d'ail, broyée",
+  "Sel et poivre noir",
+  "6 c. à soupe de miel très parfumé (ex. : manuka, sarrasin)",
+  "½ c. à thé de poudre de charbon végétal activé de qualité alimentaire (voir Note)",
+  "250 ml (1 tasse) de crème 35 %",
+  "1 c. à soupe de réglisse noire tendre, hachée (ex. : Panda)",
+  "3 à 5 bâtons de réglisse noire, lavés",
+  "Oignon noirci"
+],
+"preparation": [
+  "Mettre les ris de veau dans un bol en verre. Ajouter l'huile d'olive, 1 c. à thé de jus de citron, le thym, l'ail, 1 c. à thé de sel et 1 c. à thé de poivre noir. Réfrigérer pendant 1 heure.",
+  "Entre-temps, préparer le barbecue au charbon de bois. Dans un petit bol, bien mélanger le miel et la poudre de charbon.",
+  "Dans une petite casserole, à feu moyen-vif, amener la crème à frémissement. Ajouter la réglisse tendre (bonbon) et remuer pour la dissoudre tout doucement. Ajouter 1 à 3 bâtons de réglisse. De 10 à 15 minutes plus tard, lorsque la crème est réduite de moitié et que la réglisse bonbon est dissoute, ajouter 1 c. à thé de jus de citron. Saler et poivrer au goût. Réserver.",
+  "Affûter les extrémités des 2 bâtons de réglisse restants. Enfoncer un bâton de réglisse de part en part dans chacun des ris de veau (comme si on enfonçait un pieu dans le cœur d'un vampire). Cuire sur le gril à feu moyen-chaud environ 20 minutes en les retournant souvent et en les badigeonnant de miel noir. L'intérieur doit être ferme et non pas gluant.",
+  "Servir dans des assiettes chaudes. Déposer une cuillerée de crème de réglisse au centre de chaque assiette. Déposer les ris de veau sur le dessus et arroser de miel. Accompagner d'oignon noirci.",
+  "Note : Vous pouvez vous procurer de la poudre de charbon végétal activé au rayon des dentifrices de votre magasin d'alimentation naturelle (qui l'eût cru ?) ou l'acheter en ligne."
+]
+},
+
 {"id": 1779, "livreId": 7, "titre": "Crêpes vonnassiennes", "page": 133, "categorie": "Pâtisserie", "ingredientPrincipal": "Crêpes", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1780, "livreId": 7, "titre": "Pascade (Dutch Baby)", "page": 35, "categorie": "Pâtisserie", "ingredientPrincipal": "Crêpes", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Pascade.jpeg",
 "favori": false,
