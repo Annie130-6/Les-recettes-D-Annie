@@ -168,7 +168,37 @@
 {"id": 1654, "livreId": 7, "titre": "Tripes à la mode de Caen", "page": 95, "categorie": "Abats", "ingredientPrincipal": "Ail", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1655, "livreId": 7, "titre": "Boisson à la noix de coco et à la mousse d'Irlande", "page": 217, "categorie": "Boisson", "ingredientPrincipal": "Algue", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1656, "livreId": 7, "titre": "Frappé vitalité", "page": 218, "categorie": "Boisson", "ingredientPrincipal": "Algue", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1657, "livreId": 7, "titre": "Paupiettes de saumon au cerfeuil", "page": 135, "categorie": "Poisson", "ingredientPrincipal": "Algue", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1657, "livreId": 7, "titre": "Paupiettes de saumon au cerfeuil", "page": 135, "categorie": "Poisson", "ingredientPrincipal": "Saumon", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Paupiettes-de-saumon.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "2 c. à soupe de poireau, haché",
+  "6 c. à soupe de beurre non salé (dont 2 c. à soupe ramollies)",
+  "20 g (¼ tasse) de champignons, hachés finement (chanterelles ou champignons en bouton)",
+  "125 ml (½ tasse) de riesling sec",
+  "60 g (2 tasses) de feuilles d'épinards crues, blanchies, épongées et hachées finement",
+  "2 c. à soupe de cerfeuil frais, haché",
+  "1 c. à soupe de persil plat frais, haché",
+  "Sel et poivre blanc",
+  "2 filets de queue de saumon sauvage de 150 g (5 oz) chacun, sans peau",
+  "2 carrés de crépine de porc de 30 cm (12 po) chacun (environ 70 g/2 ½ oz en tout)",
+  "60 ml (¼ tasse) de crème 35 %",
+  "1 filet de jus de citron",
+  "1 c. à soupe de petit goémon, réhydraté dans l'eau chaude, essoré et haché grossièrement"
+],
+"preparation": [
+  "Préchauffer le four à 230 °C (450 °F).",
+  "Dans une petite casserole, à feu moyen, faire suer les poireaux dans 2 c. à soupe de beurre environ 4 minutes, jusqu'à ce qu'ils soient transparents mais sans coloration. Ajouter les champignons et cuire environ 4 minutes sans grésillement, jusqu'à ce qu'ils soient tendres. Verser 60 ml (¼ tasse) de vin et laisser réduire à feu moyen de 5 à 6 minutes, jusqu'à évaporation presque complète.",
+  "Retirer la casserole du feu. Ajouter les épinards, le cerfeuil et le persil. Saler et poivrer au goût. Étaler la préparation dans une assiette et laisser refroidir rapidement au congélateur.",
+  "Étaler les filets de saumon sur un plan de travail, côté chair vers le haut. Saler et poivrer légèrement. Déposer la moitié de la garniture de légumes sur chacun. Plier la queue sur la garniture, comme si on fermait un livre, et presser fermement sur le dessus afin que la farce reste en place.",
+  "Étaler les carrés de crépine sur le plan de travail. Utiliser environ 1 c. à soupe de beurre ramolli pour frotter le dessus de chacun des filets de saumon. Envelopper les paupiettes avec soin en veillant à presser le beurre uniformément contre la chair. À l'aide d'un ciseau, éliminer le surplus de crépine.",
+  "Ranger les paupiettes dans un plat de cuisson pouvant servir de plat de service, puis verser le reste du vin. Faire rôtir au four pendant 7 minutes ou jusqu'à ce que le poisson soit d'un beau rose et que la crépine soit transparente.",
+  "Verser le jus de cuisson dans une petite casserole et couvrir le poisson de papier d'aluminium.",
+  "Laisser réduire le jus de cuisson à feu moyen jusqu'à évaporation presque complète. Ajouter la crème et 2 c. à soupe de beurre. Porter rapidement à ébullition. À l'aide d'un petit fouet, incorporer le jus de citron et le petit goémon. Rectifier l'assaisonnement au goût. On obtiendra environ 125 ml (½ tasse) de sauce.",
+  "Napper les paupiettes de sauce aux algues. Accompagner de Crêpes vonnassiennes (page 133)."
+]
+},
+
 {"id": 1658, "livreId": 7, "titre": "Soupe au chou de régime cinq étoiles", "page": 201, "categorie": "Soupe", "ingredientPrincipal": "Algue", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1659, "livreId": 7, "titre": "Limonade aux poires cactus", "page": 221, "categorie": "Boisson", "ingredientPrincipal": "Aloès", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1660, "livreId": 7, "titre": "Cari de homard de Halifax et pilaf à la moelle", "page": 195, "categorie": "Fruits de mer", "ingredientPrincipal": "Amande", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
@@ -536,7 +566,42 @@
 ]
 },
 
-{"id": 1705, "livreId": 7, "titre": "Quenelles de truite (ou petits gâteaux)", "page": 121, "categorie": "Poisson", "ingredientPrincipal": "Bisque express", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1705, "livreId": 7, "titre": "Quenelles de truite (ou petits gâteaux)", "page": 121, "categorie": "Entrée, Poisson", "ingredientPrincipal": "Truite", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Quenelles-de-truite.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "200 g (7 oz) de pétoncles de baie",
+  "200 g (7 oz) de truite (arc-en-ciel, omble de fontaine, omble chevalier, etc.), sans peau ni arêtes, coupée en morceaux de même grosseur que les pétoncles",
+  "2 c. à soupe de vermouth blanc sec",
+  "1 c. à thé de sel",
+  "1 grosse pincée de poivre blanc",
+  "2 gros œufs",
+  "1 gros blanc d'œuf",
+  "250 ml (1 tasse) de crème 35 %",
+  "120 g (½ tasse) de beurre, ramolli",
+  "SERVICE",
+  "250 ml (1 tasse) de bisque de homard ou d'écrevisse + quelques morceaux de homard cuit (page 65)",
+  "Ciboulette fraîche, émincée"
+],
+"preparation": [
+  "Préchauffer le four à 160 °C (325 °F).",
+  "Dans un petit bol, mélanger les pétoncles, la truite, le vermouth, le sel et le poivre. Mettre au congélateur pendant 30 minutes en même temps que le bol et la lame du robot culinaire.",
+  "Dans une bouilloire ou une casserole, porter à ébullition de 1,5 à 2 litres (6 à 8 tasses) d'eau.",
+  "Transvider la préparation de truite dans le bol du robot culinaire. Hacher grossièrement, puis ajouter les œufs et le blanc d'œuf un à un en mélangeant avec soin. Racler les parois du bol à l'aide d'une spatule. Ajouter la crème et pulser brièvement pour l'empêcher de se séparer. Incorporer le beurre.",
+  "Beurrer généreusement les ramequins, puis les remplir de la mousse de fruits de mer à l'aide d'une cuillère.",
+  "Étaler une feuille de papier absorbant ou un linge peu épais et bien propre au fond d'un plat à rôtir suffisamment grand pour contenir les ramequins. Cuire au four environ 20 minutes, jusqu'à ce que les quenelles soient prises.",
+  "Entre-temps, réchauffer la bisque dans une petite casserole à feu doux. Assaisonner au goût.",
+  "Démouler délicatement les ramequins dans des assiettes individuelles embossées aux armoiries familiales. Napper chaque quenelle de 60 ml (¼ tasse) de bisque et garnir très généreusement de ciboulette.",
+  "QUENELLES : Bien qu'ils ne contiennent pas de brochet, ces gâteaux cuits comme des quenelles dans une eau frémissante, passés au four et nappés de bisque d'écrevisse sont en tous points acceptables comme substituts de la recette lyonnaise classique.",
+  "Mettre de l'eau et du sel dans une casserole large et peu profonde. Le goût doit rappeler celui d'une eau de mer douce.",
+  "À l'aide de deux grosses cuillères ovales de forme identique, façonner des petits ballons de football avec la préparation. Pour ce faire, remplir une cuillère de préparation et faire glisser celle-ci dans l'autre cuillère tenue en sens contraire.",
+  "Déposer les quenelles dans l'eau au fur et à mesure en prenant soin de garder leur forme intacte. Rincer les cuillères à l'eau froide avant la confection de chaque quenelle.",
+  "Couvrir la casserole et maintenir un léger frémissement pendant environ 12 minutes.",
+  "À l'aide d'une cuillère à égoutter, déposer les quenelles sur une plaque tapissée de papier absorbant. On peut maintenant les réfrigérer.",
+  "Avant le repas, préchauffer le four à 220 °C (425 °F). Ranger les quenelles dans un beau plat à gratin en cuivre. Couvrir d'une partie de la sauce. Parsemer de gruyère râpé si désiré. Cuire au four de 15 à 17 minutes, jusqu'à ce qu'elles soient légèrement dorées et que la sauce soit bouillonnante. Servir le reste de la sauce bien chaude à côté."
+]
+},
+
 {"id": 1706, "livreId": 7, "titre": "Financier pour des miettes", "page": 314, "categorie": "Dessert", "ingredientPrincipal": "Blanc d'œuf", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1707, "livreId": 7, "titre": "Rognons de veau à la Monique", "page": 44, "categorie": "Abats", "ingredientPrincipal": "Blanc d'œuf", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1708, "livreId": 7, "titre": "Jerky, encart", "page": 8, "categorie": "Charcuterie", "ingredientPrincipal": "Bœuf", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
@@ -684,7 +749,44 @@
 ]
 },
 
-{"id": 1716, "livreId": 7, "titre": "Civet de homard au calvados", "page": 129, "categorie": "Fruits de mer", "ingredientPrincipal": "Bouillon de volaille", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1716, "livreId": 7, "titre": "Civet de homard au calvados", "page": 129, "categorie": "Fruits de mer", "ingredientPrincipal": "Homard", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Civet-de-homard.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "6 litres (24 tasses) d'eau",
+  "90 g (⅓ tasse) de sel marin",
+  "Kelp (facultatif)",
+  "1 homard de 1,4 kg (3 lb)",
+  "60 ml (¼ tasse) d'huile neutre",
+  "140 g (1 tasse) de mirepoix (½ petit oignon, 1 carotte, 1 branche de céleri, en dés)",
+  "1 gousse d'ail, broyée",
+  "2 c. à thé de vinaigre de cidre de pomme",
+  "250 ml (1 tasse) de cidre de pomme sec et pétillant",
+  "250 ml (1 tasse) de bouillon de poulet",
+  "1 c. à soupe d'estragon frais, haché",
+  "60 g (¼ tasse) de beurre de culture non salé",
+  "2 échalotes, hachées finement",
+  "60 g (¼ tasse) de lardons (bacon en dés), blanchis 3 minutes",
+  "1 pomme Golden Delicious, pelée, évidée et coupée en 8 quartiers",
+  "125 ml (½ tasse) de crème fraîche",
+  "2 c. à soupe de calvados ou de vinaigre de cidre de pomme (ou plus au besoin)",
+  "Sel et poivre blanc",
+  "SERVICE",
+  "1 botte de cerfeuil frais, émincée",
+  "Truffe noire (facultatif)"
+],
+"preparation": [
+  "Dans une très grande casserole, mélanger l'eau et le sel. Porter à ébullition à feu vif. Ajouter quelques tiges de kelp au goût et laisser mijoter quelques minutes. Plonger le homard dans l'eau. Dès la reprise de l'ébullition, compter 4 minutes de cuisson, sans plus. Réserver le homard dans un bol rempli de glace.",
+  "Déposer deux bols à côté d'une grande plaque. Mettre le homard sur celle-ci. Briser la carapace avec les mains et une pince à homard : retirer la chair de la queue, des segments et des pinces en réservant la carapace dans un bol et la chair dans l'autre. Réfrigérer la chair. Jeter le contenu de la tête, mais réserver sa carapace qui servira de garniture.",
+  "Dans une casserole à fond épais qui a l'air suffisamment française pour convenir à cette recette, chauffer l'huile jusqu'à ce qu'elle soit très chaude. Ajouter les carapaces et remuer à feu vif environ 5 minutes, jusqu'à évaporation du liquide. Ajouter la mirepoix et l'ail. Cuire à feu moyen-doux environ 5 minutes. Verser le vinaigre et le cidre. Porter à ébullition et laisser mijoter environ 15 minutes, jusqu'à ce que la réduction soit collante. Ajouter le bouillon et l'estragon. Remettre la sauce à mijoter à feu doux pendant 20 minutes.",
+  "Filtrer la sauce et réserver. On devrait en obtenir environ 250 ml (1 tasse). Jeter les carapaces et les aromates.",
+  "Dans la même casserole, à feu moyen-doux, chauffer le beurre et faire suer les échalotes environ 3 minutes pour les attendrir. Ajouter les lardons et la pomme. Cuire de 3 à 4 minutes et réserver.",
+  "Dans une autre casserole, mélanger la sauce au homard et la crème fraîche. Laisser mijoter à feu moyen-vif environ 5 minutes, jusqu'à épaississement. Ajouter la chair de homard et laisser pocher à feu moyen-doux de 2 à 3 minutes avant d'incorporer le calvados.",
+  "Mélanger la sauce au homard avec la préparation de lardons en remuant doucement pour enrober le homard. Saler et poivrer au goût, puis ajouter une goutte de calvados ou de vinaigre au besoin. Si la sauce semble trop épaisse, ajouter un peu d'eau.",
+  "Servir dans un beau plat. Garnir de cerfeuil, de lamelles de truffe et de la carapace de la tête de homard. Accompagner de Pommes de terre aux algues en sac (page 126). N'hésitez pas à flamber ce plat !"
+]
+},
+
 {"id": 1717, "livreId": 7, "titre": "Consommé VGE", "page": 25, "categorie": "Soupe", "ingredientPrincipal": "Bouillon de volaille", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Consomme-vge.jpeg",
 "favori": false,
 "note": null,
@@ -846,7 +948,35 @@
 },
 
 {"id": 1726, "livreId": 7, "titre": "Pelmenis au homard", "page": 173, "categorie": "Fruits de mer", "ingredientPrincipal": "Calvados", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 1727, "livreId": 7, "titre": "Bavarois à la Doris", "page": 145, "categorie": "Dessert", "ingredientPrincipal": "Camomille", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1727, "livreId": 7, "titre": "Bavarois à la Doris", "page": 145, "categorie": "Dessert", "ingredientPrincipal": "Camomille", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Bavarois.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "1 litre (4 tasses) de lait entier",
+  "6 sachets de camomille ou ⅓ tasse de fleurs de camomille séchées",
+  "8 feuilles de gélatine (21 g)",
+  "8 gros jaunes d'œufs",
+  "160 ml (⅔ tasse) de miel sauvage clair",
+  "500 ml (2 tasses) de crème 35 %",
+  "SERVICE",
+  "Violettes et tiges d'angélique confites",
+  "Cerises glacées",
+  "2 oranges, pelées et coupées en tranches",
+  "Biscuits à l'avoine (facultatif mais hautement recommandé)"
+],
+"preparation": [
+  "Dans une casserole à fond épais, amener le lait à frémissement. Ajouter la camomille. Couvrir et laisser reposer hors du feu de 10 à 15 minutes ou jusqu'à ce que le lait ait un bon goût de camomille.",
+  "Dans un grand bol d'eau froide, déposer les feuilles de gélatine une à une pour les empêcher de coller les unes aux autres. Laisser ramollir environ 10 minutes.",
+  "Filtrer le lait et le remettre dans la casserole à feu doux sans laisser bouillir. Essorer la gélatine avec soin, puis l'incorporer au lait chaud à l'aide d'un fouet. Baisser le feu au minimum.",
+  "Dans un grand bol, battre les jaunes d'œufs avec le miel jusqu'à ce qu'ils deviennent pâles. À l'aide d'une louche, verser un peu de lait chaud dans la préparation d'œufs et battre au fouet. Continuer ainsi, une louche à la fois, jusqu'à ce que tout le lait soit incorporé. (Cela permet de tempérer la préparation tout en l'empêchant de cailler.)",
+  "Laver la casserole ayant servi à chauffer le lait afin que la préparation ne brûle pas en cours de cuisson. Verser la préparation de camomille dans la casserole. Mettre un grand bol propre dans un bol rempli de glaçons près du poêle.",
+  "Cuire la préparation à feu moyen-doux, en remuant sans cesse jusqu'à ce qu'un thermomètre numérique indique 82 °C (180 °F). (Un truc pour savoir si la cuisson est parfaite est de s'assurer que la préparation nappe le dos d'une cuillère, mais cela ne fonctionne jamais pour nous.) Si la préparation devient plus chaude, elle tournera. Dès que la température atteint 82 °C (180 °F), la verser dans le bol qui est dans le bain de glace. Remuer à quelques reprises pour amorcer le refroidissement.",
+  "Dans un grand bol ou à l'aide du batteur sur socle, fouetter la crème jusqu'à l'obtention de pics moyens. Réfrigérer jusqu'au moment de servir.",
+  "Environ 30 minutes plus tard, lorsque la préparation de camomille est à température ambiante sans que la gélatine ait eu le temps de se figer, incorporer la crème fouettée en deux ou trois fois. Verser dans un moule (personnellement nous utilisons le bol de cristal de Doris). Réfrigérer de 4 à 5 heures.",
+  "Garnir joliment la crème bavaroise de violettes et de tiges d'angélique confites ainsi que de cerises glacées et d'oranges. Accompagner de biscuits à la farine d'avoine."
+]
+},
+
 {"id": 1728, "livreId": 7, "titre": "Gésiers confits fumés, encart", "page": 7, "categorie": "Charcuterie", "ingredientPrincipal": "Canard", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1729, "livreId": 7, "titre": "Chips", "page": 114, "categorie": "Amuse-bouche", "ingredientPrincipal": "Pomme de terre", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Chips.jpeg",
 "favori": false,
@@ -1006,7 +1136,36 @@
 ]
 },
 
-{"id": 1767, "livreId": 7, "titre": "Mousse au chocolat, chantilly aux pralines roses", "page": 146, "categorie": "Dessert", "ingredientPrincipal": "Chocolat", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1767, "livreId": 7, "titre": "Mousse au chocolat, chantilly aux pralines roses", "page": 146, "categorie": "Dessert", "ingredientPrincipal": "Chocolat", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Mousse-au-chocolat.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "MOUSSE AU CHOCOLAT",
+  "430 ml (1 ¾ tasse) de crème 35 %",
+  "350 g (2 ½ tasses) de chocolat 64 % (gros morceaux ou pistoles)",
+  "CRÈME ANGLAISE",
+  "125 ml (½ tasse) de lait entier",
+  "125 ml (½ tasse) de crème 35 %",
+  "4 gros jaunes d'œufs",
+  "5 c. à thé de sucre",
+  "½ c. à thé de café instantané",
+  "CRÈME CHANTILLY",
+  "500 ml (2 tasses) de crème 35 %",
+  "2 c. à soupe de sucre glace",
+  "90 g (½ tasse) de pralines roses, hachées"
+],
+"preparation": [
+  "Mousse au chocolat : à l'aide d'un fouet ou du batteur sur socle muni d'un fouet, fouetter la crème jusqu'à l'obtention de pics mous. Réserver.",
+  "Crème anglaise : dans une petite casserole, à feu moyen, mélanger le lait avec la crème. Amener à frémissement.",
+  "Entre-temps, dans un bol moyen, battre les jaunes d'œufs au fouet avec le sucre jusqu'à ce qu'ils deviennent pâles. Incorporer le café.",
+  "Verser un peu de lait chaud dans la préparation de jaunes d'œufs en remuant pour les tempérer. Continuer de verser peu à peu le reste du lait chaud.",
+  "Mettre le chocolat dans un grand bol résistant à la chaleur.",
+  "Verser la crème anglaise dans la casserole. Cuire à feu moyen-doux de 3 à 4 minutes en remuant sans cesse jusqu'à ce que le thermomètre indique 82 °C (180 °F). Dès que cette température est atteinte, verser la crème anglaise sur le chocolat. Bien mélanger à l'aide d'une spatule jusqu'à ce qu'il soit parfaitement lisse.",
+  "Incorporer délicatement la crème fouettée réservée à l'étape 1. Verser dans un moule et réfrigérer de 2 à 3 heures.",
+  "Crème chantilly : juste avant de servir, mélanger la crème avec le sucre glace dans un bol. Fouetter jusqu'à l'obtention de pics moyens. Incorporer les pralines. Transvider dans un joli bol et réfrigérer jusqu'au moment de servir la mousse. Les convives pourront se servir eux-mêmes."
+]
+},
+
 {"id": 1768, "livreId": 7, "titre": "Natas à la citrouille", "page": 264, "categorie": "Dessert", "ingredientPrincipal": "Citrouille (purée ou graines)", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 1769, "livreId": 7, "titre": "Absorbine Junior (L')", "page": 10, "categorie": "Boisson", "ingredientPrincipal": "Cocktails", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/L-absorbine-junior.jpeg",
 "favori": false,
@@ -1081,7 +1240,28 @@
 ]
 },
 
-{"id": 1779, "livreId": 7, "titre": "Crêpes vonnassiennes", "page": 133, "categorie": "Pâtisserie", "ingredientPrincipal": "Crêpes", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1779, "livreId": 7, "titre": "Crêpes vonnassiennes", "page": 133, "categorie": "Pâtisserie", "ingredientPrincipal": "Crêpes", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Crêpes.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "450 g (1 lb) de pommes de terre Russet, réduites en purée tiède (ajouter du sel mais pas de lait ni de beurre)",
+  "2 gros œufs, séparés",
+  "1 gros blanc d'œuf",
+  "3 c. à soupe de crème 35 %",
+  "3 c. à soupe de farine tout usage",
+  "Sel et poivre blanc",
+  "Huile de canola pour la friture"
+],
+"preparation": [
+  "Mettre la purée de pommes de terre tiède dans un grand bol.",
+  "Dans un petit bol, battre les 3 blancs d'œufs à la main jusqu'à ce qu'ils soient un peu fermes.",
+  "Dans un petit bol, mélanger les 2 jaunes d'œufs avec la crème. Incorporer la purée de pommes de terre à l'aide d'une spatule. Ajouter la farine en pluie et mélanger doucement.",
+  "Incorporer délicatement les blancs d'œufs, puis ajouter du sel et du poivre au besoin.",
+  "Dans une poêle antiadhésive, chauffer 1 à 2 c. à soupe d'huile de canola à feu moyen-vif. Cuire quelques crêpes à la fois en utilisant une généreuse cuillerée de pâte pour chacune et en laissant de l'espace entre elles. Cuire 2 minutes ou jusqu'à ce que le dessous soit doré, puis retourner. Pour que les crêpes gonflent et que le pourtour ait une belle couleur noisette, il est important que la poêle soit assez chaude; monter le feu au besoin. Cuire de 1 à 2 minutes de plus.",
+  "Servir immédiatement ou utiliser pour la préparation des Paupiettes de saumon au cerfeuil (page 135)."
+]
+},
+
 {"id": 1780, "livreId": 7, "titre": "Pascade (Dutch Baby)", "page": 35, "categorie": "Pâtisserie", "ingredientPrincipal": "Crêpes", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Pascade.jpeg",
 "favori": false,
 "note": null,
@@ -1166,7 +1346,33 @@
 ]
 },
 
-{"id": 1787, "livreId": 7, "titre": "Foie gras au micro-ondes", "page": 136, "categorie": "Abats", "ingredientPrincipal": "Foie gras", "image": "IMG_1793.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 1787, "livreId": 7, "titre": "Foie gras au micro-ondes", "page": 136, "categorie": "Abats", "ingredientPrincipal": "Foie gras", "image": "livres/007-joe-beef-survivre-a-l-apocalypse/images/Foie-gras.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+  "SAUMURE (POUR 1 KG/2 LB DE FOIE GRAS)",
+  "14 g de sel cachère",
+  "8 g de sucre",
+  "4 g de poivre blanc du moulin",
+  "2 g de poudre de Prague n° 1 ou n° 2",
+  "1 foie gras de canard entier d'environ 675 g (1 ½ lb)",
+  "2 c. à soupe de vin blanc doux de qualité (ex. : monbazillac ou sauternes [le préféré de John Bil])",
+  "1 truffe noire (de préférence de la Maison Pébeyre), en lamelles fines",
+  "½ c. à thé de fleur de sel",
+  "Poivre noir du moulin"
+],
+"preparation": [
+  "Calculer la quantité de saumure nécessaire selon la grosseur du foie gras (voir Notes). Préparer la recette entière de saumure, puis peser ce dont on a besoin.",
+  "Dans un grand sac de type Ziploc, mélanger le foie gras, la saumure et le vin. Extraire le plus d'air possible du sac avant de le sceller. Réfrigérer toute la nuit.",
+  "Laisser reposer le sac de foie gras à température ambiante pendant 1 ½ heure.",
+  "Retirer le foie gras du sac et l'éponger avec du papier absorbant avant de le blottir dans un plat de cuisson en pyrex juste assez grand. Couvrir hermétiquement de pellicule de plastique.",
+  "Cuire au micro-ondes (puissance de 900 watts) pendant 30 secondes, puis laisser reposer 30 secondes. Répéter quatre autres fois. Le foie rendra une grande partie de son gras : l'égoutter avec soin dans un petit bol et le réserver pour l'étape suivante.",
+  "Couvrir le foie gras de lamelles de truffe, puis arroser celles-ci du gras réservé. Parsemer généreusement la préparation de fleur de sel et de poivre. Envelopper le plat dans une double couche de pellicule de plastique en appuyant doucement sur le dessus pour éliminer l'air restant et aplatir légèrement le foie gras. Réfrigérer pendant 5 jours pour obtenir un maximum de saveur. Servir sur du pain grillé, sur le Pithiviers de perdrix (page 131) ou encore sur le Ragoût d'orignal (page 279).",
+  "Notes : Même si le foie gras est cuit au micro-ondes, il aura une saveur exceptionnelle si vous le laissez saumurer patiemment toute une nuit avant de le faire cuire. Laissez-le ensuite reposer pendant 5 jours et votre patience sera hautement récompensée.",
+  "On doit utiliser 28 g de saumure pour 1 kg (1000 g) de foie gras. Voici une formule magique pour calculer la quantité dont vous aurez besoin : x = (y x 28) ÷ 1000. Donc, x est la quantité de saumure requise et y est le poids du foie gras en grammes. Par exemple, un lobe de foie de 650 g demande 18 g de saumure."
+]
+},
+
 {"id": 1788, "livreId": 7, "titre": "Béchamel", "page": 75, "categorie": "Sauce", "ingredientPrincipal": "Lait entier", "image": null,
 "favori": false,
 "note": null,
