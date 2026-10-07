@@ -1,5 +1,19 @@
 [
-{"id": 2478, "livreId": 16, "titre": "Tartinade à l'ail", "page": 12, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 2478, "livreId": 16, "titre": "Tartinade à l'ail", "page": 12, "categorie": "Entrée", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de Margarine Parkay, ramollie",
+"2 cuillérées à table (25 ml) de persil haché",
+"2 cuillérées à table (25 ml) d'oignon haché",
+"1 gousse d'ail émincée"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème et la margarine. Ajouter les ingrédients restants; bien mélanger. Réfrigérer.",
+"Donne environ 1 2/3 tasse (400 ml)."
+]},
+
 {"id": 2479, "livreId": 16, "titre": "Tartinade à trois étages", "page": 12, "image": null,
 "favori": false,
 "note": null,
@@ -25,10 +39,89 @@
 "Donne 2 tasses (500 ml)."
 ]},
 
-{"id": 2480, "livreId": 16, "titre": "Hors-d'œuvres faciles", "page": 13, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2481, "livreId": 16, "titre": "Hors-d'œuvres à l'impromptu", "page": 15, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2482, "livreId": 16, "titre": "Trempette à la courgette et la ciboulette", "page": 15, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2483, "livreId": 16, "titre": "Hors-d'œuvres de pâté au fromage", "page": 16, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 2480, "livreId": 16, "titre": "Hors-d'œuvres faciles", "page": 13, "categorie": "Entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Hors-d-oeuvres-faciles.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 15 onces (425 g) de Croûtes de Tarte Toutes Prêtes Pillsbury",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1 cuillérée à table (15 ml) de lait",
+"1/2 cuillérée à thé (2 ml) de sel d'oignon",
+"1/2 cuillérée à thé (2 ml) de sauce worcestershire",
+"GARNITURES",
+"Tranches de concombre",
+"Ciboulette finement hachée",
+"Fenouil",
+"Oignon vert tranché",
+"Tranches de radis",
+"Carottes ciselées en lamelles",
+"Tranches de piment rouge mariné",
+"Persil",
+"Petites crevettes nettoyées"
+],
+"preparation": [
+"Dérouler la pâte à tarte; couper en formes de 2 1/2 pouces (6 cm). Placer les formes découpées sur une plaque à biscuits non graissée; piquer chaque forme avec une fourchette plusieurs fois. Cuire à 425°F/220°C, 8 à 10 minutes, jusqu'à ce que la pâte soit dorée. Laisser refroidir.",
+"Bien mélanger le fromage à la crème, le lait, le sel d'oignon et la sauce worcestershire. Étendre sur les formes; garnir avec les ingrédients tel que désiré.",
+"Donne 2 douzaines."
+]},
+
+{"id": 2481, "livreId": 16, "titre": "Hors-d'œuvres à l'impromptu", "page": 15, "categorie": "entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Hors-d-oeuvre-a-l-impromptu.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1/4 de tasse (50 ml) de Sauce Cocktail Sauceworks",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia",
+"Crevettes miniatures congelées, décongelées"
+],
+"preparation": [
+"Verser la sauce cocktail sur le fromage à la crème; garnir de crevettes. Servir avec des craquelins ou des tranches de pain de seigle.",
+"VARIANTES : Remplacer la sauce cocktail et les crevettes par ce qui suit :",
+"1/4 de tasse (50 ml) de sauce au raifort mélangée à 1 cuillérée à thé (5 ml) de moutarde préparée pure et du jambon finement haché.",
+"2 1/4 onces (70 g) de jambon haché et de relish sucrée.",
+"Du bacon croustillant et des tranches d'oignon vert frais.",
+"1/3 de tasse (75 ml) de Conserves d'Ananas Kraft mélangée avec 1/2 cuillérée à thé (2 ml) de moutarde pure préparée.",
+"1/4 à 1/3 de tasse (50 à 75 ml) de sauce aux fruits.",
+"1/4 de tasse (50 ml) de sauce piquante, sauce à tacos ou salsa.",
+"CONSEIL : Avoir toujours ces ingrédients sous la main pour des buffets surprises ou des visiteurs inattendus."
+]},
+
+{"id": 2482, "livreId": 16, "titre": "Trempette à la courgette et la ciboulette", "page": 15, "categorie": "Entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Trempette-à-la-courgette.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia Tartinable",
+"3 cuillérées à table (50 ml) de lait",
+"1 petite courgette râpée",
+"3 cuillérées à table de ciboulette hachée",
+"1/8 de cuillérée à thé (0,5 ml) de sel"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème et le lait. Ajouter les ingrédients restants; bien mélanger. Réfrigérer. Servir avec des crudités ou des croustilles.",
+"Donne 1 tasse (250 ml)."
+]},
+
+{"id": 2483, "livreId": 16, "titre": "Hors-d'œuvres de pâté au fromage", "page": 16, "categorie": "entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Hors-d-oeuvre-de-pate-au-fromage.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 tasse (250 ml) de croûtons nature écrasés",
+"3 cuillérées à table (50 ml) de Margarine Parkay, fondue",
+"1 sachet de gélatine sans saveur",
+"1/2 tasse (125 ml) d'eau froide",
+"2 paquets de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1 paquet de 8 onces (250 g) de saucisse braunschweiger ou saucisse de foie",
+"1/4 de tasse (50 ml) de Vraie Mayonnaise Kraft",
+"3 cuillérées à table (50 ml) de piments hachés",
+"2 cuillérées à table (25 ml) d'oignon râpé",
+"1 cuillérée à table (15 ml) de moutarde préparée",
+"1/2 cuillérée à thé (2 ml) de jus de citron"
+],
+"preparation": [
+"Mélanger les croûtons et la margarine; foncer un moule à bord amovible de 9 pouces (22 cm). Cuire à 350°F/180°C, 10 minutes.",
+"Dissoudre la gélatine dans l'eau à feu doux. Bien mélanger le fromage à la crème et la saucisse au fouet électrique à vitesse moyenne. Ajouter peu à peu la gélatine. Ajouter les ingrédients restants, bien mélanger; étendre sur l'abaisse. Réfrigérer jusqu'à consistance ferme. Démouler.",
+"Donne 16 portions."
+]},
+
 {"id": 2484, "livreId": 16, "titre": "Tartinade rapide mexicaine", "page": 16, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 2485, "livreId": 16, "titre": "Petits roulés \"Philly\"", "page": 17, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 2486, "livreId": 16, "titre": "Tartinade fruitée au fromage", "page": 18, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
