@@ -2394,21 +2394,111 @@
 "Donne 8 portions."
 ]},
 
-{"id": 2603, "livreId": 16, "titre": "Tarte \"Philly\" aux ananas", "page": 124, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2604, "livreId": 16, "titre": "Framboises glacées", "page": 126, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2605, "livreId": 16, "titre": "Tarte à la crème de menthe", "page": 126, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2606, "livreId": 16, "titre": "Barres étagées favorites", "page": 127, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2607, "livreId": 16, "titre": "Pizza aux fruits", "page": 128, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2608, "livreId": 16, "titre": "Pommes au sommet enneigé", "page": 130, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2609, "livreId": 16, "titre": "Tarte aux cerises soleil levant", "page": 130, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2610, "livreId": 16, "titre": "Dessert crémeux au riz", "page": 131, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2611, "livreId": 16, "titre": "Tarte au caramel et aux pacanes", "page": 131, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2612, "livreId": 16, "titre": "Carrés au chocolat à la menthe", "page": 133, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2613, "livreId": 16, "titre": "Boules de fudge aux framboises", "page": 133, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2614, "livreId": 16, "titre": "Couronne \"Philly\" fourrée à la crème", "page": 134, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2615, "livreId": 16, "titre": "Biscuits \"Philly\" glacés", "page": 136, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2616, "livreId": 16, "titre": "Tourte allemande aux pommes", "page": 137, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2617, "livreId": 16, "titre": "Gâteau aux cerises et aux noix", "page": 139, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 2603, "livreId": 16, "titre": "Tarte \"Philly\" aux ananas", "page": 124, "categprie": "Desserts, Tarte", "image": "livres/016-philadelphia-livre-de-cuisine/images/Tarte-Philly-aux-ananas.jpeg",
+"favori": false,
+"note": null,
+"ingredients": ["Pâte pour une croûte de tarte de 9 pouces (22 cm)","1/3 de tasse (75 ml) de sucre","1 cuillérée à table (15 ml) de fécule de maïs","1 boîte de 8 onces (250 g) d'ananas en morceaux, non égouttés","1 paquet de 8 onces (250 g) de Fromage à la Crème de MARQUE PHILADELPHIA, ramolli","1/2 tasse (125 ml) de sucre","1/2 cuillérée à thé (2 ml) de sel","2 œufs","1/2 tasse (125 ml) de lait","1/2 cuillérée à thé (2 ml) de vanille","1/4 de tasse (50 ml) de pacanes hachées"],
+"preparation": ["Sur une surface légèrement farinée, aplatir la pâte en un cercle de 12 pouces (30 cm). Placer dans un moule à tarte de 9 pouces (22 cm). Former les bords. Canneler. Dans une casserole, mélanger le sucre et la fécule de maïs. Ajouter les ananas. Cuire en remuant sans cesse jusqu'à ce que le mélange soit clair et épaississe. Refroidir. Étaler sur la croûte de tarte.","Bien mélanger le fromage à la crème, le sucre et le sel. Ajouter les œufs, un à la fois. Bien mélanger après chaque ajout. Incorporer le lait et la vanille. Verser sur le mélange à l'ananas. Parsemer de pacanes. Cuire à 350°F/180°C, 35 minutes. Refroidir. Garnir de tranches d'ananas coupées en deux et de moitiés de cerises au marasquin si désiré."]
+},
+
+{"id": 2604, "livreId": 16, "titre": "Framboises glacées", "page": 126, "categorie": "Desserts", "image": null,
+"favori": false,
+"note": null,
+"ingredients": ["1/4 de tasse (50 ml) de miel","1 paquet de 8 onces (250 g) de Fromage à la Crème de MARQUE PHILADELPHIA, ramolli","10 onces (300 g) de framboises congelées, partiellement décongelées, non égouttées","1 tasse (250 ml) de bananes tranchées","2 tasses (500 ml) de Guimauves Miniatures KRAFT","1 tasse (250 ml) de crème à fouetter, fouettée"],
+"preparation": ["Ajouter peu à peu le miel au fromage à la crème. Bien mélanger. Incorporer les fruits, les guimauves et la crème fouettée. Mettre dans un moule carré, légèrement graissé de 9 pouces (22 cm). Congeler. Placer au réfrigérateur 30 minutes avant de servir. Couper en carrés.","VARIANTE : Préparer tel qu'indiqué. Verser le mélange de framboises dans 10 verres en papier d'une contenance de 5 onces (150 g); insérer un bâtonnet au centre. Congeler.","VARIANTE : Préparer tel qu'indiqué. Verser le mélange de framboises dans un moule à bord amovible de 9 pouces (22 cm) légèrement graissé. Congeler. Placer au réfrigérateur 1 heure avant de servir. Passer un couteau autour du moule. Démouler."]
+},
+
+{"id": 2605, "livreId": 16, "titre": "Tarte à la crème de menthe", "page": 127, "categorie": "Desserts, Tarte", "image": "livres/016-philadelphia-livre-de-cuisine/images/Tarte-a-la-creme-de-menthe.jpeg",
+"favori": false,
+"note": null,
+"ingredients": ["2 tasses (500 ml) (24) de biscuits au chocolat fourrés à la crème, émiettés","1/4 de tasse (50 ml) de Margarine PARKAY, fondue","2 paquets de 8 onces (250 g) de Fromage à la Crème de MARQUE PHILADELPHIA, ramolli","1 1/2 tasse (375 ml) de sucre à glacer, tamisé","2 cuillérées à table (25 ml) de crème de menthe verte","2 tasses (500 ml) de crème à fouetter, fouettée"],
+"preparation": ["Mélanger les biscuits émiettés et la margarine, foncer un moule à tarte de 9 pouces (22 cm).","Bien mélanger le fromage à la crème, le sucre et la crème de menthe. Incorporer la crème fouettée et verser sur la croûte de tarte. Réfrigérer plusieurs heures ou toute une nuit. Garnir de copeaux de chocolat si désiré."]
+},
+
+{"id": 2606, "livreId": 16, "titre": "Barres étagées favorites", "page": 127, "categorie": "Desserts", "image": "livres/016-philadelphia-livre-de-cuisine/images/Barres-etages-favorite.jpeg",
+"favori": false,
+"note": null,
+"ingredients": ["1 1/2 tasse (375 ml) de chapelure de biscuits graham","1/4 de tasse (50 ml) de sucre","1/4 de tasse (50 ml) de Margarine PARKAY fondue","1 paquet de 8 onces (250 g) de Fromage à la Crème de MARQUE PHILADELPHIA, ramolli","1/2 tasse (125 ml) de sucre","1 œuf","3/4 de tasse (175 ml) de flocons de noix de coco","3/4 de tasse (175 ml) de noix hachées","1 paquet de 6 onces (180 g) de chocolat mi-sucré en morceaux"],
+"preparation": ["Bien mélanger la chapelure, le sucre et la margarine. Foncer un moule de 13 x 9 pouces (33 x 22 cm). Cuire à 325°F/160°C, 10 minutes.","Bien mélanger le fromage à la crème, le sucre et l'œuf. Verser sur l'abaisse. Parsemer de noix de coco, de noix et de morceaux de chocolat mélangés ensemble. Presser légèrement sur la surface de l'abaisse pour imprimer. Cuire à 350°F/180°C, 25 à 30 minutes ou jusqu'à légèrement doré. Refroidir. Couper en barres."]
+},
+
+{"id": 2607, "livreId": 16, "titre": "Pizza aux fruits", "page": 128, "Categorie": "Desserts", "image": "livres/016-philadelphia-livre-de-cuisine/images/Pizza-aux-fruits.jpeg",
+"favori": false,
+"note": null,
+"ingredients": ["1 paquet de 20 onces (620 g) de biscuits au sucre réfrigérés","1 paquet de 8 onces (250 g) de Fromage à la Crème de MARQUE PHILADELPHIA, ramolli","1/3 de tasse (75 ml) de sucre","1/2 cuillérée à thé (2 ml) de vanille","Bananes tranchées","Kiwis, épluchés, tranchés","Fraises coupées en deux","Bleuets","1/2 tasse (125 ml) de Marmelade d'Oranges ou de Conserves de Pêches ou d'Abricots KRAFT","2 cuillérées à table (25 ml) d'eau"],
+"preparation": ["Congeler la pâte durant 1 heure. Couper en tranches de 1/8 de pouce (3 mm). Tapisser de papier d'aluminium un plat à pizza de 14 pouces (35 cm). Recouvrir de tranches de pâte en superposant légèrement les bords. Cuire à 375°F/190°C, 12 minutes ou jusqu'à doré. Refroidir. Renverser sur un plat de service. Enlever délicatement le papier d'aluminium, retourner sur l'endroit.","Bien mélanger le fromage à la crème, le sucre et la vanille. Étaler sur l'abaisse, disposer les fruits sur la couche de fromage à la crème. Glacer avec la marmelade mélangée à l'eau. Réfrigérer. Découper en pointes.","VARIANTE : Remplacer le fromage à la crème par du Fromage à la Crème de MARQUE PHILADELPHIA Tartinable.","VARIANTE : Remplacer les bananes, kiwis, fraises ou bleuets par l'un ou les fruits suivants : framboises, raisins rouges ou verts, morceaux d'ananas, demi-cerises au marasquin égouttées, fines tranches de pêches, de poires ou de pommes, quartiers de mandarines égouttées.","CONSEIL : Disposer les fruits de manière à créer une variété de formes et de dessins; essayer des lignes, des triangles ou des cercles."]
+},
+
+{"id": 2608, "livreId": 16, "titre": "Pommes au sommet enneigé", "page": 130, "categorie": "Desserts", "image": null,
+"favori": false,
+"note": null,
+"ingredients": ["2 pommes à cuire moyennes","2 cuillérées à thé (10 ml) de raisins secs","2 cuillérées à thé (10 ml) de noix hachées","Une pincée de cannelle","2 cuillérées à thé (10 ml) de Margarine PARKAY","2 cuillérées à table (25 ml) de Fromage à la Crème Léger de MARQUE PHILADELPHIA"],
+"preparation": ["Enlever le cœur des pommes. Éplucher le pourtour du dessus de la pomme. Placer dans un moule à flan de 10 pouces (25 cm). Remplir le centre des pommes avec les raisins secs, les noix et la cannelle. Parsemer de petits morceaux de margarine. Cuire à 375°F/190°C, 25 à 30 minutes ou jusqu'à ce qu'elles soient tendres. Garnir le dessus des pommes de fromage léger. Parsemer de noix si désiré.","MICRO-ONDES : Préparer tel qu'indiqué. Couvrir le moule à flan d'une pellicule transparente en laissant un coin d'aération. Cuire à haute température 2 1/2 à 3 minutes ou jusqu'à ce que les pommes soient tendres. Servir tel qu'indiqué."]
+},
+
+{"id": 2609, "livreId": 16, "titre": "Tarte aux cerises soleil levant", "page": 130, "categorie": "Desserts, Tarte", "image": null,
+"favori": false,
+"note": null,
+"ingredients": ["1 boîte de 8 onces (250 g) d'ananas en morceaux écrasés, non égouttés","1 paquet de 8 onces (250 g) de Fromage à la Crème de MARQUE PHILADELPHIA, ramolli","1/2 cuillérée à thé (2 ml) de vanille","21 onces (650 g) de garniture à tarte aux cerises","1/4 de tasse (50 ml) de sucre à glacer","1 tasse (250 ml) de crème à fouetter","1 abaisse à la chapelure de biscuits graham de 9 pouces (22 cm)"],
+"preparation": ["Bien égoutter les ananas, réserver 2 cuillérées à table (25 ml) de jus. Bien mélanger ce jus, le fromage et la vanille. Ajouter 1/4 tasse (50 ml) d'ananas et 1/2 tasse (125 ml) de garniture à tarte. Peu à peu ajouter le sucre à la crème. Battre jusqu'à formation de pics mous. Incorporer dans le mélange de fromage. Étaler sur l'abaisse. Garnir d'ananas restant et de garniture. Réfrigérer jusqu'à consistance ferme."]
+},
+
+{"id": 2610, "livreId": 16, "titre": "Dessert crémeux au riz", "page": 131, "categorie": "Desserts", "image": null,
+"favori": false,
+"note": null,
+"ingredients": ["1 boîte de 8 onces (250 g) d'ananas en morceaux, non égouttés","2 tasses (500 ml) de riz cuit, réfrigéré","1 boîte de 11 onces (330 g) de quartiers d'orange de mandarine, égouttés","1/2 tasse (125 ml) de cerises au marasquin, coupées en deux","1/2 tasse (125 ml) de noix hachées","1 contenant de 8 onces (250 g) de Fromage à la Crème de MARQUE PHILADELPHIA Tartinable","1/4 de tasse (50 ml) de sucre","1/4 de cuillérée à thé (1 ml) de vanille"],
+"preparation": ["Égoutter les ananas, conserver 3 cuillérées à table (50 ml) de jus. Mélanger les ananas, le riz, les quartiers d'orange, les cerises et les noix. Remuer légèrement. Bien mélanger le liquide réservé, le fromage à la crème, le sucre et la vanille. Verser dans le mélange de riz. Remuer délicatement."]
+},
+
+{"id": 2611, "livreId": 16, "titre": "Tarte au caramel et aux pacanes", "page": 131, "categorie": "Desserts, Tarte", "image": null,
+"favori": false,
+"note": null,
+"ingredients": ["Pâte pour une croûte de tarte de 9 pouces (22 cm)","36 Caramels KRAFT","1/4 de tasse (50 ml) de Margarine PARKAY","1/4 de tasse (50 ml) d'eau","3/4 de tasse (175 ml) de sucre","3 œufs battus","1/2 cuillérée à thé (2 ml) de vanille","1/4 de cuillérée à thé (1 ml) de sel","1 tasse (250 ml) de pacanes en moitiés"],
+"preparation": ["Sur une surface légèrement farinée, aplatir la pâte en un cercle de 12 pouces (30 cm). Placer dans un moule à tarte de 9 pouces (22 cm), former les bords, canneler. Faire fondre les caramels et la margarine avec l'eau dans une casserole à fond épais, à feu doux, en remuant fréquemment. Peu à peu, ajouter le sucre, les œufs, la vanille et le sel. Bien mélanger. Ajouter les pacanes. Verser sur la croûte de tarte. Cuire à 350°F/180°C, 45 à 50 minutes ou jusqu'à ce que la croûte de tarte soit dorée. Refroidir. (La garniture paraîtra molle mais épaissira en refroidissant.)","VARIANTE : Remplacer les pacanes par des noix hachées ou des cajous."]
+},
+
+{"id": 2612, "livreId": 16, "titre": "Carrés au chocolat à la menthe", "page": 133, "categorie": "Desserts", "image": null,
+"favori": false,
+"note": null,
+"ingredients": ["1 paquet de 6 onces (180 g) de chocolat mi-sucré en morceaux","1 tasse (250 ml) de Margarine PARKAY","1 3/4 tasse (425 ml) de chapelure de biscuits graham","1 tasse (250 ml) de flocons de noix de coco","1/2 tasse (125 ml) de noix hachées","2 paquets de 8 onces (250 g) de Fromage à la Crème de MARQUE PHILADELPHIA, ramolli","1 tasse (250 ml) de sucre à glacer, tamisé","1/2 cuillérée à thé (2 ml) d'extrait de menthe","Colorant alimentaire vert (si désiré)"],
+"preparation": ["À feu doux, faire fondre 1/3 de tasse (75 ml) de morceaux de chocolat avec 3/4 de tasse (175 ml) de margarine. Remuer jusqu'à consistance crémeuse. Ajouter, mélangé ensemble, la chapelure, la noix de coco et les noix; bien mélanger. Foncer un moule de 13 x 9 pouces (33 x 22 cm) non graissé. Réfrigérer.","Bien mélanger le fromage à la crème, le sucre, l'extrait de menthe et quelques gouttes du colorant. Verser sur l'abaisse. Réfrigérer.","Faire fondre les morceaux de chocolat et la margarine restants à feu doux, en remuant jusqu'à consistance crémeuse. Étaler sur la couche de fromage à la crème, réfrigérer. Couper en carrés. Servir froid."]
+},
+
+{"id": 2613, "livreId": 16, "titre": "Boules de fudge aux framboises", "page": 133, "categorie": "Desserts", "image": "livres/016-philadelphia-livre-de-cuisine/images/Boules-de-fudge.jpeg",
+"favori": false,
+"note": null,
+"ingredients": ["1 paquet de 8 onces (250 g) de Fromage à la Crème de MARQUE PHILADELPHIA, ramolli","1 paquet de 6 onces (180 g) de chocolat mi-sucré en morceaux, fondu","3/4 de tasse (175 ml) de miettes de gaufrettes à la vanille","1/4 de tasse (50 ml) de Conserves de Framboises KRAFT, passée","Amandes finement hachées","Cacao ou sucre à glacer"],
+"preparation": ["Bien mélanger le fromage à la crème et le chocolat. Ajouter les miettes de gaufrettes et les conserves. Réfrigérer plusieurs heures ou toute une nuit. Former des boules de 1 pouce (2,5 cm). Rouler dans les amandes, le cacao ou le sucre."]
+},
+
+{"id": 2614, "livreId": 16, "titre": "Couronne \"Philly\" fourrée à la crème", "page": 134, "categorie": "Desserts", "image": "livres/016-philadelphia-livre-de-cuisine/images/Couronne-philly.jpeg",
+"favori": false,
+"note": null,
+"ingredients": ["1 tasse (250 ml) d'eau","1/2 tasse (125 ml) de Margarine PARKAY","1 tasse (250 ml) de farine","1/4 de cuillérée à thé (1 ml) de sel","4 œufs","2 paquets de 8 onces (250 g) de Fromage à la Crème de MARQUE PHILADELPHIA, ramolli","1 1/2 tasse (375 ml) de sucre à glacer","1 cuillérée à thé (5 ml) de vanille","1 tasse (250 ml) de crème à fouetter, fouettée","2 bananes tranchées","1 carré de chocolat non sucré de 1 once (30 g), fondu","1 cuillérée à table (15 ml) de lait"],
+"preparation": ["Amener l'eau et la margarine à ébullition. Ajouter la farine et le sel. Remuer vigoureusement, à feu doux, jusqu'à ce que le mélange forme une boule. Retirer du feu. Ajouter les œufs un à la fois. Bien battre après chaque ajout. Disposer 10 choux de 1/2 tasse (125 ml) sur une plaque à biscuits légèrement graissée pour former une couronne de 9 pouces (22 cm). Cuire à 400°F/200°C, 50 à 55 minutes ou jusqu'à doré. Retirer de la plaque immédiatement. Refroidir.","Bien mélanger le fromage à la crème, 1 tasse (250 ml) de sucre et la vanille. Réserver 1/2 tasse (125 ml) de ce mélange. Incorporer la crème et les bananes dans le reste du mélange de fromage à la crème. Réfrigérer. Couper délicatement le haut des choux; remplir du mélange à la crème fouettée. Replacer le chapeau. Ajouter le reste du sucre, le chocolat et le lait au mélange de fromage à la crème réservé; bien mélanger. Verser sur la couronne."]
+},
+
+{"id": 2615, "livreId": 16, "titre": "Biscuits \"Philly\" glacés", "page": 136, "categorie": "Desserts, Biscuit", "image": "livres/016-philadelphia-livre-de-cuisine/images/Biscuits-philly.jpeg",
+"favori": false,
+"note": null,
+"ingredients": ["Biscuits aux flocons d'avoine ou biscuits aux brisures de chocolat","Fromage à la Crème de MARQUE PHILADELPHIA Tartinable","Tranches de kiwis, épluchées","Quartiers de mandarine","Fraises tranchées"],
+"preparation": ["Pour chaque portion, tartiner chaque biscuit de fromage à la crème, garnir de fruits tel que désiré.","VARIANTE : Remplacer le fromage à la crème velouté par du Fromage à la Crème de MARQUE PHILADELPHIA."]
+},
+
+{"id": 2616, "livreId": 16, "titre": "Tourte allemande aux pommes", "page": 137, "categorie": "Desserts, Tarte", "image": null,
+"favori": false,
+"note": null,
+"ingredients": ["1/3 de tasse (75 ml) de Margarine PARKAY","1/3 de tasse (75 ml) de sucre","1 œuf","1 1/4 tasse (300 ml) de farine","2 paquets de 8 onces (250 g) de Fromage à la Crème Léger de MARQUE PHILADELPHIA, ramolli","1/2 tasse (125 ml) de sucre","2 cuillérées à table (25 ml) de farine","1/2 cuillérée à thé (2 ml) de vanille","2 œufs","1 1/4 de tasse (300 ml) de pommes épluchées, coupées en morceaux","1/4 de tasse (50 ml) d'amandes hachées","1/3 de tasse (75 ml) de gelée de raisin ou de groseilles, réchauffée"],
+"preparation": ["Battre ensemble la margarine et le sucre jusqu'à consistance légère et crémeuse. Incorporer l'œuf. Ajouter la farine. Bien mélanger. Foncer un moule à bord amovible de 9 pouces (22 cm). Former un bord de 1 1/4 pouce (3 cm). Cuire à 425°F/220°C, 5 à 7 minutes, ou jusqu'à ce que la croûte soit légèrement dorée.","Bien mélanger le fromage léger, le sucre, la farine et la vanille à vitesse moyenne au fouet électrique. Ajouter les œufs, un à la fois. Bien mélanger après chaque ajout. Verser sur l'abaisse. Garnir de pommes et d'amandes. Cuire à 425°F/220°C, 10 minutes. Réduire la température du four à 350°F/180°C, prolonger la cuisson de 30 minutes. Étendre la gelée. Passer un couteau autour du moule. Refroidir avant de démouler. Réfrigérer plusieurs heures ou toute une nuit."]
+},
+
+{"id": 2617, "livreId": 16, "titre": "Gâteau aux cerises et aux noix", "page": 139, "categorie": "Desserts, Gateau", "image": "livres/016-philadelphia-livre-de-cuisine/images/Gateau-aux-cerises.jpeg",
+"favori": false,
+"note": null,
+"ingredients": ["1 paquet de 8 onces (250 g) de Fromage à la Crème de MARQUE PHILADELPHIA, ramolli","1 tasse (250 ml) de Margarine PARKAY","1 1/2 tasse (375 ml) de sucre","1 1/2 cuillérée à thé (7 ml) de vanille","4 œufs","2 1/4 tasses (550 ml) de farine à pâtisserie, tamisée","1 1/2 cuillérée à thé (7 ml) de poudre à pâte","3/4 de tasse (175 ml) de cerises au marasquin coupées, bien égouttées","1/2 tasse (125 ml) de pacanes hachées","1/2 tasse (125 ml) de pacanes finement hachées","1 1/2 tasse (375 ml) de sucre à glacer, tamisé","2 cuillérées à table (25 ml) de lait"],
+"preparation": ["Bien mélanger le fromage à la crème, la margarine, le sucre et la vanille à vitesse moyenne au fouet électrique. Ajouter les œufs un à la fois, bien mélanger après chaque ajout. Tamiser ensemble 2 tasses (500 ml) de farine et la poudre à pâte. Graduellement, incorporer au mélange de fromage à la crème, bien mélanger. Enrober les cerises et les pacanes hachées du reste de farine et ajouter au mélange.","Graisser un moule tubulaire de 10 pouces (25 cm), parsemer de pacanes finement hachées. Verser la pâte dans le moule. Cuire à 325°F/160°C, 1 heure 10 minutes. Laisser refroidir 5 minutes; démouler. Refroidir. Glacer avec le sucre à glacer mélangé au lait. Garnir de pacanes et de demi-cerises au marasquin, si désiré.","VARIANTE : Remplacer les cerises par 3/4 de tasse (150 ml) d'abricots secs et le lait par 2 cuillérées à table (25 ml) de jus d'orange et 1 cuillérée à thé (5 ml) de zeste d'orange.","VARIANTE : Remplacer 2 tasses (500 ml) de farine à pâtisserie tamisée par de la farine tout usage.","VARIANTE : Supprimer les noix hachées. Verser la pâte dans 3 boîtes à café (non peintes) de 1 livre (500 g) graissées et farinées. Cuire à 325°F/160°C, une heure.","PRÉPARATION À L'AVANCE : Préparer le gâteau. L'envelopper soigneusement dans une pellicule en plastique. Congeler. Décongeler à température de la pièce, 12 heures."]
+},
+
 {"id": 2618, "livreId": 16, "titre": "Goûters aux raisins secs et aux pommes", "page": 140, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 2619, "livreId": 16, "titre": "Soufflé aux fraises", "page": 140, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 2620, "livreId": 16, "titre": "Délicieux dessert de crêpes", "page": 141, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
