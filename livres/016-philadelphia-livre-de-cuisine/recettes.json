@@ -227,7 +227,7 @@
 "Remplacer les flocons de persil par 1/4 de cuillérée à thé (1 ml) d'aneth ou de poivre au citron."
 ]},
 
-{"id": 2490, "livreId": 16, "titre": "Tartinade à la saucisse Braunschweiger", "page": 22, "categorie", "Entrée", "image": null,
+{"id": 2490, "livreId": 16, "titre": "Tartinade à la saucisse Braunschweiger", "page": 22, "categorie": "Entrée", "image": null,
 "favori": false,
 "note": null,
 "ingredients": [
