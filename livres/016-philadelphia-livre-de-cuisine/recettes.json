@@ -1473,7 +1473,7 @@
 "MICRO-ONDES : Suivre la recette tel qu'indiqué sauf pour la cuisson. Cuire au micro-ondes 8 minutes à haute température. Tourner le moule après 4 minutes. Continuer la cuisson à température moyenne (50 %) 9 à 12 minutes ou jusqu'à ce que le centre soit cuit."
 ]},
 
-{"id": 2556, "livreId": 16, "titre": "Gratin de pommes de terre facile", "page": 80, "categorie":, "Accompagnement, Légumes", "image": null,
+{"id": 2556, "livreId": 16, "titre": "Gratin de pommes de terre facile", "page": 80, "categorie": "Accompagnement, Légumes", "image": null,
 "favori": false,
 "note": null,
 "ingredients": [
@@ -1510,7 +1510,7 @@
 "Donne 12 portions."
 ]},
 
-{"id": 2558, "livreId": 16, "titre": "Légumes sautés à feu vif", "page": 81, "categorie":, "Accompagnement, Légumes", "image": "livres/016-philadelphia-livre-de-cuisine/images/Legumes-sautes-a-feu-vif.jpeg",
+{"id": 2558, "livreId": 16, "titre": "Légumes sautés à feu vif", "page": 81, "categorie": "Accompagnement, Légumes", "image": "livres/016-philadelphia-livre-de-cuisine/images/Legumes-sautes-a-feu-vif.jpeg",
 "favori": false,
 "note": null,
 "ingredients": [
@@ -1567,7 +1567,7 @@
 "Donne 6 portions."
 ]},
 
-{"id": 2561, "livreId": 16, "titre": "Courges farcies", "page": 84, "categorie"; "Légumes", "image": "livres/016-philadelphia-livre-de-cuisine/images/Courges-farcie.jpeg",
+{"id": 2561, "livreId": 16, "titre": "Courges farcies", "page": 84, "categorie": "Légumes", "image": "livres/016-philadelphia-livre-de-cuisine/images/Courges-farcie.jpeg",
 "favori": false,
 "note": null,
 "ingredients": [
@@ -1759,7 +1759,7 @@
 "Donne 12 portions."
 ]},
 
-{"id": 2570, "livreId": 16, "titre": "Scones aux raisins secs", "page": 94, "ctegorie": "Desserts, Scones", "image": null,
+{"id": 2570, "livreId": 16, "titre": "Scones aux raisins secs", "page": 94, "categorie": "Desserts, Scones", "image": null,
 "favori": false,
 "note": null,
 "ingredients": [
