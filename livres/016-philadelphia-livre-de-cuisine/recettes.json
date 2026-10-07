@@ -3,7 +3,7 @@
 {"id": 2479, "livreId": 16, "titre": "Tartinade à trois étages", "page": 12, "image": null,
 "favori": false,
 "note": null,
-  "categorie": Entrée,
+  "categorie": "Entrée",
 "ingredients": [
 "1 paquet de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, ramolli",
 "2 tasses (500 ml) de Fromage Cheddar Doux 100 % Naturel Kraft, râpé",
