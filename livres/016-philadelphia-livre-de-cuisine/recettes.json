@@ -185,7 +185,7 @@
 "Donne 1 2/3 tasse (400 ml)."
 ]},
 
-{"id": 2488, "livreId": 16, "titre": "Tartinade pommes-fromage", "page": 21, "categorie", "Entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Gateau-au-fromage-aux-fines-herbes.jpeg",
+{"id": 2488, "livreId": 16, "titre": "Tartinade pommes-fromage", "page": 21, "categorie": "Entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Gateau-au-fromage-aux-fines-herbes.jpeg",
 "favori": false,
 "note": null,
 "ingredients": [
@@ -243,7 +243,7 @@
 "Donne environ 2 1/2 tasses (625 ml)."
 ]},
 
-{"id": 2491, "livreId": 16, "titre": "Choux au poulet au cari", "page": 24, "categorie", "Entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Choux-au-poulet-au-cari.jpeg",
+{"id": 2491, "livreId": 16, "titre": "Choux au poulet au cari", "page": 24, "categorie": "Entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Choux-au-poulet-au-cari.jpeg",
 "favori": false,
 "note": null,
 "ingredients": [
