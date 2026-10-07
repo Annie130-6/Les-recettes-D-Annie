@@ -1098,7 +1098,7 @@
 "Donne 4 à 6 portions."
 ]},
 
-{"id": 2537, "livreId": 16, "titre": "Fettucini Alfredo à la crème", "page": 61, "categorie": Pâte", "image": "livres/016-philadelphia-livre-de-cuisine/images/Fettucini-alfredo.jpeg",
+{"id": 2537, "livreId": 16, "titre": "Fettucini Alfredo à la crème", "page": 61, "categorie": "Pâte", "image": "livres/016-philadelphia-livre-de-cuisine/images/Fettucini-alfredo.jpeg",
 "favori": false,
 "note": null,
 "ingredients": [
