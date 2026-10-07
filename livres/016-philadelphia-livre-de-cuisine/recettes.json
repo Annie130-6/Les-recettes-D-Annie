@@ -1037,7 +1037,7 @@
 "Dissoudre un cube de bouillon de poulet dans 1 tasse (250 ml) d'eau bouillante. Remplacer le bouillon de poulet par le cube de bouillon dilué dans l'eau."
 ]},
 
-{"id": 2534, "livreId": 16, "titre": "Tarte fiesta mexicaine", "page": 59, "categorie": Pâté, Boeuf", "image": null,
+{"id": 2534, "livreId": 16, "titre": "Tarte fiesta mexicaine", "page": 59, "categorie": "Pâté, Boeuf", "image": null,
 "favori": false,
 "note": null,
 "ingredients": [
