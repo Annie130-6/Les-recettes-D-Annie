@@ -734,91 +734,1666 @@
 "Donne environ 3 tasses (750 ml)."
 ]},
 
-{"id": 2518, "livreId": 16, "titre": "Saucisses en pâte", "page": 45, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2519, "livreId": 16, "titre": "Tartinade aux crevettes moulée", "page": 45, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2520, "livreId": 16, "titre": "Champignons farcis \"Philly\"", "page": 46, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2521, "livreId": 16, "titre": "Flan au fromage bleu", "page": 47, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2522, "livreId": 16, "titre": "Tartinade aux crevettes", "page": 47, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2523, "livreId": 16, "titre": "Dinde aux fines herbes", "page": 50, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2524, "livreId": 16, "titre": "Tacos au poulet", "page": 50, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2525, "livreId": 16, "titre": "Lasagne crémeuse", "page": 51, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2526, "livreId": 16, "titre": "Crêpes tentation au fromage", "page": 52, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 2518, "livreId": 16, "titre": "Saucisses en pâte", "page": 45, "categorie": "Entrée", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1 tasse (250 ml) de Margarine Parkay",
+"2 tasses (500 ml) de farine",
+"1 livre (500 g) de saucisses fumées coupées en morceaux de 1/2 pouce (1 cm)"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème et la margarine au fouet électrique à vitesse moyenne. Ajouter la farine, bien mélanger. Former une boule. Réfrigérer. Diviser la pâte en deux. Sur une surface farinée, rouler chaque part de pâte en rectangles de 15 x 12 pouces (38 x 30 cm), couper en carrés de 3 pouces (7,5 cm). Placer un morceau de saucisse au milieu de chaque carré de pâte. Assembler les bords, presser pour sceller. Placer sur une plaque à biscuits. Cuire à 400°F/200°C, 20 minutes. Servir avec de la sauce à la moutarde forte.",
+"Donne environ 40 hors-d'oeuvres."
+]},
+
+{"id": 2519, "livreId": 16, "titre": "Tartinade aux crevettes moulée", "page": 45, "categorie": "Entrée", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, ramolli",
+"1 paquet de 6 onces (180 g) de crevettes miniatures cuites congelées, décongelées, égouttées",
+"1/4 de tasse (50 ml) d'olives noires dénoyautées, tranchées",
+"1 pot de 2 onces (60 g) de piments tranchés, égouttés et haché",
+"2 cuillérées à thé (10 ml) de jus de citron",
+"1 1/2 cuillérée à thé (7 ml) d'oignon haché déshydraté",
+"1/2 cuillérée à thé (2 ml) de sauce worcestershire",
+"1/2 cuillérée à thé (2 ml) de sauce piquante"
+],
+"preparation": [
+"Bien mélanger les ingrédients. Mettre le mélange dans un bol de 2 tasses (500 ml). Réfrigérer plusieurs heures. Démouler. Servir avec des craquelins.",
+"VARIANTES :",
+"Remplacer les crevettes congelées par des crevettes fraîches, décortiquées, cuites, finement hachées.",
+"Remplacer le fromage léger par du Fromage à la Crème de marque Philadelphia."
+]},
+
+{"id": 2520, "livreId": 16, "titre": "Champignons farcis \"Philly\"", "page": 46, "categorie": "Entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Champignons-farcis.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"2 livres (1 kg) de champignons moyens",
+"6 cuillérées à table (100 ml) de Margarine Parkay",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de Fromage Bleu Naturel Kraft, émietté",
+"2 cuillérées à table (25 ml) d'oignon haché"
+],
+"preparation": [
+"Enlever les tiges des champignons, hacher 1/2 tasse (125 ml) de ces tiges. Cuire la moitié des chapeaux de champignons dans 3 cuillérées à table (50 ml) de margarine, 5 minutes à feu moyen; égoutter. Répéter avec l'autre moitié de chapeaux de champignons et de margarine. Bien mélanger le fromage à la crème et le fromage bleu. Incorporer les tiges hachées et les oignons; farcir les chapeaux de champignons. Placer sur une plaque à biscuits, faire griller jusqu'à doré.",
+"Donne environ 2 1/2 douzaines."
+]},
+
+{"id": 2521, "livreId": 16, "titre": "Flan au fromage bleu", "page": 47, "categorie": "Entrée", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"3/4 de tasse (175 ml) de craquelins au beurre, émiettés",
+"2 cuillérées à table (25 ml) de Margarine Parkay, fondue",
+"2 paquets de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"8 onces (250 g) de Fromage Bleu Kraft, émietté",
+"1 2/3 tasse (400 ml) de crème sure",
+"3 oeufs battus",
+"1/8 de cuillérée à thé (0,5 ml) de poivre"
+],
+"preparation": [
+"Mélanger délicatement les craquelins et la margarine; foncer un moule à bord amovible de 9 pouces (22 cm). Cuire à 350°F/180°C, 10 minutes.",
+"Bien mélanger le fromage à la crème et le fromage bleu à l'aide d'un fouet électrique à vitesse moyenne. Ajouter 2/3 de tasse (150 ml) de crème sure, les oeufs et le poivre; bien mélanger. Verser le mélange sur l'abaisse. Cuire à 300°F/150°C, 45 minutes. Remuer la crème sure restante; étendre délicatement sur le flan. Prolonger la cuisson de 10 minutes. Passer un couteau autour du moule; refroidir avant de démouler. Réfrigérer. Servir avec des fruits frais et des tranches de pain français si désiré.",
+"Donne 16 portions."
+]},
+
+{"id": 2522, "livreId": 16, "titre": "Tartinade aux crevettes", "page": 47, "categorie": "Entrée, Poisson", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de Margarine Parkay, ramollie",
+"1/4 de tasse (50 ml) de sauce au chili",
+"2 cuillérées à thé (10 ml) de raifort préparé",
+"8 1/2 onces (265 g) de petites crevettes en boîte, égouttées et finement hachées"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème et la margarine. Ajouter la sauce au chili et le raifort au mélange de fromage à la crème, bien mélanger. Ajouter les crevettes. Mélanger. Réfrigérer.",
+"Donne environ 2 1/2 tasses (675 ml).",
+"VARIANTE : Remplacer les crevettes en boîte par 1/2 livre (250 g) de crevettes fraîches, décortiquées et cuites."
+]},
+
+{"id": 2523, "livreId": 16, "titre": "Dinde aux fines herbes", "page": 50, "cqtegorie": "Poulet", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 1/4 livre (625 g) de blanc de dinde fraîche tranchée",
+"1/4 de tasse (50 ml) de farine",
+"1/4 de cuillérée à thé (1 ml) de sel",
+"2 cuillérées à table (25 ml) d'huile",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, coupé en cubes",
+"1/3 de tasse (75 ml) de lait",
+"1 gousse d'ail hachée",
+"1 cuillérée à thé (5 ml) d'oignon râpé",
+"1/4 de cuillérée à thé (1 ml) de feuilles d'origan sec, émiettées",
+"1/8 de cuillérée à thé (0,5 ml) de poivre"
+],
+"preparation": [
+"Enduire la dinde de la farine mélangée au sel. Faire sauter la dinde des deux côtés dans l'huile chaude à feu moyen-chaud 4 à 6 minutes ou jusqu'à ce que la dinde ne soit plus rosée.",
+"Mélanger le fromage léger et le lait; chauffer en remuant à feu doux jusqu'à ce que le mélange soit crémeux. Incorporer l'ail, l'oignon et les assaisonnements. Servir sur la dinde.",
+"Donne 4 portions."
+]},
+
+{"id": 2524, "livreId": 16, "titre": "Tacos au poulet", "page": 50, "categorie": "Poulet", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"1/3 de tasse (75 ml) de lait",
+"1 1/2 tasse (375 ml) de poulet cuit, coupé en dés",
+"4 onces (125 g) de piments verts chili, hachés, égouttés",
+"1/2 cuillérée à thé (2 ml) de sel",
+"1/4 de cuillérée à thé (1 ml) de poudre de chili ou de cumin moulu",
+"10 coquilles de tacos",
+"Laitue finement hachée",
+"Tomate coupée en quartiers"
+],
+"preparation": [
+"Mettre le fromage à la crème et le lait dans une casserole; mélanger, cuire à feu doux jusqu'à consistance crémeuse. Incorporer le poulet, les piments verts chili et les assaisonnements; bien chauffer en remuant de temps en temps. Remplir les coquilles de tacos du mélange à la volaille, de laitue et de tomates.",
+"Donne 10 tacos."
+]},
+
+{"id": 2525, "livreId": 16, "titre": "Lasagne crémeuse", "page": 51, "categorie": "Pâte", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 livre (500 g) de boeuf haché",
+"1/2 tasse (125 ml) d'oignon haché",
+"1 boîte de 14 1/2 onces (435 g) de tomates, coupées en morceaux",
+"6 onces (180 g) de pâte de tomate",
+"1/3 de tasse (75 ml) d'eau",
+"1 gousse d'ail émincée",
+"1 cuillérée à thé (5 ml) de feuilles d'origan sec, émiettées",
+"1/2 cuillérée à thé (2 ml) de sel",
+"1/4 de cuillérée à thé (1 ml) de poivre",
+"2 paquets de 7 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"1/4 de tasse (50 ml) de lait",
+"8 onces (250 g) de lasagnes, cuites, égouttées",
+"2 paquets de 6 onces (200 g) de Fromage Mozzarella Partiellement Écrémé 100 % Naturel Kraft",
+"1/2 tasse (125 ml) de Fromage Parmesan Râpé Kraft"
+],
+"preparation": [
+"Faire revenir le boeuf dans un poêlon, égoutter. Ajouter les oignons, cuire jusqu'à ce qu'ils soient tendres. Incorporer les tomates, la pâte de tomate, l'eau, l'ail et les assaisonnements. Couvrir; laisser mijoter 30 minutes. Mélanger le fromage à la crème et le lait dans une casserole; remuer à feu doux jusqu'à ce que le mélange soit crémeux. Dans un moule de 13 x 9 pouces (34 x 22 cm), étendre la moitié des pâtes, la viande, le fromage à la crème, le mozzarella et le parmesan. Répéter. Cuire à 350°F/180°C, 30 minutes. Laisser reposer 10 minutes avant de servir.",
+"Donne 6 à 8 portions.",
+"MICRO-ONDES : Émietter la viande dans un récipient de 1 1/2 pinte (1,5 L). Cuire au micro-ondes à haute température 4 à 5 minutes ou jusqu'à ce que la viande ne soit plus rosée, égoutter. Ajouter oignons, tomates, pâte de tomate, eau et assaisonnements. Couvrir; cuire 12 minutes en remuant toutes les 3 minutes. Chauffer le fromage à la crème et le lait 3 à 4 minutes dans un récipient d'un litre jusqu'à ce que la sauce soit chaude et crémeuse, remuer après 1 1/2 minute. Dans un moule de 13 x 9 pouces (34 x 22 cm), étaler la moitié des pâtes, la viande, le fromage à la crème, le mozzarella et le parmesan; répéter. Cuire 12 minutes, tourner le moule toutes les 4 minutes. Garnir du reste de mozzarella et de parmesan. Cuire 4 à 6 minutes jusqu'à ce que la lasagne soit chaude. Laisser reposer 10 minutes avant de servir."
+]},
+
+{"id": 2526, "livreId": 16, "titre": "Crêpes tentation au fromage", "page": 52, "categorie": "Entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Crepes-tentaion-au-fromage.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"2/3 de tasse (150 ml) de farine",
+"1/2 cuillérée à thé (2 ml) de sel",
+"3 oeufs battus",
+"1 tasse (250 ml) de lait",
+"2 paquets de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, ramolli",
+"1/4 de tasse (50 ml) de sucre",
+"1 cuillérée à thé (5 ml) de vanille",
+"Garniture fraises-bananes",
+"GARNITURE FRAISES-BANANES",
+"10 onces (300 g) de fraises congelées, décongelées",
+"1 cuillérée à table (15 ml) de fécule de maïs",
+"1 banane tranchée"
+],
+"preparation": [
+"Bien mélanger la farine, le sel et les oeufs jusqu'à l'obtention d'un mélange crémeux. Peu à peu, ajouter le lait; le mélange doit être homogène. Pour chaque crêpe, verser 1/4 de tasse (50 ml) de pâte à crêpe dans un poêlon ou une crêpière légèrement graissée, pencher le poêlon pour couvrir tout le fond. Cuire à feu moyen-chaud, en tournant une fois, jusqu'à ce que la crêpe soit dorée des deux côtés.",
+"Bien mélanger le fromage léger, le sucre et la vanille. Verser 1/4 de tasse (50 ml) de mélange de fromage à la crème sur chaque crêpe. Plier en portefeuille. Placer dans un moule de 13 x 9 pouces (34 x 22 cm). Cuire à 350°F/180°C, 15 à 20 minutes jusqu'à ce que les crêpes soient chaudes. Servir avec la garniture fraises-bananes.",
+"Donne 8 portions.",
+"GARNITURE FRAISES-BANANES : Égoutter les fraises, réserver le jus. À ce jus, ajouter assez d'eau pour avoir 1 1/4 tasse (300 ml); dans une casserole incorporer peu à peu la fécule de maïs, remuer. Amener à ébullition à feu doux, remuer constamment. Faire bouillir une minute. Incorporer les fruits.",
+"Donne 2 tasses (500 ml).",
+"CONSEIL POUR LA PRÉPARATION : Le poêlon ou la crêpière doit être graissé légèrement et préchauffé jusqu'à ce qu'une goutte d'eau y grésille. Si le poêlon n'est pas assez chaud, les crêpes seront trop épaisses et colleront."
+]},
+
 {"id": 2527, "livreId": 16, "titre": "Garniture fraises-bananes", "page": 52, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2528, "livreId": 16, "titre": "Soufflé à la mode du sud-ouest", "page": 54, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2529, "livreId": 16, "titre": "Pain de viande roulé à la mexicaine", "page": 55, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2530, "livreId": 16, "titre": "Salade d'œufs magnifique", "page": 55, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2531, "livreId": 16, "titre": "Poulet sauté sauce à la crème", "page": 57, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2532, "livreId": 16, "titre": "Crevettes à la parisienne", "page": 58, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2533, "livreId": 16, "titre": "Dinde tetrazzini crémeuse", "page": 58, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2534, "livreId": 16, "titre": "Tarte fiesta mexicaine", "page": 59, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2535, "livreId": 16, "titre": "Œufs savoureux du dimanche", "page": 60, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2536, "livreId": 16, "titre": "Superbe Stroganoff", "page": 60, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2537, "livreId": 16, "titre": "Fettucini Alfredo à la crème", "page": 61, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2538, "livreId": 16, "titre": "Salade de poulet étagée", "page": 62, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2539, "livreId": 16, "titre": "Thon crémeux sur bagels", "page": 62, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2540, "livreId": 16, "titre": "Brochettes \"Philly\"", "page": 63, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2541, "livreId": 16, "titre": "Salade de poulet pour les fêtes", "page": 64, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2542, "livreId": 16, "titre": "Bœuf fumé à la dijonnaise", "page": 67, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2543, "livreId": 16, "titre": "Strata jambon fromage", "page": 67, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2544, "livreId": 16, "titre": "Quiche \"Philly\" pour le brunch", "page": 68, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2545, "livreId": 16, "titre": "Pain doré aux fraises", "page": 70, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2546, "livreId": 16, "titre": "Pâtes à la crème primavera", "page": 71, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2547, "livreId": 16, "titre": "Steak de flanc à la béarnaise", "page": 71, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2548, "livreId": 16, "titre": "Ragoût savoureux aux épinards en cocotte", "page": 74, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2549, "livreId": 16, "titre": "Salade de pommes de terre fraîche et crémeuse", "page": 74, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2550, "livreId": 16, "titre": "Salade de fruits garnie de crème", "page": 75, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2551, "livreId": 16, "titre": "Salade du jardin au macaroni", "page": 76, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2552, "livreId": 16, "titre": "Sauce à la ciboulette \"Philly\"", "page": 76, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2553, "livreId": 16, "titre": "Aspic nectarine, sauce aux fraises", "page": 78, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2554, "livreId": 16, "titre": "Aspic pétillant aux cerises", "page": 78, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2555, "livreId": 16, "titre": "Fromage à la crème moulé", "page": 79, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2556, "livreId": 16, "titre": "Gratin de pommes de terre facile", "page": 80, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2557, "livreId": 16, "titre": "Salade de fruits suprême", "page": 80, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2558, "livreId": 16, "titre": "Légumes sautés à feu vif", "page": 81, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2559, "livreId": 16, "titre": "Chaudrée aux crevettes", "page": 82, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2560, "livreId": 16, "titre": "Riz pilaf crémeux", "page": 82, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2561, "livreId": 16, "titre": "Courges farcies", "page": 84, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2562, "livreId": 16, "titre": "Salade étagée extraordinaire", "page": 85, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2563, "livreId": 16, "titre": "Brioches au fromage", "page": 88, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2564, "livreId": 16, "titre": "Pain favori aux bananes", "page": 88, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2565, "livreId": 16, "titre": "Gâteau aux pruneaux et aux noix", "page": 89, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2566, "livreId": 16, "titre": "Beignets", "page": 90, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2567, "livreId": 16, "titre": "Pain à la citrouille et au fromage", "page": 90, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2568, "livreId": 16, "titre": "Gâteau abricoté", "page": 92, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2569, "livreId": 16, "titre": "Tourbillon aux fruits", "page": 93, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2570, "livreId": 16, "titre": "Scones aux raisins secs", "page": 94, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2571, "livreId": 16, "titre": "Trésors de muffins au son", "page": 94, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2572, "livreId": 16, "titre": "Gâteau saupoudré à la cannelle", "page": 95, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2573, "livreId": 16, "titre": "Couronne à l'orange crémeuse", "page": 96, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2574, "livreId": 16, "titre": "Kolachy", "page": 98, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2575, "livreId": 16, "titre": "Croustillant aux brisures de chocolat", "page": 99, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 2528, "livreId": 16, "titre": "Soufflé à la mode du sud-ouest", "page": 54, "categorie": "Entrée", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1/2 livre (250 g) de boeuf haché",
+"1/2 tasse (125 ml) d'oignon haché",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"1/4 de tasse (50 ml) d'eau",
+"1/2 cuillérée à thé (2 ml) de sel",
+"1/2 cuillérée à thé (2 ml) de feuilles d'origan sec, émiettées",
+"1/4 de cuillérée à thé (1 ml) de cumin moulu",
+"3/4 de tasse (175 ml) de farine",
+"1/2 cuillérée à thé (2 ml) de sel",
+"3/4 de tasse (175 ml) de lait",
+"2 oeufs battus",
+"1 cuillérée à table (15 ml) de farine de maïs",
+"1 tomate moyenne, coupée en quartiers"
+],
+"preparation": [
+"Faire revenir la viande, égoutter. Ajouter les oignons; les cuire jusqu'à ce qu'ils soient tendres. Ajouter le fromage à la crème et l'eau; remuer à feu doux jusqu'à ce que le fromage soit fondu. Incorporer les assaisonnements.",
+"Mélanger la farine, le sel, le lait et les oeufs; battre jusqu'à l'obtention d'un mélange crémeux. Mettre dans un plat à tarte de 9 pouces (22 cm); parsemer de farine de maïs. À la cuillère, disposer le mélange de viande sur la pâte. Cuire à 400°F/200°C, 35 minutes. Garnir de tomates.",
+"Donne 6 à 8 portions.",
+"VARIANTE : Ajouter 4 onces (125 g) de piments verts chili, hachés et égouttés, au mélange de viande."
+]},
+
+{"id": 2529, "livreId": 16, "titre": "Pain de viande roulé à la mexicaine", "page": 55, "categorie": "Boeuf", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 1/2 livre (750 g) de boeuf haché",
+"1/4 de tasse (50 ml) de flocons d'avoine à l'ancienne ou rapide, non cuits",
+"2 oeufs battus",
+"1 cuillérée à table (15 ml) de sauce worcestershire",
+"1 cuillérée à thé (5 ml) de poivre",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"4 onces (125 g) de piments verts chili hachés, égouttés",
+"3/4 de tasse (175 ml) de salsa"
+],
+"preparation": [
+"Bien mélanger la viande, les flocons, les oeufs, la sauce worcestershire et le poivre. Sur du papier ciré, former un rectangle de 20 x 10 1/2 pouces (50 x 26 cm). Bien mélanger le fromage à la crème et les piments verts chili. Étendre le fromage sur le mélange de viande jusqu'à 1 pouce (2,5 cm) du bord. Rouler comme un gâteau à la gelée en commençant par une des largeurs du rectangle. Placer dans un moule de 12 x 8 pouces (30 x 20 cm). Cuire à 350°F/180°C, 40 minutes. Garnir de salsa. Prolonger la cuisson de 10 minutes. Laisser reposer 10 minutes avant de servir.",
+"Donne 6 à 8 portions."
+]},
+
+{"id": 2530, "livreId": 16, "titre": "Salade d'œufs magnifique", "page": 55, "categorie": "Salade", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de Vraie Mayonnaise Kraft",
+"1 cuillérée à table (15 ml) de crème de raifort préparée",
+"6 oeufs durs, hachés",
+"6 onces (180 g) de chair de crabe congelée, décongelée, égouttée",
+"1/2 tasse (125 ml) de céleri haché",
+"1/2 tasse (125 ml) de poivrons verts ou rouges hachés",
+"6 croissants coupés en deux",
+"Laitue"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème, la mayonnaise et le raifort. Ajouter les oeufs, la chair de crabe, le céleri et les poivrons. Remuer légèrement. Réfrigérer. Remplir les croissants avec la laitue et le mélange d'oeufs.",
+"Donne 6 sandwiches."
+]},
+
+{"id": 2531, "livreId": 16, "titre": "Poulet sauté sauce à la crème", "page": 57, "categorie": "Poulet", "image": "livres/016-philadelphia-livre-de-cuisine/images/Poulet-saute-sauce-a-la-creme.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"2 poitrines de poulet, séparées, désossées et sans peau",
+"2 cuillérées à table (25 ml) de Margarine Parkay",
+"1 1/2 tasse (375 ml) de champignons tranchés",
+"1 tasse (250 ml) de céleri tranché",
+"1 petit oignon finement tranché",
+"1/2 cuillérée à thé (2 ml) de poivre",
+"1/2 cuillérée à thé (2 ml) de feuilles de basilic sec, émiettées",
+"1/4 de cuillérée à thé (1 ml) de cerfeuil sec, émietté",
+"1/8 de cuillérée à thé (0,5 ml) de thym sec, émietté",
+"1/4 de tasse (50 ml) de vin blanc ou de sherry",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"1/3 de tasse (75 ml) de lait",
+"8 onces (250 g) de torsades tricolores, cuites et égouttées"
+],
+"preparation": [
+"Couper le poulet en lamelles. Faire fondre la margarine dans un grand poêlon; ajouter le poulet, les légumes et les assaisonnements. Cuire à feu moyen, en remuant de temps en temps, 10 minutes ou jusqu'à ce que le poulet soit tendre. Ajouter 2 cuillérées à table de vin; faire mijoter 5 minutes. Mélanger le fromage à la crème, le lait et le vin restant dans une casserole; remuer à feu doux jusqu'à ce que le mélange soit crémeux. Pour servir, placer les pâtes dans un plat de service. Garnir du poulet et de la sauce à la crème. Garnir de feuilles de céleri si désiré.",
+"Donne 4 à 6 portions."
+]},
+
+{"id": 2532, "livreId": 16, "titre": "Crevettes à la parisienne", "page": 58, "categorie": "Poisson", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"2 cuillérées à table (25 ml) de Margarine Parkay, fondue",
+"1 livre (500 g) de crevettes décortiquées",
+"2 tasses (500 ml) de champignons tranchés",
+"2 cuillérées à table (25 ml) d'oignon vert tranché",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"1/4 de tasse (50 ml) de lait",
+"1/2 tasse (125 ml) de Fromage Suisse 100 % Naturel Râpé Kraft",
+"3 cuillérées à table (50 ml) de vin blanc sec",
+"2 cuillérées à table (25 ml) de chapelure de pain"
+],
+"preparation": [
+"Réserver 2 cuillérées à thé (10 ml) de margarine fondue. Faire sauter les crevettes dans la margarine restante 3 à 5 minutes ou jusqu'à ce qu'elles soient rosées. Ajouter les champignons et les oignons; cuire jusqu'à ce qu'ils soient tendres. Retirer crevettes et champignons à l'aide d'une écumoire. Ajouter le fromage à la crème et le lait. Remuer à feu doux jusqu'à ce que le mélange soit crémeux. Ajouter le fromage suisse et le vin; remuer jusqu'à ce que le fromage soit fondu. Remettre les crevettes dans la poêle, remuer légèrement. Disposer à la cuillère dans 4 petits plats de 4 onces (125 ml) ou un récipient de 1 pinte (1 L) légèrement graissés. Mélanger la margarine réservée à la chapelure. En saupoudrer le mélange de crevettes. Griller 1 à 2 minutes jusqu'à ce que le tout soit doré.",
+"Donne 4 portions."
+]},
+
+{"id": 2533, "livreId": 16, "titre": "Dinde tetrazzini crémeuse", "page": 58, "categorie": "Poulet, Pâte", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1/2 tasse (125 ml) d'oignon haché",
+"1/2 tasse (125 ml) de céleri haché",
+"1/4 de tasse (50 ml) de Margarine Parkay",
+"10 3/4 onces (325 ml) de bouillon de poulet",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"7 onces (210 g) de spaghettis, cuits, égouttés",
+"1 tasse (250 ml) de dinde cuite, coupée en dés",
+"1 boîte de 4 onces (125 g) de champignons, égouttés",
+"2 cuillérées à table (25 ml) de pimento haché",
+"1/4 de cuillérée à thé (1 ml) de sel",
+"1/4 de tasse (50 ml) de Fromage Parmesan Râpé Kraft"
+],
+"preparation": [
+"Faire revenir les oignons et le céleri dans la margarine. Ajouter le bouillon et le fromage à la crème; remuer à feu très doux jusqu'à ce que le fromage à la crème soit fondu. Ajouter les ingrédients restants sauf le parmesan; remuer légèrement. Déposer à la cuillère dans un plat de 1 1/2 pinte (1,5 L); saupoudrer de fromage parmesan. Cuire à 350°F/180°C, 30 minutes.",
+"Donne 6 portions.",
+"VARIANTES :",
+"Remplacer la dinde par du poulet cuit coupé en dés.",
+"Dissoudre un cube de bouillon de poulet dans 1 tasse (250 ml) d'eau bouillante. Remplacer le bouillon de poulet par le cube de bouillon dilué dans l'eau."
+]},
+
+{"id": 2534, "livreId": 16, "titre": "Tarte fiesta mexicaine", "page": 59, "categorie": Pâté, Boeuf", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1/2 livre (250 g) de boeuf haché",
+"1/4 de tasse (50 ml) d'oignon haché",
+"2 cuillérées à thé (10 ml) d'assaisonnement au chili",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"1 boîte de 4 onces (125 g) de piments verts chili hachés, égouttés",
+"1/2 tasse (125 ml) d'olives noires, tranchées, égouttées",
+"2 oeufs battus",
+"3/4 de tasse (175 ml) de farine",
+"1/3 de tasse (75 ml) de lait",
+"2 oeufs battus",
+"1 cuillérée à table (15 ml) de farine de maïs",
+"1 tasse (250 ml) de tomates coupées en quartiers",
+"4 onces (125 g) de Fromage Cheddar Doux 100 % Naturel Râpé Kraft"
+],
+"preparation": [
+"Faire revenir la viande, égoutter. Ajouter les oignons, cuire jusqu'à ce qu'ils soient tendres. Incorporer l'assaisonnement au chili. Ajouter le fromage à la crème, les piments verts chili, les olives et les oeufs, bien mélanger.",
+"Mélanger la farine, le lait et les oeufs; battre jusqu'à l'obtention d'un mélange crémeux. Verser dans un moule à tarte de 10 pouces (25 cm) ou une assiette à quiche; saupoudrer de farine de maïs. Étendre la viande à la cuillère sur la pâte, laisser un bord de 1/2 pouce (1 cm). Cuire à 400°F/200°C, 35 à 40 minutes, jusqu'à ce que le tout soit doré. Garnir de tomates et de fromage cheddar. Prolonger la cuisson de 5 minutes.",
+"Donne 6 à 8 portions."
+]},
+
+{"id": 2535, "livreId": 16, "titre": "Œufs savoureux du dimanche", "page": 60, "categorie": "Dejeuner", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1/4 de livre (125 g) de chair à saucisse de porc",
+"1/2 tasse (125 ml) d'oignon haché",
+"8 oeufs battus",
+"1/2 tasse (125 ml) de lait",
+"Une pincée de poivre",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"Ciboulette hachée"
+],
+"preparation": [
+"Dans un grand poêlon, faire dorer la chair à saucisse, égoutter. Ajouter les oignons; cuire jusqu'à ce qu'ils soient tendres. Ajouter les oeufs, le lait et le poivre mélangés ensemble. Cuire lentement en remuant à l'occasion jusqu'à ce que les oeufs commencent à prendre. Ajouter le fromage à la crème; continuer la cuisson en remuant de temps en temps, jusqu'à ce que le fromage à la crème soit fondu et que les oeufs soient pris. Saupoudrer de ciboulette.",
+"Donne 6 portions."
+]},
+
+{"id": 2536, "livreId": 16, "titre": "Superbe Stroganoff", "page": 60, "categorie": "Pâte, Boeuf",  "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 livre (500 g) de steak de boeuf, surlonge, coupé en minces lamelles",
+"3 cuillérées à table (50 ml) de Margarine Parkay",
+"1/2 tasse (125 ml) d'oignon haché",
+"1 boîte de 4 onces (125 g) de champignons, égouttés",
+"1/2 cuillérée à thé (2 ml) de sel",
+"1/4 de cuillérée à thé (1 ml) de moutarde sèche",
+"1/4 de cuillérée à thé (1 ml) de poivre",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"3/4 de tasse (175 ml) de lait",
+"Nouilles chaudes persillées"
+],
+"preparation": [
+"Dans un grand poêlon faire revenir le steak dans la margarine. Ajouter les oignons, les champignons et les assaisonnements; cuire jusqu'à ce que les légumes soient tendres. Ajouter le fromage à la crème et le lait; cuire à feu doux jusqu'à ce que le fromage à la crème soit fondu. Verser sur les nouilles.",
+"Donne 4 à 6 portions."
+]},
+
+{"id": 2537, "livreId": 16, "titre": "Fettucini Alfredo à la crème", "page": 61, "categorie": Pâte", "image": "livres/016-philadelphia-livre-de-cuisine/images/Fettucini-alfredo.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"3/4 de tasse (175 ml) de Fromage Parmesan Râpé Kraft",
+"1/2 tasse (125 ml) de Margarine Parkay",
+"1/2 tasse (125 ml) de lait",
+"8 onces (250 g) de nouilles fettucini cuits, égouttés"
+],
+"preparation": [
+"Dans une grande casserole, mélanger le fromage à la crème, le fromage parmesan, la margarine et le lait; remuer à feu doux jusqu'à l'obtention d'un mélange crémeux. Ajouter les fettucini; remuer délicatement.",
+"Donne 4 portions."
+]},
+
+{"id": 2538, "livreId": 16, "titre": "Salade de poulet étagée", "page": 62, "categorie": "Salade, Entrée, Poulet", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"2 avocats moyens, pelés, écrasés",
+"1/4 de tasse (50 ml) de lait",
+"1 cuillérée à table (15 ml) de jus de citron",
+"1 cuillérée à table (15 ml) d'oignon haché",
+"1/2 cuillérée à thé (2 ml) de sel",
+"4 tasses (1 L) de laitue finement tranchée",
+"1 tasse (250 ml) de poivrons rouges ou verts",
+"2 tasses (500 ml) de poulet cuit, coupé en cubes",
+"11 onces (330 g) de quartiers de mandarines, égouttés",
+"4 tranches de bacon cuit, émiettées"
+],
+"preparation": [
+"Bien mélanger le fromage léger, les avocats, le lait et le jus. Ajouter les oignons et le sel, bien mélanger. Dans un bol de 2 1/2 pintes (2,5 L), mettre en couche la laitue, les poivrons, le poulet et les mandarines. Étendre le mélange de fromage léger pour couvrir les mandarines. Réfrigérer. Garnir de bacon au moment de servir.",
+"Donne 6 à 8 portions."
+]},
+
+{"id": 2539, "livreId": 16, "titre": "Thon crémeux sur bagels", "page": 62, "categorie": "Sandwich, Poisson", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"6 1/2 onces (195 g) de thon en conserve égoutté, émietté",
+"2 cuillérées à table (25 ml) d'oignon vert tranché",
+"1/2 cuillérée à thé (2 ml) d'aneth",
+"Une pincée de poivre",
+"3 bagels, pré-tranchés, grillés"
+],
+"preparation": [
+"Mélanger tous les ingrédients sauf les bagels, remuer légèrement. Étendre la garniture de fromage à la crème sur les moitiés de bagels. Griller 5 à 7 minutes ou jusqu'à ce que les bagels soient chauds.",
+"Donne 6 portions.",
+"VARIANTE : Remplacer le thon par 6 3/4 onces (200 g) de jambon en conserve coupé grossièrement."
+]},
+
+{"id": 2540, "livreId": 16, "titre": "Brochettes \"Philly\"", "page": 63, "categorie": "Boeuf", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"2/3 de tasse (150 ml) de Vinaigrette Italienne « Zesty » Kraft",
+"1 1/2 livre (750 g) de steak de ronde, coupé en lamelles",
+"1/4 de tasse (50 ml) d'oignon haché",
+"1 cuillérée à table (15 ml) de Margarine Parkay",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"3/4 de tasse (175 ml) de lait",
+"1/4 de tasse (50 ml) de Fromage Parmesan Râpé Kraft",
+"1/4 de cuillérée à thé (1 ml) de moutarde sèche",
+"2 tasses (500 ml) de courge d'été coupée en tranches de 1/2 pouce (1 cm)",
+"1 tasse (250 ml) de tomates cerises",
+"Riz cuit, chaud"
+],
+"preparation": [
+"Verser la vinaigrette sur le steak. Couvrir; laisser mariner au réfrigérateur quelques heures ou toute une nuit. Égoutter; conserver la vinaigrette. Faire revenir les oignons dans la margarine. Ajouter le fromage à la crème et le lait; remuer à feu doux jusqu'à ce que le fromage à la crème soit fondu. Incorporer le fromage parmesan et la moutarde.",
+"À L'INTÉRIEUR : Mettre en brochette le steak et les légumes; placer sur le gril. Griller au four 8 à 10 minutes ou jusqu'à cuisson désirée en badigeonnant fréquemment de la vinaigrette réservée et en tournant à l'occasion. Servir sur du riz. Garnir de mélange de fromage à la crème.",
+"À L'EXTÉRIEUR : Mettre en brochette le steak et les légumes; placer sur un gril beurré au dessus des braises. Griller à découvert jusqu'à la cuisson désirée, en badigeonnant fréquemment de vinaigrette et en tournant à l'occasion. Servir sur du riz. Garnir de mélange de fromage à la crème.",
+"Donne 6 portions."
+]},
+
+{"id": 2541, "livreId": 16, "titre": "Salade de poulet pour les fêtes", "page": 64, "categorie": "Salade,  Poulet", "image": "livres/016-philadelphia-livre-de-cuisine/images/Salade-de-poulet.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 boîte de 8 onces (250 g) d'ananas broyés, non égouttés",
+"1 contenant de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia Tartinable",
+"2 tasses (500 ml) de poulet cuit coupé en dés",
+"1 boîte de 8 onces (250 g) de châtaignes d'eau, égouttées, tranchées",
+"1/2 tasse (125 ml) de céleri tranché",
+"1/2 tasse (125 ml) d'amandes tranchées, grillées",
+"1/4 de tasse (50 ml) d'oignon vert tranché",
+"1/4 de cuillérée à thé (1 ml) de sel",
+"Une pincée de poivre",
+"4 tomates moyennes",
+"Laitue"
+],
+"preparation": [
+"Égoutter les ananas, réserver 1/4 de tasse (50 ml) de liquide. Bien mélanger ce liquide au fromage à la crème. Ajouter les ananas, le poulet, les châtaignes d'eau, le céleri, 1/4 de tasse (50 ml) d'amandes, les oignons, le sel et le poivre. Remuer légèrement. Réfrigérer. Couper chaque tomate en six quartiers, presque jusqu'au pédoncule. Remplir de garniture au poulet. Saupoudrer du reste des amandes. Servir sur une feuille de laitue.",
+"Donne 4 portions.",
+"VARIANTES :",
+"Supprimer les tomates, servir la salade sur des morceaux de melon miel ou cantaloup ou sur des îlots de laitue.",
+"Remplacer les amandes par des pacanes."
+]},
+
+{"id": 2542, "livreId": 16, "titre": "Bœuf fumé à la dijonnaise", "page": 67, "categorie": "Boeuf", "image": "livres/016-philadelphia-livre-de-cuisine/images/Strat-jambon.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"12 tranches de pain blanc",
+"6 onces (180 g) de Fromage Cheddar Doux 100 % Naturel Râpé Kraft",
+"1 paquet de 10 onces (300 g) de brocoli haché, décongelé, bien égoutté",
+"1 tasse (250 ml) de jambon haché",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"3 oeufs",
+"1 tasse (250 ml) de lait",
+"1/2 cuillérée à thé (2 ml) de moutarde sèche"
+],
+"preparation": [
+"Placer 6 tranches de pain dans une plaque de 12 x 8 pouces (30 x 20 cm) allant au four. Garnir d'une tasse de fromage cheddar, de brocoli, de jambon et du restant des tranches de pain coupées en deux (en diagonale). Battre le fromage à la crème jusqu'à ce qu'il soit léger et crémeux. Ajouter les oeufs, un à la fois, bien mélanger après chaque ajout. Incorporer le lait et la moutarde; verser sur le pain. Couvrir du restant de fromage cheddar. Cuire à 350°F/180°C, 45 à 50 minutes jusqu'à ce que le mélange soit pris. Laisser reposer 10 minutes avant de servir.",
+"Donne 6 portions."
+]},
+
+{"id": 2543, "livreId": 16, "titre": "Strata jambon fromage", "page": 67, "categorie": "Jambon", "image": "livres/016-philadelphia-livre-de-cuisine/images/Strat-jambon.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"12 tranches de pain blanc",
+"6 onces (180 g) de Fromage Cheddar Doux 100 % Naturel Râpé Kraft",
+"1 paquet de 10 onces (300 g) de brocoli haché, décongelé, bien égoutté",
+"1 tasse (250 ml) de jambon haché",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"3 oeufs",
+"1 tasse (250 ml) de lait",
+"1/2 cuillérée à thé (2 ml) de moutarde sèche"
+],
+"preparation": [
+"Placer 6 tranches de pain dans une plaque de 12 x 8 pouces (30 x 20 cm) allant au four. Garnir d'une tasse de fromage cheddar, de brocoli, de jambon et du restant des tranches de pain coupées en deux (en diagonale). Battre le fromage à la crème jusqu'à ce qu'il soit léger et crémeux. Ajouter les oeufs, un à la fois, bien mélanger après chaque ajout. Incorporer le lait et la moutarde; verser sur le pain. Couvrir du restant de fromage cheddar. Cuire à 350°F/180°C, 45 à 50 minutes jusqu'à ce que le mélange soit pris. Laisser reposer 10 minutes avant de servir.",
+"Donne 6 portions."
+]},
+
+{"id": 2544, "livreId": 16, "titre": "Quiche \"Philly\" pour le brunch", "page": 68, "categorie": "Quiche", "image": "livres/016-philadelphia-livre-de-cuisine/images/Quiche-Philly-pour-le brunch.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"Pâte pour une abaisse de tarte de 10 pouces (25 cm)",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"1 tasse (250 ml) de lait",
+"4 oeufs battus",
+"1/4 de tasse (50 ml) d'oignon haché",
+"1 cuillérée à table (15 ml) de Margarine Parkay",
+"1 tasse (250 ml) de jambon finement haché",
+"1/4 de tasse (50 ml) de piments hachés",
+"1/4 de cuillérée à thé (1 ml) d'aneth",
+"Une pincée de poivre"
+],
+"preparation": [
+"Sur une surface légèrement farinée, rouler la pâte en un cercle de 12 pouces (30 cm). Placer sur un plat à tarte de 10 pouces (25 cm). Canneler les bords. Piquer le fond et les côtés de la pâte à l'aide d'une fourchette. Cuire à 400°F/200°C, 12 à 15 minutes ou jusqu'à ce que la pâte soit légèrement dorée.",
+"Mélanger le fromage à la crème et le lait dans une casserole; remuer à feu doux jusqu'à ce que le mélange soit crémeux. Ajouter graduellement le mélange de fromage à la crème aux oeufs, bien mélanger. Faire revenir les oignons dans la margarine. Ajouter les oignons et les ingrédients restants au mélange de fromage à la crème; bien mélanger. Verser sur l'abaisse. Cuire à 350°F/180°C, 35 à 40 minutes ou jusqu'à ce que le mélange soit cuit. Garnir de tranches de jambon et d'aneth si désiré.",
+"Donne 8 portions.",
+"VARIANTES :",
+"Remplacer l'aneth par 1/4 de tasse (50 ml) de poivrons verts finement hachés.",
+"Remplacer le jambon, les piments et l'aneth par 10 onces (300 g) d'épinards hachés, cuits et égouttés, 1 tasse (250 ml) de Fromage Suisse 100 % Naturel Râpé Kraft et 6 tranches de bacon cuit, émiettées.",
+"Remplacer le jambon, les piments et l'aneth par 4 onces (125 g) de tranches de pepperoni, haché, 1/4 de tasse (50 ml) de Fromage Parmesan Râpé Kraft et 1/2 cuillérée à thé (2 ml) d'origan sec, émietté. Placer le pepperoni en premier sur l'abaisse et poursuivre tel qu'indiqué."
+]},
+
+{"id": 2545, "livreId": 16, "titre": "Pain doré aux fraises", "page": 70, "categorie": "Dejeuner", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 10 onces (300 g) de fraises congelées, décongelées",
+"1/2 tasse (125 ml) de sucre",
+"2 cuillérées à table (25 ml) de fécule de maïs",
+"1/2 tasse (125 ml) d'amandes tranchées, grillées",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"2 cuillérées à table (25 ml) de sucre",
+"1 cuillérée à thé (5 ml) de vanille",
+"1 pain croûté de 15 x 5 pouces (38 x 13 cm)",
+"6 oeufs battus",
+"1/3 de tasse (75 ml) de lait",
+"1/4 de cuillérée à thé (1 ml) de muscade moulue",
+"Margarine Parkay"
+],
+"preparation": [
+"Égoutter les fraises, réserver le liquide. Ajouter de l'eau au liquide réservé jusqu'à avoir 1 tasse (250 ml). Mélanger le sucre et la fécule de maïs dans une casserole; peu à peu, ajouter le liquide. Cuire en remuant fréquemment, jusqu'à ce que le mélange soit clair et épaississe. Incorporer les fraises et les amandes.",
+"Bien mélanger le fromage à la crème, le sucre et la vanille. Couper le pain en tranches de 1 1/2 pouce (3 cm). Former une entaille dans chaque tranche. Farcir chaque tranche de 1 cuillérée à table (15 ml) bombée de mélange de fromage à la crème. Tremper chaque tranche de pain dans le mélange d'oeuf, de lait et de muscade. Bien griller des deux côtés dans la margarine jusqu'à doré. Servir avec le mélange aux fraises.",
+"Donne 10 portions.",
+"VARIANTE : Remplacer les fraises par 8 1/4 onces (260 g) d'ananas broyés."
+]},
+
+{"id": 2546, "livreId": 16, "titre": "Pâtes à la crème primavera", "page": 71, "categorie": "Pâte", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1/2 tasse (125 ml) d'oignon vert haché",
+"1/2 tasse (125 ml) de lamelles de poivrons verts et rouges",
+"1 boîte de 4 onces (125 g) de champignons, égouttés",
+"1/3 de tasse (75 ml) de Margarine Parkay",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"3/4 de tasse (175 ml) de lait",
+"2 tasses (500 ml) de jambon coupé en cubes",
+"1/3 de tasse (75 ml) de Fromage Parmesan Râpé Kraft",
+"7 onces (210 g) de spaghettis, cuits et égouttés"
+],
+"preparation": [
+"Faire sauter les légumes dans 1/4 de tasse (50 ml) de margarine. Ajouter le fromage à la crème et le lait; remuer à feu doux jusqu'à ce que le fromage à la crème soit fondu. Incorporer le jambon et le parmesan. Mettre de la margarine sur les spaghettis et remuer. Ajouter le mélange de fromage à la crème; remuer légèrement.",
+"Donne 6 portions."
+]},
+
+{"id": 2547, "livreId": 16, "titre": "Steak de flanc à la béarnaise", "page": 71, "categorie": "Boeuf", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"1/4 de tasse (50 ml) de lait",
+"1 cuillérée à table (15 ml) d'oignon vert tranché",
+"1/2 cuillérée à thé (2 ml) d'estragon sec, émietté",
+"2 jaunes d'oeufs battus",
+"2 cuillérées à table (25 ml) de vin blanc sec",
+"1 cuillérée à table (15 ml) de jus de citron",
+"1 steak de flanc de boeuf de 1 1/2 livre (750 g)"
+],
+"preparation": [
+"Dans une casserole, mélanger le fromage à la crème, le lait, les oignons et l'estragon; remuer à feu doux jusqu'à ce que le fromage soit fondu. Incorporer une petite quantité de ce mélange chaud dans les jaunes d'oeufs, incorporer les oeufs dans le mélange chaud et y incorporer aussi le vin et le jus. Cuire pendant 1 minute à feu doux en remuant sans cesse ou jusqu'à épaississement complet. Faire des incisions sur le steak des deux côtés. Placer sur un gril. Griller des deux côtés jusqu'à la cuisson désirée. En tenant un couteau incliné, couper le steak en tranches minces. Servir avec le mélange de fromage.",
+"Donne 6 portions."
+]},
+
+{"id": 2548, "livreId": 16, "titre": "Ragoût savoureux aux épinards en cocotte", "page": 74, "categorie": "Accompagnement, Légumes", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, ramolli",
+"1/4 de tasse (50 ml) de lait",
+"20 onces (600 g) d'épinards congelés, cuits, égouttés",
+"1/3 de tasse (75 ml) de Fromage Parmesan Râpé Kraft"
+],
+"preparation": [
+"Bien mélanger le fromage léger et le lait. À la cuillère, déposer les épinards dans une casserole; garnir de mélange au fromage léger. Saupoudrer de parmesan. Cuire à 350°F/180°C, 20 minutes.",
+"Donne 4 à 6 portions.",
+"VARIANTE : Remplacer le fromage léger par du Fromage à la Crème de marque Philadelphia.",
+"MICRO-ONDES : Préparer le ragoût tel qu'indiqué sauf pour la cuisson. Cuire au micro-ondes à haute température de 4 1/2 à 5 minutes ou jusqu'à ce que le tout soit chaud."
+]},
+
+{"id": 2549, "livreId": 16, "titre": "Salade de pommes de terre fraîche et crémeuse", "page": 74, "categorie": "Salade", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"4 tasses (1 L) de pommes de terre cuites, coupé en cubes",
+"1/2 tasse (125 ml) de céleri tranché",
+"1/4 de tasse (50 ml) de poivrons verts tranchés",
+"2 cuillérées à table (25 ml) d'oignon vert tranché",
+"1 cuillérée à thé (5 ml) de sel",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de crème sure",
+"2 cuillérées à table (25 ml) de lait"
+],
+"preparation": [
+"Mélanger les pommes de terre, le céleri, les poivrons verts, l'oignon et le sel; remuer légèrement. Bien mélanger le fromage à la crème, la crème sure et le lait. Incorporer au mélange de pommes de terre; remuer légèrement. Réfrigérer.",
+"Donne 6 à 8 portions."
+]},
+
+{"id": 2550, "livreId": 16, "titre": "Salade de fruits garnie de crème", "page": 75, "categorie": "Desserts", "image": "livres/016-philadelphia-livre-de-cuisine/images/Salade-de-fruits.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, ramolli",
+"2 cuillérées à table (25 ml) de jus de citron",
+"1 cuillérée à thé (5 ml) de zeste de citron",
+"1/2 tasse (125 ml) de crème à fouetter",
+"1/4 de tasse (50 ml) de sucre à glacer",
+"2 tasses (500 ml) de pêches tranchées",
+"2 tasses (500 ml) de bleuets",
+"2 tasses (500 ml) de fraises tranchées",
+"2 tasses (500 ml) de raisins"
+],
+"preparation": [
+"Bien mélanger le fromage léger, le jus et le zeste. Fouetter la crème jusqu'à la formation de pics mous; ajouter peu à peu le sucre, en fouettant jusqu'à la formation de pics fermes. Incorporer au mélange de fromage léger; réfrigérer. Disposer les fruits en couches dans un plat de service en verre de 2 1/2 pintes (2,5 L). Garnir de mélange de fromage léger. Saupoudrer de noix si désiré. Réfrigérer.",
+"Donne 8 portions.",
+"VARIANTE : Remplacer le fromage léger par du Fromage à la Crème de marque Philadelphia."
+]},
+
+{"id": 2551, "livreId": 16, "titre": "Salade du jardin au macaroni", "page": 76, "categorie": "Salade", "image": "livres/016-philadelphia-livre-de-cuisine/images/Salade-du-jardin.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1/4 de tasse (50 ml) de Vraie Mayonnaise Kraft",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/4 de tasse (50 ml) de relish, égouttée",
+"1 cuillérée à table (15 ml) de moutarde pure préparée",
+"2 tasses (500 ml) de macaronis coupés, cuits et égouttés",
+"1 tasse (250 ml) de concombre haché",
+"1/2 tasse (125 ml) de poivron vert haché",
+"1/2 tasse (125 ml) de radis tranchés",
+"2 cuillérées à table (25 ml) d'oignon haché",
+"1/2 cuillérée à thé (2 ml) de sel"
+],
+"preparation": [
+"Graduellement ajouter la mayonnaise au fromage à la crème, bien mélanger. Incorporer la relish et la moutarde. Ajouter les ingrédients restants, remuer délicatement. À la cuillère, déposer le mélange dans un moule à bord amovible en forme d'anneau de 9 pouces (22 cm) légèrement graissé. Réfrigérer plusieurs heures ou toute une nuit. Démouler. Garnir de tranches de concombre et de radis ciselés si désiré.",
+"Donne 6 à 8 portions.",
+"VARIANTE : Ajouter 1/2 tasse (125 ml) de Fromage Parmesan Râpé Kraft au mélange de fromage à la crème."
+]},
+
+{"id": 2552, "livreId": 16, "titre": "Sauce à la ciboulette \"Philly\"", "page": 76, "categorie": "Sauce", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, coupé en cubes",
+"1/2 tasse (125 ml) de lait",
+"1 cuillérée à table (15 ml) de ciboulette hachée",
+"1 cuillérée à thé (5 ml) de jus de citron",
+"1/4 de cuillérée à thé (1 ml) de sel d'ail"
+],
+"preparation": [
+"Dans une casserole, mélanger le fromage léger et le lait; cuire à feu doux jusqu'à l'obtention d'un mélange crémeux. Ajouter les ingrédients restants. Servir sur des pommes de terre cuites, chaudes, sur des haricots verts, du brocoli ou des asperges.",
+"Donne 1 1/3 tasse (325 ml)."
+]},
+
+{"id": 2553, "livreId": 16, "titre": "Aspic nectarine, sauce aux fraises", "page": 78, "categorie": "Sauce", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 enveloppe de gélatine sans saveur",
+"1/2 tasse (125 ml) d'eau froide",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de sucre",
+"1/2 tasse (125 ml) de lait",
+"2 cuillérées à table (25 ml) de liqueur à saveur à l'orange",
+"1 tasse (250 ml) de crème à fouetter, fouettée",
+"1 nectarine, tranchée",
+"1 pinte (0,5 L) de fraises tranchées",
+"1/4 de tasse (50 ml) de sucre",
+"1 cuillérée à table (15 ml) de liqueur à saveur à l'orange"
+],
+"preparation": [
+"Dissoudre la gélatine dans l'eau à feu doux jusqu'à dissolution complète. Bien mélanger le fromage à la crème et le sucre. Ajouter peu à peu la gélatine, le lait et la liqueur à saveur à l'orange, bien mélanger. Incorporer la crème fouettée. Verser 1/4 de tasse (50 ml) de ce mélange de fromage à la crème dans un moule de 1 pinte (1 litre) légèrement graissé. Disposer les quartiers de nectarine sur le mélange de fromage à la crème, garnir du mélange restant. Réfrigérer jusqu'à ferme. Démouler sur un plat de service.",
+"Mélanger les fraises, le sucre et la liqueur à saveur à l'orange; laisser reposer 10 minutes. Servir avec l'aspic.",
+"Donne 6 à 8 portions.",
+"VARIANTE : Remplacer la liqueur à l'orange par du jus d'orange. Ajouter 1 cuillérée à thé (5 ml) de zeste d'orange au mélange de fromage à la crème."
+]},
+
+{"id": 2554, "livreId": 16, "titre": "Aspic pétillant aux cerises", "page": 78, "categorie": "Accompagnement, Legumes", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 boîte de 17 onces (530 g) de cerises foncées, dénoyautées, non égouttées",
+"3 onces (90 g) de gélatine saveur de cerise",
+"1 tasse (250 ml) d'eau bouillante",
+"1 tasse (250 ml) de ginger ale",
+"3 onces (90 g) de gélatine saveur de cerise",
+"1 tasse (250 ml) d'eau bouillante",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"Laitue"
+],
+"preparation": [
+"Égoutter les cerises, réserver 3/4 de tasse (175 ml) de liquide. Dissoudre la gélatine dans l'eau bouillante; ajouter le ginger ale. Refroidir jusqu'à ce que le mélange soit épais mais non pris; incorporer les cerises. Verser dans un moule de 1 1/2 pinte (1,5 L) légèrement graissé; réfrigérer jusqu'à ce que le mélange soit presque ferme.",
+"Dissoudre la gélatine dans l'eau; ajouter le liquide réservé. Graduellement, ajouter le mélange de gélatine au fromage à la crème; bien mélanger au fouet électrique à vitesse moyenne. Verser sur le mélange moulé; réfrigérer jusqu'à ce que le tout soit ferme. Démouler dans une assiette de service sur un lit de laitue.",
+"Donne 6 à 8 portions."
+]},
+
+{"id": 2555, "livreId": 16, "titre": "Fromage à la crème moulé", "page": 79, "categorie": "Entrée", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/4 de tasse (50 ml) de Margarine Parkay, fondue",
+"4 oeufs battus",
+"1/2 tasse (125 ml) de lait",
+"1/4 de tasse (50 ml) de sucre",
+"1/2 cuillérée à thé (2 ml) de sel",
+"4 tasses (1 L) de pâtes fines, cuites et égouttées",
+"1/2 tasse (125 ml) de raisins secs",
+"1/4 de cuillérée à thé (1 ml) de cannelle"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème et la margarine. Incorporer les oeufs, le lait, le sucre et le sel. Ajouter les pâtes et les raisins secs, bien mélanger. Verser le tout dans un moule de 12 x 8 pouces (30 x 20 cm). Saupoudrer de cannelle. Cuire à 375°F/190°C, 30 minutes ou jusqu'à cuit.",
+"Donne 6 à 8 portions.",
+"VARIANTE : Remplacer les raisins secs par 8 1/4 onces (260 g) d'ananas broyés.",
+"MICRO-ONDES : Suivre la recette tel qu'indiqué sauf pour la cuisson. Cuire au micro-ondes 8 minutes à haute température. Tourner le moule après 4 minutes. Continuer la cuisson à température moyenne (50 %) 9 à 12 minutes ou jusqu'à ce que le centre soit cuit."
+]},
+
+{"id": 2556, "livreId": 16, "titre": "Gratin de pommes de terre facile", "page": 80, "categorie":, "Accompagnement, Légumes", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"1 1/4 tasse (300 ml) de lait",
+"1/2 cuillérée à thé (2 ml) de sel",
+"1/8 de cuillérée à thé (0,5 ml) de poivre",
+"4 tasses (1 L) de pommes de terre, finement tranchées",
+"2 cuillérées à table (25 ml) de ciboulette hachée"
+],
+"preparation": [
+"Dans une grande casserole, mélanger le fromage à la crème, le lait, le sel et le poivre; remuer à feu doux jusqu'à ce que le mélange soit crémeux. Ajouter les pommes de terre et la ciboulette, remuer délicatement. Déposer à la cuillère dans un plat de 1 1/2 pinte (1,5 L); couvrir. Cuire à 350°F/180°C, 1 heure et 10 minutes ou jusqu'à ce que les pommes de terre soient cuites. Remuer avant de servir.",
+"Donne 6 portions.",
+"PRÉPARATION À L'AVANCE : Suivre la recette ci-dessus, sauf la cuisson. Couvrir. Réfrigérer toute une nuit. Avant de servir, cuire tel qu'indiqué."
+]},
+
+{"id": 2557, "livreId": 16, "titre": "Salade de fruits suprême", "page": 80, "categorie": "Desserts", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/4 de tasse (50 ml) de lait",
+"1 cuillérée à table (15 ml) de jus de citron",
+"1/2 cuillérée à thé (2 ml) de zeste de citron",
+"1 tasse (250 ml) de crème à fouetter",
+"1/2 tasse (125 ml) de sucre à glacer",
+"4 tasses (1 L) de pommes tranchées",
+"3 tasses (750 ml) de melon d'hiver en morceaux",
+"3 tasses (750 ml) de raisins verts",
+"1/2 tasse (125 ml) de pacanes hachées"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème, le lait, le jus et le zeste. Fouetter la crème jusqu'à la formation de pics mous; graduellement, ajouter le sucre jusqu'à formation de pics fermes. Incorporer le mélange de crème fouettée au mélange de fromage à la crème. Mélanger 1/2 tasse (125 ml) de mélange de fromage à la crème avec les pommes; remuer délicatement. Dans un bol en verre de 3 pintes (3 L), superposer le melon d'hiver, le mélange aux pommes et les raisins. Ajouter le restant du mélange au fromage à la crème; saupoudrer de pacanes.",
+"Donne 12 portions."
+]},
+
+{"id": 2558, "livreId": 16, "titre": "Légumes sautés à feu vif", "page": 81, "categorie":, "Accompagnement, Légumes", "image": "livres/016-philadelphia-livre-de-cuisine/images/Legumes-sautes-a-feu-vif.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, coupé en cubes",
+"1/4 de tasse (50 ml) de graines de sésame grillées",
+"2 tasses (500 ml) de carottes coupées en diagonale",
+"2 tasses (500 ml) de tranches de céleri coupé en diagonale",
+"3/4 de tasse (175 ml) de minces lamelles de poivron vert",
+"2 cuillérées à table (25 ml) de Margarine Parkay",
+"1/4 de cuillérée à thé (1 ml) de sel",
+"Une pincée de poivre"
+],
+"preparation": [
+"Enrober les cubes de fromage léger de graines de sésame; réfrigérer. Dans un grand poêlon ou un wok, faire sauter les légumes et les assaisonnements à feu vif dans la margarine jusqu'à ce qu'ils soient tendres mais croustillants. Retirer du feu. Ajouter le fromage léger aux légumes; remuer délicatement.",
+"Donne 6 à 8 portions.",
+"VARIANTE : Remplacer le fromage léger par du Fromage à la Crème de marque Philadelphia."
+]},
+
+{"id": 2559, "livreId": 16, "titre": "Chaudrée aux crevettes", "page": 82, "categorie": "Soupe, Poisson", "image": "livres/016-philadelphia-livre-de-cuisine/images/Chaudree-aux-crevettes.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1/2 tasse (125 ml) de céleri tranché",
+"1/3 de tasse (75 ml) d'oignon haché",
+"2 cuillérées à table (25 ml) de Margarine Parkay",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"1 tasse (250 ml) de lait",
+"1 1/2 tasse (375 ml) de pommes de terre cuites, coupées en cubes",
+"6 onces (180 g) de crevettes miniatures congelées, décongelées et égouttées",
+"2 cuillérées à table (25 ml) de vin blanc sec",
+"1/2 cuillérée à thé (2 ml) de sel"
+],
+"preparation": [
+"Faire revenir le céleri et l'oignon dans la margarine. Ajouter le fromage à la crème et le lait; remuer à feu doux jusqu'à ce que le fromage à la crème soit fondu. Ajouter les ingrédients restants, cuire à feu vif, remuer à l'occasion.",
+"Donne environ quatre portions de 1 tasse (250 ml)."
+]},
+
+{"id": 2560, "livreId": 16, "titre": "Riz pilaf crémeux", "page": 82, "categorie": "Riz, Accompagnement", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"2 cubes de bouillon de boeuf",
+"2 1/4 tasses (550 ml) d'eau bouillante",
+"1 tasse (250 ml) de riz",
+"1 tasse (250 ml) de carottes tranchées",
+"2 cuillérées à table (25 ml) d'oignon vert tranché",
+"1 cuillérée à table (15 ml) de Margarine Parkay",
+"1/2 cuillérée à thé (2 ml) d'aneth",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"2 cuillérées à table (25 ml) de Vraie Mayonnaise Kraft"
+],
+"preparation": [
+"Dans une casserole, dissoudre le bouillon dans l'eau bouillante; ajouter le riz, les légumes, la margarine et l'aneth. Couvrir; laisser mijoter 20 minutes ou jusqu'à ce que le riz soit tendre et l'eau complètement absorbée. Retirer du feu. Ajouter le fromage à la crème et la mayonnaise; remuer jusqu'à ce que le fromage à la crème soit fondu.",
+"Donne 6 portions."
+]},
+
+{"id": 2561, "livreId": 16, "titre": "Courges farcies", "page": 84, "categorie"; "Légumes", "image": "livres/016-philadelphia-livre-de-cuisine/images/Courges-farcie.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1/4 de tasse (50 ml) d'amandes tranchées",
+"1 cuillérée à table (15 ml) de Margarine Parkay",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, coupé en cubes",
+"3/4 de tasse (175 ml) de lait",
+"1 paquet de 10 onces (300 g) de haricots verts congelés, cuits et égouttés",
+"1/2 tasse (125 ml) de châtaignes d'eau, tranchées",
+"1 1/2 cuillérée à thé (7 ml) de jus de citron",
+"1/2 cuillérée à thé (2 ml) de moutarde sèche",
+"1/4 de cuillérée à thé (1 ml) de gingembre moulu",
+"1/4 de cuillérée à thé (1 ml) de sel",
+"2 courges (à la moelle ou autre) cuites au four, coupées en deux"
+],
+"preparation": [
+"Dans un poêlon, faire sauter les amandes dans la margarine jusqu'à ce qu'elles soient légèrement grillées. Ajouter le fromage léger et le lait; remuer à feu doux jusqu'à ce que le fromage léger soit fondu. Incorporer les ingrédients restants sauf la courge; bien cuire en remuant à l'occasion. Déposer à la cuillère le mélange de légumes dans les courges chaudes.",
+"Donne 4 portions.",
+"NOTE : Pour la cuisson des courges: les couper en deux dans le sens de la longueur; évider, placer le côté coupé en bas dans un moule de 13 x 9 pouces (33 x 22 cm). Verser 1/2 pouce (1 cm) d'eau chaude. Cuire au four à 375°F/190°C, 45 à 55 minutes jusqu'à ce qu'elles soient tendres.",
+"VARIANTE : Supprimer les courges. Préparer les légumes tel qu'indiqué. À la cuillère, verser le mélange de légumes sur 4 tasses (1 L) de pâtes cuites, chaudes."
+]},
+
+{"id": 2562, "livreId": 16, "titre": "Salade étagée extraordinaire", "page": 85, "categorie": "Accompagnement, Salade", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, ramolli",
+"3/4 de tasse (175 ml) de fromage bleu, émietté",
+"1/4 de tasse (50 ml) de Mayonnaise Légère Réduite en Calories Kraft",
+"1/4 de tasse (50 ml) de lait",
+"2 cuillérées à table (25 ml) de jus de citron",
+"1 cuillérée à table (15 ml) de ciboulette hachée",
+"8 tasses (2 L) de salade verte mélangée",
+"1 tasse (250 ml) de carottes râpées",
+"2 1/2 tasses (625 ml) de jambon, coupé en cubes",
+"1 tasse (250 ml) de poivron vert haché",
+"2 tasses (500 ml) de tomates coupées en quartiers"
+],
+"preparation": [
+"Bien mélanger le fromage léger et le fromage bleu. Ajouter la mayonnaise, le lait, le jus et la ciboulette; bien mélanger.",
+"Mélanger la salade verte et les carottes. Mélanger le jambon et le poivron vert. Dans un bol de 3 pintes (3 L), déposer en couches la salade verte, les tomates et le mélange de jambon. Étendre le mélange de fromage sur le jambon pour sceller. Couvrir. Réfrigérer plusieurs heures.",
+"Donne 8 portions."
+]},
+
+{"id": 2563, "livreId": 16, "titre": "Brioches au fromage", "page": 88, "categorie": "Dessert", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 boîte de 5 onces (150 g) de petits pains feuilletés au lait de beurre réfrigérés",
+"Fromage à la Crème de marque Philadelphia Tartinable à l'Ananas",
+"Flocons de noix de coco"
+],
+"preparation": [
+"Séparer la pâte en cinq parties. Faire une entaille au centre de chaque petit pain; farcir de 1 cuillérée à table (15 ml) de fromage à la crème. Saupoudrer de noix de coco. Cuire à 375°F/190°C, 12 à 15 minutes ou jusqu'à ce que les pains soient dorés. Servir chaud.",
+"Donne 5 portions.",
+"VARIANTE : Remplacer le fromage à la crème à l'ananas par du Fromage à la Crème de marque Philadelphia Velouté. Supprimer la noix de coco. Saupoudrer de sucre à la cannelle après cuisson."
+]},
+
+{"id": 2564, "livreId": 16, "titre": "Pain favori aux bananes", "page": 88, "categorie": "Pain", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1 tasse (250 ml) de sucre",
+"1/4 de tasse (50 ml) de Margarine Parkay",
+"1 tasse (250 ml) de bananes mûres écrasées",
+"2 oeufs",
+"2 1/4 tasses (550 ml) de farine",
+"1 1/2 cuillérée à thé (7 ml) de poudre à pâte",
+"1/2 cuillérée à thé (2 ml) de bicarbonate de soude",
+"1 tasse (250 ml) de noix hachées"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème, le sucre et la margarine. Incorporer les bananes et les oeufs. Ajouter les ingrédients restants ensemble, le mélange doit être humidifié. Verser dans un moule à pain de 9 x 5 pouces (22 x 12 cm) graissé et fariné. Cuire à 350°F/180°C, 1 heure et 10 minutes ou jusqu'à ce qu'un cure-dent inséré au centre en ressorte propre. Laisser refroidir 5 minutes; démouler. Servir avec du fromage à la crème si désiré.",
+"Donne 1 pain."
+]},
+
+{"id": 2565, "livreId": 16, "titre": "Gâteau aux pruneaux et aux noix", "page": 89, "categorie": "Dessert, Gateau", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"3/4 de tasse (175 ml) d'eau",
+"1 cuillérée à table (15 ml) de jus de citron",
+"1 1/2 tasse (375 ml) de pruneaux dénoyautés",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1 tasse (250 ml) de sucre",
+"1/2 tasse (125 ml) de Margarine Parkay",
+"2 oeufs",
+"1 cuillérée à thé (5 ml) de vanille",
+"1 3/4 tasse (425 ml) de farine",
+"1 cuillérée à thé (5 ml) de poudre à pâte",
+"1/2 cuillérée à thé (2 ml) de bicarbonate de soude",
+"1/4 de cuillérée à thé (1 ml) de sel",
+"1/4 de tasse (50 ml) de lait",
+"1/2 tasse (125 ml) de noix hachées",
+"GLAÇAGE",
+"1 tasse (250 ml) de sucre à glacer",
+"1 à 2 cuillérées à table (15 à 25 ml) de lait"
+],
+"preparation": [
+"Dans le verre du mélangeur, mettre l'eau, le jus et les pruneaux. Couvrir, mélanger jusqu'à homogénéité.",
+"Bien mélanger le fromage à la crème, le sucre et la margarine. Incorporer les oeufs et la vanille. Ajouter les ingrédients secs mélangés en alternance avec le lait; bien mélanger après chaque ajout. Étendre 2 tasses (500 ml) de pâte dans un moule de 13 x 9 pouces (33 x 22 cm) graissé et fariné. Couvrir la pâte du mélange de pruneaux; étendre délicatement la pâte restante par dessus. Saupoudrer de noix. Cuire à 350°F/180°C, 50 minutes. Laisser refroidir.",
+"Bien mélanger le sucre à glacer et le lait. En enduire le gâteau.",
+"Donne 12 portions."
+]},
+
+{"id": 2566, "livreId": 16, "titre": "Beignets", "page": 90, "categorie": "Desserts", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/3 de tasse (75 ml) de Margarine Parkay",
+"1 tasse (250 ml) de farine",
+"Une pincée de sel",
+"Sucre"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème et la margarine. Incorporer la farine et le sel; bien mélanger. Avec la pâte former une boule; réfrigérer 1 heure. Sur une surface légèrement farinée, rouler la pâte en forme de rectangle de 12 x 6 pouces (30 x 15 cm). Couper la pâte en 24 bandes de 1/2 pouce (1 cm). Frire dans l'huile chaude à 375°F/190°C, 1 à 2 minutes jusqu'à ce que la pâte soit dorée. Tourner une fois avec des pincettes. Égoutter sur une serviette en papier. Rouler dans le sucre.",
+"Donne 2 douzaines."
+]},
+
+{"id": 2567, "livreId": 16, "titre": "Pain à la citrouille et au fromage", "page": 90, "categorie": "Desserts", "image": "livres/016-philadelphia-livre-de-cuisine/images/Pain-a-la-citrouille.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"2 1/2 tasses (625 ml) de sucre",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de Margarine Parkay",
+"4 oeufs",
+"16 onces (500 g) de citrouille en conserve",
+"3 1/2 tasses (875 ml) de farine",
+"2 cuillérées à thé (10 ml) de bicarbonate de soude",
+"1 cuillérée à thé (5 ml) de sel",
+"1 cuillérée à thé (5 ml) de cannelle",
+"1/2 cuillérée à thé (2 ml) de poudre à pâte",
+"1/4 de cuillérée à thé (1 ml) de clous de girofle moulus",
+"1 tasse (250 ml) de noix hachées"
+],
+"preparation": [
+"Bien mélanger le sucre, le fromage à la crème et la margarine au fouet électrique à vitesse moyenne. Ajouter les oeufs, un à un, bien mélanger après chaque ajout. Incorporer la citrouille. Ajouter les ingrédients secs mélangés, jusqu'à ce que le mélange soit humidifié. Incorporer les noix. Verser dans 2 moules à pain de 9 x 5 pouces (22 x 12 cm) graissés et farinés. Cuire à 350°F/180°C, 1 heure ou jusqu'à ce qu'un cure-dent inséré au centre en ressorte propre. Laisser refroidir 5 minutes; démouler.",
+"Donne 2 pains."
+]},
+
+{"id": 2568, "livreId": 16, "titre": "Gâteau abricoté", "page": 92, "categorie": "Desserts, Gateau", "image": "livres/016-philadelphia-livre-de-cuisine/images/Gateau-abricote.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de Margarine Parkay",
+"1 1/4 tasse (300 ml) de sucre",
+"1/4 de tasse (50 ml) de lait",
+"2 oeufs",
+"1 cuillérée à thé (5 ml) de vanille",
+"1 3/4 tasse (425 ml) de farine",
+"1 cuillérée à thé (5 ml) de poudre à pâte",
+"1/2 cuillérée à thé (2 ml) de bicarbonate de soude",
+"1/4 de cuillérée à thé (1 ml) de sel",
+"10 onces (300 g) de Conserves d'Abricots ou de Pêches Kraft",
+"GARNITURE",
+"2 tasses (500 ml) de flocons de noix de coco",
+"2/3 de tasse (150 ml) de cassonade tassée",
+"1 cuillérée à thé (5 ml) de cannelle",
+"1/3 de tasse (75 ml) de Margarine Parkay, fondue"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème, le sucre et la margarine au fouet électrique à vitesse moyenne. Ajouter le lait peu à peu, bien remuer après chaque ajout. Incorporer les oeufs et la vanille. Ajouter les ingrédients secs au mélange de fromage à la crème; bien mélanger. Verser la moitié de la pâte dans un moule de 13 x 9 pouces (33 x 22 cm). Parsemer des conserves; couvrir de la pâte restante. Cuire à 350°F/180°C, 35 à 40 minutes jusqu'à ce qu'un cure-dent inséré au centre en ressorte propre.",
+"Bien mélanger la noix de coco, la cassonade, la cannelle et la margarine. Étendre sur le gâteau, griller 3 à 5 minutes ou jusqu'à doré.",
+"Donne 16 portions."
+]},
+
+{"id": 2569, "livreId": 16, "titre": "Tourbillon aux fruits", "page": 93, "categorie": "Desserts", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1 tasse (250 ml) de sucre",
+"1/2 tasse (125 ml) de Margarine Parkay",
+"2 oeufs",
+"1/2 cuillérée à thé (2 ml) de vanille",
+"1 3/4 tasse (425 ml) de farine",
+"1 cuillérée à thé (5 ml) de poudre à pâte",
+"1/2 cuillérée à thé (2 ml) de bicarbonate de soude",
+"1/4 de cuillérée à thé (1 ml) de sel",
+"1/4 de tasse (50 ml) de lait",
+"1/2 tasse (125 ml) de Conserves aux Framboises Kraft"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème, le sucre et la margarine. Incorporer les oeufs un à la fois, bien mélanger après chaque ajout. Incorporer la vanille. Ajouter les ingrédients secs mélangés, en alternance avec le lait, bien mélanger après chaque ajout. Verser dans un moule de 13 x 9 pouces (33 x 22 cm) graissé et fariné; parsemer des conserves. Avec un couteau, faire des entailles dans la pâte plusieurs fois pour obtenir un effet marbré. Cuire à 350°F/180°C, 35 minutes.",
+"Donne 12 portions."
+]},
+
+{"id": 2570, "livreId": 16, "titre": "Scones aux raisins secs", "page": 94, "ctegorie": "Desserts, Scones", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de sucre",
+"1/3 de tasse (75 ml) de raisins secs",
+"1 cuillérée à thé (5 ml) de zeste de citron",
+"3 tasses (750 ml) de farine",
+"1 cuillérée à table (15 ml) de poudre à pâte",
+"1 cuillérée à thé (7 ml) de sel",
+"1/2 tasse (125 ml) de Margarine Parkay",
+"1 tasse (250 ml) de lait",
+"Miel"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème et le sucre. Ajouter les raisins secs et le zeste; bien mélanger.",
+"Mélanger les ingrédients secs, incorporer la margarine jusqu'à formation de gros grumeaux. Ajouter le lait. Diviser la pâte en deux. Sur une surface légèrement farinée, rouler chaque moitié en forme de rectangle de 12 x 9 pouces (30 x 22 cm). Sur un des rectangles, étendre la garniture au fromage à la crème; couvrir de l'autre rectangle de pâte. Couper en 12 carrés de 3 pouces (7,5 cm); couper chaque carré en diagonale. Placer sur une plaque à biscuits non graissée. Cuire à 425°F/220°C, 12 à 15 minutes ou jusqu'à ce que les petits pains soient légèrement dorés. Enduire de miel.",
+"Donne 2 douzaines."
+]},
+
+{"id": 2571, "livreId": 16, "titre": "Trésors de muffins au son", "page": 94, "categorie": "Dessert, Muffin", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 1/4 tasse (300 ml) de céréale de son",
+"1 tasse (250 ml) de lait",
+"1/4 de tasse (50 ml) d'huile",
+"1 oeuf battu",
+"1 1/4 tasse (300 ml) de farine",
+"1/2 tasse (125 ml) de sucre",
+"1 cuillérée à table (15 ml) de poudre à pâte",
+"1/2 cuillérée à thé (2 ml) de sel",
+"1/2 tasse (125 ml) de raisins secs",
+"GARNITURE AU FROMAGE",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/4 de tasse (50 ml) de sucre",
+"1 oeuf battu"
+],
+"preparation": [
+"Mélanger le céréale de son et le lait; laisser reposer 2 minutes. Ajouter l'huile et l'oeuf; bien mélanger. Incorporer tous les ingrédients secs jusqu'à humidification. Ensuite, incorporer les raisins secs. Déposer à la cuillère dans un moule à muffins moyen graissé et fariné. Remplir chaque division aux 2/3.",
+"Bien mélanger le fromage à la crème, le sucre et l'oeuf. Verser une cuillérée à table (15 ml) bombée de ce mélange de fromage à la crème sur la pâte. Cuire à 375°F/190°C, 25 minutes.",
+"Donne 1 douzaine."
+]},
+
+{"id": 2572, "livreId": 16, "titre": "Gâteau saupoudré à la cannelle", "page": 95, "categorie": "Desserts, Gateau", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"GARNITURE",
+"1/2 tasse (125 ml) de noix hachées",
+"1/3 de tasse (75 ml) de cassonade tassée",
+"1/4 de tasse (50 ml) de farine",
+"1/2 cuillérée à thé (2 ml) de cannelle",
+"1/4 de tasse (50 ml) de Margarine Parkay",
+"GÂTEAU",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1 tasse (250 ml) de sucre",
+"1/2 tasse (125 ml) de Margarine Parkay",
+"2 oeufs",
+"1 cuillérée à thé (5 ml) de vanille",
+"1 3/4 tasse (425 ml) de farine",
+"1 cuillérée à thé (5 ml) de poudre à pâte",
+"1/2 cuillérée à thé (2 ml) de bicarbonate de soude",
+"1/4 de cuillérée à thé (1 ml) de sel",
+"1/4 de tasse (50 ml) de lait"
+],
+"preparation": [
+"Mélanger les noix, la cassonade, la farine et la cannelle; incorporer la margarine jusqu'à ce que le mélange soit grumeleux.",
+"Bien mélanger le fromage à la crème, le sucre et la margarine à l'aide d'un fouet électrique à vitesse moyenne. Incorporer les oeufs et la vanille. Ajouter les ingrédients secs ensemble en alternance avec le lait; bien mélanger après chaque ajout. Verser la pâte dans un moule de 13 x 9 pouces (33 x 22 cm) graissé et fariné. Parsemer de noix. Cuire à 350°F/180°C, 30 minutes ou jusqu'à ce qu'un cure-dent inséré au centre en ressorte propre.",
+"Donne 12 portions."
+]},
+
+{"id": 2573, "livreId": 16, "titre": "Couronne à l'orange crémeuse", "page": 96, "categorie": "Desserts", "image": "livres/016-philadelphia-livre-de-cuisine/images/Couronne-a-l-orange.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de sucre",
+"1 cuillérée à table (15 ml) de zeste d'orange",
+"2 boîtes de 8 onces (235 g) de Croissants Rapides Réfrigérés Pillsbury",
+"1/3 de tasse (75 ml) d'amandes hachées",
+"GLAÇAGE",
+"1/2 tasse (125 ml) de sucre à glacer",
+"1 cuillérée à table (15 ml) de jus d'orange"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème, le sucre et le zeste. Dérouler la pâte sur une surface légèrement farinée. Superposer deux des longueurs des rectangles pour former un grand rectangle de 13 x 7 pouces (33 x 17 cm). Presser les bords ensemble pour sceller. Étendre sur le grand rectangle la moitié du mélange de fromage à la crème. Parsemer de la moitié des amandes. Rouler la pâte en commençant par un des grands côtés, en pressant les bords au fur et à mesure pour sceller. Former un anneau, mettre la couture dessous. Déposer sur une plaque à biscuits graissée. Presser les extrémités pour sceller ensemble. Couper dans la couronne, de l'extérieur vers l'intérieur, aux 2/3 de l'épaisseur, à intervalles de 1 pouce (2,5 cm) en laissant le centre intact. Rabattre les languettes coupées. Cuire à 375°F/190°C, 15 minutes.",
+"Mélanger le sucre à glacer et le jus. Verser sur la couronne chaude. Garnir de moitiés de cerises au marasquin et d'amandes additionnelles si désiré.",
+"Donne 12 portions."
+]},
+
+{"id": 2574, "livreId": 16, "titre": "Kolachy", "page": 98, "categorie": "Desserts", "image": "livres/016-philadelphia-livre-de-cuisine/images/Couronne-a-l-orange.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de sucre",
+"1 cuillérée à table (15 ml) de zeste d'orange",
+"2 boîtes de 8 onces (235 g) de Croissants Rapides Réfrigérés Pillsbury",
+"1/3 de tasse (75 ml) d'amandes hachées",
+"GLAÇAGE",
+"1/2 tasse (125 ml) de sucre à glacer",
+"1 cuillérée à table (15 ml) de jus d'orange"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème, le sucre et le zeste. Dérouler la pâte sur une surface légèrement farinée. Superposer deux des longueurs des rectangles pour former un grand rectangle de 13 x 7 pouces (33 x 17 cm). Presser les bords ensemble pour sceller. Étendre sur le grand rectangle la moitié du mélange de fromage à la crème. Parsemer de la moitié des amandes. Rouler la pâte en commençant par un des grands côtés, en pressant les bords au fur et à mesure pour sceller. Former un anneau, mettre la couture dessous. Déposer sur une plaque à biscuits graissée. Presser les extrémités pour sceller ensemble. Couper dans la couronne, de l'extérieur vers l'intérieur, aux 2/3 de l'épaisseur, à intervalles de 1 pouce (2,5 cm) en laissant le centre intact. Rabattre les languettes coupées. Cuire à 375°F/190°C, 15 minutes.",
+"Mélanger le sucre à glacer et le jus. Verser sur la couronne chaude. Garnir de moitiés de cerises au marasquin et d'amandes additionnelles si désiré.",
+"Donne 12 portions."
+]},
+
+{"id": 2575, "livreId": 16, "titre": "Croustillant aux brisures de chocolat", "page": 99, "categorie": "Dessert", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"GARNITURE",
+"1/2 tasse (125 ml) de cassonade tassée",
+"1/2 tasse (125 ml) de farine",
+"1/4 de tasse (50 ml) de Margarine Parkay",
+"1 tasse (250 ml) de brisures de chocolat mi-sucré",
+"1/4 de tasse (50 ml) de noix",
+"GÂTEAU",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1 1/2 tasse (375 ml) de sucre",
+"3/4 de tasse (175 ml) de Margarine Parkay",
+"3 oeufs battus",
+"3/4 de cuillérée à thé (3 ml) de vanille",
+"2 1/2 tasses (625 ml) de farine",
+"1 1/2 cuillérée à thé (7 ml) de poudre à pâte",
+"3/4 de cuillérée à thé (3 ml) de bicarbonate de soude",
+"1/4 de cuillérée à thé (1 ml) de sel",
+"3/4 de tasse (175 ml) de lait"
+],
+"preparation": [
+"Mélanger la cassonade et la farine; ajouter la margarine jusqu'à ce que le mélange ait une apparence grumeleuse. Ajouter les noix et les brisures de chocolat.",
+"Bien mélanger à vitesse moyenne au fouet électrique le fromage à la crème, le sucre et la margarine, jusqu'à consistance lisse. Ajouter les oeufs et la vanille. Incorporer les ingrédients secs en alternance avec le lait, bien mélanger après chaque ajout. À la cuillère, verser le mélange dans un moule graissé et fariné de 13 x 9 pouces (33 x 22 cm). Parsemer du mélange à l'apparence grumeleuse. Cuire à 350°F/180°C, 50 minutes ou jusqu'à ce qu'un cure-dent inséré au centre en ressorte propre. Laisser refroidir.",
+"Donne 12 à 16 portions."
+]},
+
 {"id": 2576, "livreId": 16, "titre": "Garniture aux pruneaux", "page": 99, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2577, "livreId": 16, "titre": "Gâteau aux bleuets et au fromage", "page": 100, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2578, "livreId": 16, "titre": "Muffins aux canneberges glacés à l'orange", "page": 101, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2579, "livreId": 16, "titre": "Friandises chocolatées aux arachides", "page": 105, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2580, "livreId": 16, "titre": "Tourte des fêtes aux canneberges", "page": 105, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 2577, "livreId": 16, "titre": "Gâteau aux bleuets et au fromage", "page": 100, "categorie": "Dessert, Gateau", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1/2 tasse (125 ml) de Margarine Parkay",
+"1 1/4 tasse (300 ml) de sucre",
+"2 oeufs",
+"2 1/4 tasses (550 ml) de farine",
+"1 cuillérée à table (15 ml) de poudre à pâte",
+"1 cuillérée à thé (5 ml) de sel",
+"3/4 de tasse (175 ml) de lait",
+"1/4 de tasse (50 ml) d'eau",
+"2 tasses (500 ml) de bleuets",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"1 cuillérée à thé (5 ml) de zeste de citron",
+"GARNITURE",
+"1/4 de tasse (50 ml) de sucre",
+"1/4 de tasse (50 ml) de farine",
+"1 cuillérée à thé (5 ml) de zeste de citron",
+"2 cuillérées à table (25 ml) de Margarine Parkay",
+"Sucre à glacer"
+],
+"preparation": [
+"Battre la margarine et le sucre jusqu'à consistance légère et crémeuse. Ajouter les oeufs, un à la fois, bien battre après chaque ajout. Ajouter mélangés ensemble, 2 tasses (500 ml) de farine, la poudre à pâte et le sel alternativement avec le lait et l'eau mélangés. Bien battre après chaque ajout. Enrober les bleuets de la farine restante et les ajouter au mélange avec le fromage à la crème et le zeste de citron. Verser dans un moule beurré et fariné de 13 x 9 pouces (33 x 22 cm).",
+"Mélanger le sucre, la farine et le zeste; ajouter la margarine jusqu'à ce que le mélange ait une apparence grumeleuse. Étaler sur la pâte. Cuire à 375°F/190°C, 1 heure. Refroidir. Saupoudrer de sucre à glacer avant de servir.",
+"Donne 12 portions.",
+"VARIANTE : Remplacer les bleuets frais par 2 tasses (500 ml) de bleuets congelés, décongelés, bien égouttés."
+]},
+
+{"id": 2578, "livreId": 16, "titre": "Muffins aux canneberges glacés à l'orange", "page": 101, "categorie": "Dessert, Muffin", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"2 tasses (500 ml) de farine",
+"6 cuillérées à table (100 ml) de sucre",
+"2 cuillérées à thé (10 ml) de poudre à pâte",
+"1/2 cuillérée à thé (2 ml) de sel",
+"3/4 de tasse (175 ml) de lait",
+"1/2 tasse (125 ml) de Margarine Parkay, fondue",
+"1 oeuf battu",
+"3/4 de tasse (175 ml) de canneberges grossièrement hachées",
+"GLAÇAGE",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1 cuillérée à table (15 ml) de sucre",
+"1 cuillérée à table (15 ml) de jus d'orange",
+"1 cuillérée à thé (5 ml) de zeste d'orange"
+],
+"preparation": [
+"Bien mélanger la farine, 4 cuillérées à table (50 ml) de sucre, la poudre à pâte et le sel. Ajouter, ensemble, le lait, la margarine et l'oeuf. Mélanger jusqu'à humidifié. Ajouter le sucre restant et les canneberges. Mettre dans un moule à muffins graissé en remplissant les divisions aux 2/3. Cuire à 400°F/200°C, 20 à 25 minutes ou jusqu'à doré.",
+"Bien mélanger le fromage à la crème, le sucre, le jus d'orange et le zeste. Réfrigérer. Servir avec les muffins.",
+"Donne 1 douzaine.",
+"VARIANTE : Remplacer le fromage à la crème par du Fromage à la Crème Léger de marque Philadelphia."
+]},
+
+{"id": 2579, "livreId": 16, "titre": "Friandises chocolatées aux arachides", "page": 105, "categorie": "Desserts", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 contenant de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia Tartinable",
+"1/2 tasse (125 ml) de beurre d'arachides",
+"1 paquet de 6 onces (180 g) de chocolat mi-sucré en morceaux, fondu",
+"2 1/4 tasses (550 ml) de chapelure de biscuits graham",
+"2/3 de tasse (150 ml) d'arachides finement hachées"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème et le beurre d'arachides. Ajouter le chocolat et remuer vigoureusement. Ajouter la chapelure de biscuits graham et bien mélanger. Former des boules de 1 pouce (2,5 cm). Les rouler dans les arachides. Réfrigérer.",
+"Donne 4 douzaines.",
+"VARIANTE : Supprimer les arachides. Préparer les boules tel qu'indiqué. Les rouler dans du sucre à glacer au moment de servir."
+]},
+
+{"id": 2580, "livreId": 16, "titre": "Tourte des fêtes aux canneberges", "page": 105, "categorie": "Desserts", "image": "livres/016-philadelphia-livre-de-cuisine/images/Tourte-des-fetes.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/4 de tasse (50 ml) de sucre",
+"1/2 tasse (125 ml) de crème à fouetter, fouettée",
+"1 gâteau congelé de 10 3/4 onces (325 g), décongelé",
+"14 onces (420 g) de sauce aux canneberges/oranges"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème et le sucre. Ajouter la crème fouettée. Couper le gâteau horizontalement en quatre tranches. Tartiner la tranche du bas de 1/2 tasse (125 ml) de sauce canneberges/oranges; couvrir avec la seconde tranche. Tartiner cette seconde tranche de 2/3 de tasse (150 ml) du mélange de fromage à la crème; recouvrir de la troisième tranche. Tartiner cette troisième tranche de 1/2 tasse (125 ml) de sauce canneberges/oranges. Recouvrir le tout avec la tranche du dessus. Enduire le dessus et les côtés de la tourte du reste du mélange de fromage à la crème. Réfrigérer plusieurs heures ou toute une nuit. Garnir le dessus du gâteau du reste de sauce canneberges/oranges au moment de servir. Garnir de canneberges entières et de feuilles de menthe si désiré.",
+"Donne 10 à 12 portions."
+]},
+
 {"id": 2581, "livreId": 16, "titre": "Glaçages crémeux \"Philly\"", "page": 106, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2582, "livreId": 16, "titre": "Tourte \"Philly\" au chocolat", "page": 106, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2583, "livreId": 16, "titre": "Nuages aux fruits \"Philly\"", "page": 107, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2584, "livreId": 16, "titre": "Biscuits à l'abricot \"Philly\"", "page": 108, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2585, "livreId": 16, "titre": "Pouding \"Philly\" à la banane", "page": 108, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2586, "livreId": 16, "titre": "Fudge \"Philly\" au chocolat", "page": 110, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2587, "livreId": 16, "titre": "Tartelettes aux pacanes", "page": 110, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2588, "livreId": 16, "titre": "Carrés à l'avoine et aux cerises", "page": 111, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2589, "livreId": 16, "titre": "Flan Acapulco", "page": 111, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2590, "livreId": 16, "titre": "Gâteau surprise aux carottes", "page": 113, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2591, "livreId": 16, "titre": "Carrés Tortoni", "page": 114, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2592, "livreId": 16, "titre": "Compote aux fruits chauds", "page": 114, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2593, "livreId": 16, "titre": "Tarte surprise aux pêches", "page": 115, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2594, "livreId": 16, "titre": "Dessert au glaçage à l'orange", "page": 116, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2595, "livreId": 16, "titre": "Sauce \"Philly\" au chocolat", "page": 116, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2596, "livreId": 16, "titre": "Soufflé aux amandes", "page": 118, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2597, "livreId": 16, "titre": "Tarte \"Kansas City\"", "page": 118, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2598, "livreId": 16, "titre": "Crème bavaroise au citron", "page": 119, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 2582, "livreId": 16, "titre": "Tourte \"Philly\" au chocolat", "page": 106, "categorie": "Dessert, Tarte", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/4 de tasse (50 ml) de Margarine Parkay",
+"1 tasse (250 ml) de sucre",
+"2 oeufs",
+"1/2 cuillérée à thé (2 ml) de vanille",
+"1 1/2 tasse (375 ml) de farine",
+"1 cuillérée à thé (5 ml) de bicarbonate de soude",
+"1/2 cuillérée à thé (2 ml) de poudre à pâte",
+"1/2 tasse (125 ml) de lait",
+"2 carrés de 1 once (30 g) de chocolat non sucré, fondu",
+"Glaçages crémeux « Philly »",
+"GLAÇAGES CRÉMEUX « PHILLY »",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"6 1/2 tasses (1,6 L) de sucre à glacer, tamisé",
+"1/2 tasse (125 ml) de crème à fouetter",
+"1/2 tasse (125 ml) d'amandes broyées, grillées",
+"2 carrés de 1 once (30 g) de chocolat non sucré, fondu"
+],
+"preparation": [
+"Mélanger le fromage à la crème, la margarine et le sucre. Bien mélanger jusqu'à homogénéité. Ajouter les oeufs et la vanille. Ajouter les ingrédients secs mélangés en alternance avec le lait. Bien mélanger après chaque ajout. Ajouter le chocolat. Verser le mélange uniformément sur une plaque à gâteau roulé de 15 x 10 x 1 pouces (38 x 25 x 2,5 cm) doublée d'un papier ciré. Cuire à 350°F/180°C, 12 à 15 minutes ou jusqu'à ce qu'un cure-dent inséré au centre en ressorte propre. Bien refroidir. Couper en 4 parts égales; démouler. Tartiner 3 parts de glaçage crémeux aux amandes. Réfrigérer jusqu'à ce que le glaçage soit ferme. Empiler les 3 parts les unes sur les autres. Ajouter la quatrième part sur le dessus et recouvrir de glaçage au chocolat.",
+"Donne 12 portions.",
+"GLAÇAGES CRÉMEUX « PHILLY » : Battre le fromage à vitesse moyenne au fouet électrique. Ajouter graduellement 5 tasses (1,3 L) de sucre; bien mélanger après chaque ajout. Ajouter la crème à fouetter. Battre à grande vitesse jusqu'à consistance crémeuse. Diviser le mélange en deux parties. Ajouter le sucre restant et les amandes à l'une des parties, bien mélanger. Incorporer le chocolat dans la deuxième partie. Réfrigérer la partie contenant du chocolat jusqu'à ce qu'elle soit assez ferme pour être tartinée."
+]},
+
+{"id": 2583, "livreId": 16, "titre": "Nuages aux fruits \"Philly\"", "page": 107, "categorie": "Dessert", "image": "livres/016-philadelphia-livre-de-cuisine/images/Nuages-aux-fruits.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de sucre",
+"1 cuillérée à thé (5 ml) de jus de citron",
+"2 cuillérées à thé (10 ml) de zeste de citron",
+"1 tasse (250 ml) de crème à fouetter, fouettée",
+"Fruits assortis"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème, le sucre, le jus et le zeste. Incorporer la crème fouettée. Avec le dos d'une cuillère, former dix coquilles sur une grande plaque à biscuits doublée de papier ciré. Congeler. Garnir chaque coquille de fruits. Décorer de feuilles de menthe fraîche si désiré.",
+"Donne 10 portions.",
+"VARIANTES :",
+"Préparer le mélange de fromage à la crème tel qu'indiqué. Mettre dans un moule carré de 8 pouces (20 cm). Congeler. Couper en carrés, garnir de fruits.",
+"Remplacer le fromage à la crème par du Fromage à la Crème Léger de marque Philadelphia."
+]},
+
+{"id": 2584, "livreId": 16, "titre": "Biscuits à l'abricot \"Philly\"", "page": 108, "categorie": "dessert, Biscuit", "image": "livres/016-philadelphia-livre-de-cuisine/images/Biscuits-a-l-abricot-philly.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 1/2 tasse (375 ml) de Margarine Parkay",
+"1 1/2 tasse (375 ml) de sucre",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"2 oeufs",
+"2 cuillérées à table (25 ml) de jus de citron",
+"1 1/2 cuillérée à thé (7 ml) de zeste de citron",
+"4 1/2 tasses (1,1 L) de farine",
+"1 1/2 cuillérée à thé (7 ml) de poudre à pâte",
+"Conserves d'Abricots Kraft",
+"Sucre à glacer"
+],
+"preparation": [
+"Bien mélanger la margarine, le sucre et le fromage à la crème. Ajouter les oeufs, le jus et le zeste de citron. Ajouter la farine et la poudre à pâte mélangées. Bien mélanger. Réfrigérer plusieurs heures. Faire des boulettes de la grosseur d'une cuillère à table (15 ml). Placer sur une plaque à biscuits non graissée. Aplanir légèrement. Creuser au centre, fourrer de conserves. Cuire à 350°F/180°C, 15 minutes. Laisser refroidir, saupoudrer de sucre à glacer.",
+"Donne environ 7 douzaines."
+]},
+
+{"id": 2585, "livreId": 16, "titre": "Pouding \"Philly\" à la banane", "page": 108, "categorie": "Dessert, Pouding", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"12 gaufrettes à la vanille",
+"1 contenant de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia Tartinable",
+"2 cuillérées à table (25 ml) de lait",
+"2 cuillérées à table (25 ml) de sucre",
+"1 cuillérée à thé (5 ml) de vanille",
+"2 tasses (500 ml) de garniture fouettée congelée, décongelée",
+"2 bananes moyennes, tranchées"
+],
+"preparation": [
+"Foncer (côtés et fond) un bol de 1 pinte (1 L) avec les gaufrettes. Bien mélanger le fromage à la crème, le lait, le sucre et la vanille. Ajouter les ingrédients restants. Réfrigérer. Mettre dans le bol à la cuillère.",
+"Donne 6 portions."
+]},
+
+{"id": 2586, "livreId": 16, "titre": "Fudge \"Philly\" au chocolat", "page": 110, "categorie": "Dessert", "image": "livres/016-philadelphia-livre-de-cuisine/images/Fudge-philly-au-chocolat.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"4 tasses (1 L) de sucre à glacer, tamisé",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"4 carrés de 1 once (30 g) de chocolat non sucré, fondu",
+"1 cuillérée à thé (5 ml) de vanille",
+"Une pincée de sel",
+"1/2 tasse (125 ml) de noix hachées"
+],
+"preparation": [
+"Ajouter peu à peu le sucre au fromage à la crème, bien mélanger après chaque ajout. Ajouter tous les ingrédients restants; bien mélanger. Mettre dans un moule carré de 8 pouces (20 cm). Réfrigérer plusieurs heures. Couper en carrés.",
+"Donne 1 3/4 livre (875 g).",
+"VARIANTES :",
+"Supprimer les noix et la vanille; ajouter quelques gouttes d'extrait de menthe (peppermint) et 1/4 de tasse (50 ml) de bonbons à la menthe broyés. Parsemer ensuite de 1/4 de tasse (50 ml) de ces mêmes bonbons broyés avant de réfrigérer.",
+"Remplacer les noix par 1 tasse (250 ml) de noix de coco râpé. Garnir ensuite de noix de coco.",
+"Remplacer les noix par 1/2 tasse (125 ml) de cerises au marasquin hachées et égouttées. Garnir de cerises entières."
+]},
+
+{"id": 2587, "livreId": 16, "titre": "Tartelettes aux pacanes", "page": 110, "categorie": "Desserts, Tarte", "image": "livres/016-philadelphia-livre-de-cuisine/images/Tartelettes-aux-pacanes.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1 tasse (250 ml) de Margarine Parkay",
+"2 tasses (500 ml) de farine",
+"2 oeufs battus",
+"1 1/2 tasse (375 ml) de cassonade tassée",
+"2 cuillérées à thé (10 ml) de vanille",
+"1 1/2 tasse (375 ml) de pacanes broyées"
+],
+"preparation": [
+"Mélanger le fromage à la crème et la margarine, battre jusqu'à consistance homogène. Ajouter la farine; bien mélanger. Réfrigérer. Partager la pâte en quatre. Diviser chaque quart en douze boulettes. Foncer (bord et fond) les divisions d'un moule à muffins miniatures. Mélanger les oeufs, la cassonade et la vanille; ajouter les pacanes. Remplir chaque tartelette à la cuillère. Cuire 30 minutes à 325°F/160°C ou jusqu'à doré. Laisser refroidir 5 minutes. Démouler. Saupoudrer de sucre à glacer si désiré.",
+"Donne 4 douzaines."
+]},
+
+{"id": 2588, "livreId": 16, "titre": "Carrés à l'avoine et aux cerises", "page": 111, "categorie": "Desserts", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 1/4 tasse (300 ml) de flocons d'avoine à l'ancienne ou rapide, non cuits",
+"1/3 de tasse (75 ml) de Margarine Parkay, fondue",
+"1/4 de tasse (50 ml) de sucre",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/4 de tasse (50 ml) de sucre",
+"1 oeuf",
+"21 onces (650 g) de garniture de tarte à la cerise"
+],
+"preparation": [
+"Mélanger les flocons d'avoine, la margarine et le sucre. Foncer un moule carré de 8 pouces (20 cm) en pressant. Cuire à 400°F/200°C, 15 minutes.",
+"Mélanger à vitesse moyenne au fouet électrique le fromage à la crème et le sucre. Ajouter l'oeuf, verser sur l'abaisse. Cuire à 350°F/180°C, 10 à 15 minutes ou jusqu'à cuit. Étaler la garniture sur le mélange de fromage à la crème. Prolonger la cuisson de 15 minutes. Réfrigérer.",
+"Donne 8 portions."
+]},
+
+{"id": 2589, "livreId": 16, "titre": "Flan Acapulco", "page": 111, "categorie": "Desserts", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"20 Caramels Kraft",
+"2 cuillérées à table (25 ml) d'eau",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de sucre",
+"6 oeufs battus",
+"1 cuillérée à thé (5 ml) de vanille",
+"2 tasses (500 ml) de lait"
+],
+"preparation": [
+"Faire fondre les caramels avec l'eau à feu doux, remuer jusqu'à consistance crémeuse. Verser dans un moule à bain-marie graissé de 9 pouces (22 cm). Bien mélanger le fromage à la crème et le sucre. Ajouter les oeufs et la vanille. Ajouter peu à peu le lait et battre jusqu'à ce que le tout soit bien mélangé. Mettre le moule à bain-marie sur la grille supérieure du four. Lentement, verser le mélange de lait sur la sauce caramel. Verser 1/2 pouce (1 cm) d'eau dans la partie inférieure du moule à bain-marie. Cuire à 350°F/180°C, 45 minutes ou jusqu'à ce qu'un couteau inséré à 2 pouces (5 cm) du bord en ressorte propre. Retirer du bain-marie immédiatement; laisser refroidir 5 minutes. Renverser sur un plat de service avec rebord. Servir chaud ou froid.",
+"Donne 6 à 8 portions."
+]},
+
+{"id": 2590, "livreId": 16, "titre": "Gâteau surprise aux carottes", "page": 113, "categorie": "Desserts, Gateaux", "image": "livres/016-philadelphia-livre-de-cuisine/images/Gateau-surprise-aux-carottes.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/4 de tasse (50 ml) de sucre",
+"1 oeuf battu",
+"2 tasses (500 ml) de farine",
+"1 3/4 tasse (425 ml) de sucre",
+"2 cuillérées à thé (10 ml) de bicarbonate de soude",
+"2 cuillérées à thé (10 ml) de cannelle",
+"1 cuillérée à thé (5 ml) de sel",
+"1 tasse (250 ml) d'huile",
+"3 oeufs battus",
+"3 tasses (750 ml) de carottes râpées",
+"1/2 tasse (125 ml) de noix hachées"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème, le sucre et les oeufs. Réserver.",
+"Mélanger les ingrédients secs. Ajouter les oeufs et l'huile mélangés ensemble. Battre légèrement pour humidifier. Ajouter les carottes et les noix. Réserver 2 tasses (500 ml) de ce mélange. Verser le restant dans un moule à spirale de 9 pouces (25 cm) graissé et fariné. Verser le mélange de fromage à la crème sur la pâte. Verser ensuite délicatement la pâte réservée sur le mélange de fromage à la crème en l'étalant pour bien couvrir le fromage à la crème. Cuire à 350°F/180°C, 55 minutes ou jusqu'à ce qu'un cure-dent inséré au centre en ressorte propre. Laisser refroidir 10 minutes; démouler. Laisser refroidir complètement. Saupoudrer de sucre à glacer si désiré.",
+"Donne 12 portions.",
+"VARIANTE : Remplacer le fromage à la crème par du Fromage à la Crème Léger de marque Philadelphia."
+]},
+
+{"id": 2591, "livreId": 16, "titre": "Carrés Tortoni", "page": 114, "categorie": "Desserts", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 enveloppe de gélatine sans saveur",
+"1/2 tasse (125 ml) d'eau froide",
+"2 contenants de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia Velouté",
+"2 cuillérées à table (25 ml) de sucre",
+"1 boîte de 17 onces (530 g) d'abricots en moitiés, égouttés et coupés en morceaux",
+"2 cuillérées à table (25 ml) d'amandes hachées et grillées",
+"1/4 de cuillérée à thé (1 ml) d'essence de rhum",
+"2 tasses (500 ml) de garniture fouettée congelée, décongelée",
+"2 tasses (500 ml) de macarons, émiettés"
+],
+"preparation": [
+"Délayer la gélatine dans l'eau, remuer à feu doux jusqu'à dissolution complète. Refroidir. Bien mélanger le fromage à la crème et le sucre. Peu à peu ajouter la gélatine, bien mélanger le tout. Ajouter les abricots, les amandes et l'essence de rhum. Incorporer la garniture fouettée. Foncer un moule carré de 9 pouces (22 cm) avec les miettes de macarons. Garnir du mélange de fromage à la crème. Réfrigérer. Couper en carrés.",
+"Donne 9 portions."
+]},
+
+{"id": 2592, "livreId": 16, "titre": "Compote aux fruits chauds", "page": 114, "categorie": "Desserts", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 boîte de 20 onces (620 g) d'ananas en morceaux",
+"1 boîte de 17 onces (530 g) de moitiés d'abricots",
+"1 boîte de 16 onces (500 g) de cerises foncées, dénoyautées",
+"1/4 de tasse (50 ml) de cassonade tassée",
+"1/2 cuillérée à thé (2 ml) de noix muscade moulue ou de cari (doux) en poudre",
+"1/4 de tasse (50 ml) de Margarine Parkay",
+"Fromage à la Crème de marque Philadelphia Tartinable"
+],
+"preparation": [
+"Mélanger tous les fruits égouttés dans une casserole de 1 1/2 pinte (1,5 L). Saupoudrer de sucre et de muscade. Parsemer de margarine en morceaux. Cuire à 350°F/180°C, 20 minutes. Servir chaud avec du fromage à la crème.",
+"Donne 6 à 8 portions.",
+"MICRO-ONDES : Préparer tel qu'indiqué. Chauffer à haute température, 5 minutes. Remuer toutes les 2 minutes. Remuer avant de servir."
+]},
+
+{"id": 2593, "livreId": 16, "titre": "Tarte surprise aux pêches", "page": 115, "categorie": "Desserts, Tarte", "image": "livres/016-philadelphia-livre-de-cuisine/images/Tarte-surprise-aux-peches.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"2 paquets de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, ramolli",
+"1/4 de tasse (50 ml) de sucre",
+"1/2 cuillérée à thé (2 ml) de vanille",
+"1 croûte de tarte de 9 pouces (22 cm), cuite",
+"1 boîte de 16 onces (500 g) de tranches de pêches, égouttées",
+"1/4 de tasse (50 ml) de Conserves de Framboises Kraft",
+"1 cuillérée à thé (5 ml) de jus de citron"
+],
+"preparation": [
+"Bien mélanger le fromage léger, le sucre et la vanille. Étaler sur la croûte de tarte. Réfrigérer plusieurs heures ou toute une nuit. Garnir de pêches au moment de servir. Bien mélanger les conserves et le jus. Répartir sur les pêches. Garnir de feuilles de menthe si désiré.",
+"Donne 6 à 8 portions."
+]},
+
+{"id": 2594, "livreId": 16, "titre": "Dessert au glaçage à l'orange", "page": 116, "categorie": "Desserts", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"3 onces (90 g) de gélatine saveur d'orange",
+"1 tasse (250 ml) d'eau bouillante",
+"1/2 tasse (125 ml) d'eau froide",
+"1/3 de tasse (75 ml) de jus d'orange",
+"1 cuillérée à thé (5 ml) de zeste d'orange",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, ramolli",
+"1/4 de tasse (50 ml) de sucre"
+],
+"preparation": [
+"Dissoudre la gélatine dans l'eau bouillante, ajouter l'eau froide, le jus et le zeste. Bien mélanger le fromage léger et le sucre. Incorporer peu à peu le mélange de gélatine à celui de fromage à la crème, remuer jusqu'à bien mélangé. Réfrigérer, remuer de temps à autre jusqu'à ce que le mélange soit épais mais non pris. Battre au fouet électrique jusqu'à consistance légère. Mettre dans des verres à parfait. Réfrigérer plusieurs heures ou toute une nuit.",
+"Donne 6 à 8 portions.",
+"VARIANTES :",
+"Remplacer le fromage léger par du Fromage à la Crème de marque Philadelphia.",
+"Remplacer la gélatine à saveur d'orange par de la gélatine à saveur de lime. Réduire le jus d'orange à 1/4 de tasse (50 ml). Ajouter 2 cuillérées à table (25 ml) de jus de lime au jus d'orange. Remplacer le zeste d'orange par du zeste de lime."
+]},
+
+{"id": 2595, "livreId": 16, "titre": "Sauce \"Philly\" au chocolat", "page": 116, "categorie": "Desserts", "image": "livres/016-philadelphia-livre-de-cuisine/images/Sauce-philly-au-chocolat.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"1/3 de tasse (75 ml) de lait",
+"2 carrés de chocolat non sucré de 1 once (30 g)",
+"2 tasses (500 ml) de sucre à glacer, tamisé",
+"1 cuillérée à thé (5 ml) de vanille"
+],
+"preparation": [
+"Mélanger le fromage à la crème, le lait et le chocolat. Remuer sur feu doux jusqu'à consistance crémeuse. Ajouter les ingrédients restants. Servir sur des poires pochées, de la crème glacée ou du gâteau.",
+"Donne 2 tasses (500 ml).",
+"NOTER : Cette crème peut être réfrigérée et réchauffée."
+]},
+
+{"id": 2596, "livreId": 16, "titre": "Soufflé aux amandes", "page":118, "categorie": "Desserts", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/3 de tasse (75 ml) de sucre",
+"1/2 cuillérée à thé (2 ml) d'extrait d'amande",
+"1/4 de cuillérée à thé (1 ml) de sel",
+"4 oeufs, jaunes et blancs séparés",
+"1/2 tasse (125 ml) de moitié/moitié (lait/crème)",
+"2 cuillérées à table (25 ml) d'amandes tranchées"
+],
+"preparation": [
+"Bien mélanger le fromage, le sucre, l'extrait et le sel jusqu'à homogénéité. Battre légèrement les jaunes d'oeufs. Ajouter au mélange de fromage. Peu à peu, ajouter le moitié/moitié. Battre les blancs d'oeufs en neige jusqu'à formation de pics durs, incorporer au mélange de fromage. Verser le tout dans un moule à soufflé de 1 1/2 pinte (1,5 L). Avec le dos d'une cuillère, former de légères empreintes (en creux) tout autour du dessus du soufflé à 1 pouce (2,5 cm) du bord pour former un renflement. Garnir le dessus d'amandes. Cuire à 325°F/160°C, 50 minutes ou jusqu'à couleur dorée.",
+"Donne 6 à 8 portions."
+]},
+
+{"id": 2597, "livreId": 16, "titre": "Tarte \"Kansas City\"", "page": 118, "categorie": "Desserts, Tarte", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 1/4 tasse (300 ml) de pacanes finement hachées",
+"3/4 de tasse (175 ml) de farine",
+"1/4 de tasse (50 ml) de Margarine Parkay, fondue",
+"2 paquets de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1 1/2 tasse (375 ml) de sucre à glacer",
+"1 contenant de 8 onces (250 g) de garniture fouettée congelée, décongelée",
+"2 paquets de 4 onces (120 g) de pouding et garniture de tarte instantané au chocolat",
+"2 2/3 tasses (650 ml) de lait"
+],
+"preparation": [
+"Mélanger les pacanes, la farine et la margarine. Foncer un moule à bord amovible de 9 pouces (22 cm). Cuire à 375°F/190°C, 20 minutes. Refroidir.",
+"Bien mélanger le fromage et le sucre. Incorporer 1 1/2 tasse (375 ml) de garniture fouettée. Étaler sur l'abaisse. Préparer le mélange de pouding comme indiqué dans le mode d'emploi mais en utilisant 2 2/3 tasses (650 ml) de lait. Étaler le pouding à la cuillère sur la couche de fromage à la crème. Réfrigérer plusieurs heures ou toute une nuit. Passer un couteau autour du moule. Démouler. Étaler le reste de garniture fouettée sur la couche de pouding au moment de servir.",
+"Donne 10 à 12 portions."
+]},
+
+{"id": 2598, "livreId": 16, "titre": "Crème bavaroise au citron", "page": 119, "categorie": "Dessert", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 sachet de gélatine sans saveur",
+"1/2 tasse (125 ml) d'eau froide",
+"2 paquets de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, ramolli",
+"1/3 de tasse (75 ml) de sucre",
+"1/4 de tasse (50 ml) de lait",
+"1/4 de tasse (50 ml) de jus de citron",
+"1/2 cuillérée à thé (2 ml) de zeste de citron",
+"2 blancs d'oeufs",
+"2 tasses (500 ml) de garniture fouettée congelée, décongelée",
+"Sauce au citron",
+"SAUCE AU CITRON",
+"3/4 de tasse (175 ml) de sucre",
+"2 cuillérées à table (25 ml) de fécule de maïs",
+"1/4 de tasse (50 ml) d'eau",
+"1/4 de tasse (50 ml) de jus de citron",
+"2 jaunes d'oeufs battus"
+],
+"preparation": [
+"Diluer la gélatine dans l'eau; remuer à feu doux jusqu'à dissolution complète. Bien mélanger le fromage léger et le sucre. Peu à peu, ajouter la gélatine, le lait, le jus et le zeste; bien mélanger le tout. Réfrigérer en remuant de temps à autre jusqu'à épaississement léger, mais non ferme. Battre au batteur électrique ou au fouet jusqu'à consistance crémeuse. Battre les blancs en neige jusqu'à formation de pics fermes. Incorporer ceux-ci, ainsi que la garniture fouettée, dans le mélange de fromage léger. Verser dans un moule de 1 1/2 pinte (1,5 L) légèrement graissé. Réfrigérer jusqu'à consistance ferme. Démouler et servir avec la sauce au citron.",
+"Donne 8 à 10 portions.",
+"SAUCE AU CITRON : Dans une casserole, mélanger le sucre et la fécule de maïs. Peu à peu ajouter l'eau et le jus. Cuire en remuant constamment, jusqu'à ce que le mélange soit clair et épaississe. Incorporer un peu de mélange chaud dans les jaunes d'oeufs, incorporer les jaunes d'oeufs dans le mélange. Cuire, en remuant sans cesse, à feu doux jusqu'à épaississement. Refroidir.",
+"VARIANTE : Remplacer le fromage léger par du Fromage à la Crème de marque Philadelphia. Augmenter la quantité de sucre de 1/2 tasse (125 ml). Remplacer la garniture fouettée par 1 tasse (250 ml) de crème à fouetter, fouettée."
+]},
+
 {"id": 2599, "livreId": 16, "titre": "Sauce au citron", "page": 119, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2600, "livreId": 16, "titre": "Tarte aux fraises glacées", "page": 120, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2601, "livreId": 16, "titre": "Carrés marbrés", "page": 122, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2602, "livreId": 16, "titre": "Tarte paradisiaque à la courge", "page": 123, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 2600, "livreId": 16, "titre": "Tarte aux fraises glacées", "page": 120, "categorie": "Desserts", "image": "livres/016-philadelphia-livre-de-cuisine/images/Tarte-aux-fraises.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"Pâte à tarte pour une croûte de tarte de 9 pouces (22 cm)",
+"2 paquets de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de sucre",
+"1 cuillérée à table (15 ml) de lait",
+"1/4 de cuillérée à thé (1 ml) de vanille",
+"1 pinte (1 L) de fraises, équeutées",
+"1 cuillérée à table (15 ml) de fécule de maïs",
+"1/4 de tasse (50 ml) d'eau",
+"Quelques gouttes de colorant alimentaire rouge (optionnel)"
+],
+"preparation": [
+"Sur une surface légèrement farinée, aplatir la pâte pour former un cercle de 12 pouces (30 cm). Placer dans un moule à quiche de 10 pouces (25 cm). Piquer les côtés et le fond avec une fourchette. Cuire à 450°F/230°C, 9 à 11 minutes ou jusqu'à doré.",
+"Mélanger le fromage léger, 1/4 de tasse (50 ml) de sucre, le lait et la vanille au fouet électrique à vitesse moyenne jusqu'à homogénéité. Verser sur l'abaisse. Réduire en purée 1 tasse (250 ml) de fraises. Garnir le mélange de fromage des fraises restantes. Mélanger la fécule de maïs et le sucre restant dans une casserole. Peu à peu ajouter la purée de fraises et l'eau. Cuire en remuant à feu moyen ou jusqu'à ce que le mélange soit clair et épaississe. Ajouter le colorant, verser sur les fraises entières. Réfrigérer.",
+"Donne 8 portions.",
+"VARIANTES :",
+"Remplacer le moule à quiche de 10 pouces (25 cm) par un moule à tarte de 9 pouces (22 cm).",
+"Remplacer la vanille par de l'extrait d'amandes.",
+"Remplacer le fromage léger par du Fromage à la Crème de marque Philadelphia."
+]},
+
+{"id": 2601, "livreId": 16, "titre": "Carrés marbrés", "page": 122, "categorie": "Desserts", "image": "livres/016-philadelphia-livre-de-cuisine/images/Carres-marbres.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1/2 tasse (125 ml) de Margarine Parkay",
+"3/4 de tasse (175 ml) d'eau",
+"1 1/2 carré de chocolat non sucré de 1 once (30 g)",
+"2 tasses (500 ml) de farine",
+"2 tasses (500 ml) de sucre",
+"1 cuillérée à thé (5 ml) de bicarbonate de soude",
+"1/2 cuillérée à thé (2 ml) de sel",
+"2 oeufs battus",
+"1/2 tasse (125 ml) de crème sure",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/3 de tasse (75 ml) de sucre",
+"1 oeuf",
+"1 paquet de 6 onces (180 g) de chocolat mi-sucré en morceaux"
+],
+"preparation": [
+"Mélanger la margarine, l'eau et le chocolat dans une casserole; amener à ébullition. Retirer du feu. Ajouter, mélangé ensemble, la farine, le sucre, le bicarbonate de soude et le sel. Ajouter ensuite les oeufs et la crème sure. Bien mélanger. Verser le tout dans une plaque à biscuit roulé de 15 x 10 x 1 pouces (40 x 25 x 2,5 cm).",
+"Bien mélanger le fromage et le sucre. Ajouter l'oeuf. Étaler à la cuillère sur le mélange au chocolat. Couper plusieurs fois dans le mélange avec un couteau pour obtenir un effet marbré. Parsemer de morceaux de chocolat. Cuire à 375°F/190°C, de 25 à 30 minutes ou jusqu'à ce qu'un cure-dent inséré au centre en ressorte propre.",
+"Donne environ 2 douzaines."
+]},
+
+{"id": 2602, "livreId": 16, "titre": "Tarte paradisiaque à la courge", "page": 123, "categorie": "Dessert, Tarte", "image": "livres/016-philadelphia-livre-de-cuisine/images/Tarte-paradisiaque.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"Pâte pour une croûte de tarte de 9 pouces (22 cm)",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/4 de tasse (50 ml) de sucre",
+"1/2 cuillérée à thé (2 ml) de vanille",
+"1 oeuf",
+"1 1/4 tasse (300 ml) de courge en conserve",
+"1 tasse (250 ml) de lait condensé (non sucré)",
+"1/2 tasse (125 ml) de sucre",
+"2 oeufs battus",
+"1 cuillérée à thé (5 ml) de cannelle",
+"1/4 de cuillérée à thé (1 ml) de gingembre moulu",
+"1/4 de cuillérée à thé (1 ml) de noix de muscade moulue",
+"Une pincée de sel",
+"Sirop d'érable",
+"Pacanes en moitiés"
+],
+"preparation": [
+"Sur une surface légèrement farinée, aplatir la pâte en un cercle de 12 pouces (30 cm). Foncer un moule à tarte de 9 pouces (22 cm), former les bords. Canneler. Mélanger le fromage à la crème, le sucre et la vanille. Battre à vitesse moyenne au fouet électrique. Ajouter l'oeuf. Verser sur la croûte de tarte.",
+"Bien mélanger tous les ingrédients restants à l'exception des pacanes et du sirop d'érable. Délicatement, verser sur le dessus du mélange de fromage à la crème. Cuire à 350°F/180°C, 65 minutes. Refroidir. Napper de sirop et garnir de pacanes.",
+"Donne 8 portions."
+]},
+
 {"id": 2603, "livreId": 16, "titre": "Tarte \"Philly\" aux ananas", "page": 124, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 2604, "livreId": 16, "titre": "Framboises glacées", "page": 126, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 2605, "livreId": 16, "titre": "Tarte à la crème de menthe", "page": 126, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
