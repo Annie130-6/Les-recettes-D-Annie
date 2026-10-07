@@ -185,36 +185,555 @@
 "Donne 1 2/3 tasse (400 ml)."
 ]},
 
-{"id": 2488, "livreId": 16, "titre": "Tartinade pommes-fromage", "page": 21, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2489, "livreId": 16, "titre": "Trempette colorée aux carottes", "page": 22, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2490, "livreId": 16, "titre": "Tartinade à la saucisse Braunschweiger", "page": 22, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2491, "livreId": 16, "titre": "Choux au poulet au cari", "page": 24, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2492, "livreId": 16, "titre": "Tartinade aux légumes du potager", "page": 25, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2493, "livreId": 16, "titre": "Œufs crémeux à la diable", "page": 27, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2494, "livreId": 16, "titre": "Trempette chaude au bœuf", "page": 27, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2495, "livreId": 16, "titre": "Tartinade au fromage et noix de pin", "page": 28, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2496, "livreId": 16, "titre": "Tartinade piquante", "page": 28, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2497, "livreId": 16, "titre": "Croissants hors-d'œuvre aux crevettes", "page": 29, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2498, "livreId": 16, "titre": "Trempette aux palourdes", "page": 29, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2499, "livreId": 16, "titre": "Tartinade hawaïenne à la noix de coco", "page": 30, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2500, "livreId": 16, "titre": "Pizza hors-d'œuvre", "page": 31, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2501, "livreId": 16, "titre": "Tartinade aux six ingrédients", "page": 31, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2502, "livreId": 16, "titre": "Boule au fromage pour réception", "page": 32, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2503, "livreId": 16, "titre": "Tartinade relevée", "page": 34, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2504, "livreId": 16, "titre": "Trempette à l'aneth", "page": 34, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2505, "livreId": 16, "titre": "Canapés roulés au fromage et aux fines herbes", "page": 35, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2506, "livreId": 16, "titre": "Tartinade aux herbes savoureuses", "page": 37, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2507, "livreId": 16, "titre": "Trempette crémeuse au gingembre", "page": 37, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2508, "livreId": 16, "titre": "Tartinade délectable au cheddar", "page": 38, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2509, "livreId": 16, "titre": "Tortillas appétissantes", "page": 38, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2510, "livreId": 16, "titre": "Hors-d'œuvre au fromage au four", "page": 39, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2511, "livreId": 16, "titre": "Pommes de terre nouvelles farcies", "page": 40, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2512, "livreId": 16, "titre": "Trempette crémeuse guacamole \"Philly\"", "page": 40, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2513, "livreId": 16, "titre": "Trempette à la florentine", "page": 42, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2514, "livreId": 16, "titre": "Boule tropicale au fromage", "page": 43, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2515, "livreId": 16, "titre": "Hors-d'œuvre piquant à la chair de crabe", "page": 43, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2516, "livreId": 16, "titre": "Sandwiches au concombre (pour le thé)", "page": 44, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2517, "livreId": 16, "titre": "Tartinade au fromage", "page": 44, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 2488, "livreId": 16, "titre": "Tartinade pommes-fromage", "page": 21, "categorie", "Entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Gateau-au-fromage-aux-fines-herbes.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 tasse (250 ml) de chapelure de pain",
+"1/4 de tasse (50 ml) de Margarine Parkay, fondue",
+"1/4 de tasse (50 ml) d'huile d'olive",
+"2 tasses (500 ml) de feuilles de basilic frais",
+"1/2 cuillérée à thé (2 ml) de sel",
+"1 gousse d'ail coupée en deux",
+"2 paquets de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1 tasse (250 ml) de fromage ricotta",
+"3 oeufs",
+"1/4 de tasse (50 ml) de Fromage Parmesan Râpé Kraft",
+"1/2 tasse (125 ml) de noix de pin"
+],
+"preparation": [
+"Mélanger la chapelure de pain et la margarine; foncer un moule à bord amovible de 9 pouces (22 cm). Cuire à 350°F/180°C, 10 minutes.",
+"Placer l'huile, le basilic, le sel et l'ail dans le bol du mélangeur. Couvrir. Mélanger à haute vitesse jusqu'à consistance lisse. Ajouter les fromages à la crème et ricotta au mélange de basilic, bien mélanger à vitesse moyenne. Ajouter les oeufs, un à un, bien mélanger après chaque ajout. Ajouter le parmesan, verser sur l'abaisse. Garnir de noix de pin. Cuire à 325°F/160°C, 1 heure et 15 minutes. Passer un couteau autour du moule. Laisser refroidir avant de démouler. Servir chaud ou à la température de la pièce. Garnir de tomates façonnées en roses et de basilic frais (si désiré). Réfrigérer le fromage à la crème s'il en reste.",
+"Donne 16 portions.",
+"VARIANTE : Remplacer les feuilles de basilic par 1 tasse (250 ml) de persil haché et 1 cuillérée à table (15 ml) de basilic sec."
+]},
+
+{"id": 2489, "livreId": 16, "titre": "Trempette colorée aux carottes", "page": 22, "categorie": "Entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Trempette-coloree-aux-carottes.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de carottes finement râpées",
+"1 cuillérée à thé (5 ml) de flocons de persil",
+"1/8 de cuillérée à thé (0,5 ml) de sel",
+"Une pincée de poivre"
+],
+"preparation": [
+"Bien mélanger le fromage léger, les carottes et les assaisonnements. Servir avec des crudités.",
+"Donne 1 tasse (250 ml).",
+"VARIANTES :",
+"Remplacer les flocons de persil par de la ciboulette sèche, hachée.",
+"Remplacer les flocons de persil par 1/2 cuillérée à thé (2 ml) de feuilles de basilic sec.",
+"Remplacer les flocons de persil par 1/4 de cuillérée à thé (1 ml) d'aneth ou de poivre au citron."
+]},
+
+{"id": 2490, "livreId": 16, "titre": "Tartinade à la saucisse Braunschweiger", "page": 22, "categorie", "Entrée", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de Margarine Parkay, ramollie",
+"6 onces (180 g) de saucisse Braunschweiger ou de saucisse de foie",
+"2 cuillérées à table (25 ml) d'oignon haché",
+"1 1/2 cuillérée à thé (7 ml) de jus de citron",
+"Un soupçon de sauce worcestershire"
+],
+"preparation": [
+"Mélanger le fromage à la crème, la margarine et la saucisse jusqu'à l'obtention d'un mélange homogène. Ajouter les autres ingrédients, bien mélanger. Réfrigérer.",
+"Donne environ 2 1/2 tasses (625 ml)."
+]},
+
+{"id": 2491, "livreId": 16, "titre": "Choux au poulet au cari", "page": 24, "categorie", "Entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Choux-au-poulet-au-cari.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1/2 tasse (125 ml) d'eau",
+"1/3 de tasse (75 ml) de Margarine Parkay",
+"2/3 de tasse (150 ml) de farine",
+"Une pincée de sel",
+"2 oeufs",
+"GARNITURE",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/4 de tasse (50 ml) de lait",
+"1/4 de cuillérée à thé (1 ml) de sel",
+"Une pincée de poudre de cari",
+"Une pincée de poivre",
+"1 1/2 tasse (375 ml) de poulet cuit coupé en petits dés",
+"1/3 de tasse (75 ml) d'amandes tranchées, grillées",
+"2 cuillérées à table (25 ml) d'oignon vert tranché"
+],
+"preparation": [
+"Porter l'eau et la margarine à ébullition. Ajouter la farine et le sel; remuer vigoureusement à feu doux jusqu'à ce que le mélange forme une boule. Retirer du feu; ajouter les oeufs, un à la fois, battre après chaque ajout jusqu'à l'obtention d'un mélange crémeux. Mettre la pâte à la cuillère sur une plaque à biscuits non graissée. Cuire à 400°F/200°C, 25 minutes. Laisser refroidir.",
+"Mélanger le fromage à la crème, le lait, le sel, la poudre de cari et le poivre jusqu'à l'obtention d'un mélange homogène. Ajouter le poulet, les amandes et les oignons; remuer délicatement. Couper les chapeaux des choux, remplir de salade de poulet. Replacer les chapeaux. Placer les choux sur une plaque à biscuits. Cuire à 375°F/190°C, 5 minutes ou jusqu'à chaud.",
+"Donne environ 1 1/2 douzaine.",
+"NOTE : Les choux vides peuvent être préparés plusieurs semaines à l'avance et congelés. Les placer sur une plaque à biscuits et les envelopper soigneusement d'une pellicule de plastique."
+]},
+
+{"id": 2492, "livreId": 16, "titre": "Tartinade aux légumes du potager", "page": 25, "categorie": "Entrée", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 contenant de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia Tartinable",
+"1/2 tasse (125 ml) de carottes râpées",
+"1/2 tasse (125 ml) de courgettes râpées",
+"1 cuillérée à table (15 ml) de persil haché",
+"1/4 de cuillérée à thé (1 ml) de sel d'ail",
+"Une pincée de poivre"
+],
+"preparation": [
+"Bien mélanger tous les ingrédients. Réfrigérer. Servir sur des mini-tranches de pain de seigle, ou de pumpernickel ou des craquelins assortis.",
+"Donne 1 1/3 tasse (325 ml).",
+"VARIANTE : Servir sur des petites baguettes de pain congelées, décongelées et grillées."
+]},
+
+{"id": 2493, "livreId": 16, "titre": "Œufs crémeux à la diable", "page": 27, "categorie": "Entrée", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"8 oeufs durs",
+"1 contenant de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia Tartinable",
+"2 cuillérées à table (25 ml) de relish sucrée",
+"1/2 cuillérée à thé (2 ml) de moutarde sèche",
+"1/4 de cuillérée à thé (1 ml) de sel",
+"Une pincée de poivre"
+],
+"preparation": [
+"Couper les oeufs en deux. Retirer les jaunes, écraser. Incorporer le fromage à la crème, la relish et les assaisonnements. Remplir les blancs d'oeufs.",
+"Donne 16 oeufs à la diable."
+]},
+
+{"id": 2494, "livreId": 16, "titre": "Trempette chaude au bœuf", "page": 27, "categorie": "Entrée, Trempette", "image": "livres/016-philadelphia-livre-de-cuisine/images/Trempette-chaude-au-boeuf.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1/4 de tasse (50 ml) d'oignon haché",
+"1 cuillérée à table (15 ml) de Margarine Parkay",
+"1 tasse (250 ml) de lait",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, coupé en cubes",
+"1 paquet de 3 onces (90 g) de tranches de boeuf fumé, hachées",
+"1 boîte de 4 onces (125 g) de champignons, égouttés",
+"1/4 de tasse (50 ml) de Fromage Parmesan Râpé Kraft",
+"2 cuillérées à table (25 ml) de persil haché"
+],
+"preparation": [
+"Faire revenir les oignons dans la margarine. Ajouter le lait et le fromage à la crème; remuer à feu doux jusqu'à ce que le fromage soit fondu. Ajouter les ingrédients restants; cuire à feu vif en remuant occasionnellement. Servir chaud sur des tranches de pain français, si désiré.",
+"Donne 2 1/2 tasses (625 ml).",
+"VARIANTE : Remplacer les tranches de boeuf fumé par 2 1/2 onces (75 g) de tranches de dinde fumée.",
+"SUGGESTION : Pour donner plus de couleur, servir avec des cubes de pain français, de blé entier ou de seigle."
+]},
+
+{"id": 2495, "livreId": 16, "titre": "Tartinade au fromage et noix de pin", "page": 28, "categorie": "Entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Tartinade-au-fromage-et-noix-de-pin.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"2 cuillérées à table (25 ml) de Fromage Parmesan Râpé Kraft",
+"1/4 de tasse (50 ml) de poivron vert haché",
+"1 cuillérée à table (15 ml) d'oignon finement haché",
+"2 cuillérées à thé (10 ml) de piments hachés",
+"Une pincée de poivre de cayenne",
+"1/3 de tasse (75 ml) de noix de pin, ou d'amandes tranchées, grillées"
+],
+"preparation": [
+"Bien mélanger tous les ingrédients sauf les noix de pin. Réfrigérer. Former une bûche. Recouvrir de noix de pin avant de servir.",
+"Donne 1 tasse (250 ml).",
+"VARIANTE : Remplacer le fromage à la crème par du Fromage à la Crème Léger de marque Philadelphia. Augmenter le parmesan à 1/4 de tasse (50 ml). Mettre à la cuillère dans un plat de service. Garnir de noix de pin au moment de servir.",
+"CONSEIL : Les tartinades maison au fromage dans des contenants colorés font de jolis cadeaux pour l'hôtesse. Pour une touche personnelle, inclure la recette."
+]},
+
+{"id": 2496, "livreId": 16, "titre": "Tartinade piquante", "page": 28, "categorie": "Entrée", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de Margarine Parkay, ramollie",
+"1/4 de tasse (50 ml) de Fromage Parmesan Râpé Kraft",
+"2 cuillérées à table (25 ml) de vin blanc sec",
+"2 cuillérées à table (25 ml) de persil haché",
+"1/8 de cuillérée à thé (0,5 ml) de poivre",
+"Une pincée de thym moulu",
+"Une pincée de poudre d'ail"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème et la margarine. Ajouter les ingrédients restants, bien mélanger. Réfrigérer.",
+"Donne environ 1 2/3 tasse (400 ml)."
+]},
+
+{"id": 2497, "livreId": 16, "titre": "Croissants hors-d'œuvre aux crevettes", "page": 29, "categorie": "Entrée, Poisson", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, ramolli",
+"1 tasse (250 ml) de crevettes cuites, hachées",
+"1/3 de tasse (75 ml) de Fromage Parmesan Râpé Kraft",
+"1 cuillérée à table (15 ml) de lait",
+"2 boîtes de 8 onces (235 g) de Croissants Rapides Réfrigérés Pillsbury",
+"1 oeuf battu",
+"1 cuillérée à thé (5 ml) d'eau"
+],
+"preparation": [
+"Bien mélanger le fromage léger, les crevettes, le parmesan et le lait. Séparer la pâte à croissants en huit rectangles; presser fermement sur les perforations pour sceller. Étendre uniformément 2 cuillérées à table (25 ml) combles de mélange sur chaque rectangle. Couper chaque rectangle en 6 triangles; rouler tel qu'indiqué sur la boîte. Placer sur une plaque à biscuits graissée; badigeonner à l'oeuf mélangé à l'eau. Cuire à 375°F/190°C, 12 à 15 minutes ou jusqu'à ce que la pâte soit dorée. Servir chaud.",
+"Donne 4 douzaines.",
+"VARIANTES :",
+"Remplacer les crevettes par 6 1/2 onces (200 g) de thon en flocons, égoutté.",
+"Remplacer le fromage léger par du Fromage à la Crème de marque Philadelphia."
+]},
+
+{"id": 2498, "livreId": 16, "titre": "Trempette aux palourdes", "page": 29, "categorie": "Entrée, Trempette, Poisson", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"8 onces (250 g) de palourdes émincées",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"2 cuillérées à thé (10 ml) de jus de citron",
+"1 1/2 cuillérée à thé (7 ml) de sauce worcestershire",
+"1/4 de cuillérée à thé (1 ml) de sel d'ail",
+"Une pincée de poivre"
+],
+"preparation": [
+"Égoutter les palourdes, réserver 1/4 de tasse (50 ml) de liquide. Bien mélanger les palourdes, le liquide réservé et les ingrédients restants. Réfrigérer. Servir avec des croustilles ou des crudités.",
+"Donne 1 1/2 tasse (375 ml)."
+]},
+
+{"id": 2499, "livreId": 16, "titre": "Tartinade hawaïenne à la noix de coco", "page": 30, "categorie": "Entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Tartinade-hawaienne.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 contenant de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia Tartinable",
+"2 cuillérées à table (25 ml) de Conserves d'Abricot, d'Ananas ou de Pêche Kraft",
+"1/3 de tasse (75 ml) de flocons de noix de coco"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème et la conserve. Ajouter la noix de coco, bien mélanger. Réfrigérer. Servir avec des tranches de pain aux noix.",
+"Donne 1 1/3 tasse (325 ml).",
+"VARIANTES :",
+"Ajouter 1/8 de cuillérée à thé (0,5 ml) de graines d'anis.",
+"Remplacer les Conserves Kraft par 1/4 de tasse (50 ml) de sauce aux canneberges entières."
+]},
+
+{"id": 2500, "livreId": 16, "titre": "Pizza hors-d'œuvre", "page": 31, "categorie": "Entrée", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"7 1/2 onces (212 g) de Petits Pains de Lait de Beurre Réfrigérés Pillsbury",
+"1 oignon moyen coupé en rondelles",
+"1 tasse (250 ml) de courgette hachée",
+"1 boîte de 4 onces (125 g) de champignons, égouttés",
+"2 cuillérées à table (25 ml) de Margarine Parkay",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/4 de tasse (50 ml) de lait",
+"1 oeuf battu",
+"1/2 cuillérée à thé (2 ml) de sel"
+],
+"preparation": [
+"Séparer chaque biscuit en deux parties. Placer sur une plaque à pizza graissée de 12 pouces (30 cm), recouvrir fond et bord. Aplanir pour former une seule croûte. Faire revenir l'oignon, la courgette et les champignons dans la margarine. Bien mélanger le fromage à la crème, le lait, l'oeuf et le sel. Ajouter les légumes. Verser sur la pâte. Cuire à 400°F/200°C, 20 à 25 minutes jusqu'à ce qu'elle soit dorée. Servir chaud.",
+"Donne 14 à 16 portions."
+]},
+
+{"id": 2501, "livreId": 16, "titre": "Tartinade aux six ingrédients", "page": 31, "categorie": "Entrée", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"4 onces (125 g) de Fromage Suisse 100 % Naturel Kraft, râpé",
+"4 tranches de bacon cuit, émiettées",
+"2 cuillérées à table (25 ml) d'oignon vert tranché",
+"1 cuillérée à thé (5 ml) de sauce worcestershire",
+"2 cuillérées à table (25 ml) de lait"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème et le fromage suisse au fouet électrique à vitesse moyenne. Ajouter les ingrédients restants, bien mélanger. Réfrigérer. Servir avec des craquelins assortis.",
+"Donne 1 2/3 tasse (400 ml)."
+]},
+
+{"id": 2502, "livreId": 16, "titre": "Boule au fromage pour réception", "page": 32, "categorie": "Entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Boule-au-fromage.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"2 paquets de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"8 onces (250 g) de fromage cheddar fort, râpé",
+"1 cuillérée à table (15 ml) de piments hachés",
+"1 cuillérée à table (15 ml) de poivron vert haché",
+"1 cuillérée à table (15 ml) d'oignon finement haché",
+"2 cuillérées à thé (10 ml) de sauce worcestershire",
+"1 cuillérée à thé (5 ml) de jus de citron",
+"Une pincée de cayenne",
+"Une pincée de sel",
+"Pacanes hachées"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème et le fromage cheddar au fouet électrique à vitesse moyenne. Ajouter les ingrédients restants sauf les pacanes; bien mélanger. Réfrigérer plusieurs heures. Former une boule; rouler dans les pacanes. Servir avec des craquelins.",
+"Donne environ 2 tasses (500 ml).",
+"VARIANTES :",
+"Supprimer les pacanes. Rouler dans le persil haché, le boeuf séché ou des amandes grillées hachées.",
+"Former en bûche. Garnir le dessus et le dessous de la bûche de persil. Trancher. Servir avec des craquelins ou des tranches de concombre.",
+"Former des boulettes de 1 pouce (2,5 cm). Rouler dans des noix hachées, du boeuf séché, des graines de sésame grillées ou du persil haché.",
+"Former une pyramide. Garnir un côté d'arachides hachées, le deuxième côté de persil haché et le troisième côté de boeuf séché haché. Servir sur du pain de seigle.",
+"Former un ballon de football; enrober de pacanes. Garnir de lamelles de piments sur le dessus pour former le laçage."
+]},
+
+{"id": 2503, "livreId": 16, "titre": "Tartinade relevée", "page": 34, "categorie": "Entrée", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de Margarine Parkay, ramollie",
+"2 cuillérées à table (25 ml) d'oignon haché",
+"1 1/2 cuillérée à thé (7 ml) de pâte d'anchois",
+"1 cuillérée à thé (5 ml) de moutarde pure préparée",
+"1 cuillérée à thé (5 ml) de câpres hachées, égouttées",
+"1 cuillérée à thé (5 ml) de graines de carvi",
+"1 cuillérée à thé (5 ml) de paprika"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème et la margarine. Ajouter les ingrédients restants. Bien mélanger. Réfrigérer.",
+"Donne environ 1 2/3 tasse (400 ml)."
+]},
+
+{"id": 2504, "livreId": 16, "titre": "Trempette à l'aneth", "page": 34, "categorie": "Entrée, Trempette", "image": "livres/016-philadelphia-livre-de-cuisine/images/Trempette-a-l-aneth.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de Mayonnaise Légère Réduite en Calories Kraft",
+"3 cuillérées à table (50 ml) de lait",
+"1/4 de tasse (50 ml) d'oignon vert haché",
+"1 cuillérée à table (15 ml) de persil haché",
+"3/4 de cuillérée à thé (3 ml) d'aneth",
+"1/4 de cuillérée à thé (1 ml) de sel de céleri",
+"1/4 de cuillérée à thé (1 ml) de poudre d'oignon"
+],
+"preparation": [
+"Bien mélanger le fromage léger, la mayonnaise et le lait. Incorporer les ingrédients restants. Réfrigérer. Servir avec des crudités.",
+"Donne 1 1/2 tasse (375 ml)."
+]},
+
+{"id": 2505, "livreId": 16, "titre": "Canapés roulés au fromage et aux fines herbes", "page": 35, "categorie": "Entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Canapes-roules.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"2 cuillérées à table (15 ml) de persil haché",
+"2 cuillérées à thé (10 ml) de jus de citron",
+"1/2 cuillérée à thé (2 ml) de feuilles de basilic sec, émiettées",
+"1/8 de cuillérée à thé (0,5 ml) de poivre",
+"1/8 de cuillérée à thé (0,5 ml) de poudre d'ail",
+"1 pain de 1 livre (500 g) de blé entier non tranché, sans la croûte",
+"Margarine Molle Parkay",
+"1/4 de tasse (50 ml) de pacanes finement hachées",
+"1/4 de tasse (50 ml) de graines de sésame",
+"1 cuillérée à table (15 ml) de sauce worcestershire"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème, le persil, le jus et les assaisonnements. Trancher le pain dans sa longueur en tranches de 1/2 pouce (1 cm). Rouler chaque tranche jusqu'à épaisseur de 1/4 de pouce (6 mm). Étendre le mélange au fromage uniformément sur chaque tranche; rouler en commençant par le bout étroit. Tartiner les roulés de margarine en excluant les bouts. Dans un petit poêlon, mélanger les ingrédients restants, cuire 3 minutes ou jusqu'à ce que la sauce worcestershire s'évapore. Laisser refroidir. Enrober les roulés du mélange aux pacanes. Couvrir, réfrigérer au moins 30 minutes. Couper chaque roulé en tranches de 1/2 pouce (1 cm).",
+"Donne environ 2 1/2 douzaines."
+]},
+
+{"id": 2506, "livreId": 16, "titre": "Tartinade aux herbes savoureuses", "page": 37, "categorie": "Entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Tartinade-aux-fines-herbes.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, ramolli",
+"1 cuillérée à table (15 ml) de ciboulette hachée",
+"1/4 de cuillérée à thé (1 ml) de feuilles de basilic sec, émiettées",
+"Une pincée de poivre"
+],
+"preparation": [
+"Bien mélanger tous les ingrédients. Réfrigérer. À l'aide d'une douille à pâtisserie, déposer le mélange au fromage sur des tranches de courgettes et de poivrons rouges, des bâtonnets de carotte et des tomates cerises.",
+"Donne 1 tasse (250 ml).",
+"CONSEIL : Garder toujours un pot de tartinade aux herbes savoureuses dans le réfrigérateur pour les visiteurs inattendus ou des collations vite faites."
+]},
+
+{"id": 2507, "livreId": 16, "titre": "Trempette crémeuse au gingembre", "page": 37, "categorie": "Entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Trempette-cremeuse-au-gingembre.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, ramolli",
+"2 cuillérées à table (25 ml) de jus d'orange",
+"2 cuillérées à table de Marmelade d'Oranges Kraft",
+"1/8 de cuillérée à thé (0,5 ml) de gingembre moulu",
+"Variété de fruits frais"
+],
+"preparation": [
+"Bien mélanger les ingrédients. Réfrigérer. Servir avec des fruits.",
+"Donne 1 tasse (250 ml).",
+"SUGGESTION : Au petit déjeuner, servir la trempette crémeuse au gingembre sur des muffins aux fruits ou du pain aux noix."
+]},
+
+{"id": 2508, "livreId": 16, "titre": "Tartinade délectable au cheddar", "page": 38, "categorie": "Entrée", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de Sauce à Salade Miracle Whip",
+"1 tasse (250 ml) de Fromage Cheddar Doux 100 % Naturel Râpé Kraft",
+"2 cuillérées à table (25 ml) d'oignon vert tranché",
+"8 tranches de bacon cuit, émiettées",
+"1/2 tasse (125 ml) de craquelins au beurre, émiettés"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème et la sauce à salade. Ajouter le cheddar et les oignons, bien mélanger. Déposer à la cuillère dans un moule à tarte de 9 pouces (22 cm); saupoudrer de miettes de bacon et de craquelins. Cuire à 350°F/180°C, 15 minutes. Servir sur des craquelins.",
+"Donne 2 tasses (500 ml).",
+"VARIANTE : Remplacer le bacon émietté par 1/4 de tasse (50 ml) de miettes à saveur de bacon.",
+"MICRO-ONDES : Faire chauffer le fromage à la crème 30 secondes à température moyenne (50 %). Suivre la recette tel qu'indiqué à l'exception du bacon et des miettes à saveur de bacon. Faire chauffer à haute température 4 minutes jusqu'à ce que la tartinade soit chaude, tourner le plat toutes les 2 minutes. Saupoudrer de bacon et de miettes mélangés. Servir tel qu'indiqué."
+]},
+
+{"id": 2509, "livreId": 16, "titre": "Tortillas appétissantes", "page": 38, "categorie": "Entrée", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 3 onces (90 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"2 cuillérées à table (25 ml) de chili vert haché",
+"Une pincée de sel d'oignon",
+"4 tortillas",
+"2 cuillérées à table (25 ml) de Margarine Parkay, fondue",
+"Sauce à tacos"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème, le chili et le sel d'oignon. Étendre sur les tortillas, rouler. Placer sur une plaque à biscuits non graissée, badigeonner de margarine. Cuire à 350°F/180°C, 20 minutes. Servir avec la sauce à tacos.",
+"Donne 4 hors-d'oeuvres."
+]},
+
+{"id": 2510, "livreId": 16, "titre": "Hors-d'œuvre au fromage au four", "page": 39, "categorie": "Entrée", "image": "livres/016-philadelphia-livre-de-cuisine/images/Hors-d-oeuvre-au-fromage-au-four.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 4 onces (125 g) de petits pains au beurre réfrigérés",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia",
+"1/2 cuillérée à thé d'aneth",
+"1 jaune d'oeuf battu"
+],
+"preparation": [
+"Dérouler la pâte sur une surface légèrement farinée, sceller les bords pour former un rectangle de 12 x 4 pouces (30 x 10 cm). Saupoudrer sur la surface du fromage à la crème la moitié de l'aneth; enfoncer l'aneth légèrement dans le fromage. Placer le fromage au centre de la pâte (côté aneth vers le bas). Saupoudrer le fromage de l'aneth restant. Refermer le fromage dans la pâte en ramenant les bords ensemble et presser les extrémités pour sceller. Placer sur une plaque à biscuits légèrement graissée; badigeonner du jaune d'oeuf. Cuire à 350°F/180°C, 15 à 18 minutes pour que la pâte soit légèrement dorée. Servir avec des craquelins assortis et des tranches de pomme.",
+"Donne 8 portions.",
+"VARIANTE : Remplacer l'aneth par 1/2 cuillérée à thé (2 ml) de feuilles de romarin sec, émiettées et 1/2 cuillérée à thé (2 ml) de paprika."
+]},
+
+{"id": 2511, "livreId": 16, "titre": "Pommes de terre nouvelles farcies", "page": 40, "categorie": "Entrée", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"2 livres (1 kg) de petites pommes de terre nouvelles",
+"1 contenant de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia Tartinable",
+"Caviar",
+"Ciboulette hachée"
+],
+"preparation": [
+"Cuire les pommes de terre dans l'eau bouillante salée 15 à 20 minutes ou jusqu'à tendres, égoutter. Couper une fine tranche de pomme de terre à la base pour qu'elles se tiennent. Vider les pommes de terre avec une cuillère à melon. Farcir de fromage à la crème, garnir de caviar et de ciboulette hachée. Servir chaud.",
+"Donne 1 1/2 douzaine."
+]},
+
+{"id": 2512, "livreId": 16, "titre": "Trempette crémeuse guacamole \"Philly\"", "page": 40, "categorie": "Entrée, Trempette", "image": "livres/016-philadelphia-livre-de-cuisine/images/Trempette-cremeuse-guacamole.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"2 avocats moyens, pelés",
+"1 cuillérée à table (15 ml) de jus de citron",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"1/4 de tasse (50 ml) d'oignon finement haché",
+"1/2 cuillérée à thé (2 ml) de sel",
+"1/4 de cuillérée à thé (1 ml) de sel d'ail",
+"1/4 de cuillérée à thé (1 ml) de sauce piquante aux piments",
+"10 1/2 onces (315 g) de trempette de haricots rouges",
+"Laitue finement émincée",
+"Tomates hachées",
+"Olives noires tranchées",
+"Fromage Cheddar Doux 100 % Naturel Râpé Kraft"
+],
+"preparation": [
+"Écraser les avocats avec le jus de citron. Bien incorporer au mélange d'avocats le fromage à la crème, les oignons et les assaisonnements. Étendre la trempette de haricots rouges sur l'assiette de service. Garnir d'ingrédients restants. Servir avec le mélange d'avocats et des croustilles de maïs ou de tortillas. Garnir de tomates en morceaux et de tranches d'olives si désiré.",
+"Donne 6 à 8 portions.",
+"VARIANTE : Remplacer la trempette de haricots par 16 onces (500 g) de haricots frits."
+]},
+
+{"id": 2513, "livreId": 16, "titre": "Trempette à la florentine", "page": 42, "categorie": "Entrée, Trempette", "image": "livres/016-philadelphia-livre-de-cuisine/images/Trempette-a-la-florentine.jpeg",
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, ramolli",
+"1/2 tasse (125 ml) de yogourt nature",
+"2 cuillérées à table (25 ml) de lait",
+"1 paquet de 10 onces (300 g) d'épinards congelés, décongelés, bien égouttés, hachés",
+"2 oeufs durs, finement hachés",
+"1/4 de cuillérée à thé (1 ml) de poivre",
+"1/4 de cuillérée à thé (1 ml) de sel"
+],
+"preparation": [
+"Bien mélanger le fromage léger, le yogourt et le lait. Incorporer les ingrédients restants. Servir avec des crudités.",
+"Donne 2 1/2 tasses (625 ml)."
+]},
+
+{"id": 2514, "livreId": 16, "titre": "Boule tropicale au fromage", "page": 43, "categorie": "Entrée", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"8 1/4 onces (260 g) d'ananas broyés, égouttés",
+"8 onces (250 g) de Fromage Cheddar Doux 100 % Naturel Râpé Kraft",
+"1/2 tasse (125 ml) de pacanes hachées",
+"1/4 de tasse (50 ml) d'abricots secs hachés",
+"1 cuillérée à thé (5 ml) de gingembre cristallisé, haché",
+"Flocons de noix de coco"
+],
+"preparation": [
+"Bien mélanger le fromage à la crème et l'ananas. Ajouter tous les ingrédients restants sauf la noix de coco; bien mélanger. Réfrigérer plusieurs heures. Former une boule. Rouler dans la noix de coco.",
+"Donne environ 1 1/2 tasse (375 ml)."
+]},
+
+{"id": 2515, "livreId": 16, "titre": "Hors-d'œuvre piquant à la chair de crabe", "page": 43, "categorie": "Entrée, Poisson", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"7 1/2 onces (225 g) de chair de crabe, égouttée, émiettée",
+"2 cuillérées à table (25 ml) d'oignon finement haché",
+"2 cuillérées à table (25 ml) de lait",
+"1/2 cuillérée à thé (2 ml) de raifort en crème",
+"1/4 de cuillérée à thé (1 ml) de sel",
+"Une pincée de poivre",
+"1/3 de tasse (75 ml) d'amandes hachées, grillées"
+],
+"preparation": [
+"Bien mélanger tous les ingrédients sauf les amandes. Déposer le mélange à la cuillère dans un moule à tarte de 9 pouces (22 cm), saupoudrer d'amandes. Cuire à 375°F/190°C, 15 minutes. Servir avec des craquelins.",
+"Donne environ 1 1/2 tasse (375 ml).",
+"VARIANTES :",
+"Remplacer le crabe par 1 boîte de 8 onces (250 g) de palourdes en morceaux, égouttées.",
+"Supprimer les amandes, saupoudrer d'aneth."
+]},
+
+{"id": 2516, "livreId": 16, "titre": "Sandwiches au concombre (pour le thé)", "page": 44, "categorie": "Entrée, Sandwich", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"16 tranches de pain blanc",
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"2 cuillérées à table (25 ml) d'oignon râpé",
+"1 concombre moyen, pelé, épépiné",
+"2 cuillérées à table (25 ml) de Vraie Mayonnaise Kraft",
+"1/8 de cuillérée à thé (0,5 ml) de poudre d'ail"
+],
+"preparation": [
+"Couper 32 rondelles de pain à l'emporte-pièce en carrés de 2 pouces (5 cm). Bien mélanger le fromage à la crème et l'oignon. Râper le concombre, bien égoutter. Ajouter la mayonnaise mélangée à la poudre d'ail; bien mélanger. Pour chaque sandwich, étendre 1 cuillérée à table (15 ml) comble de mélange de fromage à la crème sur une rondelle de pain. Couvrir d'une deuxième rondelle, garnir du mélange au concombre. Presser légèrement.",
+"Donne 16 sandwiches."
+]},
+
+{"id": 2517, "livreId": 16, "titre": "Tartinade au fromage", "page": 44, "categorie": "Entrée", "image": null,
+"favori": false,
+"note": null,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème de marque Philadelphia, ramolli",
+"6 onces (180 g) de Fromage Cheddar Fort 100 % Naturel Râpé Kraft",
+"2 onces (60 g) de Fromage Bleu Naturel Kraft, émietté",
+"1/2 tasse (125 ml) de Margarine Parkay, ramollie",
+"2 cuillérées à table (25 ml) de lait",
+"2 cuillérées à table (25 ml) d'oignon haché",
+"1 cuillérée à thé (5 ml) de sauce worcestershire"
+],
+"preparation": [
+"Bien mélanger les fromages et la margarine. Ajouter les ingrédients restants; bien mélanger. Réfrigérer.",
+"Donne environ 3 tasses (750 ml)."
+]},
+
 {"id": 2518, "livreId": 16, "titre": "Saucisses en pâte", "page": 45, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 2519, "livreId": 16, "titre": "Tartinade aux crevettes moulée", "page": 45, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 2520, "livreId": 16, "titre": "Champignons farcis \"Philly\"", "page": 46, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
