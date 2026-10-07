@@ -1,6 +1,30 @@
 [
 {"id": 2478, "livreId": 16, "titre": "Tartinade à l'ail", "page": 12, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 2479, "livreId": 16, "titre": "Tartinade à trois étages", "page": 12, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
+{"id": 2479, "livreId": 16, "titre": "Tartinade à trois étages", "page": 12, "image": null,
+"favori": false,
+"note": null,
+  "categorie": Entrée,
+"ingredients": [
+"1 paquet de 8 onces (250 g) de Fromage à la Crème Léger de marque Philadelphia, ramolli",
+"2 tasses (500 ml) de Fromage Cheddar Doux 100 % Naturel Kraft, râpé",
+"1/3 de tasse (75 ml) de lait",
+"2 cuillérées à table (25 ml) de poivron vert finement haché",
+"2 cuillérées à table (25 ml) de carottes râpées",
+"1 cuillérée à thé (5 ml) d'oignon râpé",
+"2 tranches de bacon croustillant, émiettées",
+"1 1/2 cuillérée à thé (7 ml) de sauce au raifort (optionnel)",
+"1/4 de cuillérée à thé (1 ml) de fenouil",
+"1/8 de cuillérée à thé (0,5 ml) de poudre d'ail",
+"1/8 de cuillérée à thé (0,5 ml) de poivre"
+],
+"preparation": [
+"Bien mélanger le fromage léger, le fromage cheddar et le lait au fouet électrique à vitesse moyenne. Diviser le mélange en trois portions de 2/3 de tasse (150 ml). Dans l'une des portions, incorporer les poivrons verts, les carottes et les oignons; bien mélanger.",
+"Dans la deuxième portion, incorporer le bacon et le raifort; bien mélanger.",
+"Dans la troisième portion, ajouter les assaisonnements; bien mélanger.",
+"Disposer les tartinades sur une assiette de service. Servir avec des craquelins.",
+"Donne 2 tasses (500 ml)."
+]},
+
 {"id": 2480, "livreId": 16, "titre": "Hors-d'œuvres faciles", "page": 13, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 2481, "livreId": 16, "titre": "Hors-d'œuvres à l'impromptu", "page": 15, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 2482, "livreId": 16, "titre": "Trempette à la courgette et la ciboulette", "page": 15, "image": "IMG_1914.jpeg", "favori": false, "statut": "À indexer"},
