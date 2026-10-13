@@ -894,10 +894,11 @@ function retirerCategorie(recetteId, cat) {
 function toutesLesCategories() {
   return [
     "Accompagnement","Agneau","Apéro", "Asiatique","Autocuiseur",
-    "Bœuf","Boisson",
+    "Bœuf","Biscuits","Boisson",
     "Canard","Charcuterie","Comment faire","Conserve/Condiment","Crêpes",
     "Dessert","Dindon",
     "Entrée","Fondue","Fromage maison","Fruits de mer","Fumoir",
+    "Gateau", "Tarte", "Muffin",
     "Indien","Légumes",
     "Marinade","Mélange d'épices","Mexicain","Mijoteuse",
     "Noël","Pains","Pâtes","Pizza","Plat principal","Poisson","Porc",
