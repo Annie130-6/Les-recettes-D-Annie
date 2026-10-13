@@ -679,6 +679,7 @@ const mappingCategories = {
   "Salsas et trempettes": "Trempette",
 
   // Sucré
+  "Biscuits": "Biscuits",
   "Desserts": "Dessert",
   "Petites douceurs": "Dessert",
   "Jolies salades de fruits": "Dessert",
