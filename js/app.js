@@ -2076,16 +2076,16 @@ function retirerCategorie(recetteId, cat) {
 function toutesLesCategories() {
   return [
     "Accompagnement","Agneau","Apéro", "Asiatique","Autocuiseur",
-    "Bœuf","Boisson",
-    "Canard","Charcuterie","Comment faire","Conserve/Condiment","Crêpes",
+    "Bœuf","Biscuits", "Boisson",
+    "Canard","Charcuterie","Comment faire","Conserve/Condiment","Crêpes", "Curry",
     "Dessert","Dindon",
-    "Entrée","Fondue","Fromage maison","Fruits de mer","Fumoir",
+    "Entrée","Fondue","Fromage maison","Fruits de mer","Fumoir", "Gateau",
     "Indien","Légumes",
-    "Marinade","Mélange d'épices","Mexicain","Mijoteuse",
+    "Marinade","Mélange d'épices","Mexicain","Mijoteuse", "Muffin",
     "Noël","Pains","Pâtes","Pizza","Plat principal","Poisson","Porc",
     "Poulet/Volaille","Quiche","Riz",
     "Salade","Sandwich/Burger","Sauce","Sous-vide","Soupe",
-    "Trempette","Veau","Vinaigrette","Viande vieillie",
+     "Tarte", "Trempette","Veau","Vinaigrette","Viande vieillie",
   ];
 }
 
