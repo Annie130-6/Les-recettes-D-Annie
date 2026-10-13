@@ -844,7 +844,11 @@ const motsClesCategories = {
   "Poisson": ["poisson","saumon","thon","morue","truite","tilapia","sole","fletan","aiglefin","cabillaud","brochet","mahi-mahi","achigan","sardine","anchois","lotte","rouget","omble"],
   "Fruits de mer": ["fruits de mer","crevette","homard","crabe","moules","petoncle","huitre","palourde","calmar","langoustine"],
   "Pizza": ["pizza"],
-  "Quiche": ["quiche"]
+  "Quiche": ["quiche"],
+  "Biscuits": ["biscuit"],
+  "Gateau": ["gateau"],
+  "Muffin": [muffin"],
+  "Curry": [curry"]
 };
 
 const regexCategories = Object.keys(motsClesCategories).map(cat => ({
