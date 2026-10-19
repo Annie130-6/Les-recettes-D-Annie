@@ -30609,12 +30609,8 @@
 
   
 
-{"id": 3459, "livreId": 19, "titre": "Bacalhau", "page": 52, "categorie": "Barbecue", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3460, "livreId": 19, "titre": "Brochettes d'espadon", "page": 62, "categorie": "Barbecue", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3461, "livreId": 19, "titre": "Brochettes de fruit de mer glacées aux abricots", "page": 51, "categorie": "Barbecue", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3462, "livreId": 19, "titre": "Brochettes de fruits de mer du Pacifique", "page": 57, "categorie": "Barbecue", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3463, "livreId": 19, "titre": "Brochettes exotiques aux crevettes", "page": 60, "categorie": "Barbecue", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3464, "livreId": 19, "titre": "Cailles alla Toscano (Cailles au barbecue)", "page": 67, "categorie": "Barbecue", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
+{"id": 3460, "livreId": 19, "titre": "Brochettes d'espadon", "page": 62, "categorie": "Barbecue", "image": "IMG_1925.jpeg", "favori": false, "statut": "À 
 {"id": 3465, "livreId": 19, "titre": "Côtelettes d'agneau au yogourt au miel et à l'ail", "page": 54, "categorie": "Barbecue", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3466, "livreId": 19, "titre": "Côtelettes d'agneau d'Okey", "page": 69, "categorie": "Barbecue", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3467, "livreId": 19, "titre": "Côtelettes d'agneau grillées au cilantro", "page": 54, "categorie": "Barbecue", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -30652,21 +30648,12 @@
 {"id": 3499, "livreId": 19, "titre": "Steaks de veau aux fruits", "page": 66, "categorie": "Barbecue", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3500, "livreId": 19, "titre": "Thon au Barbecue", "page": 57, "categorie": "Barbecue", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3501, "livreId": 19, "titre": "Vivaneau à la sauce aux framboises", "page": 48, "categorie": "Barbecue", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3502, "livreId": 19, "titre": "Baron de rôti de boeuf", "page": 233, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3503, "livreId": 19, "titre": "Bifteck Marchand de Vins", "page": 224, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
+
 {"id": 3504, "livreId": 19, "titre": "Biftecks d'aloyau grillés aux champignons", "page": 216, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3505, "livreId": 19, "titre": "Blanquette de veau à l'indienne", "page": 206, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3506, "livreId": 19, "titre": "Boeuf à la ceylanaise", "page": 229, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3507, "livreId": 19, "titre": "Boeuf dans une sauce de tomates au gingembre", "page": 215, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3508, "livreId": 19, "titre": "Boeuf en sauce à l'ananas", "page": 216, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3509, "livreId": 19, "titre": "Boeuf en sauce aux champignons et au vin rouge", "page": 224, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3510, "livreId": 19, "titre": "Boeuf et tomates sur nouilles", "page": 208, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3511, "livreId": 19, "titre": "Boeuf Satay", "page": 221, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3512, "livreId": 19, "titre": "Boeuf Stroganoff", "page": 222, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3513, "livreId": 19, "titre": "Boeuf Sud Africain", "page": 229, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3514, "livreId": 19, "titre": "Boeuf szechuan émincé", "page": 219, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3515, "livreId": 19, "titre": "Boeuf Viennoise", "page": 226, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3516, "livreId": 19, "titre": "Boulettes de goulache", "page": 221, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
+
+
 {"id": 3517, "livreId": 19, "titre": "Chili con carne et fromage", "page": 215, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3518, "livreId": 19, "titre": "Contrefilet New York Diable", "page": 213, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3519, "livreId": 19, "titre": "Côtelettes de veau Verde", "page": 238, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -30798,7 +30785,7 @@
 {"id": 3645, "livreId": 19, "titre": "Marmelade de quatre agrumes", "page": 704, "categorie": "Conserves", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3646, "livreId": 19, "titre": "Pêches en conserve", "page": 698, "categorie": "Conserves", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3647, "livreId": 19, "titre": "Pommes et abricots en conserve", "page": 698, "categorie": "Conserves", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3648, "livreId": 19, "titre": "Bananes royales aux ananas", "page": 484, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
 {"id": 3649, "livreId": 19, "titre": "Coupes de mousse à l'orange et au brandy", "page": 473, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3650, "livreId": 19, "titre": "Crêpes à l'orange", "page": 467, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3651, "livreId": 19, "titre": "Crêpes à la crème patissière", "page": 468, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -30863,52 +30850,26 @@
 {"id": 3710, "livreId": 19, "titre": "Trempette Mexicali", "page": 34, "categorie": "Canapés et hors-d'œuvre", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 
 
-{"id": 3713, "livreId": 19, "titre": "Baisers de noix de coco", "page": 526, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
 {"id": 3714, "livreId": 19, "titre": "Barre au granola et aux ananas", "page": 631, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3715, "livreId": 19, "titre": "Barres à la citrouille", "page": 623, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3716, "livreId": 19, "titre": "Barres à la crème de menthe et au Kahlua", "page": 624, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3717, "livreId": 19, "titre": "Barres au chocolat et guimauves", "page": 616, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3718, "livreId": 19, "titre": "Barres aux carottes, pommes et épices", "page": 627, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3719, "livreId": 19, "titre": "Barres de sauce aux pommes", "page": 615, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3720, "livreId": 19, "titre": "Barres Honolulu", "page": 607, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
+
+
 {"id": 3721, "livreId": 19, "titre": "Barres Namaimo", "page": 565, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3722, "livreId": 19, "titre": "Bavaroise au chocolat", "page": 612, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3723, "livreId": 19, "titre": "Biscuits à la meringue", "page": 565, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3724, "livreId": 19, "titre": "Biscuits arc-en-ciel à la crème sure et aux épices", "page": 624, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3725, "livreId": 19, "titre": "Biscuits au beurre d'arachides", "page": 661, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3726, "livreId": 19, "titre": "Biscuits au sucre", "page": 565, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3727, "livreId": 19, "titre": "Biscuits aux amandes", "page": 653, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3728, "livreId": 19, "titre": "Biscuits aux dates", "page": 649, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3729, "livreId": 19, "titre": "Biscuits aux épices", "page": 513, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3730, "livreId": 19, "titre": "Biscuits aux figues", "page": 583, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3731, "livreId": 19, "titre": "Biscuits aux grains de chocolat de Jeannie", "page": 542, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3732, "livreId": 19, "titre": "Biscuits aux noisettes et au miel", "page": 628, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3733, "livreId": 19, "titre": "Biscuits aux pêches et pacanes à la mode du Sud", "page": 619, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3734, "livreId": 19, "titre": "Biscuits d'avoine aux noix et raisins", "page": 513, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3735, "livreId": 19, "titre": "Biscuits granola", "page": 583, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3736, "livreId": 19, "titre": "Biscuits Rob Boy", "page": 620, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3737, "livreId": 19, "titre": "Biscuits sans cuisson", "page": 569, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3738, "livreId": 19, "titre": "Blanc-manger à la mode d'antan", "page": 650, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3739, "livreId": 19, "titre": "Blanc-manger aux fraises", "page": 638, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3740, "livreId": 19, "titre": "Blanc manger aux noix de Grenoble", "page": 637, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3741, "livreId": 19, "titre": "Bombe aux framboises, au chocolat et à la guimauve", "page": 554, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3742, "livreId": 19, "titre": "Bombe napolitaine", "page": 547, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3743, "livreId": 19, "titre": "Bonbons à la guimauve et au chocolat", "page": 679, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
+
+
+
+
+
+
 {"id": 3744, "livreId": 19, "titre": "Bonbons au caramel au chocolat", "page": 607, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3745, "livreId": 19, "titre": "Bonbons aux pralines et au chocolat", "page": 672, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3746, "livreId": 19, "titre": "Bouchées au chocolat, noix et menthe", "page": 608, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3747, "livreId": 19, "titre": "Brownies au chocolat", "page": 558, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3748, "livreId": 19, "titre": "Caramel au chocolat", "page": 514, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3749, "livreId": 19, "titre": "Caramels", "page": 615, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3750, "livreId": 19, "titre": "Caramels au chocolat et aux noix de Pamela", "page": 529, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3751, "livreId": 19, "titre": "Carrés à la noix de coco", "page": 550, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3752, "livreId": 19, "titre": "Carrés au beurre", "page": 509, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3753, "livreId": 19, "titre": "Carrés au beurre d'arachides et au chocolat", "page": 537, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3754, "livreId": 19, "titre": "Carrés au Marasquin", "page": 637, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3755, "livreId": 19, "titre": "Carrés aux dattes à la mode d'antan", "page": 658, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3756, "livreId": 19, "titre": "Carrés aux noix et à l'érable", "page": 646, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3757, "livreId": 19, "titre": "Carrés rigolos de Jennifer", "page": 575, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3758, "livreId": 19, "titre": "Carrés Turtles", "page": 514, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
+
+
+
+
+
 {"id": 3759, "livreId": 19, "titre": "Chocoquoi", "page": 530, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3760, "livreId": 19, "titre": "Copacabana", "page": 569, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3761, "livreId": 19, "titre": "Coupe de fruits Thimothée", "page": 521, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -31217,10 +31178,8 @@
 
 {"id": 4065, "livreId": 19, "titre": "au cidre de poire", "page": 176, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4066, "livreId": 19, "titre": "Beignets de pétoncles", "page": 197, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4067, "livreId": 19, "titre": "Beurre citronné aux herbes", "page": 191, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4068, "livreId": 19, "titre": "Brochettes de fruits de mer à la moutarde douce", "page": 178, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4069, "livreId": 19, "titre": "Brochettes de thon et de requin californiennes", "page": 168, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4070, "livreId": 19, "titre": "Casserole de vivaneau à la béarnaise", "page": 192, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
+
 {"id": 4071, "livreId": 19, "titre": "Coquilles St Jacques Alfonso XII", "page": 168, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4072, "livreId": 19, "titre": "Crevettes à la noix de coco et à la bière avec marmelade aux jalapeños", "page": 174, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4073, "livreId": 19, "titre": "Crevettes au barbecue du Chef K", "page": 183, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -31300,7 +31259,7 @@
 {"id": 4148, "livreId": 19, "titre": "Torsades au beurre", "page": 685, "categorie": "Pains", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 
 {"id": 4150, "livreId": 19, "titre": "Cappelletti à la sauce Mornay", "page": 443, "categorie": "Pâtes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4151, "livreId": 19, "titre": "Chang Yo Mein", "page": 431, "categorie": "Pâtes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
 {"id": 4152, "livreId": 19, "titre": "Coquilles géantes au crabe Mornay", "page": 447, "categorie": "Pâtes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4153, "livreId": 19, "titre": "Cracked Black Pepper Pasta", "page": 432, "categorie": "Pâtes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4154, "livreId": 19, "titre": "Farfalle à la Westphalienne", "page": 440, "categorie": "Pâtes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -31342,7 +31301,7 @@
 {"id": 4190, "livreId": 19, "titre": "Steak Wong", "page": 436, "categorie": "Pâtes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4191, "livreId": 19, "titre": "Vermicelli au crabe", "page": 434, "categorie": "Pâtes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4192, "livreId": 19, "titre": "Vermicelli primavera au citron poivré", "page": 443, "categorie": "Pâtes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4193, "livreId": 19, "titre": "Calzone Quattro Stagioni (Calzone quatre saisons)", "page": 454, "categorie": "Pizza", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
 {"id": 4194, "livreId": 19, "titre": "Croûte à la farine de blé entier", "page": 456, "categorie": "Pizza", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4195, "livreId": 19, "titre": "Croûte au Parmesan et à l'ail", "page": 460, "categorie": "Pizza", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4196, "livreId": 19, "titre": "Croûte aux herbes", "page": 453, "categorie": "Pizza", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -31432,7 +31391,7 @@
 {"id": 4286, "livreId": 19, "titre": "Steaks de porc grillés avec marinade aux noix", "page": 289, "categorie": "Porc et agneau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4287, "livreId": 19, "titre": "Steaks de porc sautés à la sauce Clémentine", "page": 314, "categorie": "Porc et agneau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 
-{"id": 4289, "livreId": 19, "titre": "César classique", "page": 154, "categorie": "Salades", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
 {"id": 4290, "livreId": 19, "titre": "Ensalada Andaluza", "page": 155, "categorie": "Salades", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4291, "livreId": 19, "titre": "Fruits gelés renversés", "page": 130, "categorie": "Salades", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4292, "livreId": 19, "titre": "Insalada Delle 24 Ore", "page": 154, "categorie": "Salades", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -31486,10 +31445,8 @@
 {"id": 4340, "livreId": 19, "titre": "Vinaigrette mille-îles", "page": 138, "categorie": "Salades", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4341, "livreId": 19, "titre": "Vinaigrette française originale", "page": 145, "categorie": "Salades", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 
-{"id": 4343, "livreId": 19, "titre": "Beurre à l'ail", "page": 112, "categorie": "Sauces", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4344, "livreId": 19, "titre": "Beurre à la cannelle", "page": 102, "categorie": "Sauces", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4345, "livreId": 19, "titre": "Beurre aux crevettes ou aux langoustines", "page": 112, "categorie": "Sauces", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4346, "livreId": 19, "titre": "Beurre aux herbes", "page": 121, "categorie": "Sauces", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
+
 {"id": 4347, "livreId": 19, "titre": "Coulis aux fraises", "page": 107, "categorie": "Sauces", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4348, "livreId": 19, "titre": "Court Bouillon", "page": 117, "categorie": "Sauces", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4349, "livreId": 19, "titre": "Creme Anglaise", "page": 120, "categorie": "Sauces", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -31538,12 +31495,7 @@
 {"id": 4392, "livreId": 19, "titre": "Sauce aux framboises de logan ou aux mûres", "page": 120, "categorie": "Sauces", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4393, "livreId": 19, "titre": "Velouté", "page": 105, "categorie": "Sauces", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4394, "livreId": 19, "titre": "Véronique", "page": 114, "categorie": "Sauces", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4395, "livreId": 19, "titre": "Bisque bretonne aux crevettes", "page": 76, "categorie": "Soupes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4396, "livreId": 19, "titre": "Bisque d'écrevisses Cardinal", "page": 80, "categorie": "Soupes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4397, "livreId": 19, "titre": "Bouillon au poisson", "page": 76, "categorie": "Soupes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4398, "livreId": 19, "titre": "Bouillon aux légumes", "page": 92, "categorie": "Soupes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4399, "livreId": 19, "titre": "Bouillon de boeuf ou de gibier", "page": 85, "categorie": "Soupes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4400, "livreId": 19, "titre": "Bouillon de poulet", "page": 77, "categorie": "Soupes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
 {"id": 4401, "livreId": 19, "titre": "Consommé Adèle", "page": 88, "categorie": "Soupes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4402, "livreId": 19, "titre": "Consommé Anjou", "page": 81, "categorie": "Soupes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4403, "livreId": 19, "titre": "Consommé Cherbourg", "page": 91, "categorie": "Soupes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -31607,9 +31559,8 @@
 {"id": 4462, "livreId": 19, "titre": "Steaks de veau deux sauces", "page": 409, "categorie": "Spécialités du Chef K", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4463, "livreId": 19, "titre": "Tournedos Epimeleia", "page": 374, "categorie": "Spécialités du Chef K", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4464, "livreId": 19, "titre": "Tournedos Sherwood", "page": 377, "categorie": "Spécialités du Chef K", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4465, "livreId": 19, "titre": "Beignets de poulet grand'mère", "page": 263, "categorie": "Volaille", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4466, "livreId": 19, "titre": "Blanquette de poulet", "page": 262, "categorie": "Volaille", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4467, "livreId": 19, "titre": "Boulettes de poulet au curry", "page": 256, "categorie": "Volaille", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
+
 {"id": 4468, "livreId": 19, "titre": "Crêpes au Cheddar et à la dinde", "page": 277, "categorie": "Volaille", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4469, "livreId": 19, "titre": "Dinde à la provençale", "page": 276, "categorie": "Volaille", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4470, "livreId": 19, "titre": "Dinde fumée avec sauce à la crème sure et au fromage", "page": 279, "categorie": "Volaille", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
