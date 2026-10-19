@@ -1119,8 +1119,7 @@
 ]
 },
 {
-"id": 3496,
-"livreId": 19,
+"id": 3496,"livreId": 19,
 "titre": "Ravioli au saumon fumé sauce Mornay au poivre et à la vodka",
 "page": 28,
 "categorie": "Entrée",
@@ -7992,7 +7991,7 @@
 "2 c. à table (30 mL) de sherry",
 "1 gousse d’ail finement hachée",
 "1 c. à thé (5 mL) de gingembre haché finement",
-"6 champignons chinois séchés, trempés pendant 1 heure dans de l’eau chaude",
+"6  séchés, trempés pendant 1 heure dans de l’eau chaude",
 "2 c. à table (30 mL) de pâte de tomates"
 ],
 "preparation": [
@@ -10997,7 +10996,7 @@
 "2 c. à table (30 mL) de sherry",
 "1 gousse d’ail hachée",
 "1 c. à thé (5 mL) de gingembre haché",
-"6 champignons chinois secs, trempés pendant 1 heure en eau tiède",
+"6  secs, trempés pendant 1 heure en eau tiède",
 "2 c. à table (30 mL) de concentré de tomate"
 ],
 "preparation": [
@@ -11095,7 +11094,7 @@
 "½ tasse (125 mL) de vin rouge sec",
 "4 biftecks d’aloyau de 8 onces (225 g)",
 "6 onces (175 g) de champignons-huîtres frais",
-"6 onces (175 g) de champignons chinois re-hydratés",
+"6 onces (175 g) de  re-hydratés",
 "3 c. à table (45 mL) de beurre"
 ],
 "preparation": [
@@ -12320,7 +12319,7 @@
 "source": null,
 "ingredients": [
 "1½ livres (675 g) de veau sans os",
-"8 champignons chinois noirs ou champignons sauvages séchés",
+"8  noirs ou champignons sauvages séchés",
 "1½ c. à thé (8 mL) de fécule de maïs",
 "4 c. à thé (20 mL) de sauce soya légère",
 "1 blanc d’oeuf",
@@ -16310,7 +16309,7 @@
 {
 "id": 3985,
 "livreId": 19,
-"titre": "Agneau aux champignons chinois",
+"titre": "Agneau aux ",
 "page": 314,
 "categorie": "Porc et agneau",
 "ingredientPrincipal": "agneau",
@@ -30609,7 +30608,7 @@
   
 
   
-{"id": 3458, "livreId": 19, "titre": "Striploins de New York au barbecue", "page": 59, "categorie": "Barbecue", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
 {"id": 3459, "livreId": 19, "titre": "Bacalhau", "page": 52, "categorie": "Barbecue", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3460, "livreId": 19, "titre": "Brochettes d'espadon", "page": 62, "categorie": "Barbecue", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3461, "livreId": 19, "titre": "Brochettes de fruit de mer glacées aux abricots", "page": 51, "categorie": "Barbecue", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -30862,8 +30861,8 @@
 {"id": 3708, "livreId": 19, "titre": "Trempette aux palourdes", "page": 34, "categorie": "Canapés et hors-d'œuvre", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3709, "livreId": 19, "titre": "Trempette campagnarde", "page": 34, "categorie": "Canapés et hors-d'œuvre", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3710, "livreId": 19, "titre": "Trempette Mexicali", "page": 34, "categorie": "Canapés et hors-d'œuvre", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3711, "livreId": 19, "titre": "Abricot en chemise", "page": 657, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3712, "livreId": 19, "titre": "Ambrosia", "page": 665, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
+
 {"id": 3713, "livreId": 19, "titre": "Baisers de noix de coco", "page": 526, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3714, "livreId": 19, "titre": "Barre au granola et aux ananas", "page": 631, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3715, "livreId": 19, "titre": "Barres à la citrouille", "page": 623, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -31215,7 +31214,7 @@
 {"id": 4061, "livreId": 19, "titre": "Steaks végétariens", "page": 727, "categorie": "Légumes, riz et repas végétariens", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4062, "livreId": 19, "titre": "Tofu aigre-doux", "page": 737, "categorie": "Légumes, riz et repas végétariens", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4063, "livreId": 19, "titre": "Tomates et fèves", "page": 720, "categorie": "Légumes, riz et repas végétariens", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4064, "livreId": 19, "titre": "Roughy orange meunière", "page": 168, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
 {"id": 4065, "livreId": 19, "titre": "au cidre de poire", "page": 176, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4066, "livreId": 19, "titre": "Beignets de pétoncles", "page": 197, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4067, "livreId": 19, "titre": "Beurre citronné aux herbes", "page": 191, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -31256,8 +31255,7 @@
 {"id": 4102, "livreId": 19, "titre": "Requin à la bière", "page": 162, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4103, "livreId": 19, "titre": "Requin à la sauce tomate et au gingembre", "page": 159, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4104, "livreId": 19, "titre": "Requin Mako aux noix de macadam", "page": 160, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4105, "livreId": 19, "titre": "Roughy orange au Grand Marnier", "page": 176, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4106, "livreId": 19, "titre": "Roughy orange au Porto et aux framboises", "page": 184, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
 {"id": 4107, "livreId": 19, "titre": "Rouleaux de perche", "page": 188, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4108, "livreId": 19, "titre": "Saumon asiatique", "page": 166, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4109, "livreId": 19, "titre": "Saumon au gingembre et au cidre dev poire", "page": 176, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -31300,7 +31298,7 @@
 {"id": 4146, "livreId": 19, "titre": "Rouleaux au raisin et aux pacanes", "page": 686, "categorie": "Pains", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4147, "livreId": 19, "titre": "Sucre à la cannelle", "page": 685, "categorie": "Pains", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4148, "livreId": 19, "titre": "Torsades au beurre", "page": 685, "categorie": "Pains", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4149, "livreId": 19, "titre": "Agnolotti au prosciutto et à la saucisse", "page": 433, "categorie": "Pâtes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
 {"id": 4150, "livreId": 19, "titre": "Cappelletti à la sauce Mornay", "page": 443, "categorie": "Pâtes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4151, "livreId": 19, "titre": "Chang Yo Mein", "page": 431, "categorie": "Pâtes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4152, "livreId": 19, "titre": "Coquilles géantes au crabe Mornay", "page": 447, "categorie": "Pâtes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -31380,14 +31378,8 @@
 {"id": 4226, "livreId": 19, "titre": "Omelette fermière", "page": 363, "categorie": "Plats aux oeufs", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4227, "livreId": 19, "titre": "Omelette jardinière", "page": 369, "categorie": "Plats aux oeufs", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4228, "livreId": 19, "titre": "Omelette aux fines herbes et au fromage", "page": 364, "categorie": "Plats aux oeufs", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4229, "livreId": 19, "titre": "Agneau aux champignons chinois", "page": 314, "categorie": "Porc et agneau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4230, "livreId": 19, "titre": "Agneau aux olives", "page": 298, "categorie": "Porc et agneau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4231, "livreId": 19, "titre": "Agneau grillé Cacciatore", "page": 305, "categorie": "Porc et agneau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4232, "livreId": 19, "titre": "Agneau grillé Teriyaki", "page": 310, "categorie": "Porc et agneau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4233, "livreId": 19, "titre": "Agneau maison", "page": 292, "categorie": "Porc et agneau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4234, "livreId": 19, "titre": "Agneau sauté à la provençale", "page": 299, "categorie": "Porc et agneau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4235, "livreId": 19, "titre": "Agneau Sri Lanka", "page": 317, "categorie": "Porc et agneau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4236, "livreId": 19, "titre": "Agneau Trattoria", "page": 289, "categorie": "Porc et agneau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
+
 {"id": 4237, "livreId": 19, "titre": "Côtelette de longe fumée à la sauce aux prunes", "page": 313, "categorie": "Porc et agneau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4238, "livreId": 19, "titre": "Côtelettes d'agneau à la confiture de tomates et au fromage", "page": 305, "categorie": "Porc et agneau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4239, "livreId": 19, "titre": "Côtelettes d'agneau au poivre", "page": 302, "categorie": "Porc et agneau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -31439,7 +31431,7 @@
 {"id": 4285, "livreId": 19, "titre": "Steaks de porc Dianne", "page": 309, "categorie": "Porc et agneau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4286, "livreId": 19, "titre": "Steaks de porc grillés avec marinade aux noix", "page": 289, "categorie": "Porc et agneau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4287, "livreId": 19, "titre": "Steaks de porc sautés à la sauce Clémentine", "page": 314, "categorie": "Porc et agneau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4288, "livreId": 19, "titre": "Assaisonnement au fromage bleu", "page": 138, "categorie": "Salades", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
 {"id": 4289, "livreId": 19, "titre": "César classique", "page": 154, "categorie": "Salades", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4290, "livreId": 19, "titre": "Ensalada Andaluza", "page": 155, "categorie": "Salades", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4291, "livreId": 19, "titre": "Fruits gelés renversés", "page": 130, "categorie": "Salades", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -31493,7 +31485,7 @@
 {"id": 4339, "livreId": 19, "titre": "Vinaigrette italienne", "page": 139, "categorie": "Salades", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4340, "livreId": 19, "titre": "Vinaigrette mille-îles", "page": 138, "categorie": "Salades", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4341, "livreId": 19, "titre": "Vinaigrette française originale", "page": 145, "categorie": "Salades", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4342, "livreId": 19, "titre": "Ailloli", "page": 102, "categorie": "Sauces", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
 {"id": 4343, "livreId": 19, "titre": "Beurre à l'ail", "page": 112, "categorie": "Sauces", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4344, "livreId": 19, "titre": "Beurre à la cannelle", "page": 102, "categorie": "Sauces", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4345, "livreId": 19, "titre": "Beurre aux crevettes ou aux langoustines", "page": 112, "categorie": "Sauces", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -31591,8 +31583,7 @@
 {"id": 4437, "livreId": 19, "titre": "Soupe Won Ton", "page": 94, "categorie": "Soupes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4438, "livreId": 19, "titre": "Tom Kar Gai", "page": 79, "categorie": "Soupes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4439, "livreId": 19, "titre": "Velouté à la Champenoise", "page": 77, "categorie": "Soupes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4440, "livreId": 19, "titre": "Agneau surprise des îles Fiji", "page": 405, "categorie": "Spécialités du Chef K", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4441, "livreId": 19, "titre": "Aiguillette de Volaille Nouvelles", "page": 385, "categorie": "Spécialités du Chef K", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
 {"id": 4442, "livreId": 19, "titre": "Côtelettes de veau au Roquefort et chocolat blanc", "page": 398, "categorie": "Spécialités du Chef K", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4443, "livreId": 19, "titre": "Côtelettes Nick Kalenuik", "page": 394, "categorie": "Spécialités du Chef K", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4444, "livreId": 19, "titre": "Crevettes en amour", "page": 410, "categorie": "Spécialités du Chef K", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
