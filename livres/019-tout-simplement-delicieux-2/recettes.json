@@ -31646,7 +31646,6 @@
 
 
 
-{"id": 3530, "livreId": 19, "titre": "Côtes de boeuf épicées de premier choix", "page": 238, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3533, "livreId": 19, "titre": "Croquettes de boeuf", "page": 241, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3534, "livreId": 19, "titre": "Dindes de veau créole", "page": 211, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3535, "livreId": 19, "titre": "Filet au poivre", "page": 214, "categorie": "Boeuf et veau", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -31735,43 +31734,8 @@
 {"id": 3646, "livreId": 19, "titre": "Pêches en conserve", "page": 698, "categorie": "Conserves", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3647, "livreId": 19, "titre": "Pommes et abricots en conserve", "page": 698, "categorie": "Conserves", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 
-{"id": 3649, "livreId": 19, "titre": "Coupes de mousse à l'orange et au brandy", "page": 473, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3650, "livreId": 19, "titre": "Crêpes à l'orange", "page": 467, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3651, "livreId": 19, "titre": "Crêpes à la crème patissière", "page": 468, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3652, "livreId": 19, "titre": "Crêpes aigres-douces au poulet", "page": 487, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3653, "livreId": 19, "titre": "Crêpes asiatiques", "page": 464, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3654, "livreId": 19, "titre": "Crêpes au chili con carne", "page": 475, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3655, "livreId": 19, "titre": "Crêpes au goût d'Italie", "page": 476, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3656, "livreId": 19, "titre": "Crêpes au homard et au Cheddar", "page": 486, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3657, "livreId": 19, "titre": "Crêpes au porc épicé au miel", "page": 491, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3658, "livreId": 19, "titre": "Crêpes au steak et au gingembre", "page": 483, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3659, "livreId": 19, "titre": "Crêpes au steak et aux champignons", "page": 484, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3660, "livreId": 19, "titre": "Crêpes aux bananes", "page": 476, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3661, "livreId": 19, "titre": "Crêpes aux cerises", "page": 468, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3662, "livreId": 19, "titre": "Crêpes aux fraises Romanoff", "page": 480, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3663, "livreId": 19, "titre": "Crêpes aux fruits de mer", "page": 467, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3664, "livreId": 19, "titre": "Crêpes aux noix et au sirop d'érable", "page": 478, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3665, "livreId": 19, "titre": "Crêpes aux pêches Melba", "page": 491, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3666, "livreId": 19, "titre": "Crêpes aux pommes", "page": 483, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3667, "livreId": 19, "titre": "Crêpes aux pommes et aux mûres", "page": 484, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3668, "livreId": 19, "titre": "Crêpes Coquille St. Jacques", "page": 474, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3669, "livreId": 19, "titre": "Crêpes couventines", "page": 473, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3670, "livreId": 19, "titre": "Crêpes de l'empire", "page": 483, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3671, "livreId": 19, "titre": "Crêpes Dejazet", "page": 468, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3672, "livreId": 19, "titre": "Crêpes Durora", "page": 475, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3673, "livreId": 19, "titre": "Crêpes Fajita", "page": 470, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3674, "livreId": 19, "titre": "Crêpes florentine aux pommes et au saumon fumé", "page": 480, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3675, "livreId": 19, "titre": "Crêpes forêt noire", "page": 467, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3676, "livreId": 19, "titre": "Crêpes hollandaises au poulet grillé", "page": 473, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3677, "livreId": 19, "titre": "Crêpes lasagne", "page": 479, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3678, "livreId": 19, "titre": "Crêpes marchand de vin", "page": 488, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3679, "livreId": 19, "titre": "Crêpes provençales au lapin", "page": 479, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3680, "livreId": 19, "titre": "Crêpes rose chérie", "page": 476, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3681, "livreId": 19, "titre": "Crêpes soufflé du Chef K", "page": 475, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3682, "livreId": 19, "titre": "Crêpe soufflées aux pétoncles", "page": 487, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3683, "livreId": 19, "titre": "Crêpes stufatu", "page": 486, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3684, "livreId": 19, "titre": "Crêpes surprise aux fruits de mer", "page": 464, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3685, "livreId": 19, "titre": "Crêpes Suzette classiques", "page": 478, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
+
+
 {"id": 3686, "livreId": 19, "titre": "Crêpes au boeuf de Bourgogne", "page": 474, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3687, "livreId": 19, "titre": "Nalesniki", "page": 488, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3688, "livreId": 19, "titre": "Palacinken hongrois", "page": 469, "categorie": "Crêpes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -31819,15 +31783,8 @@
 
 
 
-{"id": 3762, "livreId": 19, "titre": "Crème anglaise à la vanille et à la cannelle", "page": 671, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3766, "livreId": 19, "titre": "Crème glacée à l'érable et aux noix de Dianna", "page": 547, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3767, "livreId": 19, "titre": "Crème glacée à la guimauve et au chocolat", "page": 550, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3768, "livreId": 19, "titre": "Crème glacée à la vanille ou à la cannelle", "page": 547, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3769, "livreId": 19, "titre": "Crème glacée au café et à la menthe", "page": 669, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3770, "livreId": 19, "titre": "Crème glacée aux bananes et aux fraises", "page": 641, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3771, "livreId": 19, "titre": "Crème glacée aux bleuets", "page": 583, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3772, "livreId": 19, "titre": "Crème glacée aux pêches du Sud", "page": 554, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 3773, "livreId": 19, "titre": "Crème glacée classique au caramel", "page": 641, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3774, "livreId": 19, "titre": "Croquants Larry Hohn", "page": 608, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3775, "livreId": 19, "titre": "Croûte à l'avoine", "page": 627, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3776, "livreId": 19, "titre": "Croûte à tarte de base", "page": 616, "categorie": "Desserts", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -32039,7 +31996,6 @@
 {"id": 3993, "livreId": 19, "titre": "Carottes Champagne", "page": 734, "categorie": "Légumes, riz et repas végétariens", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3994, "livreId": 19, "titre": "Cassoulet du Chef K's", "page": 753, "categorie": "Légumes, riz et repas végétariens", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 3997, "livreId": 19, "titre": "Choux de Bruxelle Lyonnais", "page": 752, "categorie": "Légumes, riz et repas végétariens", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4003, "livreId": 19, "titre": "Crêpes au maïs", "page": 719, "categorie": "Légumes, riz et repas végétariens", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4004, "livreId": 19, "titre": "Croquettes au crabe et aux champignons", "page": 734, "categorie": "Légumes, riz et repas végétariens", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4005, "livreId": 19, "titre": "Crosses de fougères à la crème", "page": 709, "categorie": "Légumes, riz et repas végétariens", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4006, "livreId": 19, "titre": "Crosses de fougères à la sauce Pompadour", "page": 717, "categorie": "Légumes, riz et repas végétariens", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -32104,15 +32060,6 @@
 {"id": 4065, "livreId": 19, "titre": "au cidre de poire", "page": 176, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4066, "livreId": 19, "titre": "Beignets de pétoncles", "page": 197, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 
-
-
-{"id": 4072, "livreId": 19, "titre": "Crevettes à la noix de coco et à la bière avec marmelade aux jalapeños", "page": 174, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4073, "livreId": 19, "titre": "Crevettes au barbecue du Chef K", "page": 183, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4074, "livreId": 19, "titre": "Crevettes aux abricots et aux framboises", "page": 159, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4075, "livreId": 19, "titre": "Crevettes chasseur", "page": 198, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4076, "livreId": 19, "titre": "Crevettes dijonnaises", "page": 172, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4077, "livreId": 19, "titre": "Crevettes froides ailloli", "page": 172, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4078, "livreId": 19, "titre": "Crevettes géantes de la Nouvelle Orléans", "page": 186, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4079, "livreId": 19, "titre": "Espadon à la limonade au barbecue", "page": 187, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4080, "livreId": 19, "titre": "Espadon Kharia", "page": 178, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4081, "livreId": 19, "titre": "Filets de sole à la florentine (Filetti di Sogliola alla Fiorentina)", "page": 187, "categorie": "Fruits de mer", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -32423,9 +32370,6 @@
 {"id": 4439, "livreId": 19, "titre": "Velouté à la Champenoise", "page": 77, "categorie": "Soupes", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 
 {"id": 4442, "livreId": 19, "titre": "Côtelettes de veau au Roquefort et chocolat blanc", "page": 398, "categorie": "Spécialités du Chef K", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4444, "livreId": 19, "titre": "Crevettes en amour", "page": 410, "categorie": "Spécialités du Chef K", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4445, "livreId": 19, "titre": "Crevettes farcies du Chef K", "page": 402, "categorie": "Spécialités du Chef K", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
-{"id": 4446, "livreId": 19, "titre": "Crevettes Peri-Peri", "page": 393, "categorie": "Spécialités du Chef K", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4447, "livreId": 19, "titre": "Escalope de veau avec saumon fumé", "page": 378, "categorie": "Spécialités du Chef K", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4448, "livreId": 19, "titre": "Filet de porc Askenchuck", "page": 382, "categorie": "Spécialités du Chef K", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4449, "livreId": 19, "titre": "Filet de porc Pechâh", "page": 389, "categorie": "Spécialités du Chef K", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
@@ -32446,7 +32390,6 @@
 {"id": 4464, "livreId": 19, "titre": "Tournedos Sherwood", "page": 377, "categorie": "Spécialités du Chef K", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 
 
-{"id": 4468, "livreId": 19, "titre": "Crêpes au Cheddar et à la dinde", "page": 277, "categorie": "Volaille", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4469, "livreId": 19, "titre": "Dinde à la provençale", "page": 276, "categorie": "Volaille", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4470, "livreId": 19, "titre": "Dinde fumée avec sauce à la crème sure et au fromage", "page": 279, "categorie": "Volaille", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
 {"id": 4471, "livreId": 19, "titre": "Dinde fumée avec sauce aux cerises", "page": 262, "categorie": "Volaille", "image": "IMG_1925.jpeg", "favori": false, "statut": "À indexer"},
