@@ -232,6 +232,138 @@ function listeIngredientsHTML(ingredients) {
 }
 
 
+// ===== QUANTITÉS : multiplier ou diviser une recette =====
+// Seule la quantité au début de chaque ingrédient est modifiée (et les équivalents entre
+// parenthèses, ex. « 250 ml (1 tasse) »). La section « Préparation » n'est pas modifiée.
+
+const FRACTIONS_UNICODE = { "¼": 0.25, "½": 0.5, "¾": 0.75, "⅓": 1/3, "⅔": 2/3, "⅛": 0.125, "⅜": 0.375, "⅝": 0.625, "⅞": 0.875 };
+
+const Q_SRC = "(?:\\d+\\s+\\d+\\s*\\/\\s*\\d+|\\d+\\s*\\/\\s*\\d+|\\d+\\s*[¼½¾⅓⅔⅛⅜⅝⅞]|[¼½¾⅓⅔⅛⅜⅝⅞]|\\d+(?:[.,]\\d+)?)";
+const PLAGE_SRC = Q_SRC + "(?:\\s*(?:à|-|–|—)\\s*" + Q_SRC + ")?";
+const RE_DEBUT = new RegExp("^(\\s*)(" + PLAGE_SRC + ")(?!\\d)");
+const RE_PLAGE = new RegExp("^(" + Q_SRC + ")(?:(\\s*(?:à|-|–|—)\\s*)(" + Q_SRC + "))?$");
+const RE_PAREN = new RegExp(
+  "\\((\\s*)(" + PLAGE_SRC + ")(\\s*)(?=(?:ml|dl|cl|kg|g|oz|lbs?|litres?|l|tasses?|cuill[eè]res?|c\\.|tsp|tbsp|cups?|pintes?|livres?|onces?)(?![a-zà-ÿ]))",
+  "gi"
+);
+
+function valeurQuantite(texte) {
+  const s = texte.trim();
+  let m;
+  if ((m = s.match(/^(\d+)\s+(\d+)\s*\/\s*(\d+)$/))) return Number(m[1]) + m[2] / m[3];
+  if ((m = s.match(/^(\d+)\s*\/\s*(\d+)$/))) return m[1] / m[2];
+  if ((m = s.match(/^(\d+)\s*([¼½¾⅓⅔⅛⅜⅝⅞])$/))) return Number(m[1]) + FRACTIONS_UNICODE[m[2]];
+  if (FRACTIONS_UNICODE[s] !== undefined) return FRACTIONS_UNICODE[s];
+  return parseFloat(s.replace(",", "."));
+}
+
+const FRACTIONS_AFFICHAGE = [
+  [0, ""], [1/8, "⅛"], [1/4, "¼"], [1/3, "⅓"], [3/8, "⅜"], [1/2, "½"],
+  [5/8, "⅝"], [2/3, "⅔"], [3/4, "¾"], [7/8, "⅞"], [1, ""]
+];
+
+function formaterQuantite(v) {
+  if (v >= 20) return String(Math.round(v));
+  let entier = Math.floor(v);
+  const reste = v - entier;
+  let meilleur = FRACTIONS_AFFICHAGE[0];
+  FRACTIONS_AFFICHAGE.forEach(f => {
+    if (Math.abs(reste - f[0]) < Math.abs(reste - meilleur[0])) meilleur = f;
+  });
+  if (meilleur[0] === 1) entier += 1;
+  const fraction = meilleur[1];
+  if (entier === 0 && !fraction) return "⅛";
+  return entier > 0 ? entier + (fraction ? " " + fraction : "") : fraction;
+}
+
+function formaterFacteur(v) {
+  return String(Number(v.toFixed(3))).replace(".", ",");
+}
+
+function echelleQuantite(texte, f) {
+  const m = texte.match(RE_PLAGE);
+  if (!m) return texte;
+  const a = valeurQuantite(m[1]) * f;
+  if (!isFinite(a)) return texte;
+  let res = formaterQuantite(a);
+  if (m[3]) {
+    const b = valeurQuantite(m[3]) * f;
+    if (!isFinite(b)) return texte;
+    res += m[2] + formaterQuantite(b);
+  }
+  return res;
+}
+
+function mettreALechelle(texte, f) {
+  const s = String(texte);
+  let debut, reste;
+  const m = s.match(RE_DEBUT);
+  if (m) {
+    debut = m[1] + echelleQuantite(m[2], f);
+    reste = s.slice(m[0].length);
+  } else {
+    const u = s.match(/^(\s*)(une?)(?=\s+(?!peu\b))/i);
+    if (!u) return s;
+    debut = u[1] + formaterQuantite(f);
+    reste = s.slice(u[0].length);
+  }
+  reste = reste.replace(RE_PAREN, (tout, a, q, b) => "(" + a + echelleQuantite(q, f) + b);
+  return debut + reste;
+}
+
+// Facteur choisi par recette (reste en mémoire jusqu'au rechargement de la page)
+let facteursRecette = {};
+
+function ingredientsMis(recette) {
+  const etat = facteursRecette[recette.id];
+  if (!etat || etat.facteur === 1) return recette.ingredients;
+  return recette.ingredients.map(i => mettreALechelle(i, etat.facteur));
+}
+
+function blocIngredientsHTML(recette, source) {
+  const etat = facteursRecette[recette.id];
+  const id = recette.id;
+  return `<div style="margin:6px 0">
+      <input id="facteur-${source}-${id}" type="text" inputmode="decimal" placeholder="ex. 2,45"
+        style="width:80px;padding:6px;font-size:1em">
+      <button title="Multiplier la recette" onclick="changerQuantite(${id}, 'x', '${source}')">× Multiplier</button>
+      <button title="Diviser la recette" onclick="changerQuantite(${id}, '/', '${source}')">÷ Diviser</button>
+      <button title="Revenir à la recette normale" onclick="changerQuantite(${id}, '1', '${source}')">↺</button>
+      <span id="etiq-${source}-${id}" style="font-weight:bold">${etat ? "Quantités " + etat.texte : ""}</span>
+    </div>
+    <div id="ing-${source}-${id}">${listeIngredientsHTML(ingredientsMis(recette))}</div>`;
+}
+
+function changerQuantite(id, operation, source) {
+  const recette = recettes.find(r => r.id === id);
+  if (!recette) return;
+  if (operation === "1") {
+    delete facteursRecette[id];
+  } else {
+    const champ = document.getElementById(`facteur-${source}-${id}`);
+    const v = parseFloat(String(champ ? champ.value : "").replace(",", ".").replace(/\s/g, ""));
+    if (!(v > 0) || !isFinite(v)) {
+      alert("Écris un nombre plus grand que 0 (exemple : 2,45).");
+      return;
+    }
+    facteursRecette[id] = operation === "x"
+      ? { facteur: v, texte: "× " + formaterFacteur(v) }
+      : { facteur: 1 / v, texte: "÷ " + formaterFacteur(v) };
+  }
+  const etat = facteursRecette[id];
+  ["carte", "modal"].forEach(src => {
+    const liste = document.getElementById(`ing-${src}-${id}`);
+    if (liste) liste.innerHTML = listeIngredientsHTML(ingredientsMis(recette));
+    const etiq = document.getElementById(`etiq-${src}-${id}`);
+    if (etiq) etiq.textContent = etat ? "Quantités " + etat.texte : "";
+    if (!etat) {
+      const champ = document.getElementById(`facteur-${src}-${id}`);
+      if (champ) champ.value = "";
+    }
+  });
+}
+
+
 function carteRecetteHTML(recette) {
   let etoiles = "";
   for (let n = 1; n <= 3; n++) {
@@ -259,7 +391,7 @@ function carteRecetteHTML(recette) {
       <p>${(livres.find(l => l.id === recette.livreId) || {}).titre || ""}${recette.page ? ` · Page ${recette.page}` : ""} · ${categoriesDeRecette(recette).map(c => `<span class="cat-tag" onclick="retirerCategorie(${recette.id}, '${c.replace(/'/g,"\\'")}')">${c} ✕</span>`).join(" ")}</p>
 
 
-                  ${recette.ingredients && recette.ingredients.length ? listeIngredientsHTML(recette.ingredients) : ""}
+                  ${recette.ingredients && recette.ingredients.length ? blocIngredientsHTML(recette, 'carte') : ""}
 
       ${recette.preparation && recette.preparation.length ? `<p class="prep-liste">${recette.preparation.map((etape, i) => `${i + 1}. ${etape}`).join("<br>")}</p>` : ""}
 
@@ -360,7 +492,7 @@ function ouvrirDetailRecette(id) {
         
         <h2>${recette.titre}</h2>
         <p>${livre}${recette.page ? ` · Page ${recette.page}` : ""}</p>
-        ${recette.ingredients && recette.ingredients.length ? `<h3>Ingrédients</h3>${listeIngredientsHTML(recette.ingredients)}` : ""}
+        ${recette.ingredients && recette.ingredients.length ? `<h3>Ingrédients</h3>${blocIngredientsHTML(recette, 'modal')}` : ""}
         ${recette.preparation && recette.preparation.length ? `<h3>Préparation</h3><p>${recette.preparation.map((e,i)=>`${i+1}. ${e}`).join("<br>")}</p>` : ""}
       </div>
     </div>
