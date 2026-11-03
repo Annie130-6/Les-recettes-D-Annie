@@ -1048,15 +1048,15 @@ function toutesLesCategories() {
   return [
     "Accompagnement","Agneau","Apéro", "Asiatique","Autocuiseur",
     "Bœuf","Biscuits", "Boisson",
-    "Canard","Charcuterie","Comment faire","Conserve/Condiment","Crêpes", "Curry",
+    "Canard", "Cerf", "Charcuterie","Comment faire","Conserve/Condiment","Crêpes", "Curry",
     "Dessert","Dindon",
-    "Entrée","Fondue","Fromage maison","Fruits de mer","Fumoir", "Gateau",
+    "Entrée", "Été", "Fondue","Fromage maison","Fruits de mer","Fumoir", "Gateau",
     "Indien","Légumes",
-    "Marinade","Mélange d'épices","Mexicain","Mijoteuse", "Muffin",
+    "Marinade","Mélange d'épices","Mexicain","Mijoteuse", "Mijoté", "Muffin",
     "Noël","Pains","Pâtes","Pizza","Plat principal","Poisson","Porc",
     "Poulet/Volaille","Quiche","Riz",
-    "Salade","Sandwich/Burger","Sauce","Sous-vide","Soupe",
-     "Tarte", "Trempette","Veau","Vinaigrette","Viande vieillie",
+    "Salade","Sandwich/Burger","Sauce", "Sauce pour pâte", "Sous-vide","Soupe",
+     "Tarte", "Trempette", "Veau","Vinaigrette","Viande vieillie",
   ];
 }
 
