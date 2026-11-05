@@ -1091,8 +1091,7 @@ function appliquerFiltres() {
 
   const filtres = base.filter(r => {
     const cats = categoriesDeRecette(r).map(sansAccents);
-    const ingr = ingredientsDeRecette(r).map(sansAccents);
-    const champs = sansAccents(r.titre) + " " + cats.join(" ") + " " + ingr.join(" ");
+    const champs = sansAccents(r.titre);
 
     const okTexte = mots.every(m => champs.includes(m));
     const okCats = choisies.length === 0 ? true
@@ -1386,8 +1385,7 @@ function appliquerFiltres() {
 
   const filtres = base.filter(r => {
     const cats = categoriesDeRecette(r).map(sansAccents);
-    const ingr = ingredientsDeRecette(r).map(sansAccents);
-    const champs = sansAccents(r.titre) + " " + cats.join(" ") + " " + ingr.join(" ");
+    const champs = sansAccents(r.titre);
 
     const okTexte = mots.every(m => champs.includes(m));
     const okCats = choisies.length === 0 ? true
