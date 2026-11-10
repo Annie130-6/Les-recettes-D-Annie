@@ -1,63 +1,1700 @@
 [
-{"id": 12583, "titre": "Boulettes de veau en sauce", "livreId": 58, "page": 10, "categorie": "Toutes", "ingredientPrincipal": "Veau", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12584, "titre": "Chili con carne", "livreId": 58, "page": 89, "categorie": "Toutes", "ingredientPrincipal": "Bœuf", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12585, "titre": "Escalopes de veau au fromage Oka", "livreId": 58, "page": 61, "categorie": "Toutes", "ingredientPrincipal": "Veau", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12586, "titre": "Filets de bœuf à la dijonnaise", "livreId": 58, "page": 66, "categorie": "Toutes", "ingredientPrincipal": "Bœuf", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12587, "titre": "Hamburgers classiques", "livreId": 58, "page": 91, "categorie": "Toutes", "ingredientPrincipal": "Bœuf", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12588, "titre": "Pain de viande savoureux", "livreId": 58, "page": 86, "categorie": "Toutes", "ingredientPrincipal": "Bœuf", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12589, "titre": "Pains à la viande aux champignons", "livreId": 58, "page": 44, "categorie": "Toutes", "ingredientPrincipal": "Bœuf", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12590, "titre": "Ragoût de boulettes", "livreId": 58, "page": 85, "categorie": "Toutes", "ingredientPrincipal": "Bœuf", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12591, "titre": "Roulade de veau aux épinards", "livreId": 58, "page": 46, "categorie": "Toutes", "ingredientPrincipal": "Veau", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12592, "titre": "Fettucines au poulet et asperges", "livreId": 58, "page": 76, "categorie": "Toutes", "ingredientPrincipal": "Poulet", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12593, "titre": "Fettucines au saumon", "livreId": 58, "page": 58, "categorie": "Toutes", "ingredientPrincipal": "Saumon", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12594, "titre": "Macaronis aux boulettes de viande", "livreId": 58, "page": 82, "categorie": "Toutes", "ingredientPrincipal": "Bœuf", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12595, "titre": "Mini-pizzas au jambon", "livreId": 58, "page": 59, "categorie": "Toutes", "ingredientPrincipal": "Jambon", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12596, "titre": "Nouilles au jambon et légumes", "livreId": 58, "page": 12, "categorie": "Toutes", "ingredientPrincipal": "Jambon", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12597, "titre": "Pizzas aux champignons et bacon", "livreId": 58, "page": 30, "categorie": "Toutes", "ingredientPrincipal": "Champignons", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12598, "titre": "Rigatonis aux saucisses et tomates", "livreId": 58, "page": 45, "categorie": "Toutes", "ingredientPrincipal": "Saucisses", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12599, "titre": "Tortellinis, sauce aux tomates séchées", "livreId": 58, "page": 28, "categorie": "Toutes", "ingredientPrincipal": "Tortellinis", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12600, "titre": "Couscous aux crevettes", "livreId": 58, "page": 14, "categorie": "Toutes", "ingredientPrincipal": "Crevettes", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12601, "titre": "Crevettes et pétoncles, sauce aux framboises", "livreId": 58, "page": 34, "categorie": "Toutes", "ingredientPrincipal": "Crevettes", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12602, "titre": "Darnes de saumon grillées", "livreId": 58, "page": 42, "categorie": "Toutes", "ingredientPrincipal": "Saumon", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12603, "titre": "Filets de sole à la ciboulette", "livreId": 58, "page": 29, "categorie": "Toutes", "ingredientPrincipal": "Sole", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12604, "titre": "Saumon en croûte de miel et sésame", "livreId": 58, "page": 13, "categorie": "Toutes", "ingredientPrincipal": "Saumon", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12605, "titre": "Tilapia au cheddar et amandes", "livreId": 58, "page": 60, "categorie": "Toutes", "ingredientPrincipal": "Tilapia", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12606, "titre": "Côtelettes de porc et orge aux légumes", "livreId": 58, "page": 26, "categorie": "Toutes", "ingredientPrincipal": "Porc", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12607, "titre": "Filets de porc à la moutarde", "livreId": 58, "page": 18, "categorie": "Toutes", "ingredientPrincipal": "Porc", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12608, "titre": "Ciabattas au poulet à la grecque", "livreId": 58, "page": 74, "categorie": "Toutes", "ingredientPrincipal": "Poulet", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12609, "titre": "Croquettes de poulet cuites au four", "livreId": 58, "page": 62, "categorie": "Toutes", "ingredientPrincipal": "Poulet", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12610, "titre": "Escalopes de dinde au brie", "livreId": 58, "page": 50, "categorie": "Toutes", "ingredientPrincipal": "Dinde", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12611, "titre": "Poitrines de poulet César", "livreId": 58, "page": 43, "categorie": "Toutes", "ingredientPrincipal": "Poulet", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12612, "titre": "Poitrines de poulet farcies au brie", "livreId": 58, "page": 11, "categorie": "Toutes", "ingredientPrincipal": "Poulet", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12613, "titre": "Poulet teriyaki", "livreId": 58, "page": 27, "categorie": "Toutes", "ingredientPrincipal": "Poulet", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12614, "titre": "Quesadillas au poulet", "livreId": 58, "page": 81, "categorie": "Toutes", "ingredientPrincipal": "Poulet", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12615, "titre": "Salade de poulet et mangue", "livreId": 58, "page": 79, "categorie": "Toutes", "ingredientPrincipal": "Poulet", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12616, "titre": "Vol-au-vent au poulet express", "livreId": 58, "page": 72, "categorie": "Toutes", "ingredientPrincipal": "Poulet", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12617, "titre": "Assiette de saumon fumé", "livreId": 58, "page": 16, "categorie": "Toutes", "ingredientPrincipal": "Saumon fumé", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12618, "titre": "Brochettes de melon et bocconcinis", "livreId": 58, "page": 32, "categorie": "Toutes", "ingredientPrincipal": "Melon", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12619, "titre": "Ceviche de pétoncles marinés", "livreId": 58, "page": 48, "categorie": "Toutes", "ingredientPrincipal": "Pétoncles", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12620, "titre": "Cocktail de crevettes et avocat", "livreId": 58, "page": 64, "categorie": "Toutes", "ingredientPrincipal": "Crevettes", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12621, "titre": "Légumes grillés", "livreId": 58, "page": 91, "categorie": "Toutes", "ingredientPrincipal": "Légumes", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12622, "titre": "Bavaroise aux framboises", "livreId": 58, "page": 68, "categorie": "Toutes", "ingredientPrincipal": "Framboises", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12623, "titre": "Coulis de framboises", "livreId": 58, "page": 68, "categorie": "Comment faire", "ingredientPrincipal": "Framboises", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12624, "titre": "Moelleux érable-chocolat", "livreId": 58, "page": 52, "categorie": "Toutes", "ingredientPrincipal": "Érable", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12625, "titre": "Panna cotta aux petits fruits", "livreId": 58, "page": 20, "categorie": "Toutes", "ingredientPrincipal": "Petits fruits", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12626, "titre": "Profiteroles, sauce au chocolat", "livreId": 58, "page": 36, "categorie": "Toutes", "ingredientPrincipal": "Chocolat", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12627, "titre": "Shortcake aux fraises", "livreId": 58, "page": 4, "categorie": "Toutes", "ingredientPrincipal": "Fraises", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12628, "titre": "Œufs à l'érable en cocotte", "livreId": 58, "page": 70, "categorie": "Toutes", "ingredientPrincipal": "Œufs", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12629, "titre": "Œufs bénédictine au saumon fumé", "livreId": 58, "page": 38, "categorie": "Toutes", "ingredientPrincipal": "Œufs", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12630, "titre": "Omelette au jambon et tomates séchées", "livreId": 58, "page": 22, "categorie": "Toutes", "ingredientPrincipal": "Jambon", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12631, "titre": "Rouleaux d'asperges et jambon au gratin", "livreId": 58, "page": 54, "categorie": "Toutes", "ingredientPrincipal": "Asperges", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12632, "titre": "Marinade à l'asiatique", "livreId": 58, "page": 96, "categorie": "Comment faire", "ingredientPrincipal": "Marinade", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12633, "titre": "Marinade aux tomates séchées", "livreId": 58, "page": 94, "categorie": "Comment faire", "ingredientPrincipal": "Marinade", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12634, "titre": "Marinade barbecue traditionnelle", "livreId": 58, "page": 95, "categorie": "Comment faire", "ingredientPrincipal": "Marinade", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12635, "titre": "Marinade douceur d'agrumes", "livreId": 58, "page": 92, "categorie": "Comment faire", "ingredientPrincipal": "Marinade", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12636, "titre": "Marinade saveur des Indes", "livreId": 58, "page": 97, "categorie": "Comment faire", "ingredientPrincipal": "Marinade", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12637, "titre": "Mayonnaise", "livreId": 58, "page": 64, "categorie": "Comment faire", "ingredientPrincipal": "Œuf", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12638, "titre": "Pesto", "livreId": 58, "page": 59, "categorie": "Comment faire", "ingredientPrincipal": "Basilic", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12639, "titre": "Sauce à pizza", "livreId": 58, "page": 30, "categorie": "Comment faire", "ingredientPrincipal": "Tomates", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12640, "titre": "Sauce hollandaise", "livreId": 58, "page": 38, "categorie": "Comment faire", "ingredientPrincipal": "Beurre", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12641, "titre": "Sauce teriyaki", "livreId": 58, "page": 27, "categorie": "Comment faire", "ingredientPrincipal": "Sauce soya", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12642, "titre": "Sauce tomate", "livreId": 58, "page": 28, "categorie": "Comment faire", "ingredientPrincipal": "Tomates", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12643, "titre": "Vinaigrette César", "livreId": 58, "page": 43, "categorie": "Comment faire", "ingredientPrincipal": "Vinaigrette", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"}
+  {
+    "id": 12583,
+    "livreId": 58,
+    "titre": "Boulettes de veau en sauce",
+    "page": 10,
+    "categorie": "Plat principal, Veau",
+    "ingredientPrincipal": "veau",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Boulettes-veau10.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "900 g (2 lb) de veau haché",
+      "2 œufs battus",
+      "125 ml (1/2 tasse) de farine",
+      "2 boîtes de 284 ml chacune de sauce demi-glace",
+      "1 carotte coupée en petits dés",
+      "10 ml (2 c. à thé) d'ail haché",
+      "30 ml (2 c. à soupe) d'huile d'olive",
+      "1 oignon haché",
+      "Facultatif : persil, thym, ciboulette"
+    ],
+    "preparation": [
+      "Mélanger la viande avec les œufs battus. Saler et poivrer. Incorporer l'ail haché et, si désiré, des fines herbes au goût.",
+      "Façonner des boulettes avec environ 45 ml (3 c. à soupe) de préparation pour chacune d'elles et les rouler dans la farine.",
+      "Faire colorer les boulettes dans l'huile d'olive à feu moyen.",
+      "Verser la sauce demi-glace. Ajouter la carotte et l'oignon haché. Porter à ébullition.",
+      "Cuire 15 minutes à feu doux."
+    ]
+  },
+  {
+    "id": 12584,
+    "livreId": 58,
+    "titre": "Poitrines de poulet farcies au brie",
+    "page": 11,
+    "categorie": "Plat principal, Poulet",
+    "ingredientPrincipal": "poulet",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Poitrine-farcie11.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "250 g de brie",
+      "10 ml (2 c. à thé) de romarin haché",
+      "10 ml (2 c. à thé) de poivre rose en grains",
+      "4 poitrines de poulet avec peau",
+      "30 ml (2 c. à soupe) de margarine"
+    ],
+    "preparation": [
+      "Tailler le brie en dés. Mélanger avec le romarin et les grains de poivre rose.",
+      "Soulever délicatement la peau de la volaille et étaler le mélange au brie sur la chair. Saler et poivrer.",
+      "Dans une poêle, faire fondre la margarine à feu moyen. Saisir la viande en la retournant de temps en temps.",
+      "Couvrir et cuire 12 minutes à feu doux.",
+      "Solution de rechange pour le beurre : la margarine peut se substituer au beurre, même pour la cuisson. À chaleur basse ou moyenne, la margarine non hydrogénée peut être utilisée pour cuire les aliments. Par contre, même si la margarine faible en gras est tout indiquée pour tartiner, elle ne convient pas pour la cuisson à cause de son contenu élevé en eau."
+    ]
+  },
+  {
+    "id": 12585,
+    "livreId": 58,
+    "titre": "Nouilles au jambon et légumes",
+    "page": 12,
+    "categorie": "Plat principal, Pâtes",
+    "ingredientPrincipal": "jambon",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Nouilles-jambon12.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "1 sac de 375 g de nouilles aux œufs",
+      "1 paquet de 175 g de jambon fumé en tranches",
+      "1/2 sac de 250 g de poireaux tranchés",
+      "16 tomates cerises, coupées en deux",
+      "1 poivron orange, coupé en dés",
+      "30 ml (2 c. à soupe) d'huile d'olive",
+      "Facultatif : parmesan râpé",
+      "Facultatif : persil haché"
+    ],
+    "preparation": [
+      "Dans une casserole d'eau bouillante salée, cuire les pâtes al dente. Égoutter.",
+      "Couper le jambon en dés.",
+      "Pendant ce temps, dans une autre casserole, chauffer l'huile à feu moyen. Faire sauter le jambon, les poireaux, les tomates cerises et le poivron de 3 à 4 minutes.",
+      "Incorporer les pâtes et, si désiré, le parmesan râpé et le persil haché."
+    ]
+  },
+  {
+    "id": 12586,
+    "livreId": 58,
+    "titre": "Saumon en croûte de miel et sésame",
+    "page": 13,
+    "categorie": "Plat principal, Poisson",
+    "ingredientPrincipal": "saumon",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Saumon-miel-sesame13.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "45 ml (3 c. à soupe) de miel",
+      "15 ml (1 c. à soupe) de moutarde de Dijon",
+      "125 ml (1/2 tasse) de graines de sésame",
+      "3 gouttes de Tabasco",
+      "4 filets de saumon de 180 g (1/3 de lb) chacun, sans peau",
+      "15 ml (1 c. à soupe) d'huile d'olive"
+    ],
+    "preparation": [
+      "Mélanger le miel avec la moutarde, les graines de sésame et le Tabasco jusqu'à l'obtention d'une préparation homogène.",
+      "Saler et poivrer les deux côtés des filets de saumon. Préchauffer le four à 205 °C (400 °F).",
+      "Dans une poêle striée, chauffer l'huile à feu moyen-élevé. Griller les filets de saumon 1 minute de chaque côté. Déposer les filets sur une plaque de cuisson tapissée de papier parchemin.",
+      "Étendre la préparation au miel sur les filets de saumon.",
+      "Cuire au four 10 minutes, jusqu'à ce que les graines de sésame se colorent."
+    ]
+  },
+  {
+    "id": 12587,
+    "livreId": 58,
+    "titre": "Couscous aux crevettes",
+    "page": 14,
+    "categorie": "Plat principal, Poisson",
+    "ingredientPrincipal": "crevettes",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Couscous-crevettes14.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "1 lime",
+      "250 ml (1 tasse) de couscous",
+      "60 ml (1/4 de tasse) d'huile d'olive",
+      "450 g (1 lb) de crevettes nordiques",
+      "115 g (1/4 de lb) de raisins secs",
+      "125 ml (1/2 tasse) de tomates séchées coupées en dés"
+    ],
+    "preparation": [
+      "Couper la lime en deux et presser le jus sur le couscous.",
+      "Incorporer l'huile, les crevettes, les raisins secs et les tomates séchées.",
+      "Verser 250 ml (1 tasse) d'eau chaude.",
+      "Couvrir et laisser gonfler le couscous environ 5 minutes. Remuer."
+    ]
+  },
+  {
+    "id": 12588,
+    "livreId": 58,
+    "titre": "Assiette de saumon fumé",
+    "page": 16,
+    "categorie": "Entrée",
+    "ingredientPrincipal": "saumon fumé",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Assiette-saumon16.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "45 ml (3 c. à soupe) d'huile d'olive",
+      "15 ml (1 c. à soupe) de vinaigre balsamique",
+      "30 ml (2 c. à soupe) d'amandes concassées",
+      "Quelques feuilles de laitue ou d'endives",
+      "2 paquets de 140 g chacun de saumon fumé",
+      "Facultatif : 15 ml (1 c. à soupe) de ciboulette hachée"
+    ],
+    "preparation": [
+      "Préparer la vinaigrette en mélangeant l'huile d'olive avec le vinaigre balsamique et les amandes. Si désiré, incorporer la ciboulette.",
+      "Disposer les feuilles de laitue dans les assiettes.",
+      "Répartir le saumon fumé sur la laitue et napper de vinaigrette."
+    ]
+  },
+  {
+    "id": 12589,
+    "livreId": 58,
+    "titre": "Filets de porc à la moutarde",
+    "page": 18,
+    "categorie": "Plat principal, Porc",
+    "ingredientPrincipal": "porc",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Porc-moutarde18.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "2 filets de porc de 300 g (2/3 de lb) chacun",
+      "60 ml (1/4 de tasse) de moutarde à l'ancienne",
+      "125 ml (1/2 tasse) de bouillon de poulet",
+      "125 ml (1/2 tasse) de crème à cuisson 15 %",
+      "45 ml (3 c. à soupe) de noix de pin",
+      "15 ml (1 c. à soupe) d'huile d'olive",
+      "45 ml (3 c. à soupe) d'échalotes sèches hachées",
+      "Facultatif : 15 ml (1 c. à soupe) de thym"
+    ],
+    "preparation": [
+      "Dans une poêle, chauffer l'huile à feu moyen. Saisir les filets de porc de chaque côté.",
+      "Diminuer l'intensité du feu et cuire 5 minutes à feu doux.",
+      "Mélanger la moutarde avec le bouillon de poulet et la crème. Incorporer les échalotes sèches et, si désiré, le thym.",
+      "Verser la sauce à la moutarde et ajouter les noix de pin.",
+      "Laisser mijoter à feu moyen jusqu'à ce que le liquide ait réduit de moitié."
+    ]
+  },
+  {
+    "id": 12590,
+    "livreId": 58,
+    "titre": "Panna cotta aux petits fruits",
+    "page": 20,
+    "categorie": "Dessert",
+    "ingredientPrincipal": "petits fruits",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Panna-cotta-fruits20.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "500 ml (2 tasses) de crème champêtre 15 %",
+      "85 ml (1/3 de tasse) de miel",
+      "2 à 3 gouttes d'essence de vanille",
+      "1 sachet de 7 g de gélatine sans saveur",
+      "45 ml (3 c. à soupe) d'eau froide",
+      "250 ml (1 tasse) de petits fruits frais, au choix"
+    ],
+    "preparation": [
+      "Dans une casserole, fouetter la crème avec le miel. Incorporer l'essence de vanille. À feu moyen, amener jusqu'aux premiers frémissements, sans faire bouillir. Retirer du feu.",
+      "Dans un petit bol, verser l'eau froide et le contenu du sachet de gélatine. Laisser gonfler quelques minutes.",
+      "Incorporer la gélatine à la crème chaude et remuer jusqu'à ce que la gélatine soit dissoute.",
+      "Répartir la préparation dans quatre coupes. Laisser tiédir. Couvrir d'une pellicule plastique et réfrigérer 6 heures.",
+      "Au moment de servir, garnir chaque portion de petits fruits."
+    ]
+  },
+  {
+    "id": 12591,
+    "livreId": 58,
+    "titre": "Omelette au jambon et tomates séchées",
+    "page": 22,
+    "categorie": "Brunch",
+    "ingredientPrincipal": "œufs",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Omelette-jambon22.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "8 gros œufs",
+      "15 ml (1 c. à soupe) de ciboulette hachée",
+      "125 g de brie",
+      "1 paquet de 250 g de jambon à déjeuner",
+      "45 ml (3 c. à soupe) de tomates séchées",
+      "30 ml (2 c. à soupe) d'huile d'olive"
+    ],
+    "preparation": [
+      "Battre les œufs avec la ciboulette. Saler et poivrer.",
+      "Dans une poêle antiadhésive, chauffer l'huile à feu moyen. Verser les œufs. À mesure que la préparation prend sur le rebord, la ramener doucement vers le centre. Cuire 3 minutes en prenant soin de laisser l'omelette légèrement crémeuse sur le dessus.",
+      "Couper le brie, le jambon et les tomates séchées en dés. Répartir sur une moitié de l'omelette.",
+      "À l'aide de la spatule, plier l'omelette en deux et faire glisser dans une assiette de service."
+    ]
+  },
+  {
+    "id": 12592,
+    "livreId": 58,
+    "titre": "Côtelettes de porc et orge aux légumes",
+    "page": 26,
+    "categorie": "Plat principal, Porc",
+    "ingredientPrincipal": "porc",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Porc-orge26.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "450 g (1 lb) de côtelettes de porc",
+      "500 ml (2 tasses) de macédoine de légumes surgelés",
+      "10 ml (2 c. à thé) de fleur d'ail",
+      "250 ml (1 tasse) d'orge perlé",
+      "500 ml (2 tasses) de bouillon de poulet",
+      "30 ml (2 c. à soupe) d'huile d'olive",
+      "Facultatif : 10 ml (2 c. à thé) de thym séché"
+    ],
+    "preparation": [
+      "Préchauffer le four à 205 °C (400 °F). Dans une casserole, chauffer l'huile à feu moyen. Faire dorer la viande 1 minute de chaque côté. Retirer les côtelettes de la casserole et réserver.",
+      "Dans la même casserole, cuire les légumes de 2 à 3 minutes.",
+      "Incorporer la fleur d'ail et l'orge perlé. Verser le bouillon de poulet. Ajouter le thym, si désiré. Chauffer jusqu'aux premiers frémissements.",
+      "Verser dans un plat allant au four et cuire 30 minutes.",
+      "Une fois ce délai écoulé, ajouter les côtelettes. Couvrir et cuire de nouveau de 5 à 8 minutes, jusqu'à ce que la viande soit cuite."
+    ]
+  },
+  {
+    "id": 12593,
+    "livreId": 58,
+    "titre": "Poulet teriyaki",
+    "page": 27,
+    "categorie": "Plat principal, Poulet",
+    "ingredientPrincipal": "poulet",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Poulet-teriyaki27.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "125 ml (1/2 tasse) de farine",
+      "4 poitrines de poulet sans peau",
+      "15 ml (1 c. à soupe) d'huile d'arachide",
+      "375 ml (1 1/2 tasse) de sauce teriyaki pour marinades",
+      "30 ml (2 c. à soupe) de graines de sésame"
+    ],
+    "preparation": [
+      "Déposer la farine dans une assiette et bien enrober le poulet.",
+      "Dans une poêle, faire chauffer l'huile à feu vif. Cuire le poulet 1 minute de chaque côté.",
+      "Verser la sauce teriyaki. Couvrir et cuire 5 minutes de chaque côté.",
+      "Au moment de servir, saupoudrer de graines de sésame."
+    ]
+  },
+  {
+    "id": 12594,
+    "livreId": 58,
+    "titre": "Sauce teriyaki maison",
+    "page": 27,
+    "categorie": "Sauce",
+    "ingredientPrincipal": "sauce soya",
+    "image": null,
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "250 ml (1 tasse) de sauce soya",
+      "125 ml (1/2 tasse) de cassonade",
+      "45 ml (3 c. à soupe) de mirin",
+      "30 ml (2 c. à soupe) de bouillon de poulet"
+    ],
+    "preparation": [
+      "Dans une petite casserole, porter à ébullition la sauce soya avec la cassonade, le mirin et le bouillon de poulet.",
+      "Dès les premiers frémissements, diminuer l'intensité du feu et laisser mijoter 5 minutes à feu moyen."
+    ]
+  },
+  {
+    "id": 12595,
+    "livreId": 58,
+    "titre": "Tortellinis, sauce aux tomates séchées",
+    "page": 28,
+    "categorie": "Plat principal, Pâtes",
+    "ingredientPrincipal": "tortellinis",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Tortellinis-tomates-sechees28.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "500 ml (2 tasses) de sauce tomate",
+      "250 ml (1 tasse) de crème à cuisson 15 %",
+      "30 ml (2 c. à soupe) de pesto aux tomates séchées",
+      "1 paquet de 350 g de tortellinis au bœuf braisé et vin rouge",
+      "1 sac de 125 g de parmesan râpé",
+      "15 ml (1 c. à soupe) d'huile d'olive",
+      "30 ml (2 c. à soupe) d'échalotes sèches"
+    ],
+    "preparation": [
+      "Dans une casserole, chauffer l'huile à feu moyen. Cuire les échalotes 1 minute. Verser la sauce tomate. Saler et poivrer. Cuire 5 minutes.",
+      "Incorporer la crème et le pesto aux tomates séchées. Laisser réduire sur feu doux 5 minutes.",
+      "Pendant ce temps, cuire les tortellinis selon les indications inscrites sur l'emballage. Égoutter.",
+      "Incorporer à la sauce et porter à ébullition.",
+      "Retirer du feu et saupoudrer de parmesan."
+    ]
+  },
+  {
+    "id": 12596,
+    "livreId": 58,
+    "titre": "Sauce tomate maison",
+    "page": 28,
+    "categorie": "Sauce",
+    "ingredientPrincipal": "tomates",
+    "image": null,
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "60 ml (1/4 de tasse) d'huile d'olive",
+      "2 oignons hachés",
+      "1 carotte émincée",
+      "15 ml (1 c. à soupe) d'ail haché",
+      "1 boîte de 796 ml de tomates italiennes",
+      "1 tige de thym",
+      "1 tige de romarin",
+      "15 ml (1 c. à soupe) de sucre",
+      "250 ml (1 tasse) de bouillon de légumes",
+      "30 ml (2 c. à soupe) de pâte de tomates",
+      "Sel et poivre"
+    ],
+    "preparation": [
+      "Dans une casserole, chauffer l'huile d'olive à feu moyen. Cuire les oignons, la carotte et l'ail de 3 à 5 minutes, sans les colorer.",
+      "Ajouter les tomates italiennes, le thym, le romarin, le sucre, le bouillon de légumes et la pâte de tomates. Saler et poivrer.",
+      "À feu doux, laisser mijoter à découvert environ 1 heure.",
+      "Servir la sauce telle quelle ou la réduire en purée au mélangeur une fois tiédie."
+    ]
+  },
+
+  {
+    "id": 12597,
+    "livreId": 58,
+    "titre": "Filets de sole à la ciboulette",
+    "page": 29,
+    "categorie": "Plat principal, Poisson",
+    "ingredientPrincipal": "sole",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Sole-ciboulette29.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "8 filets de sole",
+      "45 ml (3 c. à soupe) de ciboulette hachée",
+      "125 ml (1/2 tasse) de vin blanc sec",
+      "15 ml (1 c. à soupe) de jus de citron",
+      "30 ml (2 c. à soupe) de beurre fondu"
+    ],
+    "preparation": [
+      "Préchauffer le four à 180 °C (350 °F). Étaler les filets de sole sur une planche à découper. Saler, poivrer et saupoudrer de la moitié de la ciboulette hachée.",
+      "Rouler les filets en serrant bien. Disposer dans un plat creux allant au four.",
+      "Arroser avec le vin blanc, le jus de citron et le beurre fondu. Parsemer de la ciboulette restante.",
+      "Cuire au four de 10 à 15 minutes.",
+      "Au moment de servir, arroser du jus de cuisson."
+    ]
+  },
+  {
+    "id": 12598,
+    "livreId": 58,
+    "titre": "Pizzas aux champignons et bacon",
+    "page": 30,
+    "categorie": "Plat principal, Pizza",
+    "ingredientPrincipal": "champignons",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Pizza-champignons30.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "2 casseaux de champignons",
+      "1 boîte de 65 g de bacon précuit",
+      "2 pâtes à pizza précuites de 10 po chacune",
+      "250 ml (1 tasse) de sauce à pizza",
+      "1 sac de 200 g de mozzarella râpée"
+    ],
+    "preparation": [
+      "Préchauffer le four à 205 °C (400 °F).",
+      "Trancher les champignons. Dans une poêle, chauffer le bacon à feu moyen. Ajouter les champignons et cuire de 2 à 3 minutes.",
+      "Déposer les pâtes sur des plaques à pizzas ou sur des plaques de cuisson tapissées de papier parchemin.",
+      "Napper les pâtes de sauce à pizza. Répartir le bacon et les champignons sur les pâtes.",
+      "Saupoudrer de fromage et cuire au four 15 minutes."
+    ]
+  },
+  {
+    "id": 12599,
+    "livreId": 58,
+    "titre": "Sauce à pizza maison",
+    "page": 30,
+    "categorie": "Sauce",
+    "ingredientPrincipal": "tomates",
+    "image": null,
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "30 ml (2 c. à soupe) d'huile d'olive",
+      "1 oignon haché",
+      "1 boîte de 796 ml de tomates broyées",
+      "10 ml (2 c. à thé) d'ail haché",
+      "15 ml (1 c. à soupe) de thym haché",
+      "15 ml (1 c. à soupe) de romarin haché",
+      "Sel et poivre"
+    ],
+    "preparation": [
+      "Dans une casserole, chauffer l'huile d'olive à feu moyen. Faire colorer l'oignon haché.",
+      "Incorporer les tomates broyées, l'ail, le thym et le romarin. Saler et poivrer.",
+      "Porter à ébullition puis laisser mijoter à feu doux de 5 à 10 minutes."
+    ]
+  },
+  {
+    "id": 12600,
+    "livreId": 58,
+    "titre": "Brochettes de melon et bocconcinis",
+    "page": 32,
+    "categorie": "Entrée",
+    "ingredientPrincipal": "melon",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Brochettes-melon32.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "250 ml (1 tasse) de vinaigre balsamique",
+      "125 ml (1/2 tasse) de sirop d'érable",
+      "1 cantaloup ou autre melon au choix",
+      "6 tranches de prosciutto",
+      "1 contenant de 200 g de bocconcinis de type cocktail",
+      "Facultatif : 15 ml (1 c. à soupe) de basilic émincé"
+    ],
+    "preparation": [
+      "Dans une casserole, verser le vinaigre balsamique et le sirop d'érable. Laisser mijoter à feu doux sans couvrir, jusqu'à ce que le liquide ait réduit de moitié (environ 10 minutes). Laisser refroidir.",
+      "À l'aide d'une cuillère parisienne, façonner 24 boules de melon.",
+      "Couper les tranches de prosciutto en deux sur la longueur. Plier chaque demi-tranche en quatre de manière à former un rouleau aplati.",
+      "Sur 12 mini-brochettes de bambou, piquer deux boules de melon, un bocconcini et une demi-tranche de prosciutto.",
+      "Arroser d'un filet de sirop au vinaigre balsamique. Si désiré, parsemer de basilic émincé."
+    ]
+  },
+  {
+    "id": 12601,
+    "livreId": 58,
+    "titre": "Crevettes et pétoncles, sauce aux framboises",
+    "page": 34,
+    "categorie": "Plat principal, Poisson",
+    "ingredientPrincipal": "crevettes",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Crevettes-petoncles34.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "250 ml (1 tasse) de framboises surgelées, décongelées",
+      "45 ml (3 c. à soupe) d'huile d'olive",
+      "15 ml (1 c. à soupe) de ciboulette hachée",
+      "12 grosses crevettes crues et décortiquées",
+      "12 pétoncles moyens",
+      "5 ml (1 c. à thé) d'ail haché",
+      "15 ml (1 c. à soupe) d'huile de canola"
+    ],
+    "preparation": [
+      "Dans le contenant du mélangeur électrique, réduire en coulis les framboises avec l'huile d'olive, la ciboulette et l'ail. Saler et poivrer.",
+      "Dans une poêle, chauffer l'huile de canola à feu moyen-élevé. Cuire les crevettes et les pétoncles 1 minute de chaque côté. Saler et poivrer.",
+      "Verser le coulis aux framboises. Retirer du feu dès les premiers frémissements."
+    ]
+  },
+  {
+    "id": 12602,
+    "livreId": 58,
+    "titre": "Profiteroles, sauce au chocolat",
+    "page": 36,
+    "categorie": "Dessert",
+    "ingredientPrincipal": "chocolat",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Profiteroles36.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "2 tablettes de 100 g chacune de chocolat noir 70 %",
+      "45 ml (3 c. à soupe) de boisson à la crème irlandaise",
+      "165 ml (2/3 de tasse) de lait",
+      "8 profiteroles à la crème du commerce",
+      "1 casseau de framboises",
+      "125 ml (1/2 tasse) de crème glacée à la vanille"
+    ],
+    "preparation": [
+      "Hacher grossièrement le chocolat. Dans la partie supérieure du bain-marie, déposer le chocolat et verser l'alcool. Faire fondre le chocolat à feu doux.",
+      "Dans une casserole, porter le lait à ébullition et retirer du feu.",
+      "Verser graduellement le lait chaud sur le chocolat fondu. À l'aide d'une cuillère de bois, remuer doucement jusqu'à l'obtention d'une préparation homogène.",
+      "Couper le dessus des profiteroles et garnir de 15 ml (1 c. à soupe) de crème glacée à la vanille. Poser la partie coupée sur la crème glacée.",
+      "Répartir les profiteroles et les framboises dans quatre assiettes. Napper de sauce au chocolat."
+    ]
+  },
+  {
+    "id": 12603,
+    "livreId": 58,
+    "titre": "Œufs bénédictine au saumon fumé",
+    "page": 38,
+    "categorie": "Brunch",
+    "ingredientPrincipal": "œufs",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Oeufs-benedictine38.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "4 œufs",
+      "1 sachet de 26 g de sauce hollandaise",
+      "1 paquet de 140 g de saumon fumé",
+      "2 muffins anglais, tranchés en deux",
+      "30 ml (2 c. à soupe) de sirop d'érable",
+      "10 ml (2 c. à thé) de sel",
+      "45 ml (3 c. à soupe) de vinaigre",
+      "Facultatif : 15 ml (1 c. à soupe) d'aneth haché",
+      "Facultatif : 15 ml (1 c. à soupe) de ciboulette hachée"
+    ],
+    "preparation": [
+      "Verser 1 litre (4 tasses) d'eau, le sel et le vinaigre dans une casserole. Faire chauffer l'eau jusqu'à ce qu'elle soit frémissante. Casser les œufs dans l'eau. Couvrir et éteindre le feu. Laisser pocher les œufs 4 minutes.",
+      "Retirer les œufs à l'aide d'une cuillère trouée et les égoutter sur du papier absorbant.",
+      "Préparer la sauce hollandaise selon les indications de l'emballage.",
+      "Préchauffer le four à la position « gril » (broil). Répartir le saumon fumé sur les muffins anglais. Si désiré, parsemer d'aneth et de ciboulette.",
+      "Déposer les œufs sur le saumon. Arroser de sirop d'érable et napper de sauce hollandaise. Déposer sur une plaque de cuisson et faire colorer au four de 2 à 3 minutes."
+    ]
+  },
+  {
+    "id": 12604,
+    "livreId": 58,
+    "titre": "Sauce hollandaise maison",
+    "page": 38,
+    "categorie": "Sauce",
+    "ingredientPrincipal": "œufs",
+    "image": null,
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "3 jaunes d'œufs",
+      "30 ml (2 c. à soupe) d'eau chaude",
+      "85 ml (1/3 de tasse) de beurre fondu",
+      "Sel et poivre"
+    ],
+    "preparation": [
+      "Battre les jaunes d'œufs avec l'eau chaude dans la partie supérieure d'un bain-marie. Remuer jusqu'à l'obtention d'un mélange crémeux et assez épais.",
+      "Incorporer le beurre fondu en fouettant sans arrêt. Saler et poivrer."
+    ]
+  },
+  {
+    "id": 12605,
+    "livreId": 58,
+    "titre": "Darnes de saumon grillées",
+    "page": 42,
+    "categorie": "Plat principal, Poisson",
+    "ingredientPrincipal": "saumon",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Darnes-saumon42.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "4 darnes de saumon",
+      "60 ml (1/4 de tasse) de sirop d'érable",
+      "15 ml (1 c. à soupe) d'épices cajun",
+      "15 ml (1 c. à soupe) de sauce HP",
+      "30 ml (2 c. à soupe) de jus de lime",
+      "30 ml (2 c. à soupe) d'huile d'olive",
+      "Poivre noir en grains (au goût)",
+      "Facultatif : 15 ml (1 c. à soupe) de thym",
+      "Facultatif : 15 ml (1 c. à soupe) d'aneth"
+    ],
+    "preparation": [
+      "Dans un sac hermétique, mélanger 15 ml (1 c. à soupe) d'huile d'olive avec le poivre noir et, si désiré, le thym et l'aneth.",
+      "Déposer les darnes de saumon dans le sac. Placer le sac dans un bol et laisser mariner de 30 minutes à 1 heure au frais.",
+      "Mélanger le sirop d'érable avec les épices cajun, la sauce HP et le jus de lime.",
+      "Dans une poêle striée, chauffer 15 ml (1 c. à soupe) d'huile d'olive à feu moyen. Égoutter les darnes et cuire de 3 à 4 minutes de chaque côté, en badigeonnant régulièrement avec le mélange au sirop d'érable."
+    ]
+  },
+  {
+    "id": 12606,
+    "livreId": 58,
+    "titre": "Poitrines de poulet César",
+    "page": 43,
+    "categorie": "Plat principal, Poulet",
+    "ingredientPrincipal": "poulet",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Poitrines-cesar43.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "4 poitrines de poulet cuites",
+      "1/2 baguette de pain tranchée",
+      "125 ml (1/2 tasse) de vinaigrette César",
+      "1 laitue romaine déchiquetée",
+      "1 sac de 125 g de parmesan râpé",
+      "15 ml (1 c. à soupe) d'huile d'olive"
+    ],
+    "preparation": [
+      "Dans une poêle striée, chauffer l'huile à feu moyen. Saisir les poitrines de poulet et les tranches de baguette de 1 à 2 minute(s) de chaque côté. Retirer du feu.",
+      "Dans un saladier, mélanger la vinaigrette et la laitue.",
+      "Émincer les poitrines de poulet.",
+      "Répartir la laitue et les tranches de poulet dans quatre assiettes. Garnir de parmesan râpé."
+    ]
+  },
+  {
+    "id": 12607,
+    "livreId": 58,
+    "titre": "Vinaigrette César maison",
+    "page": 43,
+    "categorie": "Vinaigrette",
+    "ingredientPrincipal": "mayonnaise",
+    "image": null,
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "125 ml (1/2 tasse) de mayonnaise",
+      "3 anchois",
+      "15 ml (1 c. à soupe) de câpres",
+      "30 ml (2 c. à soupe) de parmesan",
+      "Le jus de 1 citron",
+      "Sel et poivre"
+    ],
+    "preparation": [
+      "Dans le contenant du robot culinaire, mélanger la mayonnaise avec les anchois, les câpres, le parmesan et le jus de citron. Saler et poivrer."
+    ]
+  },
+  {
+    "id": 12608,
+    "livreId": 58,
+    "titre": "Pains à la viande aux champignons",
+    "page": 44,
+    "categorie": "Plat principal, Bœuf",
+    "ingredientPrincipal": "bœuf",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Pains-champignons44.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "1 casseau de champignons émincés",
+      "1 branche de céleri émincée",
+      "450 g (1 lb) de bœuf haché maigre",
+      "250 ml (1 tasse) de sauce chili",
+      "4 pains à hot dog",
+      "45 ml (3 c. à soupe) d'huile d'olive"
+    ],
+    "preparation": [
+      "Dans une poêle, chauffer l'huile à feu moyen. Faire dorer les légumes de 2 à 3 minutes.",
+      "Ajouter la viande et cuire de 2 à 3 minutes, jusqu'à ce qu'elle ait perdu sa teinte rosée.",
+      "Incorporer la sauce chili. Saler et poivrer. Laisser mijoter à découvert de 8 à 10 minutes, jusqu'à évaporation presque complète du liquide.",
+      "Faire griller les pains dans une poêle ou au four.",
+      "Garnir les pains de la préparation à la viande."
+    ]
+  },
+  {
+    "id": 12609,
+    "livreId": 58,
+    "titre": "Rigatonis aux saucisses et tomates",
+    "page": 45,
+    "categorie": "Plat principal, Pâtes",
+    "ingredientPrincipal": "saucisses",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Rigatonis-saucisses45.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "340 g de rigatonis",
+      "6 saucisses italiennes",
+      "185 ml (3/4 de tasse) de relish de piments Peppadew",
+      "2 tomates, coupées en dés",
+      "15 ml (1 c. à soupe) de thym haché"
+    ],
+    "preparation": [
+      "Dans une casserole d'eau bouillante salée, cuire les pâtes al dente. Égoutter.",
+      "Pendant ce temps, cuire les saucisses dans une poêle.",
+      "Dans une grande casserole, verser la relish de piments. Ajouter les dés de tomates et le thym. Laisser mijoter 5 minutes à découvert.",
+      "Couper les saucisses en rondelles et ajouter dans la sauce. Saler et poivrer.",
+      "Incorporer les rigatonis."
+    ]
+  },
+  {
+    "id": 12610,
+    "livreId": 58,
+    "titre": "Roulade de veau aux épinards",
+    "page": 46,
+    "categorie": "Plat principal, Veau",
+    "ingredientPrincipal": "veau",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Roulade-epinards46.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "900 g (2 lb) de longe de veau",
+      "125 ml (1/2 tasse) de sirop d'érable",
+      "1 casseau de champignons émincés",
+      "1 sac de 171 g d'épinards",
+      "500 ml (2 tasses) de fond de veau",
+      "30 ml (2 c. à soupe) de beurre",
+      "15 ml (1 c. à soupe) d'huile d'olive"
+    ],
+    "preparation": [
+      "Couper la longe de veau sur la longueur afin d'obtenir une tranche de 1,5 cm (1/2 po) d'épaisseur. Saler et poivrer sur les deux faces. Badigeonner la viande avec environ le tiers du sirop d'érable.",
+      "Dans une poêle, faire fondre le beurre à feu moyen. Cuire les champignons et les épinards.",
+      "Répartir les légumes cuits sur la viande et rouler en serrant bien. Attacher à l'aide de ficelle.",
+      "Préchauffer le four à 190 °C (375 °F).",
+      "Dans une poêle, chauffer l'huile à feu moyen. Faire colorer la viande sur toutes les faces.",
+      "Transférer dans un plat allant au four. Verser le fond de veau et le reste du sirop d'érable. Cuire au four de 30 à 40 minutes."
+    ]
+  },
+  {
+    "id": 12611,
+    "livreId": 58,
+    "titre": "Ceviche de pétoncles marinés",
+    "page": 48,
+    "categorie": "Entrée",
+    "ingredientPrincipal": "pétoncles",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Ceviche-petoncles48.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "1 mangue",
+      "30 ml (2 c. à soupe) de jus de lime",
+      "16 pétoncles moyens, décongelés",
+      "1/2 poivron rouge ou jaune",
+      "15 ml (1 c. à soupe) d'aneth séché",
+      "60 ml (1/4 de tasse) d'huile d'olive"
+    ],
+    "preparation": [
+      "Peler la mangue et la couper en deux. Dans le contenant du mélangeur électrique, mélanger la moitié de la mangue avec le jus de lime et l'huile d'olive.",
+      "Éponger les pétoncles. Trancher les pétoncles en trois et déposer dans un plat creux. Verser la préparation à la mangue et mélanger délicatement.",
+      "Couper le demi-poivron et le reste de la mangue en dés. Incorporer dans le plat contenant les pétoncles. Saler et poivrer.",
+      "Laisser mariner 1 heure au frais avant de servir."
+    ]
+  },
+  {
+    "id": 12612,
+    "livreId": 58,
+    "titre": "Escalopes de dinde au brie",
+    "page": 50,
+    "categorie": "Plat principal, Dinde",
+    "ingredientPrincipal": "dinde",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Dinde-brie50.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "30 ml (2 c. à soupe) de pâte de tandoori",
+      "30 ml (2 c. à soupe) de yogourt nature",
+      "4 escalopes de dinde",
+      "115 g de brie",
+      "10 ml (2 c. à thé) de thym haché",
+      "15 ml (1 c. à soupe) d'huile d'olive"
+    ],
+    "preparation": [
+      "Dans un bol, mélanger la pâte de tandoori avec le yogourt. Verser dans un sac hermétique et ajouter la viande. Placer le sac dans un bol et laisser mariner 1 heure au frais.",
+      "Dans une poêle striée, chauffer l'huile à feu moyen. Cuire les escalopes de 3 à 5 minutes de chaque côté.",
+      "Déposer une tranche de brie sur chacune des escalopes et saupoudrer de thym.",
+      "Laisser fondre le fromage et servir."
+    ]
+  },
+  {
+    "id": 12613,
+    "livreId": 58,
+    "titre": "Moelleux érable-chocolat",
+    "page": 52,
+    "categorie": "Dessert",
+    "ingredientPrincipal": "chocolat",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Moelleux-erable-choco52.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "185 ml (3/4 de tasse) de beurre",
+      "185 ml (3/4 de tasse) de brisures de chocolat mi-sucré",
+      "60 ml (1/4 de tasse) de farine",
+      "7 œufs",
+      "75 ml (5 c. à soupe) de sirop d'érable"
+    ],
+    "preparation": [
+      "Préchauffer le four à 180 °C (350 °F). Graisser les alvéoles d'un moule à muffins.",
+      "Dans une casserole, faire fondre le beurre et les brisures de chocolat à feu doux. Mélanger afin d'obtenir une préparation homogène.",
+      "Incorporer la farine et les jaunes de 3 œufs.",
+      "Dans un bol, fouetter vigoureusement le sirop d'érable avec 4 œufs, jusqu'à l'obtention d'un mélange crémeux.",
+      "Incorporer au premier mélange et verser dans les alvéoles du moule à muffins. Cuire au four 10 minutes. Laisser refroidir avant de démouler."
+    ]
+  },
+  {
+    "id": 12614,
+    "livreId": 58,
+    "titre": "Rouleaux d'asperges et jambon au gratin",
+    "page": 54,
+    "categorie": "Brunch",
+    "ingredientPrincipal": "asperges",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Rouleaux-asperges54.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "40 asperges",
+      "60 ml (1/4 de tasse) de beurre",
+      "500 ml (2 tasses) de lait",
+      "125 g de gouda",
+      "8 tranches de jambon Forêt-Noire",
+      "60 ml (1/4 de tasse) de farine"
+    ],
+    "preparation": [
+      "Préchauffer le four à 190 °C (375 °F). Dans une casserole d'eau bouillante salée, faire blanchir les asperges 3 minutes. Égoutter et rafraîchir sous l'eau froide. Égoutter de nouveau et enrouler dans du papier absorbant.",
+      "Dans une casserole, faire fondre le beurre à feu moyen. Incorporer la farine et cuire 1 minute en remuant. Incorporer le lait progressivement en fouettant. Porter à ébullition en fouettant constamment.",
+      "Retirer du feu et incorporer le fromage. Saler et poivrer. Remuer jusqu'à ce que le fromage soit fondu.",
+      "Déposer cinq asperges sur chacune des tranches de jambon. Enrouler en serrant bien.",
+      "Déposer les rouleaux dans un plat allant au four et verser la sauce au fromage. Faire gratiner au four de 8 à 10 minutes."
+    ]
+  },
+  {
+    "id": 12615,
+    "livreId": 58,
+    "titre": "Fettucines au saumon",
+    "page": 58,
+    "categorie": "Plat principal, Pâtes",
+    "ingredientPrincipal": "saumon",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Fettucines-saumon58.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "350 g de fettucines",
+      "250 ml (1 tasse) de crème à cuisson 15 %",
+      "30 ml (2 c. à soupe) de zestes de citron",
+      "30 ml (2 c. à soupe) d'aneth haché",
+      "340 g (3/4 de lb) de saumon, la peau enlevée et coupé en dés",
+      "30 ml (2 c. à soupe) d'oignon vert émincé"
+    ],
+    "preparation": [
+      "Dans une casserole d'eau bouillante salée, cuire les pâtes al dente. Égoutter.",
+      "Pendant ce temps, dans une grande casserole, mélanger la crème avec les zestes de citron. Saler et poivrer. À feu moyen, laisser mijoter à découvert 5 minutes.",
+      "Incorporer l'aneth, l'oignon vert et le saumon. Laisser mijoter 5 minutes.",
+      "Incorporer les pâtes."
+    ]
+  },
+  {
+    "id": 12616,
+    "livreId": 58,
+    "titre": "Mini-pizzas au jambon",
+    "page": 59,
+    "categorie": "Plat principal, Pizza",
+    "ingredientPrincipal": "jambon",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Mini-pizza-jambon59.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "10 ml (2 c. à thé) de pesto",
+      "4 pains plats à hamburger ou muffins anglais",
+      "340 g (3/4 de lb) de tranches de jambon",
+      "1 poivron rouge émincé",
+      "1 sac de 375 g de mozzarella râpée",
+      "45 ml (3 c. à soupe) d'huile d'olive",
+      "1 oignon émincé",
+      "6 champignons",
+      "Facultatif : 1 poivron vert émincé",
+      "Facultatif : 5 ml (1 c. à thé) de thym"
+    ],
+    "preparation": [
+      "Préchauffer le four à 205 °C (400 °F).",
+      "Dans un bol, fouetter l'huile d'olive avec le pesto. Séparer les pains en deux et badigeonner chacune des moitiés de ce mélange.",
+      "Garnir de jambon, de légumes et de fromage. Si désiré, parsemer de thym.",
+      "Cuire au four de 8 à 10 minutes."
+    ]
+  },
+  {
+    "id": 12617,
+    "livreId": 58,
+    "titre": "Pesto maison",
+    "page": 59,
+    "categorie": "Sauce",
+    "ingredientPrincipal": "basilic",
+    "image": null,
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "60 ml (1/4 de tasse) d'huile d'olive",
+      "2 gousses d'ail",
+      "125 ml (1/2 tasse) de noix de pin",
+      "500 ml (2 tasses) de feuilles de basilic bien tassées",
+      "60 ml (1/4 de tasse) d'huile d'olive",
+      "125 ml (1/2 tasse) de parmesan"
+    ],
+    "preparation": [
+      "Dans le contenant du mélangeur, verser 60 ml (1/4 de tasse) d'huile d'olive. Ajouter l'ail et les noix de pin. Mélanger quelques secondes.",
+      "Ajouter progressivement le basilic et 60 ml (1/4 de tasse) d'huile d'olive en donnant quelques impulsions entre chaque addition.",
+      "Ajouter le parmesan et mélanger quelques secondes."
+    ]
+  },
+  {
+    "id": 12618,
+    "livreId": 58,
+    "titre": "Tilapia au cheddar et amandes",
+    "page": 60,
+    "categorie": "Plat principal, Poisson",
+    "ingredientPrincipal": "tilapia",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Tilapia-cheddar60.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "4 filets de tilapia",
+      "250 g de cheddar",
+      "1 sac de 250 g d'amandes",
+      "15 ml (1 c. à soupe) de thym haché",
+      "2,5 ml (1/2 c. à thé) de graines de cumin",
+      "15 ml (1 c. à soupe) d'huile d'olive"
+    ],
+    "preparation": [
+      "Préchauffer le four à 190 °C (375 °F).",
+      "Saler et poivrer les filets de tilapia des deux côtés.",
+      "Râper le fromage et hacher les amandes grossièrement. Mélanger le fromage et les amandes.",
+      "Tapisser une plaque de cuisson d'une feuille de papier parchemin et y déposer les filets de tilapia. Parsemer de thym et de graines de cumin. Répartir le mélange de fromage et d'amandes sur le poisson.",
+      "Cuire au four 8 minutes. Régler le four à la position « gril » (broil) et faire gratiner le fromage."
+    ]
+  },
+  {
+    "id": 12619,
+    "livreId": 58,
+    "titre": "Escalopes de veau au fromage Oka",
+    "page": 61,
+    "categorie": "Plat principal, Veau",
+    "ingredientPrincipal": "veau",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Veau-fromage61.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "12 asperges",
+      "4 escalopes de veau",
+      "1 poivron rouge",
+      "200 g de fromage Oka",
+      "15 ml (1 c. à soupe) de thym haché",
+      "15 ml (1 c. à soupe) d'huile d'olive"
+    ],
+    "preparation": [
+      "Dans une casserole d'eau bouillante salée, cuire les asperges 4 minutes. Refroidir sous l'eau glacée et égoutter.",
+      "Saler et poivrer les escalopes de veau des deux côtés. Émincer le poivron. Couper le fromage en dés.",
+      "Répartir les lanières de poivron, les asperges et les dés de fromage sur les escalopes. Parsemer de thym.",
+      "Rouler les escalopes en serrant bien et attacher avec une ficelle.",
+      "Dans une poêle striée, chauffer l'huile à feu moyen. Cuire les escalopes de 6 à 8 minutes."
+    ]
+  },
+  {
+    "id": 12620,
+    "livreId": 58,
+    "titre": "Croquettes de poulet cuites au four",
+    "page": 62,
+    "categorie": "Plat principal, Poulet",
+    "ingredientPrincipal": "poulet",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Croquettes-poulet62.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "4 poitrines de poulet sans peau",
+      "125 ml (1/2 tasse) de farine",
+      "125 ml (1/2 tasse) d'œufs liquides",
+      "250 ml (1 tasse) de lait",
+      "250 ml (1 tasse) de flocons d'avoine",
+      "30 ml (2 c. à soupe) d'huile d'olive",
+      "Facultatif : 60 ml (1/4 de tasse) de poudre d'amandes"
+    ],
+    "preparation": [
+      "Préchauffer le four à 190 °C (375 °F).",
+      "Tailler les poitrines de poulet en lanières.",
+      "Préparer trois assiettes creuses. Dans la première, verser la farine. Dans la deuxième, battre les œufs avec le lait. Dans la troisième, déposer les flocons d'avoine et mélanger, si désiré, avec la poudre d'amandes.",
+      "Enrober les lanières de poulet de farine, puis tremper dans les œufs battus et enrober de flocons d'avoine.",
+      "Tapisser une plaque de cuisson d'une feuille de papier parchemin. Déposer les lanières de poulet sur la plaque. Arroser d'un filet d'huile. Saler et poivrer. Cuire au four 15 minutes en retournant à mi-cuisson."
+    ]
+  },
+  {
+    "id": 12621,
+    "livreId": 58,
+    "titre": "Cocktail de crevettes et avocat",
+    "page": 64,
+    "categorie": "Entrée",
+    "ingredientPrincipal": "crevettes",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Cocktail-crevettes64.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "2 avocats",
+      "15 ml (1 c. à soupe) de ketchup",
+      "45 ml (3 c. à soupe) de mayonnaise",
+      "1 orange, coupée en quartiers",
+      "16 grosses crevettes cuites",
+      "30 ml (2 c. à soupe) de jus de citron",
+      "Facultatif : tabasco au goût",
+      "Facultatif : 15 ml (1 c. à soupe) de whisky"
+    ],
+    "preparation": [
+      "Dans le contenant du robot culinaire, mélanger la chair des avocats avec le jus de citron et, si désiré, le tabasco. Saler et réserver au frais.",
+      "Dans un petit bol, mélanger le ketchup avec la mayonnaise et, si désiré, le whisky. Saler et poivrer.",
+      "Répartir la sauce dans le fond de quatre coupes. Couvrir de la préparation aux avocats.",
+      "Disposer les quartiers d'orange et les crevettes sur la préparation aux avocats. Réserver au frais jusqu'au moment de servir."
+    ]
+  },
+  {
+    "id": 12622,
+    "livreId": 58,
+    "titre": "Mayonnaise maison",
+    "page": 64,
+    "categorie": "Vinaigrette",
+    "ingredientPrincipal": "œufs",
+    "image": null,
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "2 jaunes d'œufs",
+      "15 ml (1 c. à soupe) de moutarde de Dijon",
+      "Le jus d'un demi-citron",
+      "250 ml (1 tasse) d'huile de canola"
+    ],
+    "preparation": [
+      "Dans un bol, fouetter les jaunes d'œufs avec la moutarde de Dijon et le jus de citron.",
+      "Verser progressivement l'huile de canola tout en continuant de fouetter."
+    ]
+  },
+  {
+    "id": 12623,
+    "livreId": 58,
+    "titre": "Filets de bœuf à la dijonnaise",
+    "page": 66,
+    "categorie": "Plat principal, Bœuf",
+    "ingredientPrincipal": "bœuf",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Filet-boeuf-dijonnaise66.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "45 ml (3 c. à soupe) de chapelure nature",
+      "30 ml (2 c. à soupe) de persil",
+      "15 ml (1 c. à soupe) d'ail",
+      "4 médaillons de contre-filet de 180 g (environ 1/3 de lb) chacun",
+      "45 ml (3 c. à soupe) de moutarde de Dijon",
+      "15 ml (1 c. à soupe) d'huile de canola"
+    ],
+    "preparation": [
+      "Dans le contenant du robot culinaire, mélanger la chapelure, le persil et l'ail jusqu'à l'obtention d'une préparation homogène.",
+      "Dans une poêle striée, chauffer l'huile à feu moyen. Cuire les filets 5 minutes.",
+      "Retourner et badigeonner de moutarde.",
+      "Garnir du mélange de chapelure et cuire 3 minutes."
+    ]
+  },
+  {
+    "id": 12624,
+    "livreId": 58,
+    "titre": "Bavaroise aux framboises",
+    "page": 68,
+    "categorie": "Dessert",
+    "ingredientPrincipal": "framboises",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Bavaroise-framboises68.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "1 sachet de 7 g de gélatine sans saveur",
+      "3 jaunes d'œufs",
+      "250 ml (1 tasse) de coulis de framboises du commerce",
+      "125 ml (1/2 tasse) de crème à fouetter 35 %",
+      "1 casseau de framboises",
+      "60 ml (1/4 de tasse) de sucre",
+      "250 ml (1 tasse) de lait chaud",
+      "30 ml (2 c. à soupe) d'eau froide"
+    ],
+    "preparation": [
+      "Incorporer la gélatine dans l'eau froide.",
+      "Dans une casserole, fouetter les jaunes d'œufs avec le sucre jusqu'à ce que le mélange blanchisse. Verser le lait chaud et la gélatine. Chauffer à feu doux. À l'aide d'une cuillère en bois, remuer jusqu'à ce que la préparation nappe la cuillère. Ne pas laisser bouillir.",
+      "Retirer du feu et incorporer la moitié du coulis de framboises. Laisser tiédir.",
+      "Pendant ce temps, fouetter la crème à haute vitesse jusqu'à l'obtention de pics fermes. Incorporer la crème fouettée à la préparation aux framboises.",
+      "Répartir les framboises ainsi que le reste du coulis au fond de quatre coupes. Couvrir de la préparation à la crème et aux framboises. Réserver au frais 2 heures avant de servir."
+    ]
+  },
+  {
+    "id": 12625,
+    "livreId": 58,
+    "titre": "Coulis de framboises maison",
+    "page": 68,
+    "categorie": "Sauce",
+    "ingredientPrincipal": "framboises",
+    "image": null,
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "500 ml (2 tasses) de framboises surgelées décongelées",
+      "15 ml (1 c. à soupe) de sirop d'érable"
+    ],
+    "preparation": [
+      "Dans le contenant du mélangeur, réduire en purée les framboises avec le sirop d'érable."
+    ]
+  },
+  {
+    "id": 12626,
+    "livreId": 58,
+    "titre": "Œufs à l'érable en cocotte",
+    "page": 70,
+    "categorie": "Brunch",
+    "ingredientPrincipal": "œufs",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Oeufs-erable70.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "8 tranches de bacon précuit",
+      "1 contenant de 142 g de jeunes épinards",
+      "60 ml (1/4 de tasse) de sirop d'érable",
+      "4 œufs",
+      "30 ml (2 c. à soupe) de crème à cuisson 15 %",
+      "15 ml (1 c. à soupe) de beurre",
+      "15 ml (1 c. à soupe) d'échalote sèche"
+    ],
+    "preparation": [
+      "Préchauffer le four à 180 °C (350 °F).",
+      "Couper le bacon en petits morceaux.",
+      "Dans une poêle, faire fondre le beurre. Cuire les épinards et l'échalote de 2 à 3 minutes. Verser le sirop. Saler et poivrer.",
+      "Répartir la préparation aux épinards et le bacon dans quatre ramequins beurrés.",
+      "Casser un œuf et répartir la crème dans chacun des ramequins. Cuire au four de 5 à 8 minutes, en prenant soin de conserver le jaune des œufs un peu liquide."
+    ]
+  },
+  {
+    "id": 12627,
+    "livreId": 58,
+    "titre": "Vol-au-vent au poulet express",
+    "page": 72,
+    "categorie": "Plat principal, Poulet",
+    "ingredientPrincipal": "poulet",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Vol-vent-poulet72.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "15 ml (1 c. à soupe) d'huile de canola",
+      "500 ml (2 tasses) de macédoine de légumes surgelés",
+      "560 ml (2 1/4 tasses) de poulet cuit et coupé en dés",
+      "1 boîte de crème de poulet de 284 ml",
+      "250 ml (1 tasse) de lait",
+      "Sel et poivre au goût",
+      "4 vol-au-vent"
+    ],
+    "preparation": [
+      "Préchauffer le four à 180 °C (350 °F).",
+      "Dans une poêle, chauffer l'huile à feu moyen. Cuire les légumes de 3 à 4 minutes. Ajouter le poulet et poursuivre la cuisson 2 minutes.",
+      "Dans une casserole, mélanger la crème de poulet avec le lait. Ajouter tous les ingrédients à la sauce. Laisser mijoter à découvert de 5 à 10 minutes, en remuant de temps à autre.",
+      "Pendant ce temps, découper le chapeau des vol-au-vent. Déposer les vol-au-vent et leur chapeau sur une plaque de cuisson. Chauffer au four 10 minutes.",
+      "Au moment de servir, garnir les vol-au-vent de sauce."
+    ]
+  },
+  {
+    "id": 12628,
+    "livreId": 58,
+    "titre": "Ciabattas au poulet à la grecque",
+    "page": 74,
+    "categorie": "Plat principal, Poulet",
+    "ingredientPrincipal": "poulet",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Ciabattas-poulet74.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "500 ml (2 tasses) de poulet cuit et coupé en cubes",
+      "POUR LA MARINADE (FACULTATIF)",
+      "45 ml (3 c. à soupe) de jus de citron",
+      "30 ml (2 c. à soupe) d'huile d'olive",
+      "5 ml (1 c. à thé) de graines de coriandre",
+      "15 ml (1 c. à soupe) de menthe hachée",
+      "POUR LA GARNITURE",
+      "60 ml (1/4 de tasse) de feta",
+      "1 poivron rouge",
+      "1/2 oignon rouge",
+      "1/2 concombre anglais",
+      "15 ml (1 c. à soupe) de coriandre hachée",
+      "12 olives Kalamata, dénoyautées",
+      "Sel et poivre au goût",
+      "4 pains ciabatta",
+      "1 contenant de tartinade au tofu de 250 g"
+    ],
+    "preparation": [
+      "Si désiré, faire mariner le poulet : dans un plat creux, mélanger tous les ingrédients de la marinade. Déposer le poulet dans le plat. Remuer et réserver au frais.",
+      "Pendant ce temps, couper la feta en cubes et émincer les légumes. Déposer dans un saladier et ajouter la coriandre et les olives. Saler et poivrer.",
+      "Égoutter le poulet et incorporer à la préparation.",
+      "Trancher les ciabattas en deux sur l'épaisseur. Étaler la tartinade sur le pain et garnir de la préparation au poulet."
+    ]
+  },
+  {
+    "id": 12629,
+    "livreId": 58,
+    "titre": "Fettucines au poulet et asperges",
+    "page": 76,
+    "categorie": "Plat principal, Pâtes",
+    "ingredientPrincipal": "poulet",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Fettucines-poulet-asperges76.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "350 g de fettucines",
+      "16 asperges",
+      "250 ml (1 tasse) de lait",
+      "15 ml (1 c. à soupe) de moutarde à l'ancienne",
+      "1 contenant de fromage à la crème ciboulette et oignon de 250 g",
+      "Sel et poivre au goût",
+      "500 ml (2 tasses) de poulet cuit et coupé en dés",
+      "Facultatif : 60 ml (1/4 de tasse) de parmesan râpé"
+    ],
+    "preparation": [
+      "Dans une casserole d'eau bouillante salée, cuire les pâtes al dente. Couper les asperges en morceaux et ajouter dans la casserole de 3 à 4 minutes avant la fin de la cuisson des pâtes. Égoutter.",
+      "Pendant ce temps, dans une grande casserole, chauffer à feu moyen le lait avec la moutarde, le fromage à la crème et l'assaisonnement. Fouetter jusqu'à l'obtention d'une sauce homogène.",
+      "Ajouter le poulet et laisser mijoter de 1 à 2 minute(s) à feu doux.",
+      "Incorporer les pâtes et, si désiré, le parmesan."
+    ]
+  },
+  {
+    "id": 12630,
+    "livreId": 58,
+    "titre": "Salade de poulet et mangue",
+    "page": 79,
+    "categorie": "Salade, Poulet",
+    "ingredientPrincipal": "poulet",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Salade-mangue-poulet79.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "1 mangue",
+      "1 oignon",
+      "2 branches de céleri",
+      "1 concombre pelé et épépiné",
+      "20 tomates cerises",
+      "375 ml (1 1/2 tasse) de poulet cuit et coupé en dés",
+      "15 ml (1 c. à soupe) de ciboulette hachée",
+      "15 ml (1 c. à soupe) de coriandre hachée",
+      "250 ml (1 tasse) de vinaigrette à la mangue du commerce",
+      "8 feuilles de laitue romaine déchiquetées",
+      "125 ml (1/2 tasse) de noix de macadamia"
+    ],
+    "preparation": [
+      "Couper la mangue et les légumes en dés. Trancher les tomates en deux. Déposer dans un saladier.",
+      "Incorporer le poulet et les fines herbes. Ajouter la vinaigrette et remuer délicatement.",
+      "Disposer la laitue dans quatre assiettes. Répartir la salade sur les feuilles de laitue. Parsemer de noix de macadamia."
+    ]
+  },
+  {
+    "id": 12631,
+    "livreId": 58,
+    "titre": "Quesadillas au poulet",
+    "page": 81,
+    "categorie": "Plat principal, Poulet",
+    "ingredientPrincipal": "poulet",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Quesadillas-poulet81.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "4 petites tortillas de 20 cm (8 po) de diamètre",
+      "250 ml (1 tasse) de cheddar râpé",
+      "Facultatif : 85 ml (1/3 de tasse) de crème sure",
+      "POUR LA GARNITURE",
+      "1 oignon",
+      "1/2 poivron vert",
+      "2 tomates",
+      "30 ml (2 c. à soupe) d'huile d'olive",
+      "250 ml (1 tasse) de maïs en grains",
+      "250 ml (1 tasse) de haricots rouges, égouttés",
+      "15 ml (1 c. à soupe) d'assaisonnements à fajitas",
+      "375 ml (1 1/2 tasse) de poulet cuit et coupé en dés",
+      "Sel et poivre au goût"
+    ],
+    "preparation": [
+      "Préchauffer le four à 205 °C (400 °F).",
+      "Couper les légumes en dés. Dans une poêle, chauffer l'huile à feu moyen. Cuire l'oignon et le poivron de 2 à 3 minutes.",
+      "Incorporer le reste des ingrédients de la garniture. Cuire 2 minutes.",
+      "Déposer les tortillas sur une plaque de cuisson. Répartir la préparation sur la moitié de chacune d'elles. Garnir de la moitié du cheddar. Rabattre l'autre moitié des tortillas sur la garniture. Répartir le reste du cheddar sur le dessus des tortillas.",
+      "Cuire au four 10 minutes. Servir avec la crème sure, si désiré."
+    ]
+  },
+  {
+    "id": 12632,
+    "livreId": 58,
+    "titre": "Macaronis aux boulettes de viande",
+    "page": 82,
+    "categorie": "Plat principal, Pâtes",
+    "ingredientPrincipal": "bœuf",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Macaronis-boulettes82.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "340 g de macaronis",
+      "30 ml (2 c. à soupe) d'huile d'olive",
+      "340 g (3/4 de lb) de boulettes de bœuf surgelées, décongelées",
+      "1 boîte de sauce tomate à l'ail rôti de 680 ml",
+      "30 ml (2 c. à soupe) de basilic",
+      "250 ml (1 tasse) de fromage suisse râpé"
+    ],
+    "preparation": [
+      "Préchauffer le four à 205 °C (400 °F).",
+      "Dans une casserole d'eau bouillante salée, cuire les pâtes al dente. Égoutter.",
+      "Pendant ce temps, chauffer l'huile à feu moyen dans une poêle. Faire dorer les boulettes 5 minutes. Déposer les boulettes sur du papier absorbant.",
+      "Dans une grande casserole, mélanger la sauce tomate avec le basilic. Porter à ébullition. Retirer du feu et incorporer les boulettes et les pâtes.",
+      "Verser la préparation dans un plat allant au four. Garnir de fromage râpé.",
+      "Cuire au four de 10 à 15 minutes, jusqu'à ce que le fromage soit gratiné."
+    ]
+  },
+  {
+    "id": 12633,
+    "livreId": 58,
+    "titre": "Ragoût de boulettes",
+    "page": 85,
+    "categorie": "Plat principal, Bœuf",
+    "ingredientPrincipal": "bœuf",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Ragout-boulettes85.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "1 oignon haché",
+      "30 ml (2 c. à soupe) de persil haché",
+      "3 pincées de cannelle",
+      "3 pincées de muscade",
+      "3 pincées de clou de girofle",
+      "Sel et poivre au goût",
+      "900 g (2 lb) de bœuf haché maigre",
+      "30 ml (2 c. à soupe) de beurre",
+      "750 ml (3 tasses) de bouillon de poulet",
+      "60 ml (1/4 de tasse) de farine",
+      "60 ml (1/4 de tasse) d'eau froide"
+    ],
+    "preparation": [
+      "Dans un bol, mélanger l'oignon avec le persil et les épices. Incorporer la viande. Façonner des boulettes avec 45 ml (3 c. à soupe) de préparation pour chacune d'elles.",
+      "Dans une grande casserole, faire fondre le beurre. Faire revenir les boulettes 5 minutes.",
+      "Verser le bouillon. Couvrir et laisser mijoter à feu doux de 30 à 45 minutes, jusqu'à ce que l'intérieur des boulettes ait perdu sa teinte rosée. Retirer les boulettes et réserver.",
+      "Dans un bol, délayer la farine dans l'eau froide. Incorporer au bouillon en fouettant. Continuer de fouetter jusqu'à épaississement.",
+      "Remettre les boulettes dans la casserole et laisser mijoter environ 5 minutes avant de servir."
+    ]
+  },
+  {
+    "id": 12634,
+    "livreId": 58,
+    "titre": "Pain de viande savoureux",
+    "page": 86,
+    "categorie": "Plat principal, Bœuf",
+    "ingredientPrincipal": "bœuf",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Pain-viande86.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "POUR LE PAIN DE VIANDE",
+      "680 g (1 1/2 lb) de bœuf haché maigre",
+      "250 ml (1 tasse) de mélange de légumes frais pour sauce à spaghetti (de type Saladexpress)",
+      "1 œuf",
+      "1 fromage de chèvre de 113 g (de type Chevrai)",
+      "60 ml (1/4 de tasse) de chapelure",
+      "60 ml (1/4 de tasse) de canneberges séchées",
+      "15 ml (1 c. à soupe) de persil haché",
+      "2,5 ml (1/2 c. à thé) de thym haché",
+      "2,5 ml (1/2 c. à thé) d'ail haché",
+      "Sel et poivre au goût",
+      "POUR LA SAUCE",
+      "125 ml (1/2 tasse) de ketchup",
+      "60 ml (1/4 de tasse) de moutarde de Dijon",
+      "60 ml (1/4 de tasse) de cassonade"
+    ],
+    "preparation": [
+      "Préchauffer le four à 180 °C (350 °F). Dans un bol, mélanger tous les ingrédients du pain de viande.",
+      "Tapisser un moule à pain de 25 cm x 13 cm (10 po x 5 po) d'une feuille de papier d'aluminium ou de papier parchemin. Étendre uniformément le mélange dans le moule. Cuire au four 45 minutes.",
+      "Dans une casserole, mélanger les ingrédients de la sauce. Porter à ébullition.",
+      "Verser la sauce sur le pain de viande et poursuivre la cuisson 15 minutes.",
+      "Le pain de viande est cuit lorsqu'on le pique à la fourchette et que le jus qui s'en écoule est clair."
+    ]
+  },
+  {
+    "id": 12635,
+    "livreId": 58,
+    "titre": "Chili con carne",
+    "page": 89,
+    "categorie": "Plat principal, Bœuf",
+    "ingredientPrincipal": "bœuf",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Chili-con-carne89.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "1 oignon",
+      "10 ml (2 c. à thé) d'ail",
+      "1 poivron rouge",
+      "1 poivron jaune",
+      "30 ml (2 c. à soupe) d'huile de canola",
+      "680 g (1 1/2 lb) de bœuf haché maigre",
+      "2 boîtes de tomates étuvées avec assaisonnements chili de 540 ml chacune (de type Aylmer Accents)",
+      "1 boîte de haricots rouges de 540 ml, rincés et égouttés",
+      "1 tige de thym",
+      "Sel au goût"
+    ],
+    "preparation": [
+      "Hacher l'oignon et l'ail. Couper les poivrons en dés.",
+      "Dans une casserole, chauffer l'huile à feu moyen. Faire dorer la viande avec l'oignon et l'ail de 3 à 5 minutes.",
+      "Incorporer le reste des ingrédients. Couvrir et laisser mijoter de 15 à 20 minutes à feu moyen, en remuant de temps à autre."
+    ]
+  },
+  {
+    "id": 12636,
+    "livreId": 58,
+    "titre": "Hamburgers classiques",
+    "page": 91,
+    "categorie": "Plat principal, Bœuf",
+    "ingredientPrincipal": "bœuf",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Burgers91.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "4 pains à hamburger",
+      "POUR LES GALETTES",
+      "340 g (3/4 de lb) de bœuf haché maigre",
+      "5 ml (1 c. à thé) d'ail haché",
+      "15 ml (1 c. à soupe) de persil haché",
+      "1 oignon vert émincé",
+      "Épices à steak au goût",
+      "POUR LA SAUCE",
+      "60 ml (1/4 de tasse) de yogourt nature",
+      "15 ml (1 c. à soupe) de mayonnaise",
+      "15 ml (1 c. à soupe) de ciboulette hachée",
+      "15 ml (1 c. à soupe) de basilic haché",
+      "POUR LA GARNITURE",
+      "2 tomates, coupées en rondelles",
+      "125 ml (1/2 tasse) de cheddar râpé",
+      "125 ml (1/2 tasse) de mesclun"
+    ],
+    "preparation": [
+      "Dans un bol, mélanger tous les ingrédients des galettes. Façonner quatre galettes d'environ 2 cm (3/4 de po) d'épaisseur.",
+      "Chauffer une poêle à feu moyen-élevé. Cuire les galettes de 5 à 7 minutes de chaque côté en les retournant fréquemment, jusqu'à ce que l'intérieur des galettes ait perdu sa teinte rosée.",
+      "Griller les pains au grille-pain ou au four.",
+      "Dans un bol, mélanger les ingrédients de la sauce. Badigeonner les pains de ce mélange.",
+      "Garnir les pains d'une galette de viande, de tomates, de fromage et de mesclun. Fermer les hamburgers."
+    ]
+  },
+  {
+    "id": 12637,
+    "livreId": 58,
+    "titre": "Légumes grillés",
+    "page": 91,
+    "categorie": "Entrée, Légumes",
+    "ingredientPrincipal": "poivron",
+    "image": null,
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "1 poivron rouge",
+      "1 poivron jaune",
+      "1 petite courgette",
+      "1 petite aubergine",
+      "Huile d'olive"
+    ],
+    "preparation": [
+      "Émincer les poivrons, la courgette et l'aubergine.",
+      "Tapisser une plaque de cuisson d'une feuille de papier parchemin. Répartir les légumes sur la plaque.",
+      "Badigeonner les morceaux de courgette et d'aubergine d'huile d'olive.",
+      "Cuire au four 10 minutes à 205 °C (400 °F)."
+    ]
+  },
+  {
+    "id": 12638,
+    "livreId": 58,
+    "titre": "Marinade douceur d'agrumes",
+    "page": 92,
+    "categorie": "Marinade",
+    "ingredientPrincipal": "agrumes",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Douceur-agrumes92.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "250 ml (1 tasse) de sauce orange et gingembre du commerce",
+      "30 ml (2 c. à soupe) de ciboulette grossièrement hachée",
+      "1 lime (jus et zeste)",
+      "1 orange (jus et zeste)"
+    ],
+    "preparation": [
+      "Dans le contenant du mélangeur, émulsionner la sauce, la ciboulette, le jus de lime et le jus d'orange.",
+      "Verser le quart de la préparation dans un sac hermétique. Ajouter le poisson, le porc ou la volaille dans le sac. Retirer l'air du sac et déposer dans un bol afin que la marinade enrobe bien les aliments. Laisser mariner au frais.",
+      "Ajouter les zestes dans le reste de la préparation. Au moment du repas, verser dans une casserole et laisser réduire 5 minutes à feu moyen. Servir comme sauce d'accompagnement.",
+      "Convient au poisson, au porc, à la volaille. Temps de marinage : poisson 30 min à 2 h; porc 3 à 24 h; volaille 2 à 8 h."
+    ]
+  },
+  {
+    "id": 12639,
+    "livreId": 58,
+    "titre": "Marinade aux tomates séchées",
+    "page": 94,
+    "categorie": "Marinade",
+    "ingredientPrincipal": "tomates séchées",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Marinade-tomates-sechees94.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "30 ml (2 c. à soupe) de pesto aux tomates séchées",
+      "185 ml (3/4 de tasse) de vinaigrette aux tomates séchées",
+      "60 ml (1/4 de tasse) de vin blanc sec",
+      "15 ml (1 c. à soupe) de basilic haché",
+      "1 tige de thym",
+      "1 tige de romarin",
+      "5 ml (1 c. à thé) de poivre en grains"
+    ],
+    "preparation": [
+      "Dans un bol, mélanger le pesto avec la vinaigrette et le vin blanc. Incorporer les fines herbes et les grains de poivre.",
+      "Verser dans un sac hermétique et ajouter la viande. Retirer l'air du sac et déposer dans un bol afin que la marinade enrobe bien les aliments. Laisser mariner au frais.",
+      "Au moment du repas, égoutter la viande et récupérer la marinade dans une casserole. Porter à ébullition puis laisser réduire à feu doux 10 minutes. Servir comme sauce d'accompagnement.",
+      "Convient au bœuf, au veau, à la volaille. Temps de marinage : bœuf 3 à 24 h; veau 3 à 24 h; volaille 2 à 8 h."
+    ]
+  },
+  {
+    "id": 12640,
+    "livreId": 58,
+    "titre": "Marinade barbecue traditionnelle",
+    "page": 95,
+    "categorie": "Marinade",
+    "ingredientPrincipal": "bœuf",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Marinade-bbq.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "45 ml (3 c. à soupe) d'huile d'olive",
+      "85 ml (1/3 de tasse) de ketchup",
+      "85 ml (1/3 de tasse) de sauce chili",
+      "45 ml (3 c. à soupe) de vinaigre de vin",
+      "45 ml (3 c. à soupe) de mélasse",
+      "Sel et poivre au goût"
+    ],
+    "preparation": [
+      "Dans un bol, fouetter ensemble tous les ingrédients.",
+      "Verser dans un sac hermétique et ajouter la viande. Retirer l'air du sac et déposer dans un bol afin que la marinade enrobe bien les aliments. Laisser mariner au frais.",
+      "Au moment du repas, égoutter la viande et récupérer la marinade dans une casserole. Porter à ébullition puis laisser réduire à feu doux 10 minutes. Servir comme sauce d'accompagnement.",
+      "Convient au bœuf, au porc, à la volaille. Temps de marinage : bœuf 3 à 24 h; porc 3 à 24 h; volaille 2 à 8 h."
+    ]
+  },
+  {
+    "id": 12641,
+    "livreId": 58,
+    "titre": "Marinade à l'asiatique",
+    "page": 96,
+    "categorie": "Marinade",
+    "ingredientPrincipal": "miel",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Marinade-asiatique96.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "45 ml (3 c. à soupe) de vinaigre de vin",
+      "45 ml (3 c. à soupe) de miel",
+      "10 ml (2 c. à thé) de gingembre haché",
+      "2 anis étoilés",
+      "30 ml (2 c. à soupe) de sauce soya",
+      "185 ml (3/4 de tasse) de sauce sichuanaise"
+    ],
+    "preparation": [
+      "Dans une casserole, porter à ébullition le vinaigre avec le miel et le gingembre. Ajouter l'anis étoilé. Retirer du feu et laisser refroidir. Incorporer la sauce soya et la sauce sichuanaise.",
+      "Verser dans un sac hermétique et ajouter le poisson ou la viande. Retirer l'air du sac et déposer dans un bol afin que la marinade enrobe bien les aliments. Laisser mariner au frais.",
+      "Convient au poisson, au porc, à la volaille. Temps de marinage : poisson 30 min à 2 h; porc 3 à 24 h; volaille 2 à 8 h."
+    ]
+  },
+  {
+    "id": 12642,
+    "livreId": 58,
+    "titre": "Marinade saveur des Indes",
+    "page": 97,
+    "categorie": "Marinade",
+    "ingredientPrincipal": "yogourt",
+    "image": "livres/058-515-50-recettes-100-express-vol-1-n1/images/Saveur-inde97.jpeg",
+    "favori": false,
+    "note": null,
+    "statut": null,
+    "source": null,
+    "ingredients": [
+      "250 ml (1 tasse) de yogourt nature",
+      "185 ml (3/4 de tasse) de lait de coco",
+      "30 ml (2 c. à soupe) de pâte de tandoori",
+      "Sel et poivre au goût"
+    ],
+    "preparation": [
+      "Dans un bol, mélanger ensemble tous les ingrédients.",
+      "Verser dans un sac hermétique et ajouter la viande. Retirer l'air du sac et déposer dans un bol afin que la marinade enrobe bien les aliments. Laisser mariner au frais.",
+      "Convient au bœuf, à l'agneau, à la volaille. Temps de marinage : bœuf 3 à 24 h; agneau 3 à 24 h; volaille 2 à 8 h."
+    ]
+  }
 ]
+
