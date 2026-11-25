@@ -1,57 +1,1393 @@
 [
-{"id": 12344, "titre": "Bâtonnets de pizza en amuse-gueule", "livreId": 54, "page": 31, "categorie": "Amuse-gueule et accompagnements", "ingredientPrincipal": "Pizza", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12345, "titre": "Brochettes de poulet grillées à la grecque", "livreId": 54, "page": 31, "categorie": "Amuse-gueule et accompagnements", "ingredientPrincipal": "Poulet", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12346, "titre": "Gratin de pommes de terre sur le gril", "livreId": 54, "page": 45, "categorie": "Amuse-gueule et accompagnements", "ingredientPrincipal": "Pommes de terre", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12347, "titre": "Légumes sensationnels en papillote", "livreId": 54, "page": 44, "categorie": "Amuse-gueule et accompagnements", "ingredientPrincipal": "Légumes", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12348, "titre": "Pommes de terre nouvelles en papillote", "livreId": 54, "page": 45, "categorie": "Amuse-gueule et accompagnements", "ingredientPrincipal": "Pommes de terre", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12349, "titre": "Tomates gratinées au fromage", "livreId": 54, "page": 44, "categorie": "Amuse-gueule et accompagnements", "ingredientPrincipal": "Tomates", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12350, "titre": "Trempette aux épinards et au fromage", "livreId": 54, "page": 20, "categorie": "Amuse-gueule et accompagnements", "ingredientPrincipal": "Épinards", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12351, "titre": "Trempette mexicaine étagée vite faite", "livreId": 54, "page": 20, "categorie": "Amuse-gueule et accompagnements", "ingredientPrincipal": "Fromage", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12352, "titre": "Salade au poulet « fajita »", "livreId": 54, "page": 38, "categorie": "Salades et sandwichs", "ingredientPrincipal": "Poulet", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12353, "titre": "Salade César aux crevettes grillées", "livreId": 54, "page": 49, "categorie": "Salades et sandwichs", "ingredientPrincipal": "Crevettes", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12354, "titre": "Salade classique étagée", "livreId": 54, "page": 23, "categorie": "Salades et sandwichs", "ingredientPrincipal": "Salade", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12355, "titre": "Salade de bifteck rapide et facile", "livreId": 54, "page": 48, "categorie": "Salades et sandwichs", "ingredientPrincipal": "Bifteck", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12356, "titre": "Salade de boucles au poulet", "livreId": 54, "page": 49, "categorie": "Salades et sandwichs", "ingredientPrincipal": "Poulet", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12357, "titre": "Salade de macaroni pour toute la bande", "livreId": 54, "page": 5, "categorie": "Salades et sandwichs", "ingredientPrincipal": "Macaroni", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12358, "titre": "Salade de nouilles à la mode asiatique", "livreId": 54, "page": 49, "categorie": "Salades et sandwichs", "ingredientPrincipal": "Nouilles", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12359, "titre": "Salade de pâtes à la mode des îles grecques", "livreId": 54, "page": 30, "categorie": "Salades et sandwichs", "ingredientPrincipal": "Pâtes", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12360, "titre": "Salade méditerranéenne aux légumes marinés", "livreId": 54, "page": 22, "categorie": "Salades et sandwichs", "ingredientPrincipal": "Légumes", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12361, "titre": "Salades étagées aux légumes du jardin", "livreId": 54, "page": 21, "categorie": "Salades et sandwichs", "ingredientPrincipal": "Légumes", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12362, "titre": "Sandwich grillé au jambon et au fromage", "livreId": 54, "page": 43, "categorie": "Salades et sandwichs", "ingredientPrincipal": "Jambon", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12363, "titre": "Sandwichs clubs quesadillas grillés à la dinde", "livreId": 54, "page": 42, "categorie": "Salades et sandwichs", "ingredientPrincipal": "Dinde", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12364, "titre": "Sandwichs grillés au fromage mozzarella et au poulet", "livreId": 54, "page": 42, "categorie": "Salades et sandwichs", "ingredientPrincipal": "Mozzarella", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12365, "titre": "Sandwichs roulés au bifteck barbecue", "livreId": 54, "page": 47, "categorie": "Salades et sandwichs", "ingredientPrincipal": "Bifteck", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12366, "titre": "Sandwichs roulés au poulet grillé", "livreId": 54, "page": 43, "categorie": "Salades et sandwichs", "ingredientPrincipal": "Poulet", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12367, "titre": "Brochettes de bœuf caramélisées", "livreId": 54, "page": 38, "categorie": "Plats principaux", "ingredientPrincipal": "Bœuf", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12368, "titre": "Burgers à saveur de fumé", "livreId": 54, "page": 33, "categorie": "Plats principaux", "ingredientPrincipal": "Bœuf", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12369, "titre": "Burgers César", "livreId": 54, "page": 34, "categorie": "Plats principaux", "ingredientPrincipal": "Bœuf", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12370, "titre": "Burgers de dinde farcis", "livreId": 54, "page": 35, "categorie": "Plats principaux", "ingredientPrincipal": "Dinde", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12371, "titre": "Casserole de bœuf, de légumes et de macaroni", "livreId": 54, "page": 47, "categorie": "Plats principaux", "ingredientPrincipal": "Bœuf", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12372, "titre": "Casserole de bœuf et de nouilles à saveur de taco", "livreId": 54, "page": 40, "categorie": "Plats principaux", "ingredientPrincipal": "Bœuf", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12373, "titre": "Côtelettes de porc piquantes et légumes grillés", "livreId": 54, "page": 46, "categorie": "Plats principaux", "ingredientPrincipal": "Porc", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12374, "titre": "Flétan à la florentine en papillote", "livreId": 54, "page": 46, "categorie": "Plats principaux", "ingredientPrincipal": "Flétan", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12375, "titre": "Pizza grillée sur le barbecue", "livreId": 54, "page": 40, "categorie": "Plats principaux", "ingredientPrincipal": "Pizza", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12376, "titre": "Poulet à l'orange et légumes sur le gril", "livreId": 54, "page": 51, "categorie": "Plats principaux", "ingredientPrincipal": "Poulet", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12377, "titre": "Poulet grillé à la bruschetta", "livreId": 54, "page": 39, "categorie": "Plats principaux", "ingredientPrincipal": "Poulet", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12378, "titre": "Souper futé à la pizza", "livreId": 54, "page": 53, "categorie": "Plats principaux", "ingredientPrincipal": "Pizza", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12379, "titre": "Carrés à la Réjeanne", "livreId": 54, "page": 64, "categorie": "Desserts", "ingredientPrincipal": "Chocolat", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12380, "titre": "Carrés de rêve givrés à l'orange", "livreId": 54, "page": 24, "categorie": "Desserts", "ingredientPrincipal": "Orange", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12381, "titre": "Coupes de fruits à la sangria", "livreId": 54, "page": 16, "categorie": "Desserts", "ingredientPrincipal": "Fruits", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12382, "titre": "Dessert glacé « biscuits et crème »", "livreId": 54, "page": 24, "categorie": "Desserts", "ingredientPrincipal": "Biscuits", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12383, "titre": "Gâteau au fromage sans cuisson Philadelphia aux petits fruits", "livreId": 54, "page": 23, "categorie": "Desserts", "ingredientPrincipal": "Fromage à la crème", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12384, "titre": "Gâteau Oreo à la crème glacée et au fudge", "livreId": 54, "page": 13, "categorie": "Desserts", "ingredientPrincipal": "Oreo", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12385, "titre": "Parfaits vite faits au pouding à la banane", "livreId": 54, "page": 51, "categorie": "Desserts", "ingredientPrincipal": "Banane", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12386, "titre": "Shortcake-éclair", "livreId": 54, "page": 31, "categorie": "Desserts", "ingredientPrincipal": "Fraises", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12387, "titre": "« Soufflés » glacés au chocolat", "livreId": 54, "page": 16, "categorie": "Desserts", "ingredientPrincipal": "Chocolat", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12388, "titre": "Tarte aux fruits originale", "livreId": 54, "page": 15, "categorie": "Desserts", "ingredientPrincipal": "Fruits", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12389, "titre": "Tarte paysanne aux fruits", "livreId": 54, "page": 17, "categorie": "Desserts", "ingredientPrincipal": "Fruits", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12390, "titre": "Trempette Margarita", "livreId": 54, "page": 49, "categorie": "Desserts", "ingredientPrincipal": "Fruits", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12391, "titre": "Barres de céréales faciles au mélange de randonnée", "livreId": 54, "page": 9, "categorie": "Boissons et collations", "ingredientPrincipal": "Céréales", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12392, "titre": "Boisson citron-melon rafraîchissante", "livreId": 54, "page": 26, "categorie": "Boissons et collations", "ingredientPrincipal": "Citron", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12393, "titre": "Boisson pétillante à la pêche", "livreId": 54, "page": 30, "categorie": "Boissons et collations", "ingredientPrincipal": "Pêche", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12394, "titre": "Flotteur à la fraise et au kiwi", "livreId": 54, "page": 50, "categorie": "Boissons et collations", "ingredientPrincipal": "Fraise", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12395, "titre": "Panaché à la framboise", "livreId": 54, "page": 59, "categorie": "Boissons et collations", "ingredientPrincipal": "Framboise", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12396, "titre": "Parfait du matin aux petits fruits", "livreId": 54, "page": 55, "categorie": "Boissons et collations", "ingredientPrincipal": "Petits fruits", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12397, "titre": "Rondelles de pomme croustillantes", "livreId": 54, "page": 55, "categorie": "Boissons et collations", "ingredientPrincipal": "Pomme", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12398, "titre": "Triangles de tortilla", "livreId": 54, "page": 43, "categorie": "Boissons et collations", "ingredientPrincipal": "Tortilla", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"}
+
+  {
+  "id": 12344,
+  "livreId": 54,
+  "titre": "Galettes de riz au crabe incroyables",
+  "page": 6,
+  "categorie": "Poisson",
+  "ingredientPrincipal": "crabe",
+  "image": null,
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 tasse de bouillon de poulet Aylmer",
+    "1 tasse de riz Minute Rice, non cuit",
+    "2 œufs",
+    "2 boîtes (6 oz chacune) de chair de crabe, égouttée et émiettée",
+    "1/4 tasse de fromage râpé 100 % parmesan Kraft",
+    "1/4 tasse de beurre ou de margarine",
+    "Quartiers de citron frais, si désiré"
+  ],
+  "preparation": [
+    "Porter le bouillon à ébullition dans une petite casserole. Incorporer le riz; couvrir. Retirer du feu; laisser refroidir 5 min. Remuer à la fourchette.",
+    "Battre les œufs légèrement dans un bol moyen. Ajouter le riz, la chair de crabe et le fromage; bien mélanger. Séparer et faire 8 galettes. Laisser reposer 5 min.",
+    "Fondre le beurre dans une grande poêle à feu moyen. Y déposer les galettes; cuire 5 min de chaque côté ou jusqu'à ce qu'elles soient brun doré et bien réchauffées. Servir avec des quartiers de citron frais, si désiré.",
+    "Donne 4 portions. Prép. : 10 min. Total : 20 min."
+  ]
+},
+{
+  "id": 12345,
+  "livreId": 54,
+  "titre": "La tarte aux pommes parfaite",
+  "page": 15,
+  "categorie": "Desserts, Tarte",
+  "ingredientPrincipal": "pommes",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Tarte-pommes15.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "2 1/4 tasses de farine",
+    "1 c. à thé de sel",
+    "1 tasse de shortening",
+    "5 à 7 c. à soupe d'eau glacée",
+    "6 tasses de pommes surettes (comme Granny Smith), pelées et tranchées mince (env. 4 grosses pommes)",
+    "3/4 tasse de sucre",
+    "1 c. à soupe de fécule de maïs",
+    "1/2 c. à thé de cannelle moulue",
+    "1/4 c. à thé de muscade moulue",
+    "1 c. à soupe de jus de citron (facultatif)"
+  ],
+  "preparation": [
+    "Chauffer le four à 400 °F. Mélanger la farine et le sel dans un grand bol. Incorporer le shortening avec un coupe-pâte ou 2 couteaux, jusqu'à ce que le mélange ait la consistance de chapelure grossière.",
+    "Ajouter l'eau, 1 c. à soupe à la fois, en mélangeant légèrement à la fourchette jusqu'à ce que le mélange de farine soit uniformément mouillé et qu'il colle ensemble quand pressé en boule. Séparer la pâte en deux; façonner chaque moitié en cercle de 1/2 po d'épaisseur. Envelopper chaque cercle de pâte dans une pellicule plastique; réfrigérer de 10 à 15 min.",
+    "Entre-temps, remuer les pommes avec le sucre, la fécule, la cannelle, la muscade et le jus de citron dans un grand bol; mettre de côté. Placer 1 cercle de pâte entre 2 morceaux de pellicule plastique; abaisser au rouleau à pâte pour aplatir, en allant du centre de la pâte jusqu'au bord. Tourner; continuer d'abaisser jusqu'à ce que la pâte mesure 2 po de plus que le diamètre d'un moule à tarte de 9 po renversé.",
+    "Retirer le morceau de pellicule plastique sur le dessus; retourner la pâte dans le moule à tarte. Retirer le morceau de pellicule plastique qui reste; presser uniformément la pâte dans le fond et sur les côtés du moule à tarte en prenant soin de ne pas étirer la pâte. Couper l'excédent de pâte avec un couteau tranchant ou des ciseaux de cuisine; réserver les retailles.",
+    "Garnir du mélange de pommes; mettre de côté. Abaisser la pâte qui reste comme indiqué; placer sur la garniture. Couper la croûte supérieure en la laissant dépasser de 1/2 po du moule. Plier le bord de la croûte supérieure sous le bord de la croûte inférieure; pincer les bords ensemble pour former un rebord. Canneler le rebord. Faire plusieurs incisions près du centre de la tarte pour laisser la vapeur s'échapper. Cuire au four de 45 à 50 min ou jusqu'à ce que le jus forme des bulles qui éclatent lentement. Laisser refroidir.",
+    "Donne 8 portions. Prép. : 35 min. Total : 1 h 25.",
+    "Touches finales : Utiliser de petits emporte-pièces pour découper des formes décoratives dans la croûte supérieure ou dans les retailles qui restent; disposer sur la croûte supérieure. Avant la cuisson, badigeonner le dessus de blanc d'œuf légèrement battu (pour une croûte brillante), d'un œuf entier (pour une croûte dorée) ou d'œuf battu et saupoudrer de 1 c. à soupe de sucre granulé (pour une croûte étincelante)."
+  ]
+},
+{
+  "id": 12346,
+  "livreId": 54,
+  "titre": "Plat au chou facile",
+  "page": 22,
+  "categorie": "Bœuf",
+  "ingredientPrincipal": "chou",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Plat-chou22.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "8 tasses de chou vert, râpé fin",
+    "2 oignons moyens hachés",
+    "1/4 tasse de vinaigrette aux herbes classiques Signature Kraft",
+    "1/4 c. à thé de sel",
+    "1 lb de bœuf haché maigre",
+    "2 tasses de riz Minute Rice, non cuit",
+    "2 bte (10 oz/284 ml chacune) de soupe aux tomates Aylmer",
+    "2 boîtes d'eau"
+  ],
+  "preparation": [
+    "Chauffer le four à 350 °F. Cuire le chou et les oignons dans la vinaigrette dans une grande poêle de 5 à 10 min ou jusqu'à ce qu'ils soient tendres, en remuant. Incorporer le sel. Retirer de la poêle; mettre de côté.",
+    "Ajouter la viande dans la poêle; cuire jusqu'à ce qu'elle soit dorée en remuant de temps à autre. Bien incorporer le riz, la soupe et l'eau. Étaler le tiers du mélange de chou et la moitié du mélange de viande dans un plat de 13 x 9 po. Répéter les couches; couvrir du mélange de chou qui reste. Couvrir de papier d'aluminium.",
+    "Cuire au four 1 h.",
+    "Donne 8 portions. Prép. : 15 min. Total : 1 h 15.",
+    "Note : Un chou de 1 lb donnera de 3 1/2 à 4 tasses de chou râpé. Couper le chou en quatre, puis retirer le trognon. Empiler les feuilles et couper de travers en lanières fines."
+  ]
+},
+{
+  "id": 12347,
+  "livreId": 54,
+  "titre": "Poulet bruschetta au four",
+  "page": 22,
+  "categorie": "Poulet",
+  "ingredientPrincipal": "poulet",
+  "image": null,
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 bte (19 oz/540 ml) de tomates étuvées italiennes Accents Aylmer, non égouttées",
+    "2 gousses d'ail, hachées fin",
+    "1 pqt (120 g) de mélange à farce Stove Top pour poulet",
+    "1 1/2 lb de poitrines de poulet désossées et sans peau, coupées en bouchées",
+    "1 c. à thé de feuilles de basilic séchées",
+    "1 tasse de fromage mozzarella râpé Kraft"
+  ],
+  "preparation": [
+    "Chauffer le four à 400 °F. Déposer les tomates avec le jus dans un bol moyen. Ajouter l'ail et le mélange à farce; remuer juste assez pour mouiller le mélange à farce. Mettre de côté.",
+    "Déposer le poulet dans un plat de 13 x 9 po; parsemer du basilic et du fromage. Couvrir du mélange à farce.",
+    "Cuire au four, 30 min ou jusqu'à ce que le poulet soit bien cuit.",
+    "Donne 6 portions. Prép. : 10 min. Total : 40 min."
+  ]
+},
+{
+  "id": 12348,
+  "livreId": 54,
+  "titre": "Risotto aux oignons caramélisés et crevettes pour la semaine",
+  "page": 23,
+  "categorie": "Poisson, Riz",
+  "ingredientPrincipal": "crevettes",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Risotto23.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 c. à soupe chacune de beurre et d'huile d'olive",
+    "1 lb de champignons frais variés (blancs, shiitake), hachés",
+    "2 gros oignons hachés",
+    "1 c. à thé de feuilles de thym séchées",
+    "2 bte (10 oz/284 ml chacune) de bouillon de poulet Aylmer",
+    "1 tasse de lait",
+    "2 tasses de riz Minute Rice, non cuit",
+    "1/4 tasse de fromage râpé 100 % parmesan Kraft",
+    "1/4 tasse de fromage suisse Kraft, râpé",
+    "1/4 tasse de brins de persil frais, hachés fin",
+    "1 lb de crevettes moyennes cuites surgelées, décortiquées"
+  ],
+  "preparation": [
+    "Fondre le beurre avec l'huile d'olive dans une grande poêle profonde antiadhésive à feu mi-vif. Ajouter les champignons, les oignons et le thym; remuer légèrement. Couvrir et cuire 15 min ou jusqu'à ce que les légumes soient dorés.",
+    "Incorporer le bouillon et le lait. Porter à ébullition. Incorporer le riz. Baisser la chaleur à feu mi-doux; laisser mijoter 10 min ou jusqu'à ce que le riz soit tendre. Retirer du feu.",
+    "Ajouter les fromages, le persil et les crevettes; remuer légèrement. Couvrir et laisser reposer 10 min ou jusqu'à ce que les crevettes soient bien chaudes.",
+    "Donne 6 portions. Prép. : 10 min. Total : 45 min.",
+    "Note : Remplacer 1/2 tasse de bouillon par une quantité égale de vin blanc sec. Couvrir et réfrigérer le bouillon qui reste pour un autre usage."
+  ]
+},
+{
+  "id": 12349,
+  "livreId": 54,
+  "titre": "Poulet glacé à l'orange",
+  "page": 24,
+  "categorie": "Poulet, Salade",
+  "ingredientPrincipal": "poulet",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Poulet-orange24.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "4 moitiés de poitrines de poulet désossées et sans peau (1 1/4 lb)",
+    "1/4 tasse de marmelade d'oranges Kraft, divisée",
+    "1 sachet de mélange de panure Shake 'n Bake Croustillant Original",
+    "1/4 tasse de vinaigrette italienne piquante Kraft",
+    "6 tasses de feuilles d'épinards nains",
+    "1 orange moyenne, coupée en tranches minces"
+  ],
+  "preparation": [
+    "Chauffer le four à 400 °F. Étendre 2 c. à soupe de marmelade sur les poitrines de poulet. Vider le mélange de panure dans un plat peu profond. Ajouter le poulet; tourner pour enrober uniformément les deux côtés.",
+    "Placer le poulet dans un plat de 13 x 9 po. Cuire au four, 25 min ou jusqu'à ce qu'il soit bien cuit.",
+    "Mélanger la vinaigrette avec 2 c. à soupe de marmelade qui restent. Ajouter aux épinards; remuer pour enrober. Répartir également dans 4 assiettes de service. Disposer 1 poitrine de poulet tranchée sur les épinards dans chaque assiette et ajouter les tranches d'orange, si désiré.",
+    "Donne 4 portions. Prép. : 10 min. Total : 35 min."
+  ]
+},
+{
+  "id": 12350,
+  "livreId": 54,
+  "titre": "Cassoulet éclair au porc",
+  "page": 24,
+  "categorie": "Porc",
+  "ingredientPrincipal": "porc",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Cassoulet24.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "4 côtelettes de longe de porc (4 oz chacune), 1/2 po d'épais",
+    "1/4 lb de saucisse kielbasa tranchée",
+    "3 carottes moyennes tranchées",
+    "1 oignon moyen haché",
+    "1 gousse d'ail hachée",
+    "1 bte (10 oz/284 ml) de bouillon de bœuf Aylmer",
+    "1 feuille de laurier",
+    "1/2 c. à thé de feuilles de thym séchées",
+    "1 bte (19 oz/540 ml) de haricots blancs Primo, égouttés",
+    "2 c. à soupe de farine",
+    "Huile (une petite quantité)"
+  ],
+  "preparation": [
+    "Chauffer une petite quantité d'huile dans une grande poêle à feu mi-vif. Ajouter les côtelettes; cuire jusqu'à ce qu'elles soient dorées de chaque côté. Les pousser sur le côté de la poêle. Ajouter la saucisse kielbasa, les carottes, l'oignon et l'ail; cuire 2 min en remuant de temps à autre.",
+    "Ajouter le bouillon, la feuille de laurier et le thym; couvrir. Porter à ébullition. Baisser la chaleur à feu mi-doux; laisser mijoter 25 min ou jusqu'à ce que la viande soit tendre. Incorporer les haricots.",
+    "Mélanger la farine avec 2 c. à soupe d'eau dans un petit bol. Ajouter aux ingrédients dans la poêle; bien mélanger. Cuire 5 min ou jusqu'à ce que le mélange épaississe, en remuant souvent. Retirer et jeter la feuille de laurier avant de servir.",
+    "Donne 4 portions. Prép. : 10 min. Total : 45 min.",
+    "Note : Pour empêcher le porc de retrousser, entailler le gras à intervalles de 1 po autour de chaque côtelette."
+  ]
+},
+{
+  "id": 12351,
+  "livreId": 54,
+  "titre": "Boulettes de viande porc-épic",
+  "page": 25,
+  "categorie": "Plat principal",
+  "ingredientPrincipal": "viande hachée",
+  "image": null,
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 tasse de riz Minute Rice, non cuit",
+    "1 œuf",
+    "1/2 tasse d'oignon haché",
+    "1/2 tasse de carotte râpée",
+    "VIANDE OU POISSON, AJOUTS ET LIQUIDE : choisir une des 4 options suivantes",
+    "OPTION 1 – VIANDE : 1 lb de poulet haché",
+    "OPTION 1 – AJOUTS : 1 tasse de petits pois surgelés",
+    "OPTION 1 – LIQUIDE : 1 bte (10 oz/284 ml) de bouillon de poulet Aylmer, 2 c. à soupe de coriandre hachée, 1/2 c. à thé de cari",
+    "OPTION 2 – VIANDE : 1 lb de bœuf haché maigre",
+    "OPTION 2 – AJOUTS : 1/2 tasse chacune de poivrons vert et rouge, hachés",
+    "OPTION 2 – LIQUIDE : 1 tasse de sauce pour pâtes Primo",
+    "OPTION 3 – VIANDE : 1 lb de porc haché",
+    "OPTION 3 – AJOUTS : 1 bte (14 oz/398 ml) de petits morceaux d'ananas Del Monte, égouttés, en réservant le jus",
+    "OPTION 3 – LIQUIDE : le jus d'ananas réservé, 1/2 tasse de ketchup, 2 c. à soupe chacune de cassonade et de sauce soya",
+    "OPTION 4 – POISSON : 2 bte (7,5 oz/213 g chacune) de saumon, égoutté et émietté",
+    "OPTION 4 – AJOUTS : 1 bte (10 oz/284 ml) de champignons, égouttés",
+    "OPTION 4 – LIQUIDE : 1 bte (10 oz/284 ml) de soupe crème de champignons Aylmer, 1 tasse d'eau"
+  ],
+  "preparation": [
+    "Chauffer le four à 350 °F. Mélanger le riz Minute Rice, l'œuf, les oignons et les carottes avec la viande ou le poisson. Façonner en 16 boulettes.",
+    "Placer dans un plat carré de 9 po en une seule épaisseur. Mélanger les ajouts et le liquide; déposer également sur les boulettes de viande. Couvrir de papier d'aluminium.",
+    "Cuire au four 1 h ou jusqu'à ce que les boulettes de viande soient bien cuites.",
+    "Donne 4 portions de 4 boulettes.",
+    "Truc (Susanne Stark, spécialiste des Cuisines Kraft) : Mouiller les mains sous l'eau froide avant de façonner le mélange de viande en boulettes pour l'empêcher de coller.",
+    "Note : Pour obtenir des boulettes de grosseur uniforme, préparer le mélange de viande comme indiqué et façonner en rouleau. Couper le rouleau en deux. Puis couper chaque morceau en deux de nouveau. Continuer à couper chaque morceau en deux jusqu'à l'obtention de 16 morceaux égaux. Puis, façonner chaque morceau en boulette."
+  ]
+},
+{
+  "id": 12352,
+  "livreId": 54,
+  "titre": "Choco-guimauve chaud aux pépites de chocolat",
+  "page": 26,
+  "categorie": "Desserts, Biscuits",
+  "ingredientPrincipal": "chocolat",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Choco-guimauve26.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "16 biscuits Pépites de chocolat, divisés",
+    "2 carrés de chocolat mi-sucré Baker's, hachés",
+    "2 c. à thé de noix de coco en flocons",
+    "16 mini-guimauves Jet-Puffed"
+  ],
+  "preparation": [
+    "Chauffer le four à 350 °F. Déposer 8 biscuits, le côté plat vers le haut, sur une plaque garnie de papier d'aluminium. Couvrir uniformément de chocolat, de noix de coco et de guimauves.",
+    "Cuire au four 4 min. Couvrir chaque biscuit d'un autre biscuit, le côté plat vers le bas, pour faire un sandwich. Continuer la cuisson de 2 à 4 min de plus ou jusqu'à ce que les biscuits soient chauds et que le chocolat et les guimauves soient fondus.",
+    "Servir chaud, ou couvrir et réfrigérer de 5 à 10 min ou jusqu'à ce que la garniture soit prise.",
+    "Donne 8 portions d'un biscuit garni. Prép. : 5 min. Total : 13 min.",
+    "Note : Les jeunes aiment aider. Mettre le chocolat, les guimauves et la noix de coco dans de petits bols et laisser les enfants les étaler sur les biscuits."
+  ]
+},
+{
+  "id": 12353,
+  "livreId": 54,
+  "titre": "Tarte aux bleuets en coupe",
+  "page": 26,
+  "categorie": "Desserts",
+  "ingredientPrincipal": "bleuets",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Tarte-bleuets26.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "4 biscuits au gingembre Pantry Christie",
+    "1/2 tasse de garniture pour tarte aux bleuets",
+    "1 goûter au pouding prêt-à-manger Jell-O à la vanille"
+  ],
+  "preparation": [
+    "Émietter 1 biscuit au gingembre Pantry Christie dans le fond de chacun de 2 plats à dessert allant au micro-ondes.",
+    "Garnir chacun avec 1/4 tasse de garniture pour tarte aux bleuets, la moitié d'un goûter au pouding prêt-à-manger Jell-O à la vanille et un autre biscuit émietté.",
+    "Chauffer au micro-ondes à HAUTE intensité, 45 sec ou jusqu'à ce que ce soit chaud. Servir immédiatement.",
+    "Donne 2 portions. Prép. : 5 min. Total : 6 min.",
+    "Note : Pour une super variante, préparer comme indiqué en utilisant de la garniture pour tarte aux cerises et des biscuits Oreo."
+  ]
+},
+{
+  "id": 12354,
+  "livreId": 54,
+  "titre": "Pouding Minute Rice classique",
+  "page": 26,
+  "categorie": "Desserts",
+  "ingredientPrincipal": "riz",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Pouding-minute26.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 3/4 tasse de lait",
+    "1/2 tasse de riz Minute Rice, non cuit",
+    "2 c. à soupe chacune de sucre et de raisins secs",
+    "1/4 c. à thé de sel",
+    "1 œuf",
+    "1/4 c. à thé de vanille"
+  ],
+  "preparation": [
+    "Mélanger le lait, le riz, le sucre, les raisins secs et le sel dans une casserole moyenne. Porter à ébullition en remuant sans arrêt. Baisser la chaleur à feu mi-doux; laisser mijoter, sans couvrir, 6 min en remuant de temps à autre.",
+    "Battre l'œuf et la vanille au fouet jusqu'à ce que le tout soit bien mélangé. Ajouter une petite quantité de mélange de lait chaud; bien mélanger. Remettre dans la casserole; cuire à feu doux 1 min en remuant. (Ne pas laisser bouillir.)",
+    "Retirer du feu. Laisser reposer 30 min. Servir chaud. Conserver les restes de pouding au réfrigérateur.",
+    "Donne 4 portions. Prép. : 5 min. Total : 20 min.",
+    "La recette Minute Rice des Cuisines Kraft la plus populaire!"
+  ]
+},
+{
+  "id": 12355,
+  "livreId": 54,
+  "titre": "Tasses de pouding au chocolat chaud",
+  "page": 27,
+  "categorie": "Desserts",
+  "ingredientPrincipal": "chocolat",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Tasses-pouding27.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 pqt (format 6 portions) de pouding et garniture pour tarte à cuire Jell-O au chocolat",
+    "3 tasses de lait",
+    "GARNITURES (une seule par tasse) :",
+    "3 mini-guimauves Jet-Puffed",
+    "1 biscuit Oreo émietté",
+    "1 c. à thé de grains de chocolat mi-sucré miniatures Baker's",
+    "1 c. à thé de noix de coco en flocons",
+    "1 c. à thé de pacanes hachées"
+  ],
+  "preparation": [
+    "Préparer le pouding et garniture pour tarte à cuire au chocolat avec 3 tasses de lait comme indiqué sur l'emballage.",
+    "Répartir dans 6 grosses tasses. Garnir chacune avec une des garnitures suivantes : 3 mini-guimauves Jet-Puffed, 1 biscuit Oreo émietté, 1 c. à thé de grains de chocolat mi-sucré miniatures Baker's, 1 c. à thé de noix de coco en flocons ou 1 c. à thé de pacanes hachées.",
+    "Servir chaud.",
+    "Donne 6 portions. Prép. : 10 min. Total : 11 min."
+  ]
+},
+{
+  "id": 12356,
+  "livreId": 54,
+  "titre": "Brochettes de poulet glacées à la cassonade",
+  "page": 28,
+  "categorie": "Poulet",
+  "ingredientPrincipal": "poulet",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Brochettes-poulet28.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 lb (500 g) de poitrines de poulet désossées et sans peau",
+    "2 tasses de poivrons rouges et verts mélangés",
+    "2 tasses d'ananas frais",
+    "1/2 tasse (125 mL) de sauce barbecue Kraft à la cassonade, plus un peu pour badigeonner"
+  ],
+  "preparation": [
+    "Couper le poulet, les poivrons et l'ananas en morceaux de 1 po (2,5 cm).",
+    "Enfiler le poulet, l'ananas et les poivrons sur 6 grandes brochettes, en alternant.",
+    "Badigeonner de 1/2 tasse de sauce barbecue Kraft à la cassonade. Griller à feu mi-vif, de 8 à 10 min ou jusqu'à ce que les brochettes soient bien cuites, en tournant de temps en temps et en badigeonnant de sauce additionnelle."
+  ]
+},
+{
+  "id": 12357,
+  "livreId": 54,
+  "titre": "Craquelins, pommes et fromage fondu",
+  "page": 30,
+  "categorie": "Entrée",
+  "ingredientPrincipal": "fromage",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Craquelins30.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1/2 tasse de sucre",
+    "1/2 c. à thé de cannelle moulue",
+    "1 petite pomme rouge, coupée en 20 tranches",
+    "1 petite pomme verte, coupée en 20 tranches",
+    "1 pqt (227 g) de fromage cheddar P'tit Québec, coupé en 20 tranches",
+    "40 craquelins Triscuit"
+  ],
+  "preparation": [
+    "Chauffer le four à 350 °F. Mélanger le sucre et la cannelle dans un bol moyen. Ajouter les pommes; remuer pour enrober.",
+    "Couper les tranches de fromage en deux de biais. Déposer les craquelins sur une plaque; garnir chaque craquelin avec 1 morceau de fromage et 2 tranches de pomme.",
+    "Cuire au four, 4 ou 5 min ou jusqu'à ce que le fromage soit fondu. Servir chaud.",
+    "Donne 20 portions de 2 craquelins garnis. Prép. : 15 min. Total : 20 min."
+  ]
+},
+{
+  "id": 12358,
+  "livreId": 54,
+  "titre": "Soupes de la récolte d'automne",
+  "page": 30,
+  "categorie": "Soupe",
+  "ingredientPrincipal": "légumes",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Soupes30.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "2 pommes de terre moyennes",
+    "1 oignon moyen",
+    "1 branche de céleri",
+    "1/4 tasse d'huile",
+    "2 boîtes (10 oz/284 ml chacune) de bouillon de poulet, de bœuf ou de légumes Aylmer",
+    "2 boîtes d'eau",
+    "VÉGÉTAUX (4 tasses) : choisir une des 4 options suivantes",
+    "OPTION 1 : bouquets de brocoli, poudre d'ail (assaisonnement), fromage cheddar P'tit Québec râpé (garniture)",
+    "OPTION 2 : carottes tranchées, gingembre moulu (assaisonnement), yogourt nature (garniture)",
+    "OPTION 3 : bouquets de chou-fleur, cari (assaisonnement), coriandre hachée (garniture)",
+    "OPTION 4 : poireaux tranchés, feuilles de thym séchées (assaisonnement), oignons verts hachés (garniture)",
+    "1 c. à thé d'assaisonnement de l'option choisie",
+    "1 c. à soupe de garniture de l'option choisie par bol"
+  ],
+  "preparation": [
+    "Hacher les pommes de terre, l'oignon et le céleri; mettre de côté. Chauffer l'huile à feu vif dans une grande casserole. Baisser la chaleur à feu moyen. Ajouter les pommes de terre, l'oignon et le céleri avec 4 tasses des légumes choisis; cuire en remuant, 5 min ou jusqu'à ce qu'ils soient dorés.",
+    "Ajouter le bouillon et 2 boîtes d'eau. Incorporer 1 c. à thé d'assaisonnement. Porter à ébullition. Baisser la chaleur à feu mi-doux; laisser mijoter de 30 à 40 min ou jusqu'à ce que les légumes soient tendres.",
+    "Déposer le mélange de légumes en plusieurs fois dans le récipient du mélangeur; couvrir et mélanger jusqu'à ce que le tout soit lisse. Remettre dans la casserole; chauffer à feu doux jusqu'à ce que la soupe soit bien chaude, en remuant de temps en temps. Répartir dans 8 bols à soupe; parsemer chacun de 1 c. à soupe de garniture.",
+    "Donne 8 portions de 1 tasse."
+  ]
+},
+{
+  "id": 12359,
+  "livreId": 54,
+  "titre": "Gratin de poireau et patates douces",
+  "page": 32,
+  "categorie": "Accompagnement",
+  "ingredientPrincipal": "patates douces",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Gratin-poireaux32.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 1/4 tasse de crème 35 %",
+    "1 gros poireau, coupé en tranches de 1/4 po d'épais (env. 2 tasses)",
+    "1 c. à thé de feuilles de thym séchées",
+    "1/4 c. à thé chacune de sel et de poivre noir",
+    "1/4 c. à thé de muscade moulue",
+    "2 patates douces moyennes, pelées et coupées en tranches de 1/4 po d'épais (env. 2 tasses)",
+    "4 panais moyens, pelés et coupés en tranches de 1/4 po d'épais (env. 2 tasses)",
+    "2 tasses de fromage cheddar P'tit Québec, râpé"
+  ],
+  "preparation": [
+    "Chauffer le four à 375 °F. Mélanger la crème, le poireau, le thym, le sel, le poivre et la muscade dans une grande casserole. Porter juste au point d'ébullition à feu doux, en remuant souvent. Ajouter les patates douces et les panais; mélanger légèrement. Couvrir et laisser mijoter environ 10 min ou jusqu'à ce que les légumes soient tendres mais encore croquants.",
+    "Étaler la moitié de chaque mélange aux légumes et du fromage râpé dans un plat graissé de 2 L. Répéter les couches.",
+    "Cuire au four 30 min ou jusqu'à ce que le gratin soit doré et bouillonnant. Laisser reposer 5 min avant de servir.",
+    "Donne 8 portions de 1/2 tasse. Prép. : 30 min. Total : 1 h."
+  ]
+},
+{
+  "id": 12360,
+  "livreId": 54,
+  "titre": "Purée de patates douces pralinée",
+  "page": 32,
+  "categorie": "Accompagnement",
+  "ingredientPrincipal": "patates douces",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Puree-patate-douce32.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "5 grosses patates douces (env. 3,5 lb)",
+    "125 g (1/2 paquet de 250 g) de fromage à la crème Philadelphia, ramolli",
+    "1 c. à thé de cannelle moulue, divisée",
+    "3 biscuits de céréales Shredded Wheat Post",
+    "1/2 tasse de pacanes grillées hachées",
+    "1/4 tasse de cassonade bien tassée",
+    "2 c. à soupe de beurre ramolli"
+  ],
+  "preparation": [
+    "Chauffer le four à 400 °F. Piquer les patates avec une fourchette, puis les cuire au micro-ondes à HAUTE intensité, de 15 à 20 min ou jusqu'à ce qu'elles soient tendres. Retirer du micro-ondes; laisser refroidir 5 min. Couper chaque patate en deux sur la longueur; évider soigneusement la chair et la déposer dans un bol moyen en réservant les pelures pour plus tard. Réduire les patates en purée lisse. Ajouter le fromage à la crème et 1/2 c. à thé de cannelle; bien mélanger. Répartir uniformément dans les pelures.",
+    "Placer les biscuits de céréales dans un sac de plastique refermable; écraser délicatement avec les mains ou un rouleau à pâte. Mélanger avec les pacanes, la cassonade, le beurre et 1/2 c. à thé de cannelle qui reste. Parsemer également sur les patates.",
+    "Cuire au four 15 min ou jusqu'à ce que les patates soient bien chaudes et que la garniture de céréales soit dorée.",
+    "Donne 10 portions d'une demi-patate farcie. Prép. : 35 min. Total : 50 min."
+  ]
+},
+{
+  "id": 12361,
+  "livreId": 54,
+  "titre": "Gratin de purée de pommes de terre et patates douces",
+  "page": 33,
+  "categorie": "Accompagnement",
+  "ingredientPrincipal": "pommes de terre",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Gratin-puree33.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "4 grosses pommes de terre blanches, pelées, hachées et cuites",
+    "2 grosses patates douces, pelées, hachées et cuites",
+    "1 contenant (250 g) de tartinade au fromage à la crème Philadelphia à l'oignon et ciboulette, divisé",
+    "1/2 tasse de crème sure, divisée",
+    "1/4 c. à thé chacune de sel et de poivre noir",
+    "1/4 tasse de fromage râpé 100 % parmesan Kraft, divisé",
+    "1/4 tasse de fromage râpé Double cheddar Kraft, divisé"
+  ],
+  "preparation": [
+    "Chauffer le four à 375 °F. Placer les pommes de terre cuites dans un bol moyen et les patates douces cuites dans un autre bol moyen. Ajouter la moitié du fromage à la crème et de la crème sure dans chaque bol; saler et poivrer. Écraser au pilon ou à la fourchette pour obtenir une purée crémeuse.",
+    "Incorporer la moitié du parmesan dans le bol de pommes de terre. Incorporer la moitié du cheddar dans le bol de patates douces. Étaler la moitié des pommes de terre, puis la moitié des patates douces dans un plat en verre transparent de 2 L. Répéter les couches.",
+    "Cuire au four 15 min. Parsemer le dessus avec le reste du fromage; cuire 5 min de plus ou jusqu'à ce que les fromages soient fondus.",
+    "Donne 14 portions de 1/2 tasse. Prép. : 25 min. Total : 1 h 10."
+  ]
+},
+{
+  "id": 12362,
+  "livreId": 54,
+  "titre": "Pommes de terre dorées au parmesan",
+  "page": 33,
+  "categorie": "Accompagnement",
+  "ingredientPrincipal": "pommes de terre",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Pommes-terre-parmesan33.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "6 tasses de tranches de pommes de terre Yukon Gold d'env. 1/8 po d'épais (env. 6 pommes de terre moyennes)",
+    "3 c. à soupe de beurre, fondu et divisé",
+    "1/2 tasse de fromage râpé 100 % parmesan Kraft, divisé",
+    "Ciboulette fraîche hachée"
+  ],
+  "preparation": [
+    "Chauffer le four à 425 °F. Rincer les pommes de terre; égoutter sur du papier essuie-tout puis éponger.",
+    "Badigeonner le fond et les côtés d'un moule à tarte de 9 po avec 1 c. à soupe de beurre. Remuer les pommes de terre avec un mélange de 2 c. à soupe de beurre et 1/4 tasse de fromage; disposer les pommes de terre en plusieurs couches dans le fond et sur les côtés du moule à tarte. Parsemer de 1/4 tasse de fromage.",
+    "Cuire au four 1 h ou jusqu'à ce que les pommes de terre soient tendres. Détacher les pommes de terre des côtés et du fond du moule à tarte. Renverser immédiatement dans une assiette de service; parsemer de ciboulette. Tailler en 8 pointes pour servir.",
+    "Donne 8 portions. Prép. : 10 min. Total : 1 h 10."
+  ]
+},
+{
+  "id": 12363,
+  "livreId": 54,
+  "titre": "Betteraves et carottes rôties",
+  "page": 34,
+  "categorie": "Accompagnement",
+  "ingredientPrincipal": "betteraves",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Bettersves-carottes34.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "4 betteraves moyennes parées (env. 2 lb)",
+    "6 carottes moyennes",
+    "2 c. à thé d'huile d'olive",
+    "1/2 tasse de vinaigrette Catalina Kraft",
+    "2 c. à thé de gingembre moulu"
+  ],
+  "preparation": [
+    "Chauffer le four à 425 °F. Envelopper serré chaque betterave dans du papier d'aluminium; placer au four sur la grille du centre. Rôtir 1 h 15 min. Entre-temps, peler les carottes; couper de biais en tranches de 3/4 po d'épais. (Vous devriez avoir environ 4 tasses de tranches de carottes.) Retirer les betteraves du four; mettre de côté et laisser refroidir.",
+    "Déposer les carottes dans un grand plat peu profond. Ajouter l'huile; remuer pour enrober. Rôtir 30 min. Entre-temps, développer les betteraves; retirer la peau et les tiges. Couper chaque betterave en 8 quartiers.",
+    "Ajouter les betteraves aux carottes avec la vinaigrette et le gingembre mélangés ensemble; remuer pour enrober. Rôtir 15 min de plus ou jusqu'à ce que les légumes soient tendres.",
+    "Donne 10 portions de 3/4 tasse. Prép. : 15 min. Total : 2 h 15.",
+    "Note : Pour éviter les taches de betteraves, porter des gants en latex jetables lorsqu'on manipule les betteraves cuites, et les tailler dans un grand bol ou une grande assiette de céramique plutôt que sur une planche à découper."
+  ]
+},
+{
+  "id": 12364,
+  "livreId": 54,
+  "titre": "Gâteau au fromage de rêve à l'orange",
+  "page": 62,
+  "categorie": "Desserts, Gâteau",
+  "ingredientPrincipal": "fromage",
+  "image": null,
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1/4 tasse de chapelure de graham P'tite Abeille",
+    "2/3 tasse d'eau bouillante",
+    "1 pqt (10,2 g) de poudre pour gelée léger Jell-O à l'orange",
+    "1 tasse de fromage cottage 1 %",
+    "1 pqt (250 g) de tartinade au fromage à la crème Philadelphia Léger",
+    "2 tasses de garniture fouettée Cool Whip Légère, dégelée"
+  ],
+  "preparation": [
+    "Saupoudrer la chapelure dans le fond d'un moule à charnière de 8 ou 9 po ou d'un moule à tarte de 9 po vaporisé d'enduit à cuisson.",
+    "Incorporer l'eau bouillante à la poudre pour gelée dans un grand bol en remuant pendant au moins 2 min ou jusqu'à ce que la poudre soit complètement dissoute. Laisser refroidir 5 min. Verser dans la jarre du mélangeur. Ajouter le fromage cottage et la tartinade; couvrir. Bien mélanger à vitesse moyenne, en raclant les côtés de la jarre de temps à autre; verser dans un grand bol.",
+    "Ajouter la garniture fouettée; remuer délicatement jusqu'à ce qu'elle soit bien mélangée. Verser dans le moule préparé; lisser la surface avec une spatule. Réfrigérer 4 heures ou jusqu'à ce que le gâteau soit pris. Retirer les côtés du moule au moment de servir.",
+    "Donne 8 portions. Temps de préparation : 15 min plus la réfrigération.",
+    "Note : Ce gâteau au fromage ne contient que 10,7 g de glucides par portion."
+  ]
+},
+{
+  "id": 12365,
+  "livreId": 54,
+  "titre": "Filet de porc avec légumes rôtis",
+  "page": 35,
+  "categorie": "Porc",
+  "ingredientPrincipal": "porc",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Filet-porc35.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 filet de porc de 1 lb",
+    "1 sachet de mélange de panure Shake 'n Bake Croustillant pour porc",
+    "1 lb de patates douces, pelées, en cubes de 1/2 po (env. 2 tasses)",
+    "1 lb de pommes de terre rouges, en cubes de 1/2 po (env. 2 tasses)",
+    "1 oignon jaune moyen, en morceaux de 1 po",
+    "1/2 tasse de vinaigrette italienne piquante Kraft"
+  ],
+  "preparation": [
+    "Chauffer le four à 450 °F. Mouiller la viande avec de l'eau. Secouer l'excédent. Enrober la viande de mélange de panure comme indiqué sur l'emballage. Jeter le mélange de panure qui reste.",
+    "Remuer les patates douces, les pommes de terre rouges et l'oignon avec la vinaigrette. Étaler uniformément dans un plat de 10 x 15 po; déposer la viande sur le dessus.",
+    "Cuire au four de 25 à 30 min ou jusqu'à ce qu'un thermomètre à viande inséré au centre de la viande atteigne 160 °F, en remuant les légumes après 15 min. Laisser reposer 5 min. Trancher la viande. Servir avec les légumes.",
+    "Donne 4 portions. Prép. : 15 min. Total : 50 min (incl. temps de repos).",
+    "Note : Pour une variante savoureuse, préparer comme indiqué en remplaçant les patates douces par de la courge musquée ou poivrée."
+  ]
+},
+{
+  "id": 12366,
+  "livreId": 54,
+  "titre": "Courgettes farcies à la viande et aux légumes",
+  "page": 35,
+  "categorie": "Bœuf",
+  "ingredientPrincipal": "bœuf haché",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Courgettes-farcies35.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "4 courgettes moyennes",
+    "1/2 lb de bœuf haché maigre",
+    "1/2 tasse chacune de poivron vert, oignon rouge et céleri, hachés",
+    "1/2 tomate moyenne, hachée fin",
+    "1/2 tasse de vinaigrette balsamique Signature Kraft",
+    "1/2 c. à thé de feuilles d'origan séchées",
+    "Sel et poivre",
+    "1/2 tasse de fromage râpé Italiano 4 fromages Kraft",
+    "1/2 tasse de fromage râpé 100 % parmesan Kraft"
+  ],
+  "preparation": [
+    "Chauffer le four à 350 °F. Couper les courgettes en deux sur la longueur; évider le centre et hacher fin. Mettre de côté. Déposer les moitiés, côtés évidés vers le haut, dans un plat peu profond.",
+    "Cuire la viande et les légumes hachés dans la vinaigrette dans une grande poêle en remuant jusqu'à ce que la viande soit dorée. Incorporer l'origan. Saler et poivrer au goût. Incorporer le fromage râpé Italiano; répartir également dans les courgettes évidées, en utilisant environ 1/3 tasse de garniture par courgette. Saupoudrer uniformément de parmesan.",
+    "Cuire au four de 25 à 30 min ou jusqu'à ce que le tout soit bien chaud.",
+    "Donne 4 portions de 2 moitiés de courgette farcies. Prép. : 20 min. Total : 50 min.",
+    "Note : Préparer comme indiqué en remplaçant le bœuf haché par 1 sachet de simili-bœuf haché Boca Ground Burger (1/3 d'un pqt de 340 g)."
+  ]
+},
+{
+  "id": 12367,
+  "livreId": 54,
+  "titre": "Pommes au four de la récolte",
+  "page": 35,
+  "categorie": "Desserts",
+  "ingredientPrincipal": "pommes",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Pommes-four35.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "8 pommes moyennes à cuisson",
+    "1/2 tasse de jus de pommes ou d'orange",
+    "1/4 tasse de cassonade bien tassée",
+    "1/2 c. à thé de cannelle moulue",
+    "1 tasse de fromage cheddar Cracker Barrel Léger, râpé",
+    "1/4 tasse de raisins secs",
+    "1/4 tasse de pacanes hachées, rôties"
+  ],
+  "preparation": [
+    "Chauffer le four à 350 °F. Évider les pommes en laissant 1/2 po au fond; percer la peau avec un couteau tranchant. Placer dans un moule peu profond.",
+    "Mélanger le jus, la cassonade et la cannelle; verser sur les pommes.",
+    "Cuire de 30 à 35 min ou jusqu'à ce que les pommes soient tendres, en les arrosant de temps à autre avec le jus. Retirer du four. Mélanger le fromage, les raisins secs et les pacanes; répartir également dans le trou des pommes. Laisser reposer 1 min.",
+    "Donne 8 portions de 1 pomme. Prép. : 10 min. Total : 45 min."
+  ]
+},
+{
+  "id": 12368,
+  "livreId": 54,
+  "titre": "Succulent gâteau quatre étages à la citrouille",
+  "page": 37,
+  "categorie": "Desserts, Gâteau",
+  "ingredientPrincipal": "citrouille",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Gateau-citrouille37.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 pqt (format 2 étages) de préparation pour gâteau doré",
+    "1 boîte (398 ml) de purée de citrouille, divisée",
+    "1/2 tasse de lait",
+    "1/3 tasse d'huile végétale",
+    "4 gros œufs",
+    "1 1/2 c. à thé d'épices pour tarte à la citrouille, divisées",
+    "1 pqt (250 g) de fromage à la crème Philadelphia, ramolli",
+    "1 tasse de sucre à glacer",
+    "1 contenant (1 L) de garniture fouettée Cool Whip, dégelée",
+    "1/4 tasse de garniture au caramel",
+    "1/2 tasse de pacanes rôties"
+  ],
+  "preparation": [
+    "Chauffer le four à 350 °F. Graisser et fariner 2 moules à gâteaux ronds (9 po). Battre la préparation à gâteau, 1 tasse de purée de citrouille, le lait, l'huile, les œufs et 1 c. à thé d'épices pour tarte à la citrouille dans un grand bol au batteur électrique, à vitesse moyenne, jusqu'à ce que le tout soit bien mélangé. Verser dans les moules préparés.",
+    "Cuire au four de 20 à 22 min ou jusqu'à ce qu'un cure-dents piqué au centre en ressorte propre. Laisser refroidir complètement sur des grilles en métal. Entre-temps, battre le fromage à la crème dans un petit bol au batteur électrique, à vitesse moyenne, jusqu'à consistance crémeuse. Ajouter le sucre à glacer, le reste de la purée de citrouille et l'autre 1/2 c. à thé d'épices pour tarte à la citrouille; bien mélanger. Incorporer la garniture fouettée.",
+    "Démouler les gâteaux; couper chaque gâteau en deux, à l'horizontale, avec un couteau dentelé. Empiler les étages sur une assiette de service en étalant le mélange de fromage à la crème entre les étages. Ne pas glacer le dessus du gâteau. Arroser de garniture au caramel et parsemer de pacanes. Réfrigérer.",
+    "Donne 16 portions. Prép. : 20 min. Total : 40 min."
+  ]
+},
+{
+  "id": 12369,
+  "livreId": 54,
+  "titre": "Gâteau garni aux poires Belle-Hélène",
+  "page": 38,
+  "categorie": "Desserts, Gâteau",
+  "ingredientPrincipal": "poires",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Gateau-poires38.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "3/4 tasse de beurre ou de margarine, ramolli",
+    "2 1/2 tasses de farine",
+    "1 tasse de sucre",
+    "1/2 c. à thé de poudre à pâte Magic",
+    "1/2 c. à thé de bicarbonate de soude",
+    "4 carrés de chocolat non sucré Baker's, fondus",
+    "1 œuf, légèrement battu",
+    "1 tasse de lait",
+    "4 petites poires Bartlett mûres, pelées, évidées et coupées en deux",
+    "1/3 tasse de moitiés de pacanes"
+  ],
+  "preparation": [
+    "Chauffer le four à 350 °F. Battre le beurre au batteur électrique, à vitesse moyenne, jusqu'à consistance crémeuse. Ajouter la farine et le sucre; battre à basse vitesse jusqu'à consistance granuleuse. Retirer 1/3 de tasse du mélange de beurre; mettre de côté. Ajouter la poudre à pâte, le bicarbonate, le chocolat, l'œuf et le lait au reste du mélange de beurre dans le bol. Remuer seulement jusqu'à ce que les ingrédients secs soient humectés.",
+    "Étendre un tiers de la pâte dans un moule à charnière graissé de 9 po. Déposer en cercle les moitiés de poires, côté coupé vers le bas, sur la pâte. Déposer le reste du mélange sur les poires; étendre pour couvrir uniformément les poires. Parsemer du mélange granuleux et des pacanes.",
+    "Cuire au four 1 h 10 min ou jusqu'à ce qu'un cure-dents piqué au centre en ressorte propre. Laisser refroidir.",
+    "Donne 10 portions. Prép. : 20 min. Total : 1 h 30.",
+    "Note : Remplacer les poires fraîches par 2 boîtes (14 oz/398 ml chacune) de poires en moitié Del Monte dans un sirop léger, bien égouttées."
+  ]
+},
+{
+  "id": 12370,
+  "livreId": 54,
+  "titre": "Tarte bavaroise aux pommes",
+  "page": 39,
+  "categorie": "Desserts, Tarte",
+  "ingredientPrincipal": "pommes",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Tarte-bavaroise39.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1/2 tasse de beurre, ramolli",
+    "1 tasse de sucre, divisé",
+    "1 tasse de farine",
+    "1 pqt (250 g) de fromage à la crème ou de fromage à la crème Léger Philadelphia",
+    "1 œuf",
+    "1/2 c. à thé de vanille",
+    "1/2 c. à thé de cannelle moulue",
+    "4 tasses de pommes pelées et tranchées (env. 4 pommes moyennes)",
+    "1/4 tasse d'amandes tranchées"
+  ],
+  "preparation": [
+    "Chauffer le four à 425 °F. Battre le beurre et 1/3 de tasse de sucre dans un petit bol au batteur électrique, à vitesse moyenne, jusqu'à consistance légère et moelleuse. Ajouter la farine; bien mélanger. Étaler dans le fond et sur 1 po des côtés d'un moule à charnière de 9 po.",
+    "Battre le fromage à la crème et 1/3 tasse du sucre qui reste dans le même bol au batteur électrique, à vitesse moyenne, jusqu'à ce que le tout soit bien mélangé. Ajouter l'œuf et la vanille; bien mélanger. Étendre uniformément sur la croûte. Incorporer le 1/3 de tasse de sucre qui reste et la cannelle. Ajouter aux pommes dans un grand bol; remuer pour enrober. Déposer sur l'étage de fromage à la crème; parsemer d'amandes.",
+    "Cuire au four 10 min. Réduire la température à 375 °F; cuire 25 min de plus ou jusqu'à ce que le centre soit pris. Laisser refroidir sur une grille de métal. Réfrigérer 3 h avant de servir. Conserver les restes au réfrigérateur.",
+    "Donne 12 portions. Prép. : 30 min. Total : 4 h 5 min (incl. la réfrigération).",
+    "Note : S'assurer que le fromage à la crème et le sucre sont bien mélangés et sans grumeaux avant d'incorporer les autres ingrédients."
+  ]
+},
+{
+  "id": 12371,
+  "livreId": 54,
+  "titre": "Salade jardinière aux pommes de terre nouvelles et haricots",
+  "page": 41,
+  "categorie": "Salade",
+  "ingredientPrincipal": "pommes de terre",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Salade-jardiniere41.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1/2 tasse de sauce Miracle Whip Légère ou de Vraie mayonnaise Mayo Kraft",
+    "2 c. à thé de moutarde de Dijon",
+    "Sel et poivre au goût",
+    "1 lb chacune de mini-pommes de terre nouvelles rouges et blanches, non pelées, coupées en deux et cuites jusqu'à ce qu'elles soient tendres puis refroidies",
+    "1/2 lb chacune de haricots verts et jaunes, coupés en morceaux de 2 po et blanchis",
+    "2 branches de céleri, hachées",
+    "1/3 tasse d'aneth frais haché"
+  ],
+  "preparation": [
+    "Mélanger la sauce, la moutarde, le sel et le poivre dans un grand bol.",
+    "Ajouter le reste des ingrédients.",
+    "Remuer légèrement. Réfrigérer jusqu'au moment de servir.",
+    "Prép. : 20 min. Total : 30 min."
+  ]
+},
+{
+  "id": 12372,
+  "livreId": 54,
+  "titre": "Légumes d'été piquants sur le gril",
+  "page": 41,
+  "categorie": "Accompagnement",
+  "ingredientPrincipal": "courgettes",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Poulrt-grille41-et-legumes-ete41.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "4 courgettes moyennes",
+    "3 poivrons rouges et jaunes",
+    "1/4 tasse de vinaigrette italienne piquante Kraft",
+    "1/4 tasse de fromage râpé 100 % parmesan Kraft"
+  ],
+  "preparation": [
+    "Chauffer le barbecue. Couper 4 courgettes moyennes en tranches de 1/4 po d'épais et 3 poivrons rouges et jaunes en bouchées.",
+    "Griller les légumes jusqu'à ce qu'ils soient tendres mais encore croquants. Déposer dans un grand bol.",
+    "Ajouter 1/4 tasse de vinaigrette italienne piquante Kraft; remuer pour enrober. Parsemer de 1/4 tasse de fromage râpé 100 % parmesan Kraft.",
+    "Donne de 8 à 10 portions. Prép. : 10 min. Total : 20 min."
+  ]
+},
+{
+  "id": 12373,
+  "livreId": 54,
+  "titre": "Poulet grillé parfait",
+  "page": 41,
+  "categorie": "Poulet",
+  "ingredientPrincipal": "poulet",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Poulrt-grille41-et-legumes-ete41.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "4 moitiés de poitrines de poulet désossées et sans peau",
+    "1/2 tasse de vinaigrette à la tomate confite et origan Signature Kraft"
+  ],
+  "preparation": [
+    "Chauffer le barbecue à feu moyen.",
+    "Placer 4 moitiés de poitrines de poulet désossées et sans peau dans un grand sac de plastique refermable. Verser 1/2 tasse de vinaigrette à la tomate confite et origan Signature Kraft sur le poulet; sceller le sac. Laisser mariner au moins 5 min; jeter la marinade.",
+    "Griller le poulet 5 min de chaque côté ou jusqu'à ce qu'il soit bien cuit.",
+    "Donne 4 portions. Prép. : 5 min. Total : 20 min (incl. marination).",
+    "Note : Si le barbecue est soudainement à court de gaz, placer le poulet sur une plaque et le faire cuire au four à 400 °F, 20 min ou jusqu'à ce qu'il soit bien cuit."
+  ]
+},
+{
+  "id": 12374,
+  "livreId": 54,
+  "titre": "Pâtes aux tomates fraîches du jardin",
+  "page": 42,
+  "categorie": "Pâtes",
+  "ingredientPrincipal": "tomates",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Pate-tomates-fraiches42.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "3 tasses de rotini Primo, non cuits",
+    "2 gousses d'ail, hachées fin",
+    "1 oignon moyen haché",
+    "1/4 tasse de vinaigrette balsamique Signature Kraft",
+    "4 tasses de tomates hachées grossièrement",
+    "1/2 tasse de basilic frais haché",
+    "1/2 tasse de fromage râpé 100 % parmesan Kraft"
+  ],
+  "preparation": [
+    "Préparer les pâtes comme indiqué sur l'emballage; égoutter. Garder au chaud.",
+    "Cuire l'ail et l'oignon dans la vinaigrette dans une poêle antiadhésive, 2 min ou jusqu'à ce qu'ils ramollissent. Ajouter les tomates; cuire 2 min de plus.",
+    "Remuer avec les pâtes et le reste des ingrédients. Servir chaud. Servir avec du poulet grillé, si désiré.",
+    "Donne 4 portions. Prép. : 5 min. Total : 20 min.",
+    "Note : Pour varier délicieusement, utiliser de la vinaigrette à la tomate confite et origan Signature Kraft et différentes pâtes Primo, comme des pâtes Scoobi Doo ou des penne."
+  ]
+},
+{
+  "id": 12375,
+  "livreId": 54,
+  "titre": "Délice glacé aux pêches Melba",
+  "page": 42,
+  "categorie": "Desserts",
+  "ingredientPrincipal": "pêches",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Delice-peches42.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 boule de crème glacée à la vanille (par portion)",
+    "1 pêche tranchée",
+    "1 c. à soupe de confiture de framboises pure Kraft, chaude",
+    "2 c. à soupe de garniture fouettée Cool Whip dégelée",
+    "1 biscuit Nilla écrasé"
+  ],
+  "preparation": [
+    "Déposer 1 boule de crème glacée à la vanille dans un bol à dessert pour chaque portion. Couvrir avec 1 pêche tranchée.",
+    "Arroser avec 1 c. à soupe de confiture de framboises pure Kraft, chaude.",
+    "Garnir avec 2 c. à soupe de garniture fouettée Cool Whip dégelée et 1 biscuit Nilla écrasé.",
+    "Donne 1 portion. Prép. : 5 min. Total : 6 min.",
+    "Note : Varier cette gourmandise éclair en utilisant de la confiture de fraises ou d'abricots pure Kraft. Remplacer la crème glacée à la vanille par la saveur préférée de yogourt glacé."
+  ]
+},
+{
+  "id": 12376,
+  "livreId": 54,
+  "titre": "Pilons épicés barbecue au Shake 'n Bake",
+  "page": 45,
+  "categorie": "Poulet",
+  "ingredientPrincipal": "poulet",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Pilons-epices45.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "12 pilons de poulet",
+    "1 sachet de panure assaisonnée Shake 'n Bake Barbecue pour ailes de poulet",
+    "2 carottes",
+    "2 branches de céleri",
+    "1/2 tasse de vinaigrette Campagne Légère sans compromis! Kraft"
+  ],
+  "preparation": [
+    "Chauffer le four à 350 °F. Retirer la peau de 12 pilons de poulet; enrober du contenu de 1 sachet de panure assaisonnée Shake 'n Bake Barbecue pour ailes de poulet, comme indiqué sur l'emballage. Placer dans un plat peu profond. Jeter la panure qui reste dans le sac.",
+    "Cuire au four de 40 à 45 min ou jusqu'à ce que le poulet soit bien cuit.",
+    "Entre-temps, couper 2 carottes et 2 branches de céleri en bâtonnets. Servir avec le poulet pour tremper dans 1/2 tasse de vinaigrette Campagne Légère sans compromis! Kraft.",
+    "Donne 4 portions de 3 pilons. Prép. : 10 min. Total : 55 min."
+  ]
+},
+{
+  "id": 12377,
+  "livreId": 54,
+  "titre": "Bâtonnets de poulet faciles au parmesan",
+  "page": 45,
+  "categorie": "Poulet",
+  "ingredientPrincipal": "poulet",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Batonnets-poulet45.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "2 lb de filets de poulet ou de poitrines de poulet désossées et sans peau, coupées en lanières",
+    "1/3 tasse de fromage râpé 100 % parmesan Kraft Léger",
+    "1 sachet de panure assaisonnée Shake 'n Bake Extra croustillant Original",
+    "1 tasse de sauce barbecue Kraft, pour tremper"
+  ],
+  "preparation": [
+    "Chauffer le four à 400 °F. Mouiller 2 lb de filets de poulet ou de poitrines de poulet désossées et sans peau, coupées en lanières, avec de l'eau. Secouer l'excédent d'eau. Ajouter 1/3 tasse de fromage râpé 100 % parmesan Kraft Léger à 1 sachet de panure assaisonnée Shake 'n Bake Extra croustillant Original dans le sac.",
+    "Ajouter 2 ou 3 filets de poulet dans le sac et secouer jusqu'à ce qu'ils soient enrobés uniformément. Répéter avec les filets de poulet qui restent. Placer sur une plaque antiadhésive ou une plaque vaporisée d'enduit à cuisson. Jeter la panure qui reste dans le sac à secouer.",
+    "Cuire au four de 12 à 14 min ou jusqu'à ce que le poulet soit bien cuit. Servir avec 1 tasse de sauce barbecue Kraft pour tremper.",
+    "Donne 8 portions. Prép. : 5 min. Total : 20 min.",
+    "Truc (Mary Bailey, spécialiste des Cuisines Kraft) : Avant d'enrober les morceaux de poulet, les assaisonner d'ail ou d'oignon en poudre pour en rehausser la saveur."
+  ]
+},
+{
+  "id": 12378,
+  "livreId": 54,
+  "titre": "Poulet croustillant au romarin",
+  "page": 46,
+  "categorie": "Poulet",
+  "ingredientPrincipal": "poulet",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Poulet-croustillant46.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 sachet de panure assaisonnée Shake 'n Bake Extra croustillant Original",
+    "1/4 c. à thé d'ail en poudre",
+    "1/2 c. à thé de feuilles de romarin, broyées",
+    "1/8 c. à thé de poivre",
+    "4 moitiés de poitrines de poulet avec l'os, sans peau (1 lb)",
+    "1 gros œuf battu"
+  ],
+  "preparation": [
+    "Chauffer le four à 400 °F. Mélanger la panure, l'ail en poudre, le romarin et le poivre dans le sac à secouer.",
+    "Badigeonner légèrement le poulet avec l'œuf. Ajouter un morceau de poulet dans le sac et secouer jusqu'à ce qu'il soit enrobé uniformément. Répéter avec les morceaux de poulet qui restent. Placer les morceaux de poulet sur une plaque de 15 x 10 x 1 po, tapissée de papier d'aluminium. Jeter la panure qui reste dans le sac.",
+    "Cuire au four de 40 à 45 min ou jusqu'à ce que le poulet soit bien cuit.",
+    "Donne 4 portions. Prép. : 10 min. Total : 55 min."
+  ]
+},
+{
+  "id": 12379,
+  "livreId": 54,
+  "titre": "Muffins aux pommes, dattes et pacanes",
+  "page": 55,
+  "categorie": "Desserts, Muffin",
+  "ingredientPrincipal": "pommes",
+  "image": null,
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 1/2 tasse de mélange à pâte tout usage (i.e., mélange Bisquick)",
+    "2 1/4 tasses de céréales aux dattes, raisins secs et pacanes croquantes Post Selects, divisées",
+    "1/4 tasse plus 2 c. à soupe de cassonade bien tassée, divisée",
+    "3/4 tasse de pacanes broyées, divisée",
+    "1/2 tasse de compote de pommes",
+    "3/4 tasse de lait écrémé",
+    "1 œuf, légèrement battu"
+  ],
+  "preparation": [
+    "Chauffer le four à 400 °F. Mélanger le mélange à pâte, 2 tasses de céréales, 1/4 tasse de cassonade et 1/2 tasse de pacanes dans un grand bol. Ajouter la compote de pommes, le lait et l'œuf; remuer jusqu'à ce que les ingrédients soient humides.",
+    "Répartir la pâte uniformément dans un moule à muffins moyen garni de papier, en remplissant aux 3/4. Mélanger 1/4 tasse de céréales, 1/4 tasse de pacanes et 2 c. à soupe de cassonade. Parsemer sur le dessus.",
+    "Cuire de 18 à 20 min ou jusqu'à ce qu'un cure-dents piqué au centre en ressorte propre. Démouler sur une grille de métal. Laisser refroidir légèrement.",
+    "Donne 12 portions de 1 muffin. Prép. : 20 min. Total : 40 min.",
+    "Note : Pour préparer à l'avance, faire cuire les muffins comme indiqué. Placer dans un sac de plastique pour congélation refermable; congeler jusqu'à deux mois. Pour réchauffer, placer les muffins congelés au micro-ondes à HAUTE intensité, de 30 à 45 sec ou jusqu'à ce qu'ils soient bien chauds."
+  ]
+},
+{
+  "id": 12380,
+  "livreId": 54,
+  "titre": "Tortilla pour matin d'automne",
+  "page": 55,
+  "categorie": "Déjeuner",
+  "ingredientPrincipal": "poire",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Tortilla-matin55.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 grande tortilla à la farine de blé entier",
+    "1/2 poire mûre ou pomme moyenne",
+    "1/2 c. à thé de sucre",
+    "1/8 c. à thé de cannelle moulue",
+    "1 tranche de Kraft Singles Légère, coupée en deux"
+  ],
+  "preparation": [
+    "Déposer 1 grande tortilla à la farine de blé entier sur une assiette pour micro-ondes. Couper la moitié d'une poire mûre ou pomme moyenne en tranches minces; déposer sur une moitié de la tortilla.",
+    "Saupoudrer de 1/2 c. à thé de sucre et 1/8 c. à thé de cannelle moulue; couvrir de 1 tranche de Kraft Singles Légère coupée en deux. Rabattre la tortilla sur la garniture.",
+    "Chauffer au micro-ondes à HAUTE intensité, 45 sec ou jusqu'à ce que la tortilla soit chaude et le fromage fondu.",
+    "Donne 1 portion. Prép. : 5 min. Total : 6 min."
+  ]
+},
+{
+  "id": 12381,
+  "livreId": 54,
+  "titre": "Déjeuner aux baies et banane",
+  "page": 55,
+  "categorie": "Déjeuner",
+  "ingredientPrincipal": "banane",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Dejeuner-baies55.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 petite banane mûre",
+    "1/2 tasse de yogourt faible en gras",
+    "1/2 tasse de céréales aux dattes, raisins secs et pacanes croquantes Post Selects",
+    "1/4 tasse de framboises fraîches",
+    "1/4 tasse de bleuets frais",
+    "1/8 c. à thé de cannelle ou de muscade"
+  ],
+  "preparation": [
+    "Couper 1 petite banane mûre en deux sur la longueur; déposer dans un bol à céréales.",
+    "Couvrir de 1/2 tasse chacune de yogourt faible en gras et de céréales aux dattes, raisins secs et pacanes croquantes Post Selects, et de 1/4 tasse chacune de framboises et de bleuets frais.",
+    "Saupoudrer de 1/8 c. à thé de cannelle ou de muscade.",
+    "Donne 1 portion. Prép. : 5 min. Total : 5 min."
+  ]
+},
+{
+  "id": 12382,
+  "livreId": 54,
+  "titre": "Banane royale aux fraises",
+  "page": 60,
+  "categorie": "Desserts",
+  "ingredientPrincipal": "banane",
+  "image": null,
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 petite banane, séparée en deux sur la longueur",
+    "1 contenant (8 oz) de yogourt aux fraises, faible en gras",
+    "1/4 tasse de biscuits graham P'tits Oursons Christie"
+  ],
+  "preparation": [
+    "Déposer la banane dans un plat à coupe glacée ou un bol à céréales.",
+    "Garnir uniformément avec du yogourt et des biscuits graham. Servir immédiatement.",
+    "Donne 1 portion. Prép. : 5 min. Total : 5 min.",
+    "Note : Pour compléter le repas, servir avec un verre de jus d'orange."
+  ]
+},
+{
+  "id": 12383,
+  "livreId": 54,
+  "titre": "Pâtes au poulet à la poêle",
+  "page": 61,
+  "categorie": "Pâtes, Poulet",
+  "ingredientPrincipal": "poulet",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Pates-poulet61.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 lb de poitrines de poulet désossées et sans peau, coupées en petits morceaux",
+    "1 poivron vert moyen, tranché",
+    "1 petit oignon tranché",
+    "1 1/2 tasse d'eau",
+    "2 tasses de rotini Primo, non cuits",
+    "1 pot (26 oz) de sauce spaghetti Primo",
+    "1 tasse de fromage mozzarella râpé Kraft",
+    "Enduit à cuisson"
+  ],
+  "preparation": [
+    "Vaporiser une grande poêle d'enduit à cuisson. Ajouter le poulet; cuire à feu mi-vif 5 min en remuant. Ajouter le poivron vert et l'oignon; cuire en remuant de 3 à 5 min de plus ou jusqu'à ce que le poulet soit bien cuit et que les légumes soient tendres.",
+    "Ajouter 1 1/2 tasse d'eau. Porter à ébullition; baisser la chaleur à feu mi-doux. Incorporer les pâtes en s'assurant qu'elles soient couvertes d'eau; couvrir. Laisser mijoter 15 min ou jusqu'à ce que les pâtes soient tendres.",
+    "Incorporer la sauce. Parsemer de fromage; couvrir. Baisser la chaleur à feu doux; cuire 5 min de plus ou jusqu'à ce que le fromage soit fondu et le mélange bien chaud.",
+    "Donne 4 portions. Prép. : 10 min. Total : 40 min.",
+    "Note : Varier ce plat en remplaçant le poulet par 1 lb de bœuf haché maigre, ou en remplaçant la mozzarella par du fromage râpé Italiano 4 fromages Kraft."
+  ]
+},
+{
+  "id": 12384,
+  "livreId": 54,
+  "titre": "Lait fouetté au pouding et aux fruits frais",
+  "page": 61,
+  "categorie": "Boissons",
+  "ingredientPrincipal": "banane",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Lait-fouette61.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "3 1/2 tasses de lait",
+    "1 pqt (format 4 portions) de pouding et garniture pour tarte instantané Jell-O à la vanille, ou saveur au choix",
+    "1 banane moyenne mûre, coupée en morceaux",
+    "1/2 tasse de fraises"
+  ],
+  "preparation": [
+    "Déposer tous les ingrédients dans le récipient du mélangeur; couvrir.",
+    "Mélanger 1 min ou jusqu'à ce que ce soit lisse. Servir immédiatement.",
+    "Donne 4 portions d'environ 1 tasse. Prép. : 10 min. Total : 10 min.",
+    "Note : Pour rehausser le goût, ajouter quelques c. à soupe de sirop aromatisé à la fraise."
+  ]
+},
+{
+  "id": 12385,
+  "livreId": 54,
+  "titre": "Mini-pizzas muffins",
+  "page": 61,
+  "categorie": "Entrée",
+  "ingredientPrincipal": "fromage",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Mini-pizzas61.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 muffin anglais, ouvert et grillé",
+    "2 c. à soupe de sauce à pizza Primo",
+    "2 tranches Singles Kraft"
+  ],
+  "preparation": [
+    "Garnir chaque moitié de muffin anglais avec 1 c. à soupe de sauce et une tranche de fromage.",
+    "Chauffer au micro-ondes à HAUTE intensité, de 10 à 15 sec ou jusqu'à ce que le fromage soit fondu. Couper en quatre.",
+    "Donne 2 portions. Prép. : 5 min. Total : 5 min.",
+    "Note : Garnir les pizzas avec du poivron vert ou rouge, coupé en dés."
+  ]
+},
+{
+  "id": 12386,
+  "livreId": 54,
+  "titre": "BLT à la dinde sans pain",
+  "page": 63,
+  "categorie": "Sandwich",
+  "ingredientPrincipal": "dinde",
+  "image": null,
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 laitue iceberg entière",
+    "6 tranches (160 g) de dinde de charcuterie",
+    "1 tranche Singles Léger",
+    "1/4 tasse de tomate hachée",
+    "1 c. à soupe de miettes de bacon véritable Oscar Mayer",
+    "2 c. à thé de vinaigrette Campagne Légère sans compromis! Kraft"
+  ],
+  "preparation": [
+    "Placer une laitue iceberg entière sur une planche à découper, le trognon vers le haut. Couper une tranche de 1 1/4 po d'épaisseur du côté droit de la laitue. Puis, couper une deuxième tranche du côté gauche. Retirer le centre de chaque tranche, formant un bol avec 4 ou 5 feuilles bien nichées. Couvrir et réfrigérer les restes de laitue pour un autre usage.",
+    "Garnir 1 des nids de laitue avec 6 tranches (160 g) de dinde de charcuterie, 1 tranche Singles Léger, 1/4 tasse de tomate hachée et 1 c. à soupe de miettes de bacon véritable Oscar Mayer; arroser de 2 c. à thé de vinaigrette Campagne Légère sans compromis! Kraft.",
+    "Couvrir de l'autre nid de laitue pour former un sandwich; couper en deux sur le travers pour servir.",
+    "Donne 1 portion. Prép. : 10 min. Total : 10 min."
+  ]
+},
+{
+  "id": 12387,
+  "livreId": 54,
+  "titre": "Rouleaux de laitue à la charcuterie",
+  "page": 63,
+  "categorie": "Sandwich",
+  "ingredientPrincipal": "jambon",
+  "image": null,
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1/2 tasse de mélange pour salade de chou",
+    "1 c. à soupe de vinaigrette Salade de chou Kraft",
+    "3 tranches (75 g) de jambon de charcuterie",
+    "2 grandes feuilles de laitue",
+    "2 demi-tranches Singles Kraft Léger"
+  ],
+  "preparation": [
+    "Remuer 1/2 tasse de mélange pour salade de chou avec 1 c. à soupe de vinaigrette Salade de chou Kraft.",
+    "Déposer 3 tranches (75 g) de jambon de charcuterie au centre de 2 grandes feuilles de laitue; garnir chacune avec une demi-tranche Singles Kraft Léger. Répartir également la salade de chou sur chacune. Rouler. Fixer avec des cure-dents, si désiré.",
+    "Donne 1 portion de 2 rouleaux. Prép. : 5 min. Total : 5 min.",
+    "Note : Pour chaque rouleau, remplacer la demi-tranche Singles Kraft Léger par 2 c. à soupe de fromage cheddar fort râpé Kraft."
+  ]
+},
+{
+  "id": 12388,
+  "livreId": 54,
+  "titre": "Rouleaux de laitue César",
+  "page": 63,
+  "categorie": "Sandwich",
+  "ingredientPrincipal": "dinde",
+  "image": null,
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "2 grandes feuilles de laitue",
+    "3 tranches (75 g) de dinde de charcuterie",
+    "1/2 tranche de Singles Kraft Léger",
+    "2 c. à soupe de tomate hachée",
+    "1 1/2 c. à thé d'oignon rouge haché finement",
+    "2 c. à thé de vinaigrette César crémeuse Légère sans compromis! Kraft (1 c. à thé par rouleau)"
+  ],
+  "preparation": [
+    "Garnir 2 grandes feuilles de laitue avec 3 tranches (75 g) de dinde de charcuterie, une demi-tranche de Singles Kraft Léger, 2 c. à soupe de tomate hachée et 1 1/2 c. à thé d'oignon rouge haché finement.",
+    "Arroser chacune de 1 c. à thé de vinaigrette César crémeuse Légère sans compromis! Kraft. Plier les côtés de la laitue et rouler.",
+    "Servir immédiatement. Ou, envelopper dans une pellicule plastique et réfrigérer jusqu'au moment de servir.",
+    "Donne 1 portion de 2 rouleaux. Prép. : 10 min. Total : 10 min."
+  ]
+},
+{
+  "id": 12389,
+  "livreId": 54,
+  "titre": "Gâteau au fromage praliné au caramel",
+  "page": 66,
+  "categorie": "Desserts, Gâteau",
+  "ingredientPrincipal": "fromage",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Gateau-fromage66.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 1/4 tasse de chapelure de graham P'Tite Abeille",
+    "1/4 tasse de beurre fondu",
+    "34 caramels",
+    "3 c. à soupe de lait",
+    "1 tasse de pacanes hachées",
+    "3 pqts (250 g chacun) de fromage à la crème Philadelphia, ramolli",
+    "3/4 tasse de sucre granulé",
+    "1 c. à thé de vanille",
+    "3 œufs",
+    "Sauce au caramel et quelques pacanes, pour garnir (facultatif)"
+  ],
+  "preparation": [
+    "Tapisser le fond d'un moule à charnière de 9 po avec du papier de parchemin. Mélanger la chapelure et le beurre; presser dans le fond du moule préparé.",
+    "Fondre les caramels avec le lait dans une casserole à feu doux, en remuant jusqu'à ce que le mélange soit lisse. Incorporer les pacanes. Verser sur la croûte.",
+    "Battre le fromage à la crème, le sucre et la vanille au batteur électrique à vitesse moyenne jusqu'à ce qu'ils soient bien mélangés. Ajouter les œufs un à la fois; battre jusqu'à ce que ce soit bien mélangé. Déposer la pâte sur le mélange de caramel.",
+    "Cuire au four à 350 °F, de 45 à 50 min ou jusqu'à ce que le centre soit presque pris. Laisser refroidir complètement. Réfrigérer 4 heures ou jusqu'au lendemain. Si désiré, arroser de sauce au caramel et garnir de quelques pacanes.",
+    "Donne 12 portions. Temps de préparation : 15 min."
+  ]
+},
+{
+  "id": 12390,
+  "livreId": 54,
+  "titre": "Tarte à la citrouille deux étages",
+  "page": 64,
+  "categorie": "Desserts, Tarte",
+  "ingredientPrincipal": "citrouille",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Tarte-citrouille64.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "2 tasses de biscuits Croquant au gingembre Peek Freans écrasés (env. 30 biscuits)",
+    "1/3 tasse de beurre ou de margarine, fondu",
+    "1 pqt (format 6 portions/135 g) de pouding et garniture pour tarte cuit Jell-O à la vanille",
+    "2 tasses de lait",
+    "1 tasse de purée de citrouille pure en conserve",
+    "1 c. à thé d'épices pour tarte à la citrouille",
+    "125 g (la moitié d'un pqt de 250 g) de fromage à la crème Philadelphia, ramolli",
+    "1 c. à soupe de sucre",
+    "3 tasses de garniture fouettée Cool Whip dégelée, divisée"
+  ],
+  "preparation": [
+    "Chauffer le four à 350 °F. Mélanger les biscuits écrasés avec le beurre; presser fermement dans le fond et sur les côtés d'un moule à tarte de 9 po. Cuire 10 min. Mettre de côté et laisser refroidir.",
+    "Mélanger le mélange sec de pouding, le lait, la citrouille et les épices dans un grand bol allant au micro-ondes. Cuire au micro-ondes à HAUTE intensité de 9 à 11 min ou jusqu'à ce que le mélange commence à bouillir, en remuant toutes les 2 min. Couvrir la surface d'une pellicule plastique. Laisser refroidir de 10 à 15 min, en remuant de temps à autre.",
+    "Entre-temps, battre au fouet métallique le fromage à la crème et le sucre dans un bol moyen jusqu'à ce que le tout soit bien mélangé. Incorporer délicatement 2 tasses de la garniture fouettée. Étaler dans la croûte; couvrir uniformément du mélange de pouding. Réfrigérer 4 h ou jusqu'au lendemain. Pour servir, décorer de cuillerées de garniture fouettée qui reste. Conserver les restes au réfrigérateur.",
+    "Donne 8 portions. Prép. : 30 min. Total : 4 h 30 (incl. la réfrigération).",
+    "Note : Cette tarte est aussi délicieuse avec le fromage à la crème Léger Philadelphia et la garniture fouettée Légère Cool Whip."
+  ]
+},
+{
+  "id": 12391,
+  "livreId": 54,
+  "titre": "Tortilla étagée tex mex",
+  "page": null,
+  "categorie": "Poulet",
+  "ingredientPrincipal": "poulet",
+  "image": null,
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "3 oignons tranchés",
+    "3 tasses de poulet cuit déchiqueté",
+    "1 tasse de sauce barbecue poulet et côtes levées Kraft",
+    "1/2 tasse d'eau",
+    "1 c. à thé de cumin moulu",
+    "3 tortillas à la farine (10 po)",
+    "2 tasses de fromage râpé Tex-Mex Kraft",
+    "Crème sure, pour servir"
+  ],
+  "preparation": [
+    "Chauffer le four à 350 °F. Cuire les oignons en remuant dans une grande poêle jusqu'à ce qu'ils soient tendres mais croquants. Ajouter le poulet, la sauce barbecue, l'eau et le cumin; laisser mijoter pour bien réchauffer, en ajoutant de l'eau au besoin pour empêcher la sauce de trop épaissir.",
+    "Déposer une tortilla sur une plaque garnie de papier aluminium légèrement graissé, en laissant dépasser assez de papier de chaque côté de la plaque pour faire une tente. Garnir la tortilla de la moitié du mélange au poulet et de la moitié du fromage. Recouvrir avec la deuxième tortilla. Répéter la couche de poulet et de fromage. Couvrir avec la dernière tortilla; garnir du reste de la sauce. Parsemer d'un peu de fromage supplémentaire, si désiré. Remonter les pans du papier aluminium au-dessus de la tortilla étagée et replier les bords pour former une tente.",
+    "Cuire 15 min ou jusqu'à ce que le tout soit bien chaud. Laisser reposer 5 min avant de couper en 6 pointes. Servir avec de la crème sure.",
+    "Donne 6 portions. Prép. : 20 min. Total : 40 min.",
+    "Recette de Linda Muszynski (« vos recettes »)."
+  ]
+},
+{
+  "id": 12392,
+  "livreId": 54,
+  "titre": "Jambon et cheddar en croûte",
+  "page": 18,
+  "categorie": "Plat principal",
+  "ingredientPrincipal": "jambon",
+  "image": "livres/054-qu-est-ce-qui-mijote-delicieusement-simple-to/images/Jambon-cheddar-criute18.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 lb de pâte à pizza surgelée, dégelée",
+    "1/2 lb de jambon de la Forêt Noire",
+    "1 tasse de fromage râpé Double cheddar Kraft",
+    "1/4 tasse de sauce Miracle Whip",
+    "1 œuf battu",
+    "1 c. à soupe de fromage 100 % parmesan râpé Kraft"
+  ],
+  "preparation": [
+    "Chauffer le four à 350 °F. Placer la pâte sur une surface légèrement farinée; l'aplatir un peu avec les mains et l'abaisser en rectangle de 12 x 8 po avec le rouleau à pâte. (Si la pâte est difficile à abaisser, la recouvrir d'une pellicule plastique et la laisser à la température ambiante pendant 30 min avant de l'étendre.)",
+    "Garnir uniformément de jambon, en superposant les tranches légèrement et en laissant une bordure de 1/2 po tout autour.",
+    "Humecter le bord de la pâte avec de l'eau. En partant d'un des côtés plus longs de la pâte, replier un tiers de la pâte sur la garniture, et faire la même chose pour l'autre côté long de la pâte. Pincer fermement les bouts de la pâte pour sceller. Déposer sur une plaque légèrement graissée, le côté du joint en dessous.",
+    "Donne 6 portions de 1 tranche. Prép. : 15 min. Total : 40 min.",
+    "À COMPLÉTER : l'étape 3 (garniture au fromage et Miracle Whip) et les étapes de cuisson (œuf, parmesan, four) ne sont pas sur la photo."
+  ]
+}
 ]
