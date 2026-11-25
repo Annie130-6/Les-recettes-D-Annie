@@ -1,38 +1,1061 @@
 [
-{"id": 12469, "titre": "Brochettes de prosciutto, d'olives et d'oranges", "livreId": 56, "page": 45, "categorie": "Toutes", "ingredientPrincipal": "Prosciutto", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12470, "titre": "Choux de Bruxelles aux petits oignons, aux amandes et aux raisins de Corinthe", "livreId": 56, "page": 24, "categorie": "Toutes", "ingredientPrincipal": "Choux de Bruxelles", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12471, "titre": "Crème de choux-fleur et de poireau garnie de pancetta et de vinaigre balsamique caramélisé", "livreId": 56, "page": 39, "categorie": "Toutes", "ingredientPrincipal": "Chou-fleur", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12472, "titre": "Crevettes papillon croustillantes avec guacamole et salsa au melon", "livreId": 56, "page": 35, "categorie": "Toutes", "ingredientPrincipal": "Crevettes", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12473, "titre": "Crostinis de haricots blancs et de saucisson", "livreId": 56, "page": 42, "categorie": "Toutes", "ingredientPrincipal": "Haricots blancs", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12474, "titre": "Farce festive aux canneberges et aux noix", "livreId": 56, "page": 19, "categorie": "Toutes", "ingredientPrincipal": "Canneberges", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12475, "titre": "Fromage en croûte de panko et tomates confites au basilic", "livreId": 56, "page": 36, "categorie": "Toutes", "ingredientPrincipal": "Fromage", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12476, "titre": "Garniture pour brie aux fruits séchés, aux pacanes et à la noix de coco", "livreId": 56, "page": 7, "categorie": "Toutes", "ingredientPrincipal": "Brie", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12477, "titre": "Haricots verts sautés aux échalotes et au bacon", "livreId": 56, "page": 20, "categorie": "Toutes", "ingredientPrincipal": "Haricots verts", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12478, "titre": "Mélange pour collation à la cajun", "livreId": 56, "page": 6, "categorie": "Toutes", "ingredientPrincipal": "Noix", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12479, "titre": "Pizza au saumon fumé, aux câpres et à la roquette", "livreId": 56, "page": 44, "categorie": "Toutes", "ingredientPrincipal": "Saumon fumé", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12480, "titre": "Pommes de terre rôties « accordéon »", "livreId": 56, "page": 25, "categorie": "Toutes", "ingredientPrincipal": "Pommes de terre", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12481, "titre": "Rouleaux de jambon et d'asperges en pâte phyllo et sauce au bleu", "livreId": 56, "page": 37, "categorie": "Toutes", "ingredientPrincipal": "Jambon", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12482, "titre": "Salade de poires, de parmesan et de chips de prosciutto", "livreId": 56, "page": 39, "categorie": "Toutes", "ingredientPrincipal": "Poires", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12483, "titre": "Satays de bison teriyaki à l'orange sanguine", "livreId": 56, "page": 35, "categorie": "Toutes", "ingredientPrincipal": "Bison", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12484, "titre": "Sauce au jus de pomme brut", "livreId": 56, "page": 18, "categorie": "Comment faire", "ingredientPrincipal": "Pomme", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12485, "titre": "Sauce crémeuse aux poires", "livreId": 56, "page": 23, "categorie": "Comment faire", "ingredientPrincipal": "Poires", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12486, "titre": "Sauce gribiche", "livreId": 56, "page": 47, "categorie": "Comment faire", "ingredientPrincipal": "Œufs", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12487, "titre": "Chaudrée crémeuse express", "livreId": 56, "page": 49, "categorie": "Toutes", "ingredientPrincipal": "Fruits de mer", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12488, "titre": "Côtelettes de porc teriyaki à l'orange et aux bok choys", "livreId": 56, "page": 50, "categorie": "Toutes", "ingredientPrincipal": "Porc", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12489, "titre": "Dinde aux pommes et à l'érable", "livreId": 56, "page": 18, "categorie": "Toutes", "ingredientPrincipal": "Dinde", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12490, "titre": "Enchiladas piquantes au bœuf et au chipotle", "livreId": 56, "page": 48, "categorie": "Toutes", "ingredientPrincipal": "Bœuf", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12491, "titre": "Étagé Parmentier au confit d'oie, légumes sautés et sauce bordelaise aux canneberges", "livreId": 56, "page": 40, "categorie": "Toutes", "ingredientPrincipal": "Oie", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12492, "titre": "Fricassée de saucisses, de pommes de terre, de chou vert frisé et de pommes", "livreId": 56, "page": 50, "categorie": "Toutes", "ingredientPrincipal": "Saucisses", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12493, "titre": "Médaillons de bœuf Wellington au prosciutto, au parmesan et au foie gras", "livreId": 56, "page": 23, "categorie": "Toutes", "ingredientPrincipal": "Bœuf", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12494, "titre": "Œufs et bacon en coupes de pommes de terre rissolées", "livreId": 56, "page": 14, "categorie": "Toutes", "ingredientPrincipal": "Œufs", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12495, "titre": "Pilons de poulet aigre-doux et brocoli", "livreId": 56, "page": 51, "categorie": "Toutes", "ingredientPrincipal": "Poulet", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12496, "titre": "Sandwich au fromage fondu, au bacon et aux figues", "livreId": 56, "page": 13, "categorie": "Toutes", "ingredientPrincipal": "Fromage", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12497, "titre": "Strata aux champignons, aux épinards et au fromage de chèvre", "livreId": 56, "page": 15, "categorie": "Toutes", "ingredientPrincipal": "Champignons", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12498, "titre": "Biscuits à la noix de coco, aux canneberges et aux pistaches", "livreId": 56, "page": 10, "categorie": "Toutes", "ingredientPrincipal": "Noix de coco", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12499, "titre": "Biscuits au chocolat et à la menthe", "livreId": 56, "page": 9, "categorie": "Toutes", "ingredientPrincipal": "Chocolat", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12500, "titre": "Biscuits aux noix de cajou et au caramel salé", "livreId": 56, "page": 11, "categorie": "Toutes", "ingredientPrincipal": "Noix de cajou", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12501, "titre": "Biscuits aux noisettes et à la confiture", "livreId": 56, "page": 12, "categorie": "Toutes", "ingredientPrincipal": "Noisettes", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12502, "titre": "Pâte à biscuits de base", "livreId": 56, "page": 9, "categorie": "Comment faire", "ingredientPrincipal": "Farine", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12503, "titre": "Petits fruits mélangés et sabayon aux amandes", "livreId": 56, "page": 41, "categorie": "Toutes", "ingredientPrincipal": "Petits fruits", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"},
-{"id": 12504, "titre": "Punch aux clémentines et au gingembre", "livreId": 56, "page": 16, "categorie": "Toutes", "ingredientPrincipal": "Clémentines", "ingredients": [], "image": null, "favori": false, "statut": "À indexer"}
+{
+  "id": 12469,
+  "livreId": 56,
+  "titre": "Mélange pour collation à la cajun",
+  "page": 6,
+  "categorie": "Entrée",
+  "ingredientPrincipal": "céréales",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Melange-collation6.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 boîte (620 g) de blé en bouchées Compliments",
+    "1 boîte (525 g) de céréales à l'avoine",
+    "½ paquet (200 g) de bretzels en bâtonnets",
+    "1 paquet (200 g) de craquelins au cheddar",
+    "250 ml (1 tasse) d'arachides grillées non salées",
+    "125 ml (½ tasse) d'huile de canola",
+    "30 ml (2 c. à soupe) de sauce piquante",
+    "60 ml (¼ tasse) d'assaisonnement à la cajun",
+    "60 ml (¼ tasse) de poudre d'ail"
+  ],
+  "preparation": [
+    "Préchauffer le four à 160 °C (325 °F). Dans une grande plaque à rôtir, bien mélanger le blé en bouchées, les céréales à l'avoine, les bretzels, les craquelins au cheddar et les arachides.",
+    "Dans un petit bol, mélanger au fouet l'huile de canola, la sauce piquante, l'assaisonnement à la cajun et la poudre d'ail. Verser sur le mélange aux céréales et bien les enrober.",
+    "Cuire au centre du four jusqu'à ce qu'il dégage son parfum et qu'il soit légèrement doré, en le remuant une fois, environ 15 minutes. Laisser complètement refroidir.",
+    "Conserver jusqu'à 10 jours dans de très grands sacs de congélation jusqu'au moment d'en faire cadeau."
+  ]
+},
+{
+  "id": 12470,
+  "livreId": 56,
+  "titre": "Garniture pour brie aux fruits séchés, aux pacanes et à la noix de coco",
+  "page": 7,
+  "categorie": "Entrée",
+  "ingredientPrincipal": "brie",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Garniture-brie7.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "GARNITURE",
+    "30 ml (2 c. à soupe) de pacanes en morceaux Compliments",
+    "30 ml (2 c. à soupe) de noix de coco sucrée en flocons Compliments",
+    "30 ml (2 c. à soupe) de dattes dénoyautées hachées",
+    "15 ml (1 c. à soupe) de canneberges séchées et sucrées Compliments",
+    "POUR LES HÔTES",
+    "1 petite meule de 200 g de brie double crème Compliments",
+    "30 ml (2 c. à soupe) de sirop d'érable pur Sensations par Compliments"
+  ],
+  "preparation": [
+    "Dans un petit bol, bien mélanger les pacanes, la noix de coco, les dattes et les canneberges. Répartir le mélange uniformément dans deux petits pots d'environ 60 ml (¼ de tasse).",
+    "Méthode pour les hôtes : préchauffer le four à 190 °C (375 °F). Couper la croûte supérieure de la meule de brie et la jeter. Déposer le brie dans un caquelon pour brie au four, le couvrir de la garniture et l'arroser du sirop d'érable.",
+    "Cuire le brie au centre du four jusqu'à ce qu'il ramollisse, environ 10 minutes. Servir immédiatement."
+  ]
+},
+{
+  "id": 12471,
+  "livreId": 56,
+  "titre": "Pâte à biscuits de base",
+  "page": 9,
+  "categorie": "Desserts, Biscuits",
+  "ingredientPrincipal": "farine",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Pate-biscuit9.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "2 bâtonnets (250 ml ou 1 tasse) de beurre baratté non salé Compliments, ramolli",
+    "250 ml (1 tasse) de sucre",
+    "15 ml (1 c. à soupe) d'extrait de vanille pure Sensations par Compliments",
+    "1 ml (¼ c. à thé) de sel",
+    "1 œuf, à température ambiante",
+    "625 ml (2½ tasses) de farine tout usage Compliments"
+  ],
+  "preparation": [
+    "Mélanger : à l'aide d'un batteur électrique (sur socle ou à main), battre en crème le beurre, le sucre, la vanille et le sel jusqu'à l'obtention d'un mélange lisse, environ 3 minutes. Racler les côtés du bol et incorporer l'œuf. Racler de nouveau les côtés du bol et incorporer lentement la farine jusqu'à l'obtention d'une pâte molle. Se fariner les mains et, dans le bol, pétrir la pâte à la main jusqu'à ce qu'elle soit lisse. Préparer diverses variétés de biscuits en suivant les directives données dans les pages suivantes.",
+    "Réfrigérer la pâte environ 20 minutes. Saupoudrer un morceau de papier parchemin de farine, déposer la pâte au centre, la saupoudrer de farine et couvrir d'un autre morceau de papier parchemin. Rouler la pâte à une épaisseur d'environ 5 mm (¼ po). Retirer la feuille de papier du dessus (en tapisser la plaque à pâtisserie).",
+    "Découper : tailler des rectangles de 2,5 × 5 cm (1 × 2 po) ou, à l'aide d'emporte-pièces, découper des formes amusantes. Les déposer sur la plaque à pâtisserie préparée à environ 2,5 cm (1 po) de distance.",
+    "Cuire les biscuits au centre du four à 180 °C (350 °F) jusqu'à ce qu'ils soient pris, de 10 à 12 minutes. Les laisser complètement refroidir avant de les décorer."
+  ]
+},
+{
+  "id": 12472,
+  "livreId": 56,
+  "titre": "Biscuits au chocolat et à la menthe",
+  "page": 9,
+  "categorie": "Desserts, Biscuits",
+  "ingredientPrincipal": "chocolat",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Biscuits-chocolat-menthe9.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "PÂTE",
+    "1 recette de pâte à biscuits de base",
+    "60 ml (¼ tasse) de cacao Compliments",
+    "GLAÇAGE",
+    "60 ml (¼ tasse) de pépites de chocolat noir",
+    "375 ml (1½ tasse) de sucre à glacer",
+    "30 ml (2 c. à soupe) de beurre baratté non salé Compliments, ramolli",
+    "45 ml (3 c. à soupe) de lait",
+    "5 ml (1 c. à thé) d'extrait de vanille pure Sensations par Compliments",
+    "2 ml (½ c. à thé) d'extrait de menthe"
+  ],
+  "preparation": [
+    "Mélanger : ajouter le cacao à la recette de pâte à biscuits de base en même temps que la farine.",
+    "Réfrigérer, découper et cuire : suivre les étapes de la recette de pâte à biscuits de base et couper en rectangles de 2,5 × 5 cm (1 × 2 po).",
+    "Décorer : faire fondre les pépites de chocolat noir dans un petit bol allant au micro-ondes à puissance ÉLEVÉE pendant 1 minute et mélanger au fouet pour obtenir un mélange lisse. Le laisser refroidir à température ambiante.",
+    "Au batteur, battre en un mélange lisse et crémeux le sucre à glacer, le beurre, le lait, la vanille et l'extrait de menthe, environ 2 minutes. Ajouter le chocolat et battre en un mélange léger, environ 2 minutes. En glacer les biscuits ou utiliser une poche à douille. Laisser le glaçage prendre avant de servir.",
+    "Note : pour une toute nouvelle saveur, utiliser son extrait préféré d'orange ou d'amande."
+  ]
+},
+{
+  "id": 12473,
+  "livreId": 56,
+  "titre": "Biscuits à la noix de coco, aux canneberges et aux pistaches",
+  "page": 10,
+  "categorie": "Desserts, Biscuits",
+  "ingredientPrincipal": "noix de coco",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Biscuits-noix-coco10.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 recette de pâte à biscuits de base",
+    "10 ml (2 c. à thé) d'extrait de noix de coco",
+    "125 ml (½ tasse) de noix de coco sucrée en flocons Compliments",
+    "125 ml (½ tasse) de canneberges séchées et sucrées Compliments, hachées",
+    "125 ml (½ tasse) de pistaches hachées",
+    "30 ml (2 c. à soupe) de noix de coco, par rouleau (pour enrober)"
+  ],
+  "preparation": [
+    "Mélanger : ajouter à la recette de pâte à biscuits de base l'extrait de noix de coco, la noix de coco, les canneberges et les pistaches en même temps que la farine.",
+    "Préparer : couper la pâte en deux et, à l'aide d'une feuille de papier parchemin, rouler chaque moitié en un rouleau d'environ 4 cm (1½ po) de diamètre et de 40 cm (16 po) de longueur. Les passer dans 30 ml (2 c. à soupe) chacun de noix de coco pour en enduire légèrement l'extérieur de la pâte. Les enrober de pellicule plastique.",
+    "Réfrigérer la pâte environ 30 minutes.",
+    "Trancher : déballer et trancher les rouleaux en rondelles de 1 cm (½ po) d'épaisseur, et les déposer sur la plaque à pâtisserie préparée.",
+    "Cuire les biscuits jusqu'à ce qu'ils soient fermes, environ 10 minutes."
+  ]
+},
+{
+  "id": 12474,
+  "livreId": 56,
+  "titre": "Biscuits aux noix de cajou et au caramel salé",
+  "page": 11,
+  "categorie": "Desserts, Biscuits",
+  "ingredientPrincipal": "noix de cajou",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Biscuits-noix-cajou11.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 recette de pâte à biscuits de base",
+    "175 ml (¾ tasse) de noix de cajou finement hachées",
+    "20 carrés de caramel mou",
+    "60 ml (¼ tasse) de crème à fouetter 35 %",
+    "5 ml (1 c. à thé) de fleur de sel",
+    "60 ml (¼ tasse) de noix de cajou grossièrement hachées et grillées"
+  ],
+  "preparation": [
+    "Mélanger : ajouter les noix de cajou finement hachées à la recette de pâte à biscuits de base en même temps que la farine.",
+    "Réfrigérer, découper et cuire : suivre les étapes de la recette de pâte à biscuits de base et couper en rectangles de 2,5 × 8 cm (1 × 3 po).",
+    "Décorer : dans une petite casserole à feu doux, faire fondre le caramel mou dans la crème à fouetter en remuant de temps à autre. Laisser refroidir à température ambiante et en arroser les biscuits. Les saupoudrer de la fleur de sel et des noix de cajou grossièrement hachées et grillées. Laisser le glaçage prendre avant de servir."
+  ]
+},
+{
+  "id": 12475,
+  "livreId": 56,
+  "titre": "Biscuits aux noisettes et à la confiture",
+  "page": 12,
+  "categorie": "Desserts, Biscuits",
+  "ingredientPrincipal": "noisettes",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Biacuits-noisettes12.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 recette de pâte à biscuits de base",
+    "15 ml (1 c. à soupe) de cannelle moulue",
+    "125 ml (½ tasse) de noisettes pelées et finement hachées",
+    "Confiture de fraises, d'abricots ou de framboises Sensations par Compliments, 2 ml (½ c. à thé) par biscuit"
+  ],
+  "preparation": [
+    "Mélanger : ajouter la cannelle à la recette de pâte à biscuits de base en même temps que la farine.",
+    "Rouler des boules de pâte de 15 ml (1 c. à soupe) et en presser délicatement un côté dans les noisettes pelées et finement hachées, puis les transférer sur la plaque à pâtisserie préparée, côté enrobé vers le haut. Aplatir légèrement le centre de chaque biscuit avec le pouce.",
+    "Réfrigérer la plaque de biscuits environ 30 minutes.",
+    "Cuire les biscuits jusqu'à ce qu'ils soient légèrement dorés, environ 18 minutes.",
+    "Décorer : pendant que les biscuits sont chauds, en remplir le centre de 2 ml (½ c. à thé) de confiture de fraises, d'abricots ou de framboises."
+  ]
+},
+{
+  "id": 12476,
+  "livreId": 56,
+  "titre": "Sandwich au fromage fondu, au bacon et aux figues",
+  "page": 13,
+  "categorie": "Déjeuner, Sandwich",
+  "ingredientPrincipal": "fromage",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Sandwich-fromage13.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "30 ml (2 c. à soupe) de tartinade aux figues Mission et au poivre Au Printemps Gourmet",
+    "8 tranches fines de pain Le Grenoble Compliments",
+    "4 tranches de fromage à raclette",
+    "8 tranches de bacon entièrement cuit fumé naturellement 50 % moins de sel Compliments",
+    "30 ml (2 c. à soupe) de beurre"
+  ],
+  "preparation": [
+    "Badigeonner uniformément 4 tranches de pain de la tartinade aux figues et les garnir chacune de 1 tranche de fromage et de 2 tranches de bacon. Les recouvrir des autres tranches de pain, et beurrer l'extérieur des sandwichs. Dans une grande poêle, cuire les sandwichs à feu moyen-vif 4 minutes par côté. Les trancher en diagonale et les servir immédiatement."
+  ]
+},
+{
+  "id": 12477,
+  "livreId": 56,
+  "titre": "Œufs et bacon en coupes de pommes de terre rissolées",
+  "page": 14,
+  "categorie": "Déjeuner",
+  "ingredientPrincipal": "œufs",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Oeufs-bacon14.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "COUPES",
+    "15 ml (1 c. à soupe) de beurre, fondu",
+    "750 ml (3 tasses) de pommes de terre frites rissolées Compliments, décongelées",
+    "3 oignons verts, finement tranchés",
+    "2 œufs, calibre gros Compliments, blancs seulement, fouettés",
+    "1 ml (¼ c. à thé) de chacun : sel et poivre",
+    "GARNITURE",
+    "6 tranches de bacon fumé naturellement 50 % moins de sel Compliments",
+    "1 petit poivron rouge, finement haché",
+    "125 ml (½ tasse) de fromage cheddar canadien vieilli 5 ans Sensations par Compliments, râpé",
+    "6 œufs, calibre gros Compliments",
+    "1 ml (¼ c. à thé) de chacun : sel et poivre"
+  ],
+  "preparation": [
+    "Préchauffer le four à 220 °C (425 °F). Dans un bol, bien mélanger le beurre, les pommes de terre, les oignons verts, les blancs d'œufs, le sel et le poivre. Répartir uniformément le mélange dans les cavités d'une plaque antiadhésive pour 6 gros muffins ou dans six ramequins de 175 g (6 oz). Presser fermement le mélange au fond et sur les côtés des cavités. Cuire les coupes sur la grille inférieure du four jusqu'à ce qu'elles soient dorées, environ 15 minutes. Les laisser refroidir.",
+    "Dans une poêle antiadhésive, cuire le bacon à feu moyen-vif jusqu'à ce qu'il soit croustillant, environ 5 minutes. Le transférer dans une assiette tapissée d'essuie-tout et ne garder que 15 ml (1 c. à soupe) de gras. Faire revenir le poivron dans la poêle jusqu'à ce qu'il soit ramolli, environ 4 minutes. Retirer du feu et émietter le bacon au-dessus de la poêle. Répartir uniformément le mélange dans les coupes.",
+    "Saupoudrer les coupes de fromage et casser 1 œuf dans chacune d'elles. Cuire les œufs jusqu'à ce que les blancs soient pris mais les jaunes encore coulants, environ 10 minutes. Saler et poivrer. Retirer les coupes du moule à l'aide d'un couteau et servir immédiatement.",
+    "Pour prendre de l'avance : faire les étapes 1 et 2 la veille, couvrir et réfrigérer. Ramener les coupes à température ambiante avant de suivre l'étape 3."
+  ]
+},
+{
+  "id": 12478,
+  "livreId": 56,
+  "titre": "Strata aux champignons, aux épinards et au fromage de chèvre",
+  "page": 15,
+  "categorie": "Déjeuner",
+  "ingredientPrincipal": "champignons",
+  "image": null,
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "15 ml (1 c. à soupe) d'huile de canola",
+    "1 oignon rouge, haché",
+    "1 paquet (227 g) de champignons, finement tranchés",
+    "5 ml (1 c. à thé) d'origan séché",
+    "5 ml (1 c. à thé) de chacun : sel et poivre, en tout",
+    "1 poivron rouge, haché",
+    "⅓ paquet (152 g) de pousses d'épinards Compliments",
+    "2 pains (454 g) Le Parmentier au romarin Compliments, coupés en gros cubes de 1 cm (½ po)",
+    "1 paquet (113 g) de fromage de chèvre émietté Sensations par Compliments",
+    "8 œufs",
+    "625 ml (2½ tasses) de lait écrémé"
+  ],
+  "preparation": [
+    "Préchauffer le four à 190 °C (375 °F). Graisser un plat de cuisson de 3 L (9 × 13 po). Dans une poêle, chauffer l'huile à feu moyen-vif. Faire revenir l'oignon, les champignons, l'origan et 2 ml (½ c. à thé) chacun de sel et de poivre, jusqu'à ce que l'eau des champignons se soit évaporée, environ 8 minutes. Ajouter le poivron et le faire revenir jusqu'à ce qu'il soit ramolli, environ 5 minutes. Ajouter les épinards et les faire tomber, environ 2 minutes. Réserver.",
+    "Dans un grand bol, combiner les cubes de pain, le mélange aux champignons et le fromage de chèvre. Étendre la garniture dans le plat de cuisson. Dans un bol, mélanger au fouet les œufs, le lait, et le reste du sel et du poivre. Arroser la garniture de ce mélange et laisser reposer le tout 15 minutes ou une nuit.",
+    "Cuire la strata sur la grille inférieure du four jusqu'à ce qu'elle soit gonflée, dorée et prise, de 40 à 45 minutes.",
+    "À l'avance : préparer ce plat la veille, il ne restera plus qu'à le mettre au four."
+  ]
+},
+{
+  "id": 12479,
+  "livreId": 56,
+  "titre": "Punch aux clémentines et au gingembre",
+  "page": 16,
+  "categorie": "Boissons",
+  "ingredientPrincipal": "clémentines",
+  "image": null,
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 L (4 tasses) de jus de clémentine",
+    "500 ml (2 tasses) de jus de raisin blanc Compliments",
+    "125 ml (½ tasse) de gingembre, pelé et finement tranché",
+    "2 limes : 1 pressée et 1 tranchée en 8 rondelles",
+    "2 ml (½ c. à thé) de sel",
+    "Glace concassée"
+  ],
+  "preparation": [
+    "Dans un grand pichet, combiner le jus de clémentine, le jus de raisin, le gingembre, le jus de lime et le sel. Répartir uniformément le punch dans 8 verres remplis de glace concassée. Garnir de tranches de lime.",
+    "À l'avance : on peut préparer ce punch la veille et le garder au réfrigérateur. Ajouter du vin mousseux pour créer un mimosa nouveau genre."
+  ]
+},
+{
+  "id": 12480,
+  "livreId": 56,
+  "titre": "Dinde aux pommes et à l'érable",
+  "page": 18,
+  "categorie": "Plat principal, Dinde",
+  "ingredientPrincipal": "dinde",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Dinde-pommes18.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "750 ml (3 tasses) de jus de pomme brut, en tout",
+    "1 bâtonnet (125 ml ou ½ tasse) de beurre non salé, fondu",
+    "30 ml (2 c. à soupe) de thym Compliments frais haché",
+    "1 dinde de 6,2 kg (14 lb)",
+    "3 pommes Cortland Compliments, évidées et hachées",
+    "1 gros oignon doux, haché",
+    "4 branches de céleri, hachées",
+    "1 tête d'ail, gousses séparées et coupées en deux",
+    "1 bouquet de sauge Compliments fraîche, déchirée en deux",
+    "125 ml (½ tasse) de sirop d'érable Sensations par Compliments",
+    "2 ml (½ c. à thé) de chacun : sel et poivre",
+    "Ficelle de boucher"
+  ],
+  "preparation": [
+    "Dans un bol, mélanger au fouet 250 ml (1 tasse) de jus de pomme, le beurre et le thym. Placer le bol au congélateur jusqu'à ce que le mélange épaississe, environ 30 minutes. Préchauffer le four à 180 °C (350 °F). Placer la dinde, poitrine vers le haut, sur une grille dans une rôtissoire.",
+    "Dans un grand bol, combiner les pommes, l'oignon, le céleri, l'ail, la sauge et le sirop d'érable. Réserver. Avec les doigts, décoller délicatement la peau de la poitrine de la dinde. Frotter la moitié du mélange au jus de pomme sous la peau, et l'autre moitié, sur la dinde tout entière y compris dans la cavité. Saler et poivrer la dinde, et remplir la cavité de mélange aux pommes. Répartir le reste du mélange dans la rôtissoire avec le cou et les abats. Attacher les pilons à l'aide de ficelle de cuisine et ramener les ailes sous le dos de la dinde.",
+    "Verser le reste du jus de pomme dans la rôtissoire. La placer au centre du four et rôtir la dinde 1 heure. La recouvrir de papier aluminium et poursuivre la cuisson, en l'arrosant de temps à autre, jusqu'à ce qu'un thermomètre à viande inséré dans la partie la plus épaisse du haut de cuisse, loin de l'os, indique 85 °C (185 °F), de 2 h à 2 h 30 min de plus. Retirer la dinde du four, jeter le mélange aux pommes, couvrir la dinde de papier aluminium sans serrer et la laisser reposer 15 minutes avant de la trancher et de la servir."
+  ]
+},
+{
+  "id": 12481,
+  "livreId": 56,
+  "titre": "Sauce au jus de pomme brut",
+  "page": 18,
+  "categorie": "Sauce",
+  "ingredientPrincipal": "jus de pomme",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Sauce-jus18.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "375 ml (1½ tasse) de bouillon de poulet 35 % moins de sodium Compliments",
+    "½ bâtonnet (60 ml ou ¼ tasse) de beurre non salé, ramolli",
+    "60 ml (¼ tasse) de farine tout-usage",
+    "125 ml (½ tasse) d'échalotes françaises ciselées",
+    "30 ml (2 c. à soupe) de sirop d'érable pur Sensations par Compliments",
+    "250 ml (1 tasse) de jus de pomme brut",
+    "1 ml (¼ c. à thé) de chacun : sel et poivre"
+  ],
+  "preparation": [
+    "Filtrer le jus de cuisson de la Dinde aux pommes et à l'érable dans une grande tasse à mesurer puis le dégraisser. Ajouter suffisamment de bouillon pour obtenir 875 ml (3½ tasses). Réserver. Dans un bol, préparer un beurre manié en mélangeant le beurre et la farine à la fourchette. Réserver.",
+    "Placer la rôtissoire sur la cuisinière à feu moyen-vif. Faire revenir les échalotes jusqu'à ce qu'elles ramollissent, environ 3 minutes. Ajouter le sirop d'érable en remuant et le cuire jusqu'à ce qu'il caramélise, environ 1 minute. Ajouter le jus de pomme en raclant le fond de la rôtissoire pour en dégager les sucs de viande et faire mijoter le tout 3 ou 4 minutes. Verser le bouillon en remuant et incorporer lentement le beurre manié en fouettant de temps à autre, jusqu'à ce qu'elle épaississe, environ 10 minutes. Saler et poivrer. Passer la sauce si on la préfère sans échalotes et la verser dans une saucière."
+  ]
+},
+{
+  "id": 12482,
+  "livreId": 56,
+  "titre": "Farce festive aux canneberges et aux noix",
+  "page": 19,
+  "categorie": "Accompagnement",
+  "ingredientPrincipal": "canneberges",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Farce19.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "30 ml (2 c. à soupe) de beurre non salé",
+    "250 ml (1 tasse) d'oignon doux en dés",
+    "1 petite courge poivrée, pelée, en dés",
+    "2 gousses d'ail, finement hachées",
+    "15 ml (1 c. à soupe) de sarriette séchée",
+    "15 ml (1 c. à soupe) de thym frais haché",
+    "Sel et poivre, au goût",
+    "1 pain (454 g) croûté de la veille, en cubes",
+    "250 ml (1 tasse) de noix mélangées de luxe grillées, 50 % de noix de cajou Compliments, hachées",
+    "250 ml (1 tasse) de canneberges séchées et sucrées Compliments",
+    "125 ml (½ tasse) de persil frais haché",
+    "2 œufs",
+    "1 contenant (280 ml) de marmelade de canneberges Sensations par Compliments",
+    "375 ml (1½ tasse) de bouillon de poulet 35 % moins de sodium Compliments"
+  ],
+  "preparation": [
+    "Préchauffer le four à 180 °C (350 °F). Dans une grande poêle, fondre le beurre à feu moyen. Faire revenir l'oignon, la courge et l'ail jusqu'à ce qu'ils ramollissent, 7 à 8 minutes. Incorporer la sarriette et le thym. Saler et poivrer au goût. Laisser refroidir.",
+    "Dans un grand bol, combiner les cubes de pain, les noix, les canneberges, le persil et le mélange à la courge. Dans un autre bol, mélanger au fouet les œufs, la marmelade de canneberges et le bouillon. Verser ce liquide sur le mélange de pain, assaisonner et remuer délicatement. Transférer la farce dans un plat de cuisson beurré et la cuire jusqu'à ce qu'elle soit dorée, environ 40 minutes."
+  ]
+},
+{
+  "id": 12483,
+  "livreId": 56,
+  "titre": "Haricots verts sautés aux échalotes et au bacon",
+  "page": 20,
+  "categorie": "Accompagnement",
+  "ingredientPrincipal": "haricots verts",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Haricot-verts20.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "750 g (1½ lb) de haricots verts",
+    "4 tranches de bacon fumé naturellement 50 % moins de sel Compliments, coupées en lardons",
+    "4 échalotes françaises, ciselées",
+    "2 gousses d'ail, finement tranchées",
+    "2 ml (½ c. à thé) de sel",
+    "5 ml (1 c. à thé) d'aromate au piment fort Sensations par Compliments",
+    "15 ml (1 c. à soupe) de moutarde préparée de Dijon aux graines entières Sensations par Compliments",
+    "15 ml (1 c. à soupe) d'eau"
+  ],
+  "preparation": [
+    "Porter une grande casserole d'eau salée à ébullition, ajouter les haricots et les cuire jusqu'à ce que l'eau revienne à ébullition, environ 2 minutes. Les égoutter et les plonger dans un grand bol d'eau glacée pour les refroidir complètement. Les égoutter et les réserver.",
+    "Dans un wok ou une grande poêle profonde, cuire le bacon jusqu'à ce qu'il soit croustillant, environ 5 minutes. Le transférer dans une assiette et vider la poêle de son gras en y laissant 30 ml (2 c. à soupe). Y faire revenir les échalotes à feu moyen-vif jusqu'à tendreté, environ 3 minutes. Faire revenir l'ail 1 minute. Ajouter le sel, l'aromate au piment fort, la moutarde et l'eau pour faire une sauce. Incorporer les haricots, les couvrir et les cuire jusqu'à ce qu'ils soient tendres, mais fermes, environ 5 minutes. Incorporer le bacon réservé et retirer du feu."
+  ]
+},
+{
+  "id": 12484,
+  "livreId": 56,
+  "titre": "Médaillons de bœuf Wellington au prosciutto, au parmesan et au foie gras",
+  "page": 23,
+  "categorie": "Plat principal, Bœuf",
+  "ingredientPrincipal": "bœuf",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Medailons-boeuf23.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "4 médaillons de filet de bœuf Angus AAA de 90 g (3 oz) chacun",
+    "1 ml (¼ c. à thé) de poivre",
+    "10 ml (2 c. à thé) d'huile d'olive 100 % pure Sensations par Compliments",
+    "10 ml (2 c. à thé) de beurre",
+    "1 poireau, partie blanche seulement, finement tranchée",
+    "½ oignon, en dés",
+    "4 tranches de prosciutto Original Sensations par Compliments, hachées",
+    "60 ml (¼ tasse) de vin blanc sec",
+    "15 ml (1 c. à soupe) de crème à cuisson 15 %",
+    "75 g (2½ oz) de parmesan, râpé",
+    "100 g (3½ oz) de foie gras de canard, défait en petits morceaux",
+    "3 feuilles de pâte phyllo Compliments, décongelées",
+    "45 ml (3 c. à soupe) de beurre, fondu"
+  ],
+  "preparation": [
+    "Préchauffer le four à 200 °C (400 °F). Tapisser une plaque à rôtir de papier parchemin. Poivrer les médaillons. Dans une poêle, chauffer l'huile à feu moyen-vif et cuire les médaillons jusqu'à ce qu'ils soient dorés, en les retournant une fois, 2 ou 3 minutes par côté. Les transférer dans une assiette et les réfrigérer.",
+    "Dans la même poêle, faire fondre 10 ml (2 c. à thé) de beurre, et faire revenir le poireau et l'oignon jusqu'à ce qu'ils soient ramollis, environ 5 minutes. Ajouter le prosciutto et le cuire jusqu'à ce qu'il soit tendre, environ 5 minutes. Incorporer le vin et la crème, et faire mijoter le mélange jusqu'à ce que le liquide s'évapore. Retirer du feu, laisser légèrement refroidir, et incorporer le parmesan et le foie gras. Réserver.",
+    "Sur un plan de travail, étendre une feuille de pâte phyllo et la badigeonner de beurre fondu. Répéter l'opération avec les autres feuilles de pâte pour créer une croûte feuilletée. Couper en 4 rectangles égaux. Déposer 60 ml (¼ tasse) de garniture au foie gras au centre de chaque rectangle et garnir d'un médaillon. Replier un coin de la pâte sur la viande : ceci crée un pli naturel. Rabattre l'excédent de pâte sur le médaillon avant de répéter l'opération pour les trois autres coins, de façon à bien sceller le médaillon et sa garniture. Badigeonner le baluchon de beurre fondu et pincer la pâte pour bien la sceller. Le déposer, côté scellé vers le haut, sur la plaque à rôtir. Répéter l'opération pour les trois autres rectangles de pâte.",
+    "Cuire les baluchons jusqu'à ce qu'un thermomètre indique une température interne de 63 °C (145 °F), de 12 à 15 minutes. Retirer les médaillons du four et les laisser reposer 5 minutes avant de les servir avec la sauce crémeuse aux poires."
+  ]
+},
+{
+  "id": 12485,
+  "livreId": 56,
+  "titre": "Sauce crémeuse aux poires",
+  "page": 23,
+  "categorie": "Sauce",
+  "ingredientPrincipal": "poires",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Sauce-cremeuse23.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "15 ml (1 c. à soupe) de beurre",
+    "1 échalote française, en dés",
+    "125 ml (½ tasse) de vin blanc sec",
+    "1 paquet de 300 ml de sauce demi-glace Gibiers Canabec",
+    "30 ml (2 c. à soupe) de crème à cuisson 15 %",
+    "5 ml (1 c. à thé) de vinaigre de vin blanc",
+    "1 boîte de 796 ml (28 oz) de poires en moitiés Compliments Équilibre, égouttées",
+    "15 ml (1 c. à soupe) de ciboulette Compliments ciselée"
+  ],
+  "preparation": [
+    "Pendant la cuisson des baluchons, faire fondre le beurre à feu moyen dans une casserole moyenne. Y faire revenir l'échalote en dés jusqu'à ce qu'elle soit ramollie, environ 5 minutes. Ajouter le vin blanc sec, porter à ébullition et laisser réduire de moitié. Incorporer la sauce demi-glace, la crème à cuisson, le vinaigre de vin blanc et les poires, puis ramener le tout à ébullition. Retirer la sauce du feu, la laisser légèrement refroidir et, au mélangeur, la réduire en un mélange lisse. Saler et poivrer, et garnir de la ciboulette."
+  ]
+},
+{
+  "id": 12486,
+  "livreId": 56,
+  "titre": "Choux de Bruxelles aux petits oignons, aux amandes et aux raisins de Corinthe",
+  "page": 24,
+  "categorie": "Accompagnement",
+  "ingredientPrincipal": "choux de Bruxelles",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Choux-bruxelles24.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "125 ml (½ tasse) d'amandes émincées Compliments",
+    "45 ml (3 c. à soupe) de beurre non salé, en tout",
+    "250 ml (1 tasse) de petits oignons perlés rouges, pelés et coupés en deux",
+    "1 kg (2 lb) de choux de Bruxelles, parés et coupés en deux, en tout",
+    "60 ml (¼ tasse) de bouillon de poulet 35 % moins de sodium Compliments",
+    "60 ml (¼ tasse) de raisins de Corinthe Compliments",
+    "30 ml (2 c. à soupe) de marmelade d'oranges",
+    "2 ml (½ c. à thé) de sel",
+    "1 ml (¼ c. à thé) de poivre"
+  ],
+  "preparation": [
+    "Dans une grande poêle, griller les amandes à feu moyen-doux, en les remuant souvent, jusqu'à ce qu'elles soient dorées, environ 6 minutes. Les réserver dans un petit bol. Augmenter le feu à moyen-vif et ajouter 15 ml (1 c. à soupe) de beurre à la poêle. Faire revenir les petits oignons, côté coupé à plat, jusqu'à ce qu'ils soient dorés, environ 3 minutes. Réserver dans un grand bol. Ajouter 15 ml (1 c. à soupe) de beurre à la poêle et la moitié des choux de Bruxelles, côté coupé à plat, et les faire revenir jusqu'à ce qu'ils soient dorés, environ 5 minutes. Les ajouter aux oignons. Répéter l'opération pour le reste des choux de Bruxelles.",
+    "Ajouter le bouillon de poulet, les raisins de Corinthe et la marmelade à la poêle et les faire revenir 1 minute. Remettre les oignons et les choux de Bruxelles dans la poêle et les faire revenir, en les remuant de temps à autre, jusqu'à ce que les choux soient tendres et enrobés de marmelade, environ 5 minutes. Saler et poivrer, saupoudrer d'amandes et remuer délicatement."
+  ]
+},
+{
+  "id": 12487,
+  "livreId": 56,
+  "titre": "Pommes de terre rôties « accordéon »",
+  "page": 25,
+  "categorie": "Accompagnement",
+  "ingredientPrincipal": "pommes de terre",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Pommes-terre-accordeon25.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "30 ml (2 c. à soupe) d'huile de canola, en tout",
+    "1 paquet de 1,36 kg (3 lb) de pommes de terre, coupées sur la longueur en tranches de 3 mm (⅛ po) d'épaisseur",
+    "125 ml (½ tasse) d'échalotes françaises tranchées",
+    "15 ml (1 c. à soupe) de chacun : sel et poivre",
+    "15 ml (1 c. à soupe) de feuilles de thym Compliments frais"
+  ],
+  "preparation": [
+    "Préchauffer le four à 190 °C (375 °F). Enduire le fond d'un plat de cuisson de 20 × 30 cm (8 × 12 po) de 15 ml (1 c. à soupe) d'huile de canola. En commençant par le côté du plat le plus étroit, disposer les tranches de pommes de terre à la verticale les unes contre les autres, jusqu'à ce que le plat soit plein. Glisser des tranches d'échalotes ici et là entre les tranches de pommes de terre, en les répartissant uniformément le plus possible. Badigeonner le dessus des pommes de terre du reste de l'huile. Saler et poivrer. Cuire 1 heure à découvert au centre du four.",
+    "Réduire le four à 150 °C (300 °F). Parsemer les pommes de terre de feuilles de thym et les cuire jusqu'à ce qu'elles soient tendres et que le dessus soit croustillant, environ 30 minutes."
+  ]
+},
+{
+  "id": 12488,
+  "livreId": 56,
+  "titre": "Crevettes papillon croustillantes avec guacamole et salsa au melon",
+  "page": 35,
+  "categorie": "Entrée",
+  "ingredientPrincipal": "crevettes",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Crevettes-papillon35.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "14 crevettes en papillon panées non cuites Sensations par Compliments",
+    "250 ml (1 tasse) de melon Santa Claus, ou Piel de sapo, pelé et épépiné puis coupé en petits dés",
+    "1 tomate italienne, épépinée et coupée en petits dés",
+    "2 oignons verts, finement hachés, en tout",
+    "1 lime, zestée et pressée, en tout",
+    "30 ml (2 c. à soupe) d'huile d'olive 100 % pure Sensations par Compliments",
+    "Sel et poivre, au goût",
+    "1 avocat",
+    "Sauce piquante, au goût",
+    "7 tranches de saumon de l'Atlantique fumé Sensations par Compliments frais, coupées en deux",
+    "14 feuilles de coriandre Compliments fraîche"
+  ],
+  "preparation": [
+    "Cuire les crevettes selon les directives sur l'emballage. Dans un bol, combiner le melon, la tomate, la moitié des oignons verts, la moitié du jus et du zeste de lime et 15 ml (1 c. à soupe) d'huile. Saler et poivrer. Réserver. Dans un autre bol, combiner l'avocat, le reste des oignons verts, le reste de l'huile, du jus et du zeste de lime. Ajouter de la sauce piquante et du sel au goût. Garnir chaque crevette tiède d'une demi-tranche de saumon fumé, de 10 ml (2 c. à thé) chacun de guacamole et de salsa au melon, et garnir d'une feuille de coriandre. Servir immédiatement."
+  ]
+},
+{
+  "id": 12489,
+  "livreId": 56,
+  "titre": "Satays de bison teriyaki à l'orange sanguine",
+  "page": 35,
+  "categorie": "Entrée",
+  "ingredientPrincipal": "bison",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Satays-bison35.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "225 g (½ lb) de médaillons de bison Sensations par Compliments, finement tranchés contre le grain",
+    "125 ml (½ tasse) de sauce à cuisson teriyaki Sensations par Compliments",
+    "5 ml (1 c. à thé) de beurre",
+    "125 g (¼ lb) de fromage Doré-mi ou haloumi, tranché sur la longueur en 6 morceaux",
+    "15 ml (1 c. à soupe) d'huile d'olive 100 % pure Sensations par Compliments",
+    "12 segments d'oranges sanguines ou d'une autre variété d'oranges (environ 2 oranges)"
+  ],
+  "preparation": [
+    "Dans un grand sac en plastique refermable, combiner les tranches de bison et la sauce à cuisson. Réfrigérer et faire mariner de 6 à 8 heures.",
+    "Une fois la viande marinée, faire fondre le beurre dans une poêle à feu moyen-vif. Y saisir les tranches de fromage jusqu'à ce qu'elles soient dorées, environ 2 minutes par côté. Les retirer de la poêle et les couper en deux. Ajouter l'huile à la poêle et saisir les tranches de bison jusqu'à ce qu'elles soient dorées, environ 2 minutes par côté. Retirer la poêle du feu. Sur un plan de travail, déposer une tranche de bison et placer un morceau de fromage à une extrémité, puis la replier sur elle-même. Garnir d'un segment d'orange en le fixant à l'aide d'un cure-dents. Répéter l'opération pour chaque tranche. Servir."
+  ]
+},
+{
+  "id": 12490,
+  "livreId": 56,
+  "titre": "Fromage en croûte de panko et tomates confites au basilic",
+  "page": 36,
+  "categorie": "Entrée",
+  "ingredientPrincipal": "fromage",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Fromage-croute36.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 petite meule (150 g) de fromage à pâte molle et à croûte fleurie Inspiré",
+    "125 ml (½ tasse) de mélange pour pâte à tempura",
+    "1 ml (¼ c. à thé) de chacun : sel et poivre, en tout",
+    "175 ml (¾ tasse) de chapelure panko",
+    "Huile de canola pour la friture",
+    "15 ml (1 c. à soupe) de beurre",
+    "60 ml (¼ tasse) d'oignon en dés",
+    "30 ml (2 c. à soupe) de sucre",
+    "15 ml (1 c. à soupe) de vinaigre balsamique de Modène vieilli Sensations par Compliments",
+    "½ paquet (85 g) de mini-tomates sucrées Candi-to Compliments, coupées en deux",
+    "30 ml (2 c. à soupe) de feuilles de basilic Compliments frais, finement hachées"
+  ],
+  "preparation": [
+    "Tapisser une plaque à rôtir de papier parchemin. Couper le fromage en deux à l'horizontale et couper chaque moitié en 8 pointes. Transférer les pointes sur la plaque et les congeler 1 heure.",
+    "Préchauffer le four à 180 °C (350 °F). Préparer la pâte à tempura selon les directives sur l'emballage, puis saler et poivrer. Verser le panko dans un bol. Passer les pointes de fromage dans la pâte à tempura, puis dans le panko, en les enrobant uniformément. Chauffer une casserole remplie de 2,5 cm (1 po) d'huile à feu moyen-vif jusqu'à ce qu'un thermomètre à bonbons indique 190 °C (375 °F). En procédant en plusieurs fois, faire délicatement glisser quelques pointes de fromage dans l'huile et les frire jusqu'à ce qu'elles soient dorées, environ 2 minutes par côté. À l'aide de pinces, les retirer délicatement de l'huile et les déposer dans une assiette tapissée d'essuie-tout. Les transférer ensuite sur la plaque et les cuire au centre du four jusqu'à ce que le fromage commence à bouillonner hors de la croûte, de 3 à 5 minutes.",
+    "Dans une petite casserole, chauffer le beurre à feu moyen. Faire revenir l'oignon jusqu'à ce qu'il soit ramolli, environ 2 minutes. Ajouter le sucre et le vinaigre, et les cuire en remuant jusqu'à ce que le sucre soit dissous et que le vinaigre commence à bouillir, environ 3 minutes. Ajouter les tomates, saler et poivrer au goût, baisser le feu à moyen-doux et cuire, en remuant souvent, jusqu'à ce que le jus de cuisson soit complètement évaporé, environ 20 minutes. Incorporer le basilic. Garnir chaque pointe de tomates confites et servir.",
+    "Note : préparer les tomates confites pendant que le fromage bouillonne au four."
+  ]
+},
+{
+  "id": 12491,
+  "livreId": 56,
+  "titre": "Rouleaux de jambon et d'asperges en pâte phyllo et sauce au bleu",
+  "page": 37,
+  "categorie": "Entrée",
+  "ingredientPrincipal": "asperges",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Rouleau-jambon-asperges37.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "ROULEAUX",
+    "500 g (1 lb) d'asperges, parées et coupées en morceaux de 1 cm (½ po)",
+    "15 ml (1 c. à soupe) d'huile d'olive 100 % pure Sensations par Compliments, en tout",
+    "1 ml (¼ c. à thé) de chacun : sel et poivre",
+    "½ oignon, en dés",
+    "1 gousse d'ail, finement hachée",
+    "100 g (3½ oz) de jambon fumé d'autrefois Sensations par Compliments",
+    "2 oignons verts, ciselés",
+    "15 ml (1 c. à soupe) de brins de romarin Compliments frais, finement hachés",
+    "6 feuilles de pâte phyllo Compliments, décongelées",
+    "60 ml (¼ tasse) de beurre non salé, fondu",
+    "SAUCE AU BLEU",
+    "60 ml (¼ tasse) de beurre",
+    "½ oignon, en dés",
+    "1 gousse d'ail, finement hachée",
+    "60 ml (¼ tasse) de farine tout-usage",
+    "250 ml (1 tasse) de lait",
+    "250 ml (1 tasse) de bouillon de poulet 35 % moins de sodium Compliments",
+    "1 ml (¼ c. à thé) de chacun : sel et poivre",
+    "75 g (2½ oz) de fromage bleu",
+    "30 ml (2 c. à soupe) de moutarde préparée de Dijon Originale Sensations par Compliments"
+  ],
+  "preparation": [
+    "Préchauffer le gril du four (broil). Tapisser une plaque à rôtir de papier parchemin. Dans un bol, combiner les asperges avec 5 ml (1 c. à thé) d'huile d'olive, le sel et le poivre. Transférer les asperges sur la plaque et les griller jusqu'à ce qu'elles soient tendres, mais encore fermes, de 3 à 5 minutes. Retirer du four et réserver. Régler le four à 190 °C (375 °F).",
+    "Dans une poêle, chauffer 10 ml (2 c. à thé) d'huile à feu moyen-vif. Faire revenir l'oignon 3 minutes. Ajouter l'ail, le jambon, les oignons verts et le romarin, et les faire revenir 3 minutes, puis incorporer les asperges. Retirer du feu et laisser refroidir.",
+    "Sur un plan de travail, étendre une feuille de pâte phyllo et la badigeonner de beurre fondu. Répéter l'opération avec deux autres feuilles de façon à obtenir une croûte de trois feuilles superposées. Procéder de la même façon avec les trois autres feuilles. Couper chaque croûte en 8 rectangles égaux (pour en obtenir 16). Déposer 30 ml (2 c. à soupe) de garniture aux asperges au centre de chaque rectangle. Badigeonner les bords de beurre fondu, replier les bords étroits vers le centre et, en commençant par un côté long du rectangle, rouler pour obtenir un petit cylindre. Badigeonner légèrement les rouleaux de beurre fondu et les transférer sur la plaque à rôtir. Les cuire au centre du four, en les retournant à mi-cuisson, jusqu'à ce qu'ils soient croustillants et dorés, environ 18 minutes. Servir avec la sauce au bleu.",
+    "Sauce au bleu : dans une casserole moyenne, faire fondre le beurre à feu moyen. Ajouter l'oignon en dés et l'ail, et faire revenir jusqu'à ce qu'ils soient ramollis, 3 minutes. Incorporer au fouet la farine tout-usage, puis le lait, le bouillon de poulet, le sel et le poivre. Augmenter le feu à moyen-vif et porter la sauce à ébullition, en fouettant sans arrêt. Une fois la sauce épaissie, baisser le feu à moyen-doux, incorporer au fouet le fromage bleu, un peu à la fois, en laissant le fromage fondre entre chaque ajout. Retirer du feu, incorporer au fouet la moutarde de Dijon jusqu'à ce que la sauce soit lisse."
+  ]
+},
+{
+  "id": 12492,
+  "livreId": 56,
+  "titre": "Crème de chou-fleur et de poireau garnie de pancetta et de vinaigre balsamique caramélisé",
+  "page": 39,
+  "categorie": "Soupe, Entrée",
+  "ingredientPrincipal": "chou-fleur",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Creme-chou-fleur39.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "30 ml (2 c. à soupe) d'huile d'olive 100 % pure Sensations par Compliments, en tout",
+    "1 oignon, en dés",
+    "1 sac (250 g) de poireaux précoupés",
+    "2 gousses d'ail, finement hachées",
+    "2 L (8 tasses) + 125 ml (½ tasse) de choux-fleurs défaits en bouquets",
+    "1 pomme de terre blanche, pelée et coupée en morceaux",
+    "2 contenants (1,8 L) de bouillon de poulet 35 % moins de sodium Compliments",
+    "1 ml (¼ c. à thé) de chacun : sel et poivre",
+    "60 ml (¼ tasse) de crème 15 %",
+    "50 g (1¾ oz) de pancetta, en dés",
+    "45 ml (3 c. à soupe) de sucre",
+    "45 ml (3 c. à soupe) de vinaigre balsamique de Modène vieilli Sensations par Compliments",
+    "45 ml (3 c. à soupe) de ciboulette Compliments fraîche, ciselée"
+  ],
+  "preparation": [
+    "Dans une grande marmite, chauffer 15 ml (1 c. à soupe) d'huile d'olive à feu moyen. Faire revenir l'oignon, les poireaux et l'ail jusqu'à ce qu'ils soient ramollis, 5 minutes. Ajouter 2 L (8 tasses) de choux-fleurs, la pomme de terre, le bouillon de poulet, le sel et le poivre, et faire mijoter jusqu'à ce que les pommes de terre soient tendres, environ 25 minutes. Laisser légèrement refroidir. Remplir le mélangeur aux ⅔ de potage et réduire en purée lisse. Répéter avec le reste du potage, remettre dans la casserole et y ajouter la crème.",
+    "Dans un bol allant au micro-ondes, ajouter 30 ml (2 c. à soupe) d'eau et le reste du chou-fleur. Cuire à puissance moyenne 1 ou 2 minutes pour les attendrir. Égoutter et réserver. Dans une petite poêle, chauffer les 5 ml (1 c. à thé) d'huile qui restent à feu moyen-vif. Faire revenir les dés de pancetta jusqu'à ce que les bords soient croustillants, environ 8 minutes. Transférer dans une assiette tapissée d'essuie-tout. Ajouter le sucre et le vinaigre à la poêle, et cuire en remuant de temps à autre, jusqu'à ce que le sucre soit dissous et que le vinaigre commence à bouillir et à caraméliser, environ 3 minutes. Dans un autre bol, combiner la pancetta, la ciboulette et le chou-fleur. Réserver.",
+    "Répartir la soupe dans 8 bols. Garnir chacun du mélange de pancetta en parts égales, arroser d'un filet de vinaigre caramélisé et servir.",
+    "À l'avance : préparer ce potage deux jours d'avance et le conserver au frigo dans un contenant hermétique."
+  ]
+},
+{
+  "id": 12493,
+  "livreId": 56,
+  "titre": "Salade de poires, de parmesan et de chips de prosciutto",
+  "page": 39,
+  "categorie": "Salade",
+  "ingredientPrincipal": "poires",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Salade-poires39.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "8 tranches de prosciutto Original Sensations par Compliments",
+    "30 ml (2 c. à soupe) de vinaigre balsamique de Modène vieilli Sensations par Compliments",
+    "30 ml (2 c. à soupe) de sirop d'érable pur Compliments",
+    "15 ml (1 c. à soupe) de moutarde préparée de Dijon Originale Sensations par Compliments",
+    "60 ml (¼ tasse) d'huile d'olive 100 % pure Sensations par Compliments",
+    "Sel et poivre, au goût",
+    "1 paquet (142 g) de mini-roquette",
+    "60 g (2 oz) de parmesan frais, coupé en copeaux à l'aide d'un couteau économe",
+    "2 poires Anjou rouges, évidées et finement tranchées"
+  ],
+  "preparation": [
+    "Préchauffer le four à 180 °C (350 °F). Déposer les tranches de prosciutto sur une plaque à rôtir et les cuire au centre du four jusqu'à ce qu'elles soient dorées et fermes, environ 12 minutes. Les laisser refroidir et les émietter.",
+    "Dans un grand bol, mélanger au fouet le vinaigre, le sirop d'érable, la moutarde et l'huile. Saler et poivrer. Incorporer délicatement la roquette, le parmesan, les poires et le prosciutto. Servir immédiatement.",
+    "À l'avance : préparer les chips de prosciutto le matin et les conserver dans un contenant hermétique."
+  ]
+},
+{
+  "id": 12494,
+  "livreId": 56,
+  "titre": "Étagé Parmentier au confit d'oie, légumes sautés et sauce bordelaise aux canneberges",
+  "page": 40,
+  "categorie": "Plat principal",
+  "ingredientPrincipal": "oie",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Etage-parmentier40.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "ÉTAGÉ PARMENTIER",
+    "6 pommes de terre à chair jaune, pelées et coupées en morceaux",
+    "60 ml (¼ tasse) de lait",
+    "Sel et poivre, au goût",
+    "2 paquets (500 g) de cuisses d'oie confites",
+    "10 ml (2 c. à thé) d'huile d'olive 100 % pure Sensations par Compliments",
+    "1 oignon jaune, finement tranché",
+    "15 ml (1 c. à soupe) de sirop d'érable",
+    "SAUCE AUX CANNEBERGES",
+    "15 ml (1 c. à soupe) d'huile d'olive 100 % pure Sensations par Compliments",
+    "2 échalotes françaises, finement hachées",
+    "60 ml (¼ tasse) de vin rouge",
+    "250 ml (1 tasse) de mélange de jus à 100 % à saveur de canneberge Compliments",
+    "1 sachet (300 ml) de sauce bordelaise Gibiers Canabec",
+    "30 ml (2 c. à soupe) de crème 15 %",
+    "15 ml (1 c. à soupe) de vinaigre balsamique de Modène vieilli Sensations par Compliments",
+    "15 ml (1 c. à soupe) de fécule de maïs, dissoute dans 30 ml (2 c. à soupe) d'eau",
+    "30 ml (2 c. à soupe) de beurre",
+    "175 ml (¾ tasse) de canneberges séchées et sucrées Compliments",
+    "Sel et poivre, au goût",
+    "LÉGUMES",
+    "15 ml (1 c. à soupe) d'huile d'olive 100 % pure Sensations par Compliments",
+    "1 carotte, 1 poivron rouge et 1 courgette verte, coupés en julienne",
+    "2 oignons verts, finement tranchés",
+    "½ oignon rouge, finement tranché",
+    "12 petites asperges fraîches, extrémités parées, coupées en deux sur la largeur, puis sur la longueur"
+  ],
+  "preparation": [
+    "Dans une grande casserole d'eau salée, porter les pommes de terre à ébullition et les cuire jusqu'à tendreté, environ 25 minutes. Bien les égoutter et les piler. Incorporer lentement le lait jusqu'à l'obtention d'un mélange lisse. Saler et poivrer au goût, couvrir et réfrigérer. Vider le contenu des paquets d'oie dans un bol allant au micro-ondes. Faire chauffer à puissance moyenne pendant 2 minutes, puis désosser les cuisses d'oie. Dans une poêle à feu moyen-vif, faire chauffer l'huile et faire revenir l'oignon jusqu'à ce qu'il soit doré, pendant 5 minutes. Ajouter le sirop d'érable et cuire encore 2 minutes. Retirer la poêle du feu, incorporer la chair d'oie et réserver.",
+    "Préchauffer le four à 180 °C (350 °F). Tapisser une plaque à rôtir de papier parchemin. Huiler la surface intérieure d'un emporte-pièce rond de 5 cm (2 po), le transférer sur la plaque et le remplir, en pressant, de 60 ml (¼ tasse) du mélange à l'oie, puis de 125 ml (½ tasse) de la purée de pommes de terre. Retirer délicatement l'emporte-pièce et répéter l'opération pour le reste des étagés Parmentier. Les cuire au centre du four jusqu'à ce qu'ils soient dorés, de 10 à 15 minutes.",
+    "Pour préparer la sauce, faire chauffer l'huile dans une casserole à feu moyen et cuire les échalotes 5 minutes jusqu'à ce qu'elles soient ramollies. Incorporer le vin et le jus de canneberges, porter le mélange à ébullition et le faire réduire de moitié. Incorporer au fouet la sauce bordelaise, la crème, le vinaigre, la fécule de maïs, le beurre et les canneberges. Porter de nouveau la sauce à ébullition et la cuire, en la remuant au fouet sans arrêt, jusqu'à ce qu'elle épaississe, environ 5 minutes. Saler et poivrer au goût.",
+    "Dans une poêle à feu moyen-vif, faire chauffer l'huile, et faire revenir la carotte, le poivron, la courgette, les oignons verts, l'oignon rouge et les asperges, jusqu'à ce qu'ils soient tendres mais fermes, environ 5 minutes. Au service, garnir chaque étagé Parmentier de légumes sautés, et les entourer de sauce bordelaise aux canneberges."
+  ]
+},
+{
+  "id": 12495,
+  "livreId": 56,
+  "titre": "Petits fruits mélangés et sabayon aux amandes",
+  "page": 41,
+  "categorie": "Desserts",
+  "ingredientPrincipal": "petits fruits",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Petits-fruits-melanges41.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "250 ml (1 tasse) d'amandes émincées Compliments",
+    "250 ml (1 tasse) de chacun : framboises, fraises et bleuets frais",
+    "5 ml (1 c. à thé) + 2 ml (½ c. à thé) d'extrait d'amande ou 60 ml (¼ tasse) d'amaretto",
+    "6 œufs, jaunes seulement",
+    "125 ml (½ tasse) de sirop d'érable",
+    "60 ml (¼ tasse) d'arilles de grenade frais",
+    "6 tiges de menthe Compliments fraîche"
+  ],
+  "preparation": [
+    "Préchauffer le four à 180 °C (350 °F). Sur une plaque à pâtisserie, étendre les amandes et les faire griller au centre du four jusqu'à ce qu'elles soient dorées, environ 5 minutes. Réserver. Couper les fraises en deux ou en quatre. Dans un bol, combiner les petits fruits avec 5 ml (1 c. à thé) d'extrait d'amande. Réserver.",
+    "Au bain-marie, combiner au fouet les jaunes d'œufs, le sirop d'érable et le reste de l'extrait d'amande. Fouetter vigoureusement le mélange jusqu'à ce qu'il soit pâle, mousseux et qu'il ait doublé de volume, environ 8 minutes. Retirer du feu et réserver.",
+    "Répartir les petits fruits dans 6 verres à martini et les napper de sabayon. Garnir d'amandes grillées, de quelques arilles de grenade et de menthe.",
+    "Note : on peut aussi placer les fruits et le sabayon dans un ramequin puis caraméliser le dessus avec un chalumeau de cuisine.",
+    "Comment faire un bain-marie : faire frémir environ 5 cm (2 po) d'eau dans une casserole moyenne puis couvrir d'un grand bol résistant à la chaleur (le fond du bol ne doit pas toucher l'eau)."
+  ]
+},
+{
+  "id": 12496,
+  "livreId": 56,
+  "titre": "Crostinis de haricots blancs et de saucisson",
+  "page": 42,
+  "categorie": "Entrée",
+  "ingredientPrincipal": "haricots blancs",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Crostinis-haricots42.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "½ baguette, coupée en 16 tranches",
+    "45 ml (3 c. à soupe) d'huile d'olive extra vierge, en tout",
+    "250 ml (1 tasse) de petits haricots blancs en conserve, égouttés et rincés, en tout",
+    "15 ml (1 c. à soupe) d'aromate à l'ail rôti Sensations par Compliments",
+    "30 ml (2 c. à soupe) de ciboulette Compliments fraîche ciselée et un peu plus pour garnir",
+    "½ paquet (150 g) de saucisson Rosette de Lyon Original Le Sauciflard N° 1, en fines lamelles",
+    "½ poivron rouge, en dés"
+  ],
+  "preparation": [
+    "Préchauffer le four à 180 °C (350 °F). Déposer les tranches de baguette sur une plaque à pâtisserie et en badigeonner la surface de 30 ml (2 c. à soupe) d'huile. Griller au centre du four jusqu'à ce qu'elles soient dorées, environ 8 minutes. Retirer du four et laisser refroidir.",
+    "Au robot culinaire, réduire en purée lisse la moitié des haricots et l'aromate à l'ail. Incorporer le reste des haricots et la ciboulette. Tartiner uniformément les tranches de baguette de ce mélange, garnir de saucisson, de poivron et de ciboulette, et arroser du reste de l'huile."
+  ]
+},
+{
+  "id": 12497,
+  "livreId": 56,
+  "titre": "Pizza au saumon fumé, aux câpres et à la roquette",
+  "page": 44,
+  "categorie": "Entrée, Pizza",
+  "ingredientPrincipal": "saumon",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Pizza-saumon44.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 croûte à pizza mince originale Sensations par Compliments",
+    "1 paquet (250 g) de fromage à la crème léger Compliments",
+    "375 ml (1½ tasse) de roquette bien tassée, en tout",
+    "30 ml (2 c. à soupe) de jus de citron",
+    "1 paquet (200 g) de saumon fumé",
+    "30 ml (2 c. à soupe) de moutarde préparée à la moutarde au miel Sensations par Compliments",
+    "30 ml (2 c. à soupe) d'aneth frais haché",
+    "30 ml (2 c. à soupe) d'oignons verts finement tranchés",
+    "15 ml (1 c. à soupe) de câpres",
+    "1 œuf, cuit dur et râpé",
+    "2 ml (½ c. à thé) de poivre"
+  ],
+  "preparation": [
+    "Cuire la croûte à pizza selon les directives sur l'emballage. Au robot culinaire, réduire en purée lisse le fromage à la crème, 250 ml (1 tasse) de roquette et le jus de citron. Tartiner uniformément la croûte à pizza de ce mélange et la garnir de saumon fumé en une seule couche, puis de moutarde au miel, de roquette, d'aneth, d'oignons verts, de câpres et d'œuf. La couper en 16 petits carrés et les poivrer. Servir immédiatement."
+  ]
+},
+{
+  "id": 12498,
+  "livreId": 56,
+  "titre": "Brochettes de prosciutto, d'olives et d'oranges",
+  "page": 45,
+  "categorie": "Entrée",
+  "ingredientPrincipal": "prosciutto",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Brochettes-olives45.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "8 brochettes",
+    "4 tranches de prosciutto Original Sensations par Compliments, coupées en deux et pliées",
+    "1 orange navel, pelée et coupée en 8 suprêmes",
+    "8 feuilles de basilic Compliments frais",
+    "8 olives farcies gigantesques à la grecque Compliments",
+    "1 ml (¼ c. à thé) de poivre noir",
+    "15 ml (1 c. à soupe) d'huile d'olive",
+    "5 ml (1 c. à thé) de vinaigre balsamique"
+  ],
+  "preparation": [
+    "Sur chaque brochette, enfiler 1 morceau de prosciutto, 1 suprême d'orange, 1 feuille de basilic et 1 olive. Déposer les brochettes dans un plat de service, les poivrer, et les arroser d'huile et de vinaigre balsamique."
+  ]
+},
+{
+  "id": 12499,
+  "livreId": 56,
+  "titre": "Sauce gribiche",
+  "page": 47,
+  "categorie": "Sauce",
+  "ingredientPrincipal": "œuf",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Sauce-gribiche47.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "1 œuf dur, écalé et haché",
+    "20 ml (4 c. à thé) de câpres hachées",
+    "20 ml (4 c. à thé) d'échalotes françaises ciselées",
+    "75 ml (⅓ tasse) de crème fraîche",
+    "30 ml (2 c. à soupe) de sauce à salade de type mayonnaise Compliments Équilibre",
+    "1 ml (¼ c. à thé) de sauce piquante",
+    "30 ml (2 c. à soupe) de feuilles d'estragon Compliments frais hachées",
+    "2 homards bouillis ou cuits à la vapeur, pour servir"
+  ],
+  "preparation": [
+    "Dans un bol, combiner l'œuf dur, les câpres, les échalotes, la crème fraîche, la sauce à salade de type mayonnaise, la sauce piquante et l'estragon. Servir avec 2 homards bouillis ou cuits à la vapeur."
+  ]
+},
+{
+  "id": 12500,
+  "livreId": 56,
+  "titre": "Enchiladas piquantes au bœuf et au chipotle",
+  "page": 48,
+  "categorie": "Plat principal, Bœuf",
+  "ingredientPrincipal": "bœuf",
+  "image": null,
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "15 ml (1 c. à soupe) d'huile de canola",
+    "250 g (½ lb) de bœuf haché extra maigre",
+    "1 poivron rouge, haché",
+    "125 ml (½ tasse) d'oignon haché",
+    "5 ml (1 c. à thé) de cumin",
+    "1 ml (¼ c. à thé) de piment de Cayenne (facultatif)",
+    "150 ml (⅔ tasse) de mélange de fromages finement râpés tex-mex Sensations par Compliments, en tout",
+    "75 ml (⅓ tasse) de sauce barbecue oignon doux et chipotle Sensations par Compliments, en tout",
+    "60 ml (¼ tasse) de coriandre fraîche hachée, en tout",
+    "4 grandes tortillas de farine"
+  ],
+  "preparation": [
+    "Préchauffer le four à 200 °C (400 °F). Graisser un plat de cuisson de 20 cm (8 po). Dans une grande poêle, chauffer l'huile à feu moyen-vif. Ajouter le bœuf, le poivron, l'oignon, le cumin et le piment de Cayenne, si désiré. Cuire en défaisant le bœuf à la fourchette jusqu'à ce qu'il ait perdu sa teinte rosée et que les légumes soient tendres, environ 5 minutes. Égoutter le mélange au besoin et incorporer 125 ml (½ tasse) de fromage, la moitié de la sauce barbecue et 45 ml (3 c. à soupe) de coriandre.",
+    "Répartir uniformément le mélange au centre des tortillas. Rabattre les côtés des tortillas sur le mélange et rouler pour complètement l'enfermer. Déposer les enchiladas dans le plat de cuisson, côté scellé à plat. Napper du reste de sauce barbecue et saupoudrer du reste du fromage. Cuire les enchiladas au centre du four jusqu'à ce que le fromage soit fondu et bouillonnant, environ 10 minutes. Garnir du reste de coriandre.",
+    "Note : ajouter une pointe de piment de Cayenne pour un mets plus piquant."
+  ]
+},
+{
+  "id": 12501,
+  "livreId": 56,
+  "titre": "Chaudrée crémeuse express",
+  "page": 49,
+  "categorie": "Soupe, Plat principal",
+  "ingredientPrincipal": "pommes de terre",
+  "image": "livres/056-inspires-prets-a-feter-fetes-2012/images/Chaudree-cremeuse49.jpeg",
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "375 ml (1½ tasse) de pommes de terre grelots, coupées en quatre",
+    "375 ml (1½ tasse) de lait",
+    "1 boîte (284 ml ou 10 oz) de soupe condensée Crème de céleri Compliments",
+    "1 feuille de laurier",
+    "375 ml (1½ tasse) de maïs en grains deux couleurs Compliments surgelé",
+    "1 boîte (142 g) de petites palourdes entières Compliments, égouttées (facultatif)",
+    "1 oignon vert, finement tranché",
+    "45 ml (3 c. à soupe) d'aneth Compliments frais haché",
+    "2 ml (½ c. à thé) de sel",
+    "Poivre noir, au goût"
+  ],
+  "preparation": [
+    "Dans une grande casserole d'eau, porter les pommes de terre à ébullition. Couvrir, baisser le feu et faire mijoter jusqu'à tendreté, environ 5 minutes. Les égoutter et les remettre dans la casserole. Incorporer le lait, la soupe, la feuille de laurier, le maïs et les palourdes, si désiré. Mijoter à feu moyen jusqu'à ce que la chaudrée soit chaude, 7 minutes. Incorporer l'oignon vert, l'aneth, le sel et le poivre.",
+    "Note : omettre les petites palourdes pour en faire un plat végétarien."
+  ]
+},
+{
+  "id": 12502,
+  "livreId": 56,
+  "titre": "Fricassée de saucisses, de pommes de terre, de chou vert frisé et de pommes",
+  "page": 50,
+  "categorie": "Plat principal",
+  "ingredientPrincipal": "saucisses",
+  "image": null,
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "500 g (1 lb) de saucisses italiennes douces ou piquantes Sensations par Compliments, coupées en deux sur la longueur",
+    "5 ml (1 c. à thé) d'huile de canola",
+    "1 pomme de terre jaune, pelée et finement tranchée en rondelles",
+    "125 ml (½ tasse) de jus de pomme brut",
+    "60 ml (¼ tasse) de thym Compliments frais effeuillé",
+    "15 ml (1 c. à soupe) de sauge Compliments fraîche hachée",
+    "1 pomme Cortland Compliments, évidée et coupée en quartiers fins",
+    "500 ml (2 tasses) de feuilles de chou vert frisé, parées et coupées en lanières"
+  ],
+  "preparation": [
+    "Dans une poêle antiadhésive, cuire les saucisses à feu moyen-vif 8 minutes, en les retournant une fois. Retirer de la poêle et réserver. Ajouter l'huile et les rondelles de pommes de terre à la poêle, et les cuire 8 minutes, en les retournant une fois. Ajouter le jus de pomme, le thym et la sauge, porter à ébullition, couvrir, baisser le feu et mijoter 2 minutes. Ajouter la pomme et la faire doucement revenir 4 minutes. Ajouter le chou et le faire doucement revenir 1 minute. Incorporer les saucisses au mélange et servir."
+  ]
+},
+{
+  "id": 12503,
+  "livreId": 56,
+  "titre": "Côtelettes de porc teriyaki à l'orange et aux bok choys",
+  "page": 50,
+  "categorie": "Plat principal, Porc",
+  "ingredientPrincipal": "porc",
+  "image": null,
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "30 ml (2 c. à soupe) de sauce soya 30 % moins de sel Compliments",
+    "30 ml (2 c. à soupe) de cassonade",
+    "15 ml (1 c. à soupe) de vinaigre de vin rouge",
+    "5 ml (1 c. à thé) d'aromate à l'ail rôti Sensations par Compliments",
+    "5 ml (1 c. à thé) d'aromate au gingembre Sensations par Compliments",
+    "1 orange, zestée et pressée",
+    "10 ml (2 c. à thé) d'huile de canola",
+    "4 côtelettes de milieu de longe désossées de porc Nagano",
+    "1 ml (¼ c. à thé) de poivre",
+    "1 poivron rouge, finement tranché",
+    "4 bok choys miniatures, coupés en quatre sur la longueur"
+  ],
+  "preparation": [
+    "Dans un petit bol, mélanger au fouet la sauce soya, la cassonade, le vinaigre, les aromates, et le zeste et le jus d'orange. Réserver. Dans une grande poêle, chauffer l'huile à feu moyen-vif. Poivrer les côtelettes de chaque côté et les cuire, en les retournant une fois, jusqu'à ce qu'elles soient dorées, environ 3 minutes par côté. Ajouter le mélange de sauce soya et retourner les côtelettes pour bien les enrober. Couvrir, baisser le feu et mijoter doucement, 2 minutes.",
+    "Retourner les côtelettes, ajouter le poivron dans la poêle et les bok choys sur les côtelettes, couvrir et cuire jusqu'à ce que le porc soit cuit et que les bok choys soient tombés, environ 5 minutes. Répartir le porc et les légumes dans 4 assiettes et les arroser de la sauce restant dans la poêle."
+  ]
+},
+{
+  "id": 12504,
+  "livreId": 56,
+  "titre": "Pilons de poulet aigre-doux et brocoli",
+  "page": 51,
+  "categorie": "Plat principal, Poulet",
+  "ingredientPrincipal": "poulet",
+  "image": null,
+  "favori": false,
+  "note": null,
+  "statut": null,
+  "source": null,
+  "ingredients": [
+    "75 ml (⅓ tasse) de vinaigre",
+    "60 ml (¼ tasse) de cassonade",
+    "60 ml (¼ tasse) de ketchup aux tomates Compliments",
+    "15 ml (1 c. à soupe) d'aromate au gingembre Sensations par Compliments",
+    "10 ml (2 c. à thé) de sauce soya 30 % moins de sel Compliments",
+    "15 ml (1 c. à soupe) d'huile de canola",
+    "8 pilons de poulet, sans peau",
+    "500 ml (2 tasses) de fleurons de brocoli"
+  ],
+  "preparation": [
+    "Dans un bol moyen, combiner le vinaigre, la cassonade, le ketchup, l'aromate au gingembre et la sauce soya. Dans une grande poêle, chauffer l'huile à feu moyen-vif. Cuire les pilons, en les retournant de temps à autre pour bien les dorer, 10 minutes. Baisser le feu à moyen et ajouter le mélange au vinaigre aux pilons en remuant pour bien les enrober. Couvrir et faire mijoter doucement, en les retournant une fois, 7 minutes. Ajouter le brocoli et poursuivre la cuisson jusqu'à ce que le poulet soit bien cuit, environ 5 minutes."
+  ]
+}
 ]
+
+
+
+  
