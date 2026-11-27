@@ -2508,7 +2508,7 @@
     ]
   },
   {
-    "id": 8779,
+    "id": 9377,
     "livreId": 42,
     "titre": "Cuisson du riz gluant parfait (Kao Niew)",
     "page": 234,
@@ -2538,7 +2538,3 @@
   }
 ]
   
-{"id": 8721, "livreId": 42, "titre": "Curry vert au jarret de bœuf braisé", "page": 96, "categorie": "Asiatique, Curry", "ingredientPrincipal": "Bœuf", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 8722, "livreId": 42, "titre": "\"Ceviche\" de bœuf à la citronnelle", "page": 140, "categorie": "Asiatique, Salade", "ingredientPrincipal": "Bœuf", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 8723, "livreId": 42, "titre": "Salade \"Waterfall\" au bœuf ou au porc grillé", "page": 146, "categorie": "Asiatique, Salade", "ingredientPrincipal": "Bœuf ou porc", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 8724, "livreId": 42, "titre": "Nouilles de riz sautées à la sauce soya et au brocoli chinois", "page": 158, "categorie": "Asiatique, Nouilles", "ingredientPrincipal": "Nouilles de riz", "image"
